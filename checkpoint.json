@@ -1,0 +1,542 @@
+{
+ "00000000001": {
+  "STATUS": "SKIPPED"
+ },
+ "00000000002": {
+  "STATUS": "SKIPPED"
+ },
+ "00000000003": {
+  "STATUS": "SKIPPED"
+ },
+ "00000000004": {
+  "STATUS": "SKIPPED"
+ },
+ "00000000005": {
+  "STATUS": "SKIPPED"
+ },
+ "00000000006": {
+  "STATUS": "SKIPPED"
+ },
+ "00000000007": {
+  "STATUS": "SKIPPED"
+ },
+ "00000000008": {
+  "STATUS": "SKIPPED"
+ },
+ "00000000009": {
+  "STATUS": "SKIPPED"
+ },
+ "00000000012": {
+  "STATUS": "SKIPPED"
+ },
+ "00000000013": {
+  "STATUS": "SKIPPED"
+ },
+ "00000000014": {
+  "STATUS": "SKIPPED"
+ },
+ "00000000015": {
+  "STATUS": "SKIPPED"
+ },
+ "00000000016": {
+  "STATUS": "SKIPPED"
+ },
+ "00000000017": {
+  "STATUS": "SKIPPED"
+ },
+ "00000000024": {
+  "STATUS": "SKIPPED"
+ },
+ "00000000025": {
+  "STATUS": "SKIPPED"
+ },
+ "00000000026": {
+  "STATUS": "SKIPPED"
+ },
+ "00000000027": {
+  "STATUS": "SKIPPED"
+ },
+ "00000000028": {
+  "STATUS": "SKIPPED"
+ },
+ "00000000029": {
+  "STATUS": "SKIPPED"
+ },
+ "00000004000": {
+  "STATUS": "SKIPPED"
+ },
+ "00003005856": {
+  "STATUS": "UNMATCHED"
+ },
+ "00004008417": {
+  "STATUS": "UNMATCHED"
+ },
+ "00004088300": {
+  "STATUS": "UNMATCHED"
+ },
+ "00005037537": {
+  "STATUS": "ERROR"
+ },
+ "00005096076": {
+  "STATUS": "UNMATCHED"
+ },
+ "00005098509": {
+  "STATUS": "UNMATCHED"
+ },
+ "00005907067": {
+  "STATUS": "UNMATCHED"
+ },
+ "00008005276": {
+  "STATUS": "UNMATCHED"
+ },
+ "00008017760": {
+  "STATUS": "UNMATCHED"
+ },
+ "00008076176": {
+  "STATUS": "UNMATCHED"
+ },
+ "00008097448": {
+  "STATUS": "UNMATCHED"
+ },
+ "00008960018": {
+  "STATUS": "UNMATCHED"
+ },
+ "00008960020": {
+  "STATUS": "UNMATCHED"
+ },
+ "00008960026": {
+  "STATUS": "UNMATCHED"
+ },
+ "00008960037": {
+  "STATUS": "UNMATCHED"
+ },
+ "00008960038": {
+  "STATUS": "UNMATCHED"
+ },
+ "00008960068": {
+  "STATUS": "UNMATCHED"
+ },
+ "00008960199": {
+  "STATUS": "UNMATCHED"
+ },
+ "00008960200": {
+  "STATUS": "UNMATCHED"
+ },
+ "00100340001": {
+  "STATUS": "UNMATCHED"
+ },
+ "00100340002": {
+  "STATUS": "UNMATCHED"
+ },
+ "00100340003": {
+  "STATUS": "UNMATCHED"
+ },
+ "00100340004": {
+  "STATUS": "UNMATCHED"
+ },
+ "00100340005": {
+  "STATUS": "UNMATCHED"
+ },
+ "000500253687": {
+  "STATUS": "UNMATCHED"
+ },
+ "00866000002": {
+  "STATUS": "UNMATCHED"
+ },
+ "00954200006": {
+  "STATUS": "ERROR"
+ },
+ "00954243997": {
+  "STATUS": "ERROR"
+ },
+ "00980000052": {
+  "STATUS": "ERROR"
+ },
+ "00980000055": {
+  "STATUS": "UNMATCHED"
+ },
+ "00980000071": {
+  "STATUS": "UNMATCHED"
+ },
+ "00980000744": {
+  "STATUS": "UNMATCHED"
+ },
+ "00980000761": {
+  "STATUS": "UNMATCHED"
+ },
+ "00980000763": {
+  "STATUS": "UNMATCHED"
+ },
+ "00980000767": {
+  "STATUS": "UNMATCHED"
+ },
+ "00980001012": {
+  "STATUS": "UNMATCHED"
+ },
+ "00980001021": {
+  "STATUS": "UNMATCHED"
+ },
+ "00980012049": {
+  "STATUS": "UNMATCHED"
+ },
+ "00980012301": {
+  "STATUS": "UNMATCHED"
+ },
+ "00980012401": {
+  "STATUS": "UNMATCHED"
+ },
+ "00980080005": {
+  "STATUS": "UNMATCHED"
+ },
+ "01030000298": {
+  "STATUS": "ERROR"
+ },
+ "01030000300": {
+  "STATUS": "ERROR"
+ },
+ "01030000301": {
+  "STATUS": "ERROR"
+ },
+ "01030000318": {
+  "STATUS": "ERROR"
+ },
+ "01030033364": {
+  "STATUS": "ERROR"
+ },
+ "01030033664": {
+  "FULL_NAME_FOUND": "Emerald Nuts Dry Roasted Almonds, 5 Oz, 5 Ounce",
+  "DESCRIPTION": "Crunchy, delicious almonds, double-roasted and seasoned to righteousness. The Nutologists at Emerald are working tirelessly to bring you the tastiest breakthroughs in the real of nut experience. No high fructose corn syrup.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "Emerald",
+  "SIZE": "",
+  "EAN": "0010300336648",
+  "STATUS": "MATCHED"
+ },
+ "01030053664": {
+  "FULL_NAME_FOUND": "Emerald Deluxe Mixed Nuts - 5 Ounce",
+  "DESCRIPTION": "When in mixed company, go deluxe! Grabbing a quick snack on the go? Seeking that nutty centerpiece for a party? The Nutologists at Emerald are working tirelessly to bring you the tastiest breakthroughs in the realm of nut experience. No high fructose corn syrup.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "Emerald",
+  "SIZE": "",
+  "EAN": "0010300536642",
+  "STATUS": "MATCHED"
+ },
+ "01030080893": {
+  "FULL_NAME_FOUND": "Emerald Nuts, Honey Glazed Almonds, 5.5 Ounce Resealable Bag",
+  "DESCRIPTION": "The Emerald Honey Glazed Almonds are a nutritious on-the-go snack suitable for all age groups. These sweet and crunchy almonds contain no artificial flavors, colors, or preservatives. Available in 5.5-ounce resealable bags, this bulk pack of Emerald glazed almonds will be ideal for school cafeterias, office pantries, and convenience stores.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "Emerald",
+  "SIZE": "",
+  "EAN": "0010300808930",
+  "STATUS": "MATCHED"
+ },
+ "01030080895": {
+  "FULL_NAME_FOUND": "Emerald Nuts, Salt & Pepper Cashews, 5 Oz Resealable Bag",
+  "DESCRIPTION": "At Emerald, we're nuts about providing you with high-quality and delicious nuts. A pinch of salt and a dash of pepper combined with the smooth, satisfying crunch of our cashews and you've got perfectly seasoned nutty bliss. With no artificial colors or flavors, they are the perfect for your salad, charcuterie board or snack, right out of the bag for health-conscious people. Unique and tasty seasoned cashews in a resealable size are great for snacking anytime! Emerald harvests only the tastiest, crunchiest, high quality nuts. Our unique seasoning and the distinct crunch of each nut makes for a truly satisfying snack. Whether you want a great-tasting snack or a treat you're proud to serve to your guests, you can count on the delicately flavored and thoughtfully crafted recipe of Emerald Nuts. Whatever the occasion, Emerald has the specific nut you are looking for.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "Emerald",
+  "SIZE": "",
+  "EAN": "0001030080895",
+  "STATUS": "MATCHED"
+ },
+ "01030093064": {
+  "FULL_NAME_FOUND": "Emerald Salty Sweet Mixed Nuts - 5.5 Ounce",
+  "DESCRIPTION": "Salty and Sweet: your two best friends. They each want to visit. Why choose? Just say yes to sweet and salty temptation. Exquisitely delicious; A glazed trio of peanuts, walnuts and pecans, plus roasted almonds and cashews, salted to perfection. These nuts come in a resealable bag so they stay fresh for later and are easy to take on the go. Emerald harvests only the tastiest, crunchiest, high quality nuts. Our secret is in our unique seasoning and distinct crunch that each nut provides. Whatever the occasion, Emerald has the specific nut you are looking for.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "Emerald",
+  "SIZE": "",
+  "EAN": "0010300930648",
+  "STATUS": "MATCHED"
+ },
+ "01030093364": {
+  "FULL_NAME_FOUND": "Emerald Nuts, Whole Cashews Roasted & Salted, 5 Oz Resealable Bag",
+  "DESCRIPTION": "The Emerald Roasted and Salted Whole Cashews are a nutritious grab-and-go snack suitable for all age groups. These whole cashews are in convenient, resealable bags to preserve freshness and lock in flavor. Enriched with protein, these gluten-free cashews contain no artificial preservatives, flavors, or colors. Available in 5-ounce packs, this bulk case of Emerald whole cashews will be great for office pantries, convenience stores, and retail stores.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "Emerald",
+  "SIZE": "",
+  "EAN": "0010300933649",
+  "STATUS": "MATCHED"
+ },
+ "01030093367": {
+  "FULL_NAME_FOUND": "Emerald Nuts Sriracha Cashews",
+  "DESCRIPTION": "Cashews that bite back! Hot pepper sauce, garlic and paprika combine for that fiery kick you crave. These nuts come in a resealable bag so they stay fresh for later and are easy to take on the go. Emerald harvests only the tastiest, crunchiest, high quality nuts. Our secret is in our unique seasoning and distinct crunch that each nut provides. Whatever the occasion, Emerald has the specific nut you are looking for.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "Emerald",
+  "SIZE": "",
+  "EAN": "0010300933670",
+  "STATUS": "MATCHED"
+ },
+ "01030093381": {
+  "FULL_NAME_FOUND": "Emerald Honey Glazed Cashews",
+  "DESCRIPTION": "Have you ever wondered why \"\"Honey\"\" is a term of endearment? Just take one bit of our sweet, crunchy Honey Glazed Cashews and you'll understand. What we're trying to say is, you're going to endear these. You're going to endear them so hard. These nuts come in a resealable bag so they stay fresh for later and are easy to take on the go. Emerald harvests only the tastiest, crunchiest, high quality nuts. Our secret is in our unique seasoning and distinct crunch that each nut provides. Whatever the occasion, Emerald has the specific nut you are looking for.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "Emerald",
+  "SIZE": "",
+  "EAN": "0010300933816",
+  "STATUS": "MATCHED"
+ },
+ "01070053014": {
+  "FULL_NAME_FOUND": "Jolly Rancher Misfits 2 In 1 Gummies 6.5 Oz Peg Bag",
+  "DESCRIPTION": "Two flavored gummies. Unique fruit character shapes. Recognizable branding. Double the Jolly Rancher fruit flavors is sure to have customers extra Jolly. Jolly Ranchers Misfits Gummies each feature an unexpected flavor combination. Included in the mix is Strawberry + Lemon, Blue Raspberry + Watermelon and Green Apple + Cherry. The playful gummy shapes add to the experience. The two-tone gummies are featured right on the brightly colored bag with recognizable Jolly Rancher branding inspiring customers to engage.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Jolly Rancher",
+  "SIZE": "",
+  "EAN": "0010700530141",
+  "STATUS": "MATCHED"
+ },
+ "01070055710": {
+  "FULL_NAME_FOUND": "Jolly Rancher Sour Gummies Candy Peg Bag - 1ct",
+  "DESCRIPTION": "Don't let their soft texture fool you—JOLLY RANCHER Gummies Sours pack a punch of untamed fruit flavor! Enjoy this sweet and sour treat anytime, anywhere. Flavors include green apple, blue raspberry, cherry, lemon, and watermelon.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Jolly Rancher",
+  "SIZE": "",
+  "EAN": "0010700557100",
+  "STATUS": "MATCHED"
+ },
+ "01070070230": {
+  "FULL_NAME_FOUND": "Jolly Rancher Original Hard Candy 7 Oz - Assorted Flavors",
+  "DESCRIPTION": "A mix of five fruity favorites for the whole family in just one bag of hard candy? You wouldn't have thought it possible if you didn't know JOLLY RANCHER candy. This convenient bag of individually wrapped fruit flavored hard candy will keep each delicious piece fresh until it's time for a new bag. Featuring blue raspberry, green apple, cherry, grape and watermelon flavors, JOLLY RANCHER original hard candy offers a combination of the undisputed classics you know and love. Keep this convenient bag with you on the go so you can share with friends, co-workers and family members throughout the day — but don't forget to save a few pieces of hard candy for yourself during all of that sharing! These fruit flavored candies make the perfect candy bowl display all year thanks to vibrant colors and attractive JOLLY RANCHER wrappers. They're also great treats for stuffing festive Christmas stockings, filling springtime Easter baskets, creating Valentine's Day party favors and passing out for Halloween trick-or-treat bags. If you want a small candy with a big taste to keep your taste buds busy during movie nights, lunch breaks and snack breaks, JOLLY RANCHER original fruit flavored hard candy is the treat for you.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Jolly Rancher",
+  "SIZE": "",
+  "EAN": "0010700702302",
+  "STATUS": "MATCHED"
+ },
+ "01070070262": {
+  "FULL_NAME_FOUND": "Jolly Rancher Gummies Original Flavors Peg Bag",
+  "DESCRIPTION": "The classic, bold fruit flavors you know and love in a soft and chewy gummy form. Each pack of JOLLY RANCHER Gummies Original Flavor includes green apple, blue raspberry, cherry, grape and watermelon.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Jolly Rancher",
+  "SIZE": "",
+  "EAN": "0010700702623",
+  "STATUS": "MATCHED"
+ },
+ "01070080722": {
+  "FULL_NAME_FOUND": "PayDay Peanut Caramel Candy Bar 1.85 Oz",
+  "DESCRIPTION": "Smile, its PAYDAY. A mouthful of peanuts and caramel is like hitting the jackpot - sweet, salty and straight up satisfying.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "PayDay",
+  "SIZE": "",
+  "EAN": "0010700807229",
+  "STATUS": "MATCHED"
+ },
+ "01070080727": {
+  "FULL_NAME_FOUND": "PayDay Peanut And Caramel King Size Candy, Gluten Free, 3.4 Oz, Bar",
+  "DESCRIPTION": "PAYDAY king-size peanut and caramel candy bars are many-bite versions of the PAYDAY treats you already know and love. This king-size candy bar is made with crunchy peanuts and creamy caramel for a taste that's sweet, salty and undeniably satisfying. Peanut candy lovers are sure to enjoy this bar that keeps on giving. King-size PAYDAY candy bars are perfect for filling candy displays during any holidays, from Valentine's Day and Easter to Halloween and Christmas. That said, a few of these peanut bars can liven up any party or get-together of the year. Each bar is wrapped for easy storing and snacking on the go. Looking for something new in your baking life? Try including a few of these bars in any caramel- or peanut-based dessert. Put them on top of your homemade ice cream sundaes too. Finally, please the movie night crowd by sharing a snack they may just like more than the film — just don't forget to save a few for yourself!",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "PayDay",
+  "SIZE": "",
+  "EAN": "0010700807274",
+  "STATUS": "MATCHED"
+ },
+ "001087364614": {
+  "FULL_NAME_FOUND": "Axe Mens Bdy Spray Black",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Personal Care",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0010873646144",
+  "STATUS": "MATCHED"
+ },
+ "001087364669": {
+  "FULL_NAME_FOUND": "Axe Musk Body Spray",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Perfume & Cologne",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0010873646694",
+  "STATUS": "MATCHED"
+ },
+ "001087364690": {
+  "STATUS": "UNMATCHED"
+ },
+ "001087386623": {
+  "STATUS": "UNMATCHED"
+ },
+ "01090000015": {
+  "FULL_NAME_FOUND": "Reynolds Wrap - Standard Aluminum Foil Roll, 12\" X 75 Ft, Silver, 35 Rolls/Carton",
+  "DESCRIPTION": "A trusted kitchen helper since 1947, Reynolds Wrap Aluminum Foil saves time with cooking and cleanup. This versatile aluminum foil is great for lining pans, covering dishes, making packets for the grill and wrapping foods for storage and transport. Reynolds Wrap also keeps your food deliciously moist and flavorful during cooking without a lot of extra effort or special ingredients.",
+  "CATEGORY": "Foil",
+  "BRAND": "Reynolds",
+  "SIZE": "",
+  "EAN": "0010900000154",
+  "STATUS": "MATCHED"
+ },
+ "01111103552": {
+  "FULL_NAME_FOUND": "Dove Deep Moisture Nourishing Body Wash 23 Ounce",
+  "DESCRIPTION": "The Dove Deep Moisture Body Wash with 24-Hour Renewing MicroMoisture is a nourishing cleanser designed to provide deep hydration and long-lasting softness.",
+  "CATEGORY": "Body Wash",
+  "BRAND": "Dove",
+  "SIZE": "",
+  "EAN": "0011111035522",
+  "STATUS": "MATCHED"
+ },
+ "01121000001": {
+  "FULL_NAME_FOUND": "Tabasco Brand Original Red Pepper Hot Sauce, Medium Heat, Glass Bottle, Classic & Versatile Flavor, Three Simple Ingredients, Great For Dips, Tacos, Eggs, Pizza, Oysters & More, 2 Fl Oz",
+  "DESCRIPTION": "This simple recipe produces a unique pungent flavor that works with just about any cuisine. Gluten free, with zero calories and less sodium than other pepper sauces, Original Red is sold in over 180 countries and territories worldwide.",
+  "CATEGORY": "Condiments & Sauces",
+  "BRAND": "Tabasco",
+  "SIZE": "",
+  "EAN": "0011210000018",
+  "STATUS": "MATCHED"
+ },
+ "01164203001": {
+  "FULL_NAME_FOUND": "C Howard's Scented Gum",
+  "DESCRIPTION": "This gum is another of those,\" I thought they stopped making that years ago\" moments. C Howard's Scented gum is a unique, refreshing gum from the makers of Violet Mints - perfect for after eating or drinking.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "C Howard's",
+  "SIZE": "",
+  "EAN": "0011642030010",
+  "STATUS": "MATCHED"
+ },
+ "01164203101": {
+  "FULL_NAME_FOUND": "Choward's Violet Mints",
+  "DESCRIPTION": "Choward's Violet Mints have a floral flavor and fragrance. It doesn't get much more retro than this!",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Choward's",
+  "SIZE": "",
+  "EAN": "0011642031017",
+  "STATUS": "MATCHED"
+ },
+ "01164203301": {
+  "FULL_NAME_FOUND": "Choward's C Howard’s Peppermint Mints",
+  "DESCRIPTION": "Choward's are an all-American peppermint that's been around since the 1930s, when Charles Howard himself would sell them on the streets of Manhattan. Today, they're still square and made with real peppermint. Our counter display box celebrates the old-fashioned appeal with the original logo and design. 12/24ct 288pcs/case.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Choward's",
+  "SIZE": "",
+  "EAN": "0011642033011",
+  "STATUS": "MATCHED"
+ },
+ "01164203501": {
+  "FULL_NAME_FOUND": "Choward's C Howard's Spearmint Mints - 24ct",
+  "DESCRIPTION": "Choward's Spearmints have a strong fragrance with a zestful and long lasting flavor. Nostalgic, vintage, retro, old fashioned candy as good as it gets.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Choward's",
+  "SIZE": "",
+  "EAN": "0011642035015",
+  "STATUS": "MATCHED"
+ },
+ "01200000085": {
+  "FULL_NAME_FOUND": "Mountain Dew Soda Citrus 12 Fl Oz",
+  "DESCRIPTION": "Pack of twenty four, 12-ounce, total of 288-ounce. Exhilarates and quenches with its one of a kind great taste. Is a citrus-flavored carbonated soft drink.",
+  "CATEGORY": "Soda",
+  "BRAND": "Mountain Dew",
+  "SIZE": "355 mL",
+  "EAN": "0012000000850",
+  "STATUS": "MATCHED"
+ },
+ "01200000108": {
+  "FULL_NAME_FOUND": "Aquafina Drinking Water 16.9 Oz",
+  "DESCRIPTION": "What’s the secret for Aquafina's perfectly pure tasting water? Our rigorous purification system. It takes out the stuff other bottled waters leave in.",
+  "CATEGORY": "Water",
+  "BRAND": "Aquafina",
+  "SIZE": "500 mL",
+  "EAN": "0012000001086",
+  "STATUS": "MATCHED"
+ },
+ "01200000113": {
+  "FULL_NAME_FOUND": "Pepsi Soda Cola 2 L",
+  "DESCRIPTION": "Pepsi the bold, refreshing, robust cola. Weâve got the flavor thatâs bold, bubbly, and exciting across the board with this Soda Pop! Perfect for parties, meals, and anywhere you need to make a big impression. This pack is perfect to share or take on the go anytime, anywhere with any meal or function. Enjoy the refreshing bubbly taste right out of the can, or over ice!",
+  "CATEGORY": "Soda",
+  "BRAND": "Pepsi",
+  "SIZE": "2000 mL",
+  "EAN": "0012000001130",
+  "STATUS": "MATCHED"
+ },
+ "01200000129": {
+  "FULL_NAME_FOUND": "Pepsi Cola Soda - 20 Fl Oz Bottle",
+  "DESCRIPTION": "Enjoy an ice cold Pepsi, the bold, refreshing cola. Pepsi is the official soft drink of the National Football League, Major League Baseball, and cola lovers everywhere. Pepsi was born in New Bern, NC in 1898 and is still bottled in the USA today. Perfect for parties, meals, and anywhere you need to make a big impression. This 20oz bottle is perfect to take on the go for refreshing Pepsi anytime, anywhere. Enjoy the refreshing cola taste right out of the can, over ice, or with a twist of lemon or lime. For a classic treat, try serving with a scoop of vanilla ice cream! .",
+  "CATEGORY": "Beverages",
+  "BRAND": "Pepsi",
+  "SIZE": "591 mL",
+  "EAN": "0012000001291",
+  "STATUS": "MATCHED"
+ },
+ "01200000131": {
+  "FULL_NAME_FOUND": "Mountain Dew Citrus Soda - 20 Fl Oz Bottle",
+  "DESCRIPTION": "Carbonated beverage exhilarates and quenches with a refreshingly great taste. Convenient bottle features a screw-on cap that's excellent while you're on-the-go. Caffeinated recipe provides a perfect boost of energy.",
+  "CATEGORY": "Soda",
+  "BRAND": "Mountain Dew",
+  "SIZE": "591 mL",
+  "EAN": "0012000001314",
+  "STATUS": "MATCHED"
+ },
+ "01200000177": {
+  "FULL_NAME_FOUND": "Starbucks Coffee Drink, Premium, Espresso + Cream - 6.5 Fl Oz",
+  "DESCRIPTION": "A Premium Ready-to-Drink Coffee Beverage. Rich, bold Starbucks espresso, just the right amount of cream and a double dose of “done and done.”.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Starbucks",
+  "SIZE": "192 mL",
+  "EAN": "0012000001772",
+  "STATUS": "MATCHED"
+ },
+ "01200000180": {
+  "FULL_NAME_FOUND": "Pelican StarBucks Frappuccino Coffee",
+  "DESCRIPTION": "This Starbucks® coffee drink offers the bold, delicious taste of coffee with the rich flavor you know and love. This indulgence is proof that you can enjoy a little Starbucks® wherever you may be.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Pelican",
+  "SIZE": "",
+  "EAN": "0001200000180",
+  "STATUS": "MATCHED"
+ },
+ "01200000224": {
+  "FULL_NAME_FOUND": "Mountain Dew Mtn Code Red Soda Cherry Flavor 20 Fl Oz",
+  "DESCRIPTION": "Mountain Dew Code Red has all of the great taste and exhilaration of Mountain Dew, with a kick of cherry. Chill hard. Refresh harder. This red magic will quench your thirst every day of the week. With crisp, bold flavor, it is the perfect drink to bring chuggable refreshment to your next party or gathering. Can, bottle, or glass, it is always a good time for a Dew. Mountain Dew's original formula was invented in 1940 by Tennessee beverage bottlers Barney and Ally Hartman. That original recipe has led to dozens of delicious variations, including Baja Blast, Code Red, and more. Keep on doing you with Mtn Dew.",
+  "CATEGORY": "Soda",
+  "BRAND": "Mountain Dew",
+  "SIZE": "591 mL",
+  "EAN": "0012000002243",
+  "STATUS": "MATCHED"
+ },
+ "01200000230": {
+  "FULL_NAME_FOUND": "Pepsi Cola Soda Pop, 2 Liter Bottle",
+  "DESCRIPTION": "Enjoy an ice cold Pepsi, the bold, refreshing cola. Pepsi is the official soft drink of the National Football League, Major League Baseball, and cola lovers everywhere. Pepsi was born in New Bern, NC in 1898 and is still bottled in the USA today. Perfect for parties, meals, and anywhere you need to make a big impression. This 2L bottle is perfect for sharing refreshing Pepsi anytime, anywhere. Enjoy the refreshing cola taste right out of the can, over ice, or with a twist of lemon or lime. For a classic treat, try serving with a scoop of vanilla ice cream! .",
+  "CATEGORY": "Beverages",
+  "BRAND": "Pepsi",
+  "SIZE": "1999 mL",
+  "EAN": "0012000002304",
+  "STATUS": "MATCHED"
+ },
+ "01200000294": {
+  "FULL_NAME_FOUND": "Pepsi Cola Soda 1l Bottle",
+  "DESCRIPTION": "Pepsi Cola is a refreshing carbonated beverage with a bold cola flavor. Perfect for quenching your thirst any time of the day.",
+  "CATEGORY": "Soda",
+  "BRAND": "Pepsi",
+  "SIZE": "1000 mL",
+  "EAN": "0012000002946",
+  "STATUS": "MATCHED"
+ },
+ "01200000452": {
+  "FULL_NAME_FOUND": "Starbucks Frappuccino Mocha Coffee Drink - 13.7 Fl Oz Glass Bottle",
+  "DESCRIPTION": "Starbucks coffee drinks offer the bold, delicious taste of coffee with the rich flavors you know and love. This indulgence is proof that you can enjoy a little Starbucks wherever you may be.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Starbucks",
+  "SIZE": "405 mL",
+  "EAN": "0012000004520",
+  "STATUS": "MATCHED"
+ },
+ "01200000559": {
+  "FULL_NAME_FOUND": "Pepsi Cola Wild Cherry Soda Pop 20 Fl Oz Bottle",
+  "DESCRIPTION": "Enjoy an ice cold Pepsi, the bold, refreshing cola. Pepsi was born in New Bern, NC in 1898 and is still bottled in the USA today. Perfect for parties, meals, and anywhere you need to make a big impression. Wild Cherry Pepsi Cola has all of the smooth cola flavor you love with a twist of sweet Wild Cherry. This 20oz bottle is perfect to take on the go. Enjoy the refreshing cola taste right out of the can, over ice, or with a twist of lemon or lime. For a classic treat, try serving with a scoop of vanilla ice cream! .",
+  "CATEGORY": "Soda",
+  "BRAND": "Pepsi",
+  "SIZE": "591 mL",
+  "EAN": "0012000005596",
+  "STATUS": "MATCHED"
+ },
+ "01200000568": {
+  "FULL_NAME_FOUND": "Pepsi Cola 12 Fl Oz Can",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Pepsi",
+  "SIZE": "355 mL",
+  "EAN": "0012000005688",
+  "STATUS": "MATCHED"
+ },
+ "01200000649": {
+  "STATUS": "ERROR"
+ },
+ "01200000729": {
+  "STATUS": "ERROR"
+ }
+}

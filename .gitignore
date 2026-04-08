@@ -1,5 +1,3 @@
-input.xlsx
-checkpoint.json
 sku_scanner.log
 SKU_Lookup_Results_*.xlsx
 __pycache__/

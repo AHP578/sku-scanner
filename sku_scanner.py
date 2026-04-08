@@ -2,8 +2,15 @@
 """
 SKU Scanner — Go-UPC Barcode Lookup Tool
 Looks up product information for UPC barcodes from an Excel POS export.
+
+Usage:
+    python sku_scanner.py                  # Run all remaining SKUs (local mode)
+    python sku_scanner.py --batch 30       # Process 30 SKUs then stop
+    python sku_scanner.py --output-only    # Generate Excel from checkpoint (no lookups)
+    python sku_scanner.py --status         # Show progress summary
 """
 
+import argparse
 import json
 import logging
 import os
@@ -22,12 +29,12 @@ from bs4 import BeautifulSoup
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 INPUT_FILE = os.path.join(SCRIPT_DIR, "input.xlsx")
 OUTPUT_DIR = SCRIPT_DIR
-CHECKPOINT_FILE = os.path.join(OUTPUT_DIR, "checkpoint.json")
-LOG_FILE = os.path.join(OUTPUT_DIR, "sku_scanner.log")
+CHECKPOINT_FILE = os.path.join(SCRIPT_DIR, "checkpoint.json")
+LOG_FILE = os.path.join(SCRIPT_DIR, "sku_scanner.log")
+LOCK_FILE = os.path.join(SCRIPT_DIR, "running.lock")
 
-REQUEST_DELAY = 45          # seconds between requests (increase if getting 429s)
+REQUEST_DELAY = 45         # seconds between requests (increase if getting 429s)
 MAX_RETRIES = 5            # retry on network errors
-CHECKPOINT_INTERVAL = 100  # save checkpoint every N rows
 INTERNAL_CODE_PREFIX = "0000000"  # store-internal SKU prefix to skip
 
 GOUPC_URL = "https://go-upc.com/search?q={barcode}"
@@ -69,12 +76,10 @@ def parse_product_page(soup: BeautifulSoup) -> dict:
         "EAN": "",
     }
 
-    # Product name — <h1 class="product-name">
     h1 = soup.find("h1", class_="product-name")
     if h1:
         result["FULL_NAME_FOUND"] = h1.get_text(strip=True)
 
-    # Table with EAN, UPC, Brand, Category
     for row in soup.find_all("tr"):
         cells = row.find_all("td")
         if len(cells) >= 2:
@@ -87,14 +92,12 @@ def parse_product_page(soup: BeautifulSoup) -> dict:
             elif label == "ean":
                 result["EAN"] = value
 
-    # Structured data badges — category and size/volume
     structured = soup.find("div", class_="structured-data")
     if structured:
         size_badge = structured.find("span", class_="item-details")
         if size_badge:
             result["SIZE"] = size_badge.get_text(strip=True)
 
-    # Description — text after <h2>Description</h2>
     for h2 in soup.find_all("h2"):
         if "description" in h2.get_text(strip=True).lower():
             desc_sibling = h2.find_next_sibling()
@@ -152,7 +155,6 @@ def lookup_upc(barcode: str) -> dict:
 
             soup = BeautifulSoup(resp.text, "html.parser")
 
-            # Check if product was actually found
             product_name = soup.find("h1", class_="product-name")
             if not product_name:
                 log.info(f"  {barcode} -> UNMATCHED (no product name in response)")
@@ -196,82 +198,11 @@ def save_checkpoint(data: dict):
         json.dump(data, f, ensure_ascii=False, indent=1)
 
 
-# ─── Main ────────────────────────────────────────────────────────────────────
+# ─── Output ──────────────────────────────────────────────────────────────────
 
 
-def main():
-    log.info("=" * 60)
-    log.info("SKU Scanner starting")
-    log.info(f"Input: {INPUT_FILE}")
-    log.info("=" * 60)
-
-    # Load input
-    df = pd.read_excel(INPUT_FILE, dtype={"Scan code": str})
-    total = len(df)
-    log.info(f"Loaded {total} rows from input file")
-
-    # Load checkpoint
-    checkpoint = load_checkpoint()
-
-    # Counters
-    matched = sum(1 for v in checkpoint.values() if v.get("STATUS") == "MATCHED")
-    unmatched = sum(1 for v in checkpoint.values() if v.get("STATUS") == "UNMATCHED")
-    errors = sum(1 for v in checkpoint.values() if v.get("STATUS") == "ERROR")
-    skipped = sum(1 for v in checkpoint.values() if v.get("STATUS") == "SKIPPED")
-
-    # Save checkpoint on Ctrl+C so progress is never lost
-    def on_interrupt(sig, frame):
-        print("\n\nInterrupted! Saving checkpoint...")
-        save_checkpoint(checkpoint)
-        log.info(f"Checkpoint saved on interrupt ({len(checkpoint)} entries)")
-        sys.exit(0)
-
-    signal.signal(signal.SIGINT, on_interrupt)
-
-    # Process each row
-    for idx, row in df.iterrows():
-        barcode = str(row["Scan code"]).strip()
-        current = idx + 1
-
-        # Skip if already in checkpoint
-        if barcode in checkpoint:
-            continue
-
-        print(f"\rProcessing {current} of {total}...", end="", flush=True)
-
-        # Skip internal codes
-        if barcode.startswith(INTERNAL_CODE_PREFIX):
-            result = {"STATUS": "SKIPPED"}
-            log.info(f"  {barcode} -> SKIPPED (internal code)")
-            checkpoint[barcode] = result
-            skipped += 1
-            continue
-
-        # Look up on Go-UPC
-        result = lookup_upc(barcode)
-        checkpoint[barcode] = result
-
-        if result["STATUS"] == "MATCHED":
-            matched += 1
-        elif result["STATUS"] == "UNMATCHED":
-            unmatched += 1
-        else:
-            errors += 1
-
-        # Save checkpoint after every lookup
-        save_checkpoint(checkpoint)
-
-        # Delay between requests with random jitter
-        time.sleep(REQUEST_DELAY + random.uniform(0, 10))
-
-    # Final checkpoint save
-    save_checkpoint(checkpoint)
-    print()  # newline after progress counter
-
-    # ─── Build output ────────────────────────────────────────────────────
-
-    log.info("Building output file...")
-
+def build_output(df: pd.DataFrame, checkpoint: dict) -> str:
+    """Build the output Excel file from the dataframe and checkpoint. Returns file path."""
     new_cols = {
         "ORIGINAL_NAME": [],
         "FULL_NAME_FOUND": [],
@@ -286,7 +217,7 @@ def main():
 
     for _, row in df.iterrows():
         barcode = str(row["Scan code"]).strip()
-        result = checkpoint.get(barcode, {"STATUS": "ERROR"})
+        result = checkpoint.get(barcode, {"STATUS": "PENDING"})
 
         new_cols["ORIGINAL_NAME"].append(row["Description"])
         new_cols["FULL_NAME_FOUND"].append(result.get("FULL_NAME_FOUND", ""))
@@ -295,8 +226,8 @@ def main():
         new_cols["BRAND"].append(result.get("BRAND", ""))
         new_cols["SIZE"].append(result.get("SIZE", ""))
         new_cols["EAN"].append(result.get("EAN", ""))
-        new_cols["SOURCE"].append("GoUPC" if result["STATUS"] == "MATCHED" else "")
-        new_cols["STATUS"].append(result["STATUS"])
+        new_cols["SOURCE"].append("GoUPC" if result.get("STATUS") == "MATCHED" else "")
+        new_cols["STATUS"].append(result.get("STATUS", "PENDING"))
 
     for col_name, values in new_cols.items():
         df[col_name] = values
@@ -304,7 +235,6 @@ def main():
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     output_file = os.path.join(OUTPUT_DIR, f"SKU_Lookup_Results_{timestamp}.xlsx")
 
-    # Write with openpyxl to preserve leading zeros on numeric-looking text columns
     from openpyxl import Workbook
     from openpyxl.utils.dataframe import dataframe_to_rows
 
@@ -319,22 +249,146 @@ def main():
             if r_idx > 1 and c_idx in text_col_indices and value is not None:
                 cell.number_format = "@"
     wb.save(output_file)
-    log.info(f"Output saved to: {output_file}")
+    return output_file
 
-    # ─── Summary ─────────────────────────────────────────────────────────
+
+def print_status(checkpoint: dict, total: int):
+    """Print current progress summary."""
+    matched = sum(1 for v in checkpoint.values() if v.get("STATUS") == "MATCHED")
+    unmatched = sum(1 for v in checkpoint.values() if v.get("STATUS") == "UNMATCHED")
+    errors = sum(1 for v in checkpoint.values() if v.get("STATUS") == "ERROR")
+    skipped = sum(1 for v in checkpoint.values() if v.get("STATUS") == "SKIPPED")
+    done = matched + unmatched + errors + skipped
+    remaining = total - done
 
     print("\n" + "=" * 50)
-    print("  SKU SCANNER — FINAL SUMMARY")
+    print("  SKU SCANNER — STATUS")
     print("=" * 50)
-    print(f"  Total SKUs processed: {total}")
-    print(f"  Matched:              {matched}")
-    print(f"  Unmatched:            {unmatched}")
-    print(f"  Errors:               {errors}")
-    print(f"  Skipped (internal):   {skipped}")
-    print(f"  Output file:          {output_file}")
+    print(f"  Total SKUs:    {total}")
+    print(f"  Completed:     {done}")
+    print(f"    Matched:     {matched}")
+    print(f"    Unmatched:   {unmatched}")
+    print(f"    Errors:      {errors}")
+    print(f"    Skipped:     {skipped}")
+    print(f"  Remaining:     {remaining}")
+    if remaining > 0:
+        est_hours = (remaining * 50) / 3600
+        print(f"  Est. time left: ~{est_hours:.1f} hours (at 50s/SKU)")
     print("=" * 50)
 
-    log.info(f"Done. Matched={matched}, Unmatched={unmatched}, Errors={errors}, Skipped={skipped}")
+
+# ─── Main ────────────────────────────────────────────────────────────────────
+
+
+def main():
+    parser = argparse.ArgumentParser(description="SKU Scanner — Go-UPC Barcode Lookup")
+    parser.add_argument("--batch", type=int, default=0,
+                        help="Process N SKUs then stop (0 = unlimited)")
+    parser.add_argument("--output-only", action="store_true",
+                        help="Generate Excel from checkpoint without doing lookups")
+    parser.add_argument("--status", action="store_true",
+                        help="Show progress summary and exit")
+    args = parser.parse_args()
+
+    # Load input
+    df = pd.read_excel(INPUT_FILE, dtype={"Scan code": str})
+    total = len(df)
+
+    # Load checkpoint
+    checkpoint = load_checkpoint()
+
+    # ─── Status only ─────────────────────────────────────────────────────
+    if args.status:
+        print_status(checkpoint, total)
+        return
+
+    # ─── Output only ─────────────────────────────────────────────────────
+    if args.output_only:
+        log.info("Output-only mode: generating Excel from checkpoint...")
+        output_file = build_output(df.copy(), checkpoint)
+        print(f"\nOutput saved to: {output_file}")
+        print_status(checkpoint, total)
+        return
+
+    # ─── Lookup mode ─────────────────────────────────────────────────────
+    log.info("=" * 60)
+    log.info("SKU Scanner starting")
+    log.info(f"Input: {INPUT_FILE}")
+    if args.batch:
+        log.info(f"Batch mode: processing up to {args.batch} SKUs")
+    log.info("=" * 60)
+
+    # Counters
+    matched = sum(1 for v in checkpoint.values() if v.get("STATUS") == "MATCHED")
+    unmatched = sum(1 for v in checkpoint.values() if v.get("STATUS") == "UNMATCHED")
+    errors = sum(1 for v in checkpoint.values() if v.get("STATUS") == "ERROR")
+    skipped = sum(1 for v in checkpoint.values() if v.get("STATUS") == "SKIPPED")
+    lookups_this_run = 0
+
+    # Save checkpoint on Ctrl+C so progress is never lost
+    def on_interrupt(sig, frame):
+        print("\n\nInterrupted! Saving checkpoint...")
+        save_checkpoint(checkpoint)
+        log.info(f"Checkpoint saved on interrupt ({len(checkpoint)} entries)")
+        print_status(checkpoint, total)
+        sys.exit(0)
+
+    signal.signal(signal.SIGINT, on_interrupt)
+
+    # Process each row
+    for idx, row in df.iterrows():
+        barcode = str(row["Scan code"]).strip()
+        current = idx + 1
+
+        # Check batch limit
+        if args.batch and lookups_this_run >= args.batch:
+            log.info(f"Batch limit reached ({args.batch} SKUs)")
+            break
+
+        # Skip if already in checkpoint
+        if barcode in checkpoint:
+            continue
+
+        print(f"\rProcessing {current} of {total} (batch: {lookups_this_run + 1})...", end="", flush=True)
+
+        # Skip internal codes
+        if barcode.startswith(INTERNAL_CODE_PREFIX):
+            result = {"STATUS": "SKIPPED"}
+            log.info(f"  {barcode} -> SKIPPED (internal code)")
+            checkpoint[barcode] = result
+            skipped += 1
+            save_checkpoint(checkpoint)
+            continue
+
+        # Look up on Go-UPC
+        result = lookup_upc(barcode)
+        checkpoint[barcode] = result
+        lookups_this_run += 1
+
+        if result["STATUS"] == "MATCHED":
+            matched += 1
+        elif result["STATUS"] == "UNMATCHED":
+            unmatched += 1
+        else:
+            errors += 1
+
+        # Save checkpoint after every lookup
+        save_checkpoint(checkpoint)
+
+        # Delay between requests with random jitter
+        time.sleep(REQUEST_DELAY + random.uniform(0, 10))
+
+    print()  # newline after progress counter
+
+    # Check if all done
+    done = matched + unmatched + errors + skipped
+    if done >= total:
+        log.info("All SKUs processed! Generating final output...")
+        output_file = build_output(df.copy(), checkpoint)
+        log.info(f"Output saved to: {output_file}")
+
+    print_status(checkpoint, total)
+    log.info(f"Run complete. Lookups this run: {lookups_this_run}")
 
 
 if __name__ == "__main__":

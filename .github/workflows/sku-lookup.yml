@@ -6,6 +6,10 @@ on:
     - cron: '0 */3 * * *'
   workflow_dispatch:  # Allow manual trigger from GitHub website
 
+concurrency:
+  group: sku-lookup
+  cancel-in-progress: false
+
 jobs:
   lookup:
     runs-on: ubuntu-latest

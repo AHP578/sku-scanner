@@ -34,10 +34,10 @@ LOG_FILE = os.path.join(SCRIPT_DIR, "sku_scanner.log")
 LOCK_FILE = os.path.join(SCRIPT_DIR, "running.lock")
 
 REQUEST_DELAY = 45         # seconds between requests (increase if getting 429s)
-MAX_RETRIES = 5            # retry on network errors
+MAX_RETRIES = 3            # retry on network errors
 INTERNAL_CODE_PREFIX = "0000000"  # store-internal SKU prefix to skip
 
-RATE_LIMIT_STRIKES = 3     # consecutive 429s before pausing
+RATE_LIMIT_STRIKES = 1     # consecutive 429s before pausing
 RATE_LIMIT_COOLDOWN = 2    # hours to wait after hitting rate limit wall
 
 GOUPC_URL = "https://go-upc.com/search?q={barcode}"

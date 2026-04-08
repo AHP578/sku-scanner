@@ -291,6 +291,8 @@ def main():
                         help="Generate Excel from checkpoint without doing lookups")
     parser.add_argument("--status", action="store_true",
                         help="Show progress summary and exit")
+    parser.add_argument("--git-push-every", type=int, default=0,
+                        help="Git commit+push checkpoint every N lookups (for CI use)")
     args = parser.parse_args()
 
     # Load input
@@ -395,6 +397,11 @@ def main():
 
             # Save checkpoint after every lookup
             save_checkpoint(checkpoint)
+
+            # Git push checkpoint periodically (for CI)
+            if args.git_push_every and lookups_this_run % args.git_push_every == 0:
+                log.info(f"  Pushing checkpoint to git ({lookups_this_run} lookups)...")
+                os.system('git add checkpoint.json && git commit -m "Auto: checkpoint update" --quiet && git push --quiet')
 
             # Delay between requests with random jitter
             time.sleep(REQUEST_DELAY + random.uniform(0, 10))

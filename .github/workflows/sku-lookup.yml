@@ -44,16 +44,20 @@ jobs:
         if: steps.lock_check.outputs.locked == 'false'
         run: pip install requests beautifulsoup4 pandas openpyxl
 
-      - name: Run SKU Scanner (until rate limited)
-        if: steps.lock_check.outputs.locked == 'false'
-        timeout-minutes: 300
-        run: python sku_scanner.py
-
-      - name: Commit checkpoint
+      - name: Configure git
         if: steps.lock_check.outputs.locked == 'false'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Run SKU Scanner (until rate limited)
+        if: steps.lock_check.outputs.locked == 'false'
+        timeout-minutes: 300
+        run: python sku_scanner.py --git-push-every 10
+
+      - name: Final checkpoint push
+        if: steps.lock_check.outputs.locked == 'false'
+        run: |
           git add checkpoint.json
-          git diff --cached --quiet || git commit -m "Auto: checkpoint update (GitHub Actions batch)"
+          git diff --cached --quiet || git commit -m "Auto: final checkpoint update"
           git push

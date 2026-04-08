@@ -37,6 +37,9 @@ REQUEST_DELAY = 45         # seconds between requests (increase if getting 429s)
 MAX_RETRIES = 5            # retry on network errors
 INTERNAL_CODE_PREFIX = "0000000"  # store-internal SKU prefix to skip
 
+RATE_LIMIT_STRIKES = 3     # consecutive 429s before pausing
+RATE_LIMIT_COOLDOWN = 2    # hours to wait after hitting rate limit wall
+
 GOUPC_URL = "https://go-upc.com/search?q={barcode}"
 
 USER_AGENTS = [
@@ -144,7 +147,7 @@ def lookup_upc(barcode: str) -> dict:
                 if attempt < MAX_RETRIES:
                     time.sleep(wait)
                     continue
-                return {"STATUS": "ERROR"}
+                return {"STATUS": "RATE_LIMITED"}
 
             if resp.status_code != 200:
                 log.warning(f"  {barcode} -> HTTP {resp.status_code} (attempt {attempt}/{MAX_RETRIES})")
@@ -324,6 +327,7 @@ def main():
     errors = sum(1 for v in checkpoint.values() if v.get("STATUS") == "ERROR")
     skipped = sum(1 for v in checkpoint.values() if v.get("STATUS") == "SKIPPED")
     lookups_this_run = 0
+    consecutive_rate_limits = 0
 
     # Save checkpoint on Ctrl+C so progress is never lost
     def on_interrupt(sig, frame):
@@ -335,48 +339,91 @@ def main():
 
     signal.signal(signal.SIGINT, on_interrupt)
 
-    # Process each row
-    for idx, row in df.iterrows():
-        barcode = str(row["Scan code"]).strip()
-        current = idx + 1
+    # Keep looping until all done (with cooldowns on rate limits)
+    while True:
+        hit_rate_wall = False
 
-        # Check batch limit
-        if args.batch and lookups_this_run >= args.batch:
-            log.info(f"Batch limit reached ({args.batch} SKUs)")
+        for idx, row in df.iterrows():
+            barcode = str(row["Scan code"]).strip()
+            current = idx + 1
+
+            # Check batch limit
+            if args.batch and lookups_this_run >= args.batch:
+                log.info(f"Batch limit reached ({args.batch} SKUs)")
+                hit_rate_wall = True  # exit the while loop too
+                break
+
+            # Skip if already in checkpoint
+            if barcode in checkpoint:
+                continue
+
+            print(f"\rProcessing {current} of {total} (this run: {lookups_this_run + 1})...", end="", flush=True)
+
+            # Skip internal codes
+            if barcode.startswith(INTERNAL_CODE_PREFIX):
+                result = {"STATUS": "SKIPPED"}
+                log.info(f"  {barcode} -> SKIPPED (internal code)")
+                checkpoint[barcode] = result
+                skipped += 1
+                save_checkpoint(checkpoint)
+                continue
+
+            # Look up on Go-UPC
+            result = lookup_upc(barcode)
+
+            # Handle rate limiting — don't save to checkpoint, retry later
+            if result.get("STATUS") == "RATE_LIMITED":
+                consecutive_rate_limits += 1
+                log.warning(f"  Rate limit strike {consecutive_rate_limits}/{RATE_LIMIT_STRIKES}")
+                if consecutive_rate_limits >= RATE_LIMIT_STRIKES:
+                    hit_rate_wall = True
+                    break
+                time.sleep(REQUEST_DELAY + random.uniform(0, 10))
+                continue
+
+            # Successful lookup (matched, unmatched, or error) — reset strike counter
+            consecutive_rate_limits = 0
+            checkpoint[barcode] = result
+            lookups_this_run += 1
+
+            if result["STATUS"] == "MATCHED":
+                matched += 1
+            elif result["STATUS"] == "UNMATCHED":
+                unmatched += 1
+            else:
+                errors += 1
+
+            # Save checkpoint after every lookup
+            save_checkpoint(checkpoint)
+
+            # Delay between requests with random jitter
+            time.sleep(REQUEST_DELAY + random.uniform(0, 10))
+
+        # Check if all done
+        done = matched + unmatched + errors + skipped
+        if done >= total:
             break
 
-        # Skip if already in checkpoint
-        if barcode in checkpoint:
-            continue
-
-        print(f"\rProcessing {current} of {total} (batch: {lookups_this_run + 1})...", end="", flush=True)
-
-        # Skip internal codes
-        if barcode.startswith(INTERNAL_CODE_PREFIX):
-            result = {"STATUS": "SKIPPED"}
-            log.info(f"  {barcode} -> SKIPPED (internal code)")
-            checkpoint[barcode] = result
-            skipped += 1
+        # Rate limit wall — cooldown and retry
+        if hit_rate_wall and consecutive_rate_limits >= RATE_LIMIT_STRIKES:
+            cooldown_sec = RATE_LIMIT_COOLDOWN * 3600
+            resume_time = datetime.now().strftime("%H:%M")
+            from datetime import timedelta
+            resume_at = (datetime.now() + timedelta(seconds=cooldown_sec)).strftime("%H:%M")
+            print(f"\n\n{'='*50}")
+            print(f"  RATE LIMITED — pausing for {RATE_LIMIT_COOLDOWN} hours")
+            print(f"  Will resume at ~{resume_at}")
+            print(f"  Press Ctrl+C to stop instead")
+            print(f"{'='*50}")
+            log.info(f"Rate limit wall hit. Cooling down for {RATE_LIMIT_COOLDOWN} hours...")
             save_checkpoint(checkpoint)
+            time.sleep(cooldown_sec)
+            consecutive_rate_limits = 0
+            log.info("Cooldown complete. Resuming lookups...")
             continue
-
-        # Look up on Go-UPC
-        result = lookup_upc(barcode)
-        checkpoint[barcode] = result
-        lookups_this_run += 1
-
-        if result["STATUS"] == "MATCHED":
-            matched += 1
-        elif result["STATUS"] == "UNMATCHED":
-            unmatched += 1
         else:
-            errors += 1
-
-        # Save checkpoint after every lookup
-        save_checkpoint(checkpoint)
-
-        # Delay between requests with random jitter
-        time.sleep(REQUEST_DELAY + random.uniform(0, 10))
+            # Batch limit or all done
+            break
 
     print()  # newline after progress counter
 

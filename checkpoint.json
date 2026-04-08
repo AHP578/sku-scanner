@@ -718,5 +718,95 @@
   "SIZE": "1000 mL",
   "EAN": "0012000161155",
   "STATUS": "MATCHED"
+ },
+ "01200017174": {
+  "FULL_NAME_FOUND": "Pepsi Diet Cola Soda Pop 20 Fl Oz Bottle",
+  "DESCRIPTION": "With its light, crisp taste, Diet Pepsi gives you all the refreshment you need - with zero sugar, zero calories and zero carbs. Pepsi was born in New Bern, NC in 1898 and is still bottled in the USA today. Perfect for parties, meals, and anywhere you need to make a big impression. Diet Pepsi Cola has all of the classic, smooth cola flavor you love with zero calories and zero sugar. This 20oz bottle is perfect to take on the go. Enjoy the refreshing cola taste right out of the bottle, over ice, or with a twist of lemon or lime. For a classic treat, try serving with a scoop of vanilla ice cream!",
+  "CATEGORY": "Soda",
+  "BRAND": "Pepsi",
+  "SIZE": "591 mL",
+  "EAN": "0012000171741",
+  "STATUS": "MATCHED"
+ },
+ "01200019087": {
+  "FULL_NAME_FOUND": "Bubly Grapefruit Sparkling Water - 16 Fl Oz Can",
+  "DESCRIPTION": "Oh hi! bubly sparkling water combines refreshing, crisp sparkling water with great tasting, natural flavors perfect for any occasion. bubly sparkling water has 0 calories, 0 sweeteners, and is sure to put a smile on your face. Try mixing with a twist of your favorite fresh fruit and serving over ice for a refreshing, low calorie treat.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Bubly",
+  "SIZE": "473 mL",
+  "EAN": "0012000190872",
+  "STATUS": "MATCHED"
+ },
+ "01200019088": {
+  "FULL_NAME_FOUND": "Bubly Lime Sparkling Water - 16 Fl Oz Can",
+  "DESCRIPTION": "Oh hi! bubly sparkling water combines refreshing, crisp sparkling water with great tasting, natural flavors perfect for any occasion. bubly sparkling water has 0 calories, 0 sweeteners, and is sure to put a smile on your face. Try mixing with a twist of your favorite fresh fruit and serving over ice for a refreshing, low calorie treat.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Bubly",
+  "SIZE": "473 mL",
+  "EAN": "0012000190889",
+  "STATUS": "MATCHED"
+ },
+ "01200019276": {
+  "FULL_NAME_FOUND": "Bubly Blackberry Sparkling Water - 16 Fl Oz Can",
+  "DESCRIPTION": "Oh hi! bubly sparkling water combines refreshing, crisp sparkling water with great tasting, natural flavors perfect for any occasion. bubly sparkling water has 0 calories, 0 sweeteners, and is sure to put a smile on your face. Try mixing with a twist of your favorite fresh fruit and serving over ice for a refreshing, low calorie treat.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Bubly",
+  "SIZE": "473 mL",
+  "EAN": "0012000192760",
+  "STATUS": "MATCHED"
+ },
+ "01200019286": {
+  "FULL_NAME_FOUND": "Starbucks Nitro Cold Brew Premium Coffee Drink Black Unsweetened 9.6 Fl Oz Can",
+  "DESCRIPTION": "Enjoy your favorite chilled coffee drink on the go thanks to Starbucks bottled coffee drinks. All made with real Starbucks coffee, you can enjoy the flavor of your favorite café drinks at home and on the go. The perfect late afternoon pick-me-up, this delicious cold coffee treat is great straight from the bottle or enjoyed over ice.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Starbucks",
+  "SIZE": "284 mL",
+  "EAN": "0012000192869",
+  "STATUS": "MATCHED"
+ },
+ "01200019290": {
+  "FULL_NAME_FOUND": "Starbucks Nitro Cold Brew Premium Coffee Drink Vanilla Sweet Cream Flavored 9.6 Fl Oz Can",
+  "DESCRIPTION": "Enjoy your favorite chilled coffee drink on the go thanks to Starbucks bottled coffee drinks. All made with real Starbucks coffee, you can enjoy the flavor of your favorite café drinks at home and on the go. The perfect late afternoon pick-me-up, this delicious cold coffee treat is great straight from the bottle or enjoyed over ice.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Starbucks",
+  "SIZE": "284 mL",
+  "EAN": "0012000192906",
+  "STATUS": "MATCHED"
+ },
+ "01200020238": {
+  "FULL_NAME_FOUND": "Brisk Lemon Iced Tea - Single Plastic Bottle",
+  "DESCRIPTION": "Brisk Lemon 1L is the perfect thirst-quenching drink with a tangy and refreshing taste. Made with real lemons, it contains 0% fat and is a good source of Vitamin C. Enjoy the invigorating flavor and all the benefits of this citrusy beverage.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Brisk",
+  "SIZE": "1000 mL",
+  "EAN": "0012000202384",
+  "STATUS": "MATCHED"
+ },
+ "01200024060": {
+  "FULL_NAME_FOUND": "Rockstar Pineapple Energy Drink 16 Fl Oz",
+  "DESCRIPTION": "Flavor with other natural flavors. 240 calories per can. 240 mg caffeine. Caffeine Content: 240mg/16 fl oz. Sustains mind-body energy (1). Proven performance (2). Rockstar energy blend. (1) At least 160 mg of caffeine provides feeling of increased alertness and reduced tiredness for up to 5 hours. (2) At least 75 mg of caffeine has been shown to help improve mental performance measures of attention and alertness. rockstarenergy.com. how2recycle.info. Scan for info call for info 1-800-433-2652. We're here to help. 800.433.2652. Recharge then recycle.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Rockstar",
+  "SIZE": "473 mL",
+  "EAN": "0012000240607",
+  "STATUS": "MATCHED"
+ },
+ "01200024072": {
+  "FULL_NAME_FOUND": "Mtn Dew Soda, Baja Cabo Citrus 20 Fl Oz",
+  "DESCRIPTION": "Mountain Dew Baja Cabo Citrus Zero Sugar 20oz Plastic Bottle, 24 Per Case-Product Available for Limited Time!",
+  "CATEGORY": "Soda",
+  "BRAND": "Mtn Dew",
+  "SIZE": "591 mL",
+  "EAN": "0012000240720",
+  "STATUS": "MATCHED"
+ },
+ "01200024075": {
+  "FULL_NAME_FOUND": "Mtn Dew Soda, Baja Cabo Citrus 20 Fl Oz",
+  "DESCRIPTION": "Mountain Dew Baja Cabo Citrus 20oz Plastic Bottle, 24 Per Case-Product Available for a Limted Time!",
+  "CATEGORY": "Soda",
+  "BRAND": "Mtn Dew",
+  "SIZE": "591 mL",
+  "EAN": "0012000240751",
+  "STATUS": "MATCHED"
  }
 }

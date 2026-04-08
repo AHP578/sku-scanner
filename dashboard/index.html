@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SKU Scanner — Live Status</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: #0f172a;
+      color: #e2e8f0;
+      min-height: 100vh;
+      padding: 2rem;
+    }
+
+    .container { max-width: 900px; margin: 0 auto; }
+
+    header {
+      text-align: center;
+      margin-bottom: 2.5rem;
+    }
+
+    h1 {
+      font-size: 1.8rem;
+      font-weight: 700;
+      color: #f8fafc;
+      margin-bottom: 0.5rem;
+    }
+
+    .subtitle {
+      color: #94a3b8;
+      font-size: 0.95rem;
+    }
+
+    /* Status badge */
+    .status-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.5rem 1.2rem;
+      border-radius: 2rem;
+      font-size: 0.9rem;
+      font-weight: 600;
+      margin: 1rem 0;
+    }
+
+    .status-badge.running {
+      background: rgba(34, 197, 94, 0.15);
+      color: #4ade80;
+      border: 1px solid rgba(34, 197, 94, 0.3);
+    }
+
+    .status-badge.idle {
+      background: rgba(148, 163, 184, 0.15);
+      color: #94a3b8;
+      border: 1px solid rgba(148, 163, 184, 0.3);
+    }
+
+    .status-badge.complete {
+      background: rgba(59, 130, 246, 0.15);
+      color: #60a5fa;
+      border: 1px solid rgba(59, 130, 246, 0.3);
+    }
+
+    .pulse {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      background: #4ade80;
+      animation: pulse 2s ease-in-out infinite;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.5; transform: scale(0.8); }
+    }
+
+    .dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      background: #64748b;
+    }
+
+    /* Time info */
+    .time-info {
+      display: flex;
+      justify-content: center;
+      gap: 2rem;
+      margin-bottom: 2rem;
+      font-size: 0.85rem;
+      color: #64748b;
+    }
+
+    .time-info span { color: #94a3b8; }
+
+    /* Progress bar */
+    .progress-section {
+      background: #1e293b;
+      border-radius: 1rem;
+      padding: 1.5rem;
+      margin-bottom: 1.5rem;
+      border: 1px solid #334155;
+    }
+
+    .progress-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      margin-bottom: 0.75rem;
+    }
+
+    .progress-label {
+      font-size: 0.9rem;
+      color: #94a3b8;
+    }
+
+    .progress-pct {
+      font-size: 1.5rem;
+      font-weight: 700;
+      color: #f8fafc;
+    }
+
+    .progress-bar-bg {
+      width: 100%;
+      height: 12px;
+      background: #334155;
+      border-radius: 6px;
+      overflow: hidden;
+      margin-bottom: 0.75rem;
+    }
+
+    .progress-bar-fill {
+      height: 100%;
+      border-radius: 6px;
+      background: linear-gradient(90deg, #3b82f6, #8b5cf6);
+      transition: width 1s ease;
+    }
+
+    .progress-counts {
+      font-size: 0.85rem;
+      color: #64748b;
+    }
+
+    .progress-counts span { color: #94a3b8; }
+
+    /* Stats grid */
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 1rem;
+      margin-bottom: 1.5rem;
+    }
+
+    @media (max-width: 600px) {
+      .stats-grid { grid-template-columns: repeat(2, 1fr); }
+      .time-info { flex-direction: column; gap: 0.5rem; align-items: center; }
+    }
+
+    .stat-card {
+      background: #1e293b;
+      border-radius: 0.75rem;
+      padding: 1.25rem;
+      text-align: center;
+      border: 1px solid #334155;
+    }
+
+    .stat-value {
+      font-size: 1.8rem;
+      font-weight: 700;
+      margin-bottom: 0.25rem;
+    }
+
+    .stat-label {
+      font-size: 0.8rem;
+      color: #64748b;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    .stat-card.matched .stat-value { color: #4ade80; }
+    .stat-card.unmatched .stat-value { color: #fbbf24; }
+    .stat-card.errors .stat-value { color: #f87171; }
+    .stat-card.remaining .stat-value { color: #60a5fa; }
+
+    /* Recent lookups */
+    .recent-section {
+      background: #1e293b;
+      border-radius: 1rem;
+      padding: 1.5rem;
+      border: 1px solid #334155;
+    }
+
+    .recent-title {
+      font-size: 1rem;
+      font-weight: 600;
+      color: #f8fafc;
+      margin-bottom: 1rem;
+    }
+
+    .lookup-list {
+      list-style: none;
+    }
+
+    .lookup-item {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      padding: 0.6rem 0;
+      border-bottom: 1px solid #334155;
+      font-size: 0.85rem;
+    }
+
+    .lookup-item:last-child { border-bottom: none; }
+
+    .lookup-status {
+      font-size: 0.7rem;
+      font-weight: 700;
+      padding: 0.2rem 0.5rem;
+      border-radius: 0.25rem;
+      text-transform: uppercase;
+      flex-shrink: 0;
+      width: 75px;
+      text-align: center;
+    }
+
+    .lookup-status.matched {
+      background: rgba(34, 197, 94, 0.15);
+      color: #4ade80;
+    }
+
+    .lookup-status.unmatched {
+      background: rgba(251, 191, 36, 0.15);
+      color: #fbbf24;
+    }
+
+    .lookup-barcode {
+      color: #64748b;
+      font-family: 'SF Mono', 'Fira Code', monospace;
+      font-size: 0.8rem;
+      flex-shrink: 0;
+      width: 110px;
+    }
+
+    .lookup-name {
+      color: #e2e8f0;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .lookup-meta {
+      color: #64748b;
+      margin-left: auto;
+      white-space: nowrap;
+      font-size: 0.8rem;
+    }
+
+    /* Loading/error states */
+    .loading {
+      text-align: center;
+      padding: 4rem;
+      color: #64748b;
+    }
+
+    .spinner {
+      width: 40px;
+      height: 40px;
+      border: 3px solid #334155;
+      border-top-color: #3b82f6;
+      border-radius: 50%;
+      animation: spin 1s linear infinite;
+      margin: 0 auto 1rem;
+    }
+
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    .error-msg {
+      text-align: center;
+      padding: 2rem;
+      color: #f87171;
+    }
+
+    .refresh-note {
+      text-align: center;
+      margin-top: 1.5rem;
+      font-size: 0.8rem;
+      color: #475569;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>SKU Scanner</h1>
+      <p class="subtitle">Go-UPC Barcode Lookup — Live Progress</p>
+      <div id="status-badge"></div>
+    </header>
+
+    <div id="time-info" class="time-info"></div>
+
+    <div id="content">
+      <div class="loading">
+        <div class="spinner"></div>
+        <p>Loading status...</p>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    function timeAgo(dateStr) {
+      const now = new Date();
+      const date = new Date(dateStr);
+      const diff = Math.floor((now - date) / 1000);
+      if (diff < 60) return `${diff}s ago`;
+      if (diff < 3600) return `${Math.floor(diff / 60)}m ago`;
+      if (diff < 86400) return `${Math.floor(diff / 3600)}h ago`;
+      return `${Math.floor(diff / 86400)}d ago`;
+    }
+
+    function formatTime(dateStr) {
+      const d = new Date(dateStr);
+      return d.toLocaleString(undefined, {
+        month: 'short', day: 'numeric',
+        hour: 'numeric', minute: '2-digit',
+        hour12: true
+      });
+    }
+
+    function formatTimeShort(dateStr) {
+      const d = new Date(dateStr);
+      return d.toLocaleTimeString(undefined, {
+        hour: 'numeric', minute: '2-digit', hour12: true
+      });
+    }
+
+    async function loadStatus() {
+      try {
+        const res = await fetch('/api/status');
+        if (!res.ok) throw new Error('API error');
+        const data = await res.json();
+        render(data);
+      } catch (e) {
+        document.getElementById('content').innerHTML =
+          `<div class="error-msg">Failed to load status. Retrying...</div>`;
+        document.getElementById('status-badge').innerHTML = '';
+        document.getElementById('time-info').innerHTML = '';
+      }
+    }
+
+    function render(data) {
+      const pct = data.totalSkus > 0
+        ? ((data.completed / data.totalSkus) * 100).toFixed(1)
+        : 0;
+
+      const isComplete = data.remaining === 0;
+
+      // Status badge
+      const badgeEl = document.getElementById('status-badge');
+      if (isComplete) {
+        badgeEl.innerHTML = `
+          <div class="status-badge complete">
+            <div class="dot" style="background:#60a5fa"></div>
+            Complete
+          </div>`;
+      } else if (data.isRunning) {
+        badgeEl.innerHTML = `
+          <div class="status-badge running">
+            <div class="pulse"></div>
+            Running
+          </div>`;
+      } else {
+        badgeEl.innerHTML = `
+          <div class="status-badge idle">
+            <div class="dot"></div>
+            Idle
+          </div>`;
+      }
+
+      // Time info
+      const timeEl = document.getElementById('time-info');
+      let timeHtml = '';
+      if (data.lastRunTime) {
+        timeHtml += `<div>Last run: <span>${formatTime(data.lastRunTime)} (${timeAgo(data.lastRunTime)})</span></div>`;
+      }
+      if (!isComplete && !data.isRunning && data.nextScheduledRun) {
+        timeHtml += `<div>Next scheduled: <span>${formatTimeShort(data.nextScheduledRun)}</span></div>`;
+      }
+      timeEl.innerHTML = timeHtml;
+
+      // Main content
+      document.getElementById('content').innerHTML = `
+        <div class="progress-section">
+          <div class="progress-header">
+            <span class="progress-label">Overall Progress</span>
+            <span class="progress-pct">${pct}%</span>
+          </div>
+          <div class="progress-bar-bg">
+            <div class="progress-bar-fill" style="width: ${pct}%"></div>
+          </div>
+          <div class="progress-counts">
+            <span>${data.completed.toLocaleString()}</span> of <span>${data.totalSkus.toLocaleString()}</span> SKUs processed
+          </div>
+        </div>
+
+        <div class="stats-grid">
+          <div class="stat-card matched">
+            <div class="stat-value">${data.stats.MATCHED.toLocaleString()}</div>
+            <div class="stat-label">Matched</div>
+          </div>
+          <div class="stat-card unmatched">
+            <div class="stat-value">${data.stats.UNMATCHED.toLocaleString()}</div>
+            <div class="stat-label">Unmatched</div>
+          </div>
+          <div class="stat-card errors">
+            <div class="stat-value">${data.stats.ERROR.toLocaleString()}</div>
+            <div class="stat-label">Errors</div>
+          </div>
+          <div class="stat-card remaining">
+            <div class="stat-value">${data.remaining.toLocaleString()}</div>
+            <div class="stat-label">Remaining</div>
+          </div>
+        </div>
+
+        <div class="recent-section">
+          <div class="recent-title">Recent Lookups</div>
+          <ul class="lookup-list" id="lookup-list"></ul>
+        </div>
+
+        <div class="refresh-note">Auto-refreshes every 60 seconds</div>
+      `;
+
+      // Populate recent lookups
+      const listEl = document.getElementById('lookup-list');
+      if (data.recentLookups.length === 0) {
+        listEl.innerHTML = '<li class="lookup-item" style="color:#64748b">No lookups yet</li>';
+      } else {
+        listEl.innerHTML = data.recentLookups.map(item => `
+          <li class="lookup-item">
+            <span class="lookup-status ${item.status.toLowerCase()}">${item.status}</span>
+            <span class="lookup-barcode">${item.barcode}</span>
+            <span class="lookup-name">${item.name || '—'}</span>
+            <span class="lookup-meta">${item.brand || ''}</span>
+          </li>
+        `).join('');
+      }
+    }
+
+    // Initial load + auto-refresh
+    loadStatus();
+    setInterval(loadStatus, 60000);
+  </script>
+</body>
+</html>

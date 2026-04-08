@@ -538,5 +538,95 @@
  },
  "01200000729": {
   "STATUS": "ERROR"
+ },
+ "01200001643": {
+  "FULL_NAME_FOUND": "Mtn Dew Amp Energy Drink, Citrus, Boost Original - 16 Fl Oz",
+  "DESCRIPTION": "Energize your taste buds with this AMP Energy. This refreshing citrus-flavored energy drink has other natural flavors and is low in sodium. It is available in a grip-friendly compact can for easy consumption and is perfect to enjoy anytime with friends and family.Can of 16 fl ozHas caffeine and vitamin BReady to drinkOriginal taste energy drink.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Mtn Dew Amp",
+  "SIZE": "473 mL",
+  "EAN": "0012000016431",
+  "STATUS": "MATCHED"
+ },
+ "01200001672": {
+  "FULL_NAME_FOUND": "Starbucks Frappuccino Caramel Coffee Drink - 13.7 Fl Oz Glass Bottle",
+  "DESCRIPTION": "When you're craving something sweet but you also need to reenergize, simply grab the Starbucks™ Caramel Frappuccino Coffee Drink. Using only the finest roasted Arabica beans to create a bold coffee flavor like no other, you'll love indulging in this chilled coffee beverage whenever you need a pick-me-up. The low-fat delight flavored with sweet caramel means you can enjoy your favorite Starbucks drink no matter where you are.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Starbucks",
+  "SIZE": "405 mL",
+  "EAN": "0012000016721",
+  "STATUS": "MATCHED"
+ },
+ "01200002136": {
+  "FULL_NAME_FOUND": "Ocean Spray Cranberry Juice Cocktail Original 15.2 Fl Oz Bottle",
+  "DESCRIPTION": "There is nothing quite like the taste of Ocean Spray Cranberry Juice Cocktail. Made from real cranberries that we grow ourselves and 100% Vitamin C in every glass - no wonder you love it.",
+  "CATEGORY": "Juice",
+  "BRAND": "Ocean Spray",
+  "SIZE": "355 mL",
+  "EAN": "0012000021367",
+  "STATUS": "MATCHED"
+ },
+ "01200002452": {
+  "FULL_NAME_FOUND": "Brisk Iced Tea, Raspberry Flavor 1 L",
+  "DESCRIPTION": "Brisk has become the badge of creative hustlers everywhere. By bringing in-your-face flavors and vibrant colors to the juice drink and iced tea game we help you make your mark on the world.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Brisk",
+  "SIZE": "1000 mL",
+  "EAN": "0012000024528",
+  "STATUS": "MATCHED"
+ },
+ "01200002721": {
+  "FULL_NAME_FOUND": "Mountain Dew Citrus Soda Pop, 16 Fl Oz Can",
+  "DESCRIPTION": "Mountain Dew is a cool, refreshing citrus-flavored soda. This 2.0 L bottle is perfect for sharing with friends or to quench your thirst throughout the day.",
+  "CATEGORY": "Soda",
+  "BRAND": "Mountain Dew",
+  "SIZE": "473 mL",
+  "EAN": "0012000027215",
+  "STATUS": "MATCHED"
+ },
+ "01200002845": {
+  "FULL_NAME_FOUND": "Starbucks Double Shot Energy Coffee Beverage Mocha Flavored 15 Fl Oz Can",
+  "DESCRIPTION": "Nothing delivers like the unmistakably rich taste of bold Starbucks coffee in this Starbucks Doubleshot Energy drink. With the addition of B vitamins, guarana and ginseng plus add a hit of rich mocha flavor to sweeten the deal. Experience a new burst of flavor. Drink up. Then own the day.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Starbucks",
+  "SIZE": "444 mL",
+  "EAN": "0012000028458",
+  "STATUS": "MATCHED"
+ },
+ "01200002847": {
+  "FULL_NAME_FOUND": "Starbucks Coffee Beverage, Energy 15 Fl Oz",
+  "DESCRIPTION": "Starbucks coffee drinks bring you the bold, irresistible taste of perfectly brewed coffee blended with rich, indulgent flavors you already love. Each sip is crafted to offer comfort and delight, turning everyday moments into something special. Wherever you are, you can savor the Starbucks experience—familiar, uplifting, and truly enjoyable. We begin with rich, bold Starbucks coffee, blended with milk for a smooth creamy, delicious flavor. Then we enhance this premium energy drink with ginseng, guarana and B vitamins - a great-tasting way to help you own the day.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Starbucks",
+  "SIZE": "444 mL",
+  "EAN": "0012000028472",
+  "STATUS": "MATCHED"
+ },
+ "01200002849": {
+  "FULL_NAME_FOUND": "Starbucks Doubleshot Energy",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Starbucks",
+  "SIZE": "444 mL",
+  "EAN": "0001200002849",
+  "STATUS": "MATCHED"
+ },
+ "01200002862": {
+  "FULL_NAME_FOUND": "Mountain Dew Voltage Raspberry Citrus Flavor And Ginseng Soda 20 Fl Oz Bottle",
+  "DESCRIPTION": "The exhilarating taste of Mountain Dew charged with ginseng and raspberry citrus flavor for a chuggable, intense refreshment. Lightning in a bottle. Open a cold bottle of Mountain Dew morning, mid day or night and refresh your taste buds. Perfect for on the go when you need a refreshing drink.",
+  "CATEGORY": "Soda",
+  "BRAND": "Mountain Dew",
+  "SIZE": "591 mL",
+  "EAN": "0012000028625",
+  "STATUS": "MATCHED"
+ },
+ "01200003028": {
+  "FULL_NAME_FOUND": "Pepsi Soda Cola 16 Fl Oz Can",
+  "DESCRIPTION": "Pepsi Cola is a carbonated soft drink contained in 16 fluid ounce aluminum cans. The beverage is made of carbonated water, high fructose corn syrup, caramel color, sugar, phosphoric acid, caffeine, citric acid, and natural flavor. Pepsi Cola is sure to satisfy and invigorate any thirst.",
+  "CATEGORY": "Soda",
+  "BRAND": "Pepsi",
+  "SIZE": "473 mL",
+  "EAN": "0012000030284",
+  "STATUS": "MATCHED"
  }
 }

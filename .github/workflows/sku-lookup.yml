@@ -39,9 +39,10 @@ jobs:
         if: steps.lock_check.outputs.locked == 'false'
         run: pip install requests beautifulsoup4 pandas openpyxl
 
-      - name: Run SKU Scanner (batch of 30)
+      - name: Run SKU Scanner (until rate limited)
         if: steps.lock_check.outputs.locked == 'false'
-        run: python sku_scanner.py --batch 30
+        timeout-minutes: 300
+        run: python sku_scanner.py
 
       - name: Commit checkpoint
         if: steps.lock_check.outputs.locked == 'false'

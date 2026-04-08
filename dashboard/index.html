@@ -366,10 +366,11 @@
             Complete
           </div>`;
       } else if (data.isRunning) {
+        const source = data.runSource === 'github' ? ' (GitHub Actions)' : data.runSource === 'local' ? ' (Local)' : '';
         badgeEl.innerHTML = `
           <div class="status-badge running">
             <div class="pulse"></div>
-            Running
+            Running${source}
           </div>`;
       } else {
         badgeEl.innerHTML = `

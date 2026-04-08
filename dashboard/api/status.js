@@ -44,12 +44,27 @@ export default async function handler(req, res) {
     const completed = stats.MATCHED + stats.UNMATCHED + stats.ERROR + stats.SKIPPED;
     const remaining = totalSkus - completed;
 
-    // Check if running (lock file exists)
+    // Check if running — lock file (local) OR active GitHub Actions workflow
     const lockRes = await fetch(
       `https://api.github.com/repos/${REPO}/contents/running.lock`,
       { headers }
     );
-    const isRunning = lockRes.ok;
+    const hasLockFile = lockRes.ok;
+
+    const actionsRes = await fetch(
+      `https://api.github.com/repos/${REPO}/actions/runs?status=in_progress&per_page=1`,
+      { headers }
+    );
+    let actionsRunning = false;
+    let runSource = null;
+    if (actionsRes.ok) {
+      const actionsData = await actionsRes.json();
+      actionsRunning = actionsData.total_count > 0;
+    }
+
+    const isRunning = hasLockFile || actionsRunning;
+    if (hasLockFile) runSource = "local";
+    else if (actionsRunning) runSource = "github";
 
     // Get last commit on checkpoint.json for "last run" time
     const commitsRes = await fetch(
@@ -83,6 +98,7 @@ export default async function handler(req, res) {
       remaining,
       stats,
       isRunning,
+      runSource,
       lastRunTime,
       nextScheduledRun,
       recentLookups: recentLookups.slice(-20).reverse(),

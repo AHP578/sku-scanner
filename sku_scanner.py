@@ -293,6 +293,8 @@ def main():
                         help="Show progress summary and exit")
     parser.add_argument("--git-push-every", type=int, default=0,
                         help="Git commit+push checkpoint every N lookups (for CI use)")
+    parser.add_argument("--exit-on-rate-limit", action="store_true",
+                        help="Exit instead of pausing when rate limited (for CI use)")
     args = parser.parse_args()
 
     # Load input
@@ -411,10 +413,19 @@ def main():
         if done >= total:
             break
 
-        # Rate limit wall — cooldown and retry
+        # Rate limit wall — cooldown and retry (or exit for CI)
         if hit_rate_wall and consecutive_rate_limits >= RATE_LIMIT_STRIKES:
+            save_checkpoint(checkpoint)
+
+            if args.exit_on_rate_limit:
+                print(f"\n\n{'='*50}")
+                print(f"  RATE LIMITED — exiting (--exit-on-rate-limit)")
+                print(f"  Next scheduled run will continue.")
+                print(f"{'='*50}")
+                log.info("Rate limit wall hit. Exiting for CI (will resume next run).")
+                break
+
             cooldown_sec = RATE_LIMIT_COOLDOWN * 3600
-            resume_time = datetime.now().strftime("%H:%M")
             from datetime import timedelta
             resume_at = (datetime.now() + timedelta(seconds=cooldown_sec)).strftime("%H:%M")
             print(f"\n\n{'='*50}")
@@ -423,7 +434,6 @@ def main():
             print(f"  Press Ctrl+C to stop instead")
             print(f"{'='*50}")
             log.info(f"Rate limit wall hit. Cooling down for {RATE_LIMIT_COOLDOWN} hours...")
-            save_checkpoint(checkpoint)
             time.sleep(cooldown_sec)
             consecutive_rate_limits = 0
             log.info("Cooldown complete. Resuming lookups...")

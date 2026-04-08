@@ -53,7 +53,7 @@ jobs:
       - name: Run SKU Scanner (until rate limited)
         if: steps.lock_check.outputs.locked == 'false'
         timeout-minutes: 300
-        run: python sku_scanner.py --git-push-every 10
+        run: python sku_scanner.py --git-push-every 10 --exit-on-rate-limit
 
       - name: Final checkpoint push
         if: steps.lock_check.outputs.locked == 'false'

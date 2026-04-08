@@ -628,5 +628,95 @@
   "SIZE": "473 mL",
   "EAN": "0012000030284",
   "STATUS": "MATCHED"
+ },
+ "01200003401": {
+  "FULL_NAME_FOUND": "Brisk Half & Half, Iced Tea + Lemonade",
+  "DESCRIPTION": "Brisk Half & Half Tea Lemonade is perfectly infused with our unique blend of real tea and blueberry essence for a delicious taste that refreshes your body and mind. Enjoy the taste of sunshine from Lipton Iced Tea!",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Brisk",
+  "SIZE": "1000 mL",
+  "EAN": "0012000034015",
+  "STATUS": "MATCHED"
+ },
+ "01200004283": {
+  "FULL_NAME_FOUND": "Pure Leaf Brewed Tea, Real, Tea & Lemonade 18.5 Fl Oz",
+  "DESCRIPTION": "Iced tea brewed from real leaves. Starting from fresh picked leaves and complemented by the natural flavor of lemon and sweetened with real sugar for a delicious fresh brewed taste.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Pure Leaf",
+  "SIZE": "547 mL",
+  "EAN": "0012000042836",
+  "STATUS": "MATCHED"
+ },
+ "01200004643": {
+  "FULL_NAME_FOUND": "Pure Leaf No Sugar Real Unsweetened Lemon Brewed Tea 18.5 Fl Oz",
+  "DESCRIPTION": "Iced tea brewed from real leaves. Starting from fresh picked leaves with no sugar and a hint of the natural flavor of lemon, so you get to enjoy the pure, delicious, and flavorful fresh brewed taste.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Pure Leaf",
+  "SIZE": "547 mL",
+  "EAN": "0012000046438",
+  "STATUS": "MATCHED"
+ },
+ "01200004644": {
+  "FULL_NAME_FOUND": "Pure Leaf No Sugar Real Unsweetened Green Brewed Tea 18.5 Fl Oz",
+  "DESCRIPTION": "Just carefully crafted green tea. Help support your immune system with the antioxidant vitamin C in our Pure Leaf unsweetened green tea. Expertly brewed from real tea leaves and picked at their peak of flavor, our teas offer a sip that is crisp and refreshing. No wonder every bottle of Pure Leaf tastes so good.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Pure Leaf",
+  "SIZE": "547 mL",
+  "EAN": "0012000046445",
+  "STATUS": "MATCHED"
+ },
+ "01200007175": {
+  "FULL_NAME_FOUND": "Dole Ocean Spray 100% Apple Juice 15.20 Fl Oz",
+  "DESCRIPTION": "It is 100% fruit juice with no added sugar. No artificial colors; no preservatives or flavors.",
+  "CATEGORY": "Juice",
+  "BRAND": "Dole",
+  "SIZE": "450 mL",
+  "EAN": "0012000071751",
+  "STATUS": "MATCHED"
+ },
+ "01200010190": {
+  "FULL_NAME_FOUND": "Brisk Lemonade Juice Drink - 1 Liter",
+  "DESCRIPTION": "Experience the refreshing taste of Brisk Lemonade Juice Drink! Perfect for quenching your thirst on a hot day, this delicious lemonade soda is packaged in a convenient 1-liter plastic bottle, making it easy to take on the go. Whether you are hosting a summer barbecue, enjoying a picnic, or simply relaxing at home, Brisk Lemonade is the ideal beverage choice.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Brisk",
+  "SIZE": "1000 mL",
+  "EAN": "0012000101908",
+  "STATUS": "MATCHED"
+ },
+ "01200013027": {
+  "FULL_NAME_FOUND": "Mountain Dew Baja Blast Tropical Lime & Citrus Soda Pop, 20 Fl Oz Bottle",
+  "DESCRIPTION": "Mountain Dew, the original instigator, refreshes with its one of a kind great taste. Mountain Dew Baja has the exhilarating taste of DEW with a blast of tropical lime flavor. Open a cold bottle of Mtn Dew and refresh your taste buds. Have it by yourself or share with friends for even more enjoyment.",
+  "CATEGORY": "Soda",
+  "BRAND": "Mountain Dew",
+  "SIZE": "591 mL",
+  "EAN": "0012000130274",
+  "STATUS": "MATCHED"
+ },
+ "01200014070": {
+  "FULL_NAME_FOUND": "Pepsi Soda Wild Cherry Cola 16 Fl Oz",
+  "DESCRIPTION": "Only Wild Cherry Pepsi has the thrilling burst of unique cherry flavor and a sweet, crisp taste that gives you more to go wild for!",
+  "CATEGORY": "Soda",
+  "BRAND": "Pepsi",
+  "SIZE": "473 mL",
+  "EAN": "0012000140709",
+  "STATUS": "MATCHED"
+ },
+ "01200015109": {
+  "FULL_NAME_FOUND": "Starbucks Chilled Coffee Drink, White Chocolate Mocha 13.7 Fl Oz",
+  "DESCRIPTION": "Pop the cap. Savor the sip. Go. White Chocolate Mocha Frappuccino chilled coffee drink is a harmonious blend of Starbucks coffee and creamy milk infused with the sweet flavor of white chocolate.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Starbucks",
+  "SIZE": "405 mL",
+  "EAN": "0012000151095",
+  "STATUS": "MATCHED"
+ },
+ "01200016115": {
+  "FULL_NAME_FOUND": "LifeWtr Triple Filtered Distilled Water 33.8 Fl Oz",
+  "DESCRIPTION": "LIFEWTR is premium bottled water that fuses creativity and design to serve as a source of inspiration as well as hydration. Inspiration is as essential to life as water, because it moves us forward by unleashing our creative potential. Every bottle of LIFEWTR is a canvas for new art, and inside every bottle is crisp-tasting water to inspire the mind.",
+  "CATEGORY": "Water",
+  "BRAND": "LifeWtr",
+  "SIZE": "1000 mL",
+  "EAN": "0012000161155",
+  "STATUS": "MATCHED"
  }
 }

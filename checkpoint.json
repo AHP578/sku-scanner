@@ -988,5 +988,95 @@
   "SIZE": "",
   "EAN": "0012300000703",
   "STATUS": "MATCHED"
+ },
+ "01230000088": {
+  "FULL_NAME_FOUND": "Camel Snus Mint",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Food, Beverages & Tobacco",
+  "BRAND": "Camel",
+  "SIZE": "",
+  "EAN": "0012300000888",
+  "STATUS": "MATCHED"
+ },
+ "01230000093": {
+  "FULL_NAME_FOUND": "Camel Cigarettes, Menthol, Crush",
+  "DESCRIPTION": "Menthol - Fresh. Menthol freshness on demand. The original squeeze click change. Crush experience. FSC. Class A cigarettes. www.RJRT.com. camel.com. Please don't litter.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Camel",
+  "SIZE": "",
+  "EAN": "0012300000932",
+  "STATUS": "MATCHED"
+ },
+ "01230000094": {
+  "FULL_NAME_FOUND": "Camel Crush Menthol Silver Cigarettes, Box",
+  "DESCRIPTION": "Menthol - Fresh. Menthol freshness on demand. The original squeeze click change. Crush experience. FSC. Class A cigarettes. www.RJRT.com. camel.com. Please don't litter.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Camel",
+  "SIZE": "",
+  "EAN": "0012300000949",
+  "STATUS": "MATCHED"
+ },
+ "01230019741": {
+  "FULL_NAME_FOUND": "Camel Crush Regular Menthol Cigarettes, Box",
+  "DESCRIPTION": "Shop Camel Cigarettes Crush - Pack from tomthumb. Browse our wide selection of Cigarettes for Delivery or Drive Up & Go to pick up at the store!",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Camel",
+  "SIZE": "",
+  "EAN": "0012300197410",
+  "STATUS": "MATCHED"
+ },
+ "01230020015": {
+  "FULL_NAME_FOUND": "Camel Cigarettes, Platinum, Turkish & Domestic Blend",
+  "DESCRIPTION": "Since 1913. Tomorrow there'll be more Camels in this town than all Asia and Africa combined! So said our ad. The Camels came and they keep on coming. The Camels are coming! 20 class A cigarettes. www.RJRT.com. Call us at 1-800-334-8157 or visit us at camel.com. Please don't litter.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Camel",
+  "SIZE": "",
+  "EAN": "0012300200158",
+  "STATUS": "MATCHED"
+ },
+ "01230020060": {
+  "FULL_NAME_FOUND": "Camel Cigarettes, Blue, Turkish Domestic Blend, 99's",
+  "DESCRIPTION": "Camel Blue 99 Cigarettes are a testament to the enduring appeal of this iconic brand. With a longer 99mm length, they offer a unique smoking experience appreciated by those who seek the classic, full-bodied flavor of Camel.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Camel",
+  "SIZE": "",
+  "EAN": "0012300200608",
+  "STATUS": "MATCHED"
+ },
+ "01230032790": {
+  "FULL_NAME_FOUND": "Camel Turkish Silver Cigarettes, Extra Smooth & Mellow",
+  "DESCRIPTION": "These cigarettes feature a smoother taste derived from a unique mix of Turkish tobacco. Each pack of Camel Turkish Silver provides a refined smoking experience.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Camel",
+  "SIZE": "",
+  "EAN": "0012300327909",
+  "STATUS": "MATCHED"
+ },
+ "01230070799": {
+  "FULL_NAME_FOUND": "Camel Cigarettes, Filters, Turkish And Domestic Blend, Wides",
+  "DESCRIPTION": "Est. 1913. The larger gauge of a Camel Wides cigarette makes for the smoothest, most flavorful way to enjoy Camel's distinctive blend of the finest Turkish and Domestic tobaccos. 20 class A cigarettes. www.RJRT.com. Call us at 1-877-Cml-1913 or visit us at camel.com. Please don't litter.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Camel",
+  "SIZE": "",
+  "EAN": "0012300707992",
+  "STATUS": "MATCHED"
+ },
+ "01230084391": {
+  "FULL_NAME_FOUND": "Camel Cigarettes, Royal, Turkish Blend",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Camel",
+  "SIZE": "",
+  "EAN": "0012300843911",
+  "STATUS": "MATCHED"
+ },
+ "01230084400": {
+  "FULL_NAME_FOUND": "Camel Cigarettes, Gold, Turkish Blend",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Camel",
+  "SIZE": "",
+  "EAN": "0012300844000",
+  "STATUS": "MATCHED"
  }
 }

@@ -1258,5 +1258,95 @@
   "SIZE": "",
   "EAN": "0012546917582",
   "STATUS": "MATCHED"
+ },
+ "01254743310": {
+  "FULL_NAME_FOUND": "Listerine Cool Mint PocketPaks Breath Strips 24 Ct Pack",
+  "DESCRIPTION": "Heading Kills germs that cause bad breath. Purpose Oral Care Manufacturer J & J Active.",
+  "CATEGORY": "Health & Beauty",
+  "BRAND": "Listerine",
+  "SIZE": "",
+  "EAN": "0012547433104",
+  "STATUS": "MATCHED"
+ },
+ "01258700010": {
+  "FULL_NAME_FOUND": "Glad Cling Clear Plastic Food Wrap 33.3 Yard X 12 Inch, 100 Sq Ft Roll",
+  "DESCRIPTION": "Glad cling wrap grips tight, seals easily and protect the Food you love, helping to keep it fresher, longer. It's easy to handle, microwave and contains no plasticizers, so you can reheat with confidence. G lad makes products that help keep food fresh longer.",
+  "CATEGORY": "Tortillas & Wraps",
+  "BRAND": "Glad",
+  "SIZE": "",
+  "EAN": "0012587000106",
+  "STATUS": "MATCHED"
+ },
+ "01258700070": {
+  "FULL_NAME_FOUND": "Glad Quick-Tie Tall Kitchen Trash Bags",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Household Storage Bags",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0001258700070",
+  "STATUS": "MATCHED"
+ },
+ "01258700080": {
+  "FULL_NAME_FOUND": "Glad Quick Tie Strong Large Trash Bags, 30 Gallon, Black",
+  "DESCRIPTION": "Three-layer drawstrings for easy closing, carrying, and tossing away. Strong bags use less plastic.",
+  "CATEGORY": "Garbage Bags",
+  "BRAND": "Glad",
+  "SIZE": "",
+  "EAN": "0012587000809",
+  "STATUS": "MATCHED"
+ },
+ "01258700180": {
+  "FULL_NAME_FOUND": "Glad Fold Top Food Storage Plastic Bags - Sandwich",
+  "DESCRIPTION": "Glad® food storage bags with sandwich fold top are just the right size for storing or taking small items on the go. These multipurpose bags are not just for lunch though. Bags are the perfect size for packing snacks for school, keeping small travel items together, or saving cut fruits and veggies. These bags have pleated bottoms, which allow you to fill the bag with more. The fold lock top helps to keep your food fresh and items secure, but are still easy to open and close without frustration. Bags are BPA free and microwave safe. Ideal for use in schools, daycare centers, restaurants, hotels and other commercial facilities.",
+  "CATEGORY": "Food Storage",
+  "BRAND": "Glad",
+  "SIZE": "",
+  "EAN": "0012587001806",
+  "STATUS": "MATCHED"
+ },
+ "01300000124": {
+  "FULL_NAME_FOUND": "Heinz Tomato Ketchup, 14oz Squeeze Bottle",
+  "DESCRIPTION": "Heinz Tomato Ketchup is made only from sweet, juicy, red ripe tomatoes for the signature thick and rich taste of Americas Favorite Ketchup. Did you know that every tomato in every bottle of Heinz Ketchup is grown from Heinz seeds? Grown not made.. One reason why nothing else tastes like Heinz! The thick texture makes our ketchup perfect as a topping or for dipping. It's gluten free and great for those keeping Kosher to fit your preferences. Reach for our ketchup at every cookout to top your favorite burgers, hot dogs and fries. Packed in 14-ounce ketchup bottles for easy sharing, this condiment is your go-to option for gatherings and everyday meals.",
+  "CATEGORY": "Ketchup",
+  "BRAND": "Heinz",
+  "SIZE": "",
+  "EAN": "0013000001243",
+  "STATUS": "MATCHED"
+ },
+ "01300000852": {
+  "FULL_NAME_FOUND": "Heinz All Natural Distilled White Vinegar 5% Acidity, 16 Fl Oz Bottle",
+  "DESCRIPTION": "Heinz Distilled White Vinegar is made from sun-ripened grain and crustal clear water. With its clean, crisp flavor, it's ideal for your favorite marinades, salads and recipes.",
+  "CATEGORY": "Vinegar",
+  "BRAND": "Heinz",
+  "SIZE": "",
+  "EAN": "0013000008525",
+  "STATUS": "MATCHED"
+ },
+ "01330020441": {
+  "FULL_NAME_FOUND": "Pillsbury Best Bleached All Purpose Flour, 5 Lb Bag",
+  "DESCRIPTION": "Delicious baking from scratch is at your fingertips with Pillsbury Best All Purpose Flour. This white flour is enriched to create wholesome, delicious baked goods. Perfect for baking cakes, tasty pastries for bake sales, or homemade goodies, Pillsbury flour is a great addition to your staple baking ingredients.",
+  "CATEGORY": "Flour",
+  "BRAND": "Pillsbury",
+  "SIZE": "",
+  "EAN": "0013300204412",
+  "STATUS": "MATCHED"
+ },
+ "01356200004": {
+  "FULL_NAME_FOUND": "Annie's Homegrown Organic Shells & White Cheddar Macaroni & Cheese",
+  "DESCRIPTION": "Annie's White Cheddar Macaroni and Cheese is made with organic pasta shells and real white cheddar cheese for a great-tasting version of everybunny's favorite comfort food that is packed with irresistible flavor. Annie's mac and cheese contains no artificial flavors or synthetic colors, so you can feel good about enjoying a tasty serving of delicious pasta shells and cheese. Annie's white cheddar mac and cheese is ready in just ten minutes. Serve Annie's mac n cheese as a side dish, use it to prepare baked bacon mac and cheese, or pair it with chicken nuggets.",
+  "CATEGORY": "Pasta & Noodles",
+  "BRAND": "Annie's",
+  "SIZE": "",
+  "EAN": "0013562000043",
+  "STATUS": "MATCHED"
+ },
+ "01370082215": {
+  "FULL_NAME_FOUND": "Hefty Quart Freezer Slider Bags 15 Ct Box",
+  "DESCRIPTION": "Hefty Slider Freezer Bags help protect your meats, vegetables and other foods from harmful freezer burn. Our freezer bags are made from thick material and feature our extra-secure MaxLock track design, so they're easy to open and close with a simple sliding motion. Plus, our patented seal design securely clicks closed to keep your food fresh. Hefty Slider Freezer bags are available in two sizes quart bags and gallon bags.",
+  "CATEGORY": "Food Storage",
+  "BRAND": "Hefty",
+  "SIZE": "",
+  "EAN": "0013700822155",
+  "STATUS": "MATCHED"
  }
 }

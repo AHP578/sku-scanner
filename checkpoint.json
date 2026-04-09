@@ -2428,5 +2428,95 @@
   "SIZE": "473 mL",
   "EAN": "0070847891857",
   "STATUS": "MATCHED"
+ },
+ "07084789408": {
+  "FULL_NAME_FOUND": "Monster Energy Drink, Wild Berry Tea 15.5 Fl Oz",
+  "DESCRIPTION": "Berry tea packed with electrolytes, vitamins and botanicals that provide advanced hydration helping you reduce fatigue and increase focus. Rehab Monster Wild Berry Tea is non-carbonated, with only 25 calories per can.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Monster",
+  "SIZE": "473 mL",
+  "EAN": "0070847894087",
+  "STATUS": "MATCHED"
+ },
+ "07084789615": {
+  "FULL_NAME_FOUND": "Monster Rio Punch Juice Energy Drink",
+  "DESCRIPTION": "A unique tropical blend of exotic flavors inspired by Rio de Janeiro. Based on a popular local dessert, there are flavor notes of sweet papaya, vanilla ice cream and even a hint of blackcurrant.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Monster",
+  "SIZE": "473 mL",
+  "EAN": "0070847896159",
+  "STATUS": "MATCHED"
+ },
+ "07084789814": {
+  "FULL_NAME_FOUND": "Monstre Monster Ultra Vice Guava Energy Drink",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Guavas",
+  "BRAND": "Monstre",
+  "SIZE": "",
+  "EAN": "0007084789814",
+  "STATUS": "MATCHED"
+ },
+ "07084789824": {
+  "FULL_NAME_FOUND": "Monster Ultra Blue Hawaiian Sugar Free Energy Drink - 16 Fl Oz Can",
+  "DESCRIPTION": "Monster Energy Ultra Blue Hawaiian (USA) [473ml] - Zero Sugar, Full Flavor. Whether you’re in beast mode, vacation mode, or just island-style, Ultra Blue Hawaiian will do the trick! Light, crisp and super easy drinking with a tropical tiki twist. Blue Hawaiian is a killer combination of exotic island fruit flavors that taste great, but without the sugar.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Monster",
+  "SIZE": "473 mL",
+  "EAN": "0070847898245",
+  "STATUS": "MATCHED"
+ },
+ "07090729860": {
+  "FULL_NAME_FOUND": "LifeStyles Rough Rider The Original Studded Latex Condom",
+  "DESCRIPTION": "The Original Studded Condom. When you want extra stimulation, the studded condom is the one. Seductively studded up and down, all the way around to provide extra sensation and excitement.",
+  "CATEGORY": "Condoms",
+  "BRAND": "LifeStyles",
+  "SIZE": "",
+  "EAN": "0070907298602",
+  "STATUS": "MATCHED"
+ },
+ "07092047633": {
+  "FULL_NAME_FOUND": "Swiss Miss Hot Cocoa Mix, Milk Chocolate Flavor, 8 Pack",
+  "DESCRIPTION": "Swiss Miss Milk Chocolate Flavored Hot Cocoa Mix makes a warm, delightful hot cocoa drink. This hot cocoa drink mix creates rich, creamy hot cocoa. Swiss Miss Hot Cocoa Mix comes in individual packets. You won't miss your old hot chocolate. This hot cocoa powder is made with real cocoa and nonfat milk. This gluten free hot cocoa mix is made with no artificial sweeteners, preservatives, flavors or colors. Empty into a mug, add 8 ounces of hot water or milk and stir. Whatever you’re warming up to, know that Swiss Miss will give you everything you need in the palm of your hands.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Swiss Miss",
+  "SIZE": "41 mL",
+  "EAN": "0070920476339",
+  "STATUS": "MATCHED"
+ },
+ "07092047634": {
+  "FULL_NAME_FOUND": "Swiss Miss Hot Cocoa Mix Milk Chocolate W/Marshmallow",
+  "DESCRIPTION": "Swiss Miss Chocolate Hot Cocoa Mix With Marshmallows makes a warm, delightful hot cocoa drink with mini marshmallows that will bring you comfort and everyday warmth whenever you need it. This hot cocoa drink mix easily transforms into a rich, creamy hot cocoa with marshmallows that delivers on that timeless flavor your family has always known and loved. Swiss Miss Hot Cocoa Mix is packaged in individual packets so every mug you make is equally delicious. You won't miss your old hot chocolate with marshmallows. This chocolate hot cocoa powder is made with real cocoa and nonfat milk to give you that comforting, rich and creamy taste you expect from Swiss Miss. Not only is this a gluten free hot cocoa mix, but it's made with no artificial sweeteners, preservatives, flavors or colors. Preparing a delicious mug of this hot cocoa is easy. Empty the chocolatey cocoa mix into a mug, add 8 ounces of hot water (or milk for a richer taste) and stir. Enjoy a mug as part of your morning routine, on chilly days or as a sweet evening treat. You can use this cocoa mix in different ways. Try making a tasty iced cocoa drink to cool you down, or incorporate the hot cocoa mix into your recipes for brownies, cookies, cakes and more. Whatever you’re warming up to, know that Swiss Miss will give you everything you need in the palm of your hands.",
+  "CATEGORY": "Marshmallows",
+  "BRAND": "Swiss Miss",
+  "SIZE": "",
+  "EAN": "0070920476346",
+  "STATUS": "MATCHED"
+ },
+ "07097047257": {
+  "FULL_NAME_FOUND": "Hot Tamales Chewy Candy, Fierce Cinnamon, Peg Bags",
+  "DESCRIPTION": "Delicious hot cinnamon candy with a chewy texture. Convenient 5-ounce snack size.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Hot Tamales",
+  "SIZE": "",
+  "EAN": "0070970472572",
+  "STATUS": "MATCHED"
+ },
+ "07097047258": {
+  "FULL_NAME_FOUND": "Mike & Ike Mega Mix Peg Bag",
+  "DESCRIPTION": "Perfect for candy lovers who crave variety, Mike & Ike Mega Mix delivers a colourful assortment that’s chewy, sweet, and packed with flavour. Great for sharing, snacking at the movies, or enjoying anytime you want a mix of fruity fun.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Mike & Ike",
+  "SIZE": "",
+  "EAN": "0070970472589",
+  "STATUS": "MATCHED"
+ },
+ "07097047259": {
+  "FULL_NAME_FOUND": "Mike And Ike Chewy Fruit Candy, Original Fruits",
+  "DESCRIPTION": "Original fruits peg bag candy. Made with real fruit juice. Includes cherry, strawberry, lemon, orange, and lime. The fun bean shape and satisfying chew make these treats a favorite for candy lovers.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Mike And Ike",
+  "SIZE": "",
+  "EAN": "0070970472596",
+  "STATUS": "MATCHED"
  }
 }

@@ -1078,5 +1078,95 @@
   "SIZE": "",
   "EAN": "0012300844000",
   "STATUS": "MATCHED"
+ },
+ "01230084417": {
+  "FULL_NAME_FOUND": "Camel Cigarettes, Silver, Turkish Blend",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Camel",
+  "SIZE": "",
+  "EAN": "0012300844178",
+  "STATUS": "MATCHED"
+ },
+ "01230091260": {
+  "FULL_NAME_FOUND": "Camel Crush",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0012300912600",
+  "STATUS": "MATCHED"
+ },
+ "01254600546": {
+  "FULL_NAME_FOUND": "Dentyne Ice Sugar Free Winter Chill Gum",
+  "DESCRIPTION": "offers a refreshing, crisp mint flavor with a cool, invigorating finish. These sugar-free gum pieces provide long-lasting breath freshness and a satisfying chew, making them ideal for maintaining clean, cool breath throughout the day. Crafted for consistent quality, Dentyne Ice Winterchill deliv.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Dentyne",
+  "SIZE": "",
+  "EAN": "0012546005463",
+  "STATUS": "MATCHED"
+ },
+ "01254601107": {
+  "FULL_NAME_FOUND": "Trident Sugar Free Gum Spearmint 14 Sticks",
+  "DESCRIPTION": "This Trident chewing gum spearmint is from Trident brand. It is well suited for you dessert need or for your sweet collection.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Trident",
+  "SIZE": "",
+  "EAN": "0012546011075",
+  "STATUS": "MATCHED"
+ },
+ "01254601109": {
+  "FULL_NAME_FOUND": "Trident Original Flavor Sugar Free Gum 14 Piece Pack",
+  "DESCRIPTION": "Norma’s Tactical line of ammunition is produced for the civilian market as well as for military and law enforcement around the world. This affordable full metal jacket ammunition is great for training at the range, ringing steel or for punching holes in paper.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Trident",
+  "SIZE": "",
+  "EAN": "0012546011099",
+  "STATUS": "MATCHED"
+ },
+ "01254601111": {
+  "FULL_NAME_FOUND": "Trident Tropical Twist Sugar Free Gum",
+  "DESCRIPTION": "Trident Tropical Twist Sugar-Free Gum Made with Xylitol is a fruity and delicious way to freshen your breath and protect your teeth. These sticks of fruit gum are individually wrapped for freshness.",
+  "CATEGORY": "Snack Foods",
+  "BRAND": "Trident",
+  "SIZE": "",
+  "EAN": "0001254601111",
+  "STATUS": "MATCHED"
+ },
+ "01254601113": {
+  "FULL_NAME_FOUND": "Trident Sugar Free Watermelon Twist Chewing Gum",
+  "DESCRIPTION": "Trident Watermelon Twist 14pc. Get close-up confidence with Trident Sugar Free gum, the easy way to freshen breath and help protect against tooth decay With 30% fewer calories than sugared gum. Pop a piece for a long lasting burst of flavor.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Trident",
+  "SIZE": "",
+  "EAN": "0012546011136",
+  "STATUS": "MATCHED"
+ },
+ "01254601142": {
+  "FULL_NAME_FOUND": "Trident Perfect Peppermint Sugar Free Gum",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Flour",
+  "BRAND": "Trident",
+  "SIZE": "",
+  "EAN": "0001254601142",
+  "STATUS": "MATCHED"
+ },
+ "01254601144": {
+  "FULL_NAME_FOUND": "Trident Sugar Free Gum, Bubble",
+  "DESCRIPTION": "Sugar free bubble gum that helps clean and protect teeth while freshening breath. Sugarless gum made with xylitol.Find the NS CHEWNG GUM UBLGM 14PK at Ace.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Trident",
+  "SIZE": "",
+  "EAN": "0012546011440",
+  "STATUS": "MATCHED"
+ },
+ "01254601147": {
+  "FULL_NAME_FOUND": "Trident Sugar Free Gum Cinnamon 14 Sticks",
+  "DESCRIPTION": "Sugar Free Gum Made with Xylitol tastes like the spice of a firm handshake combined with the chew of a gum. Each stick of Trident cinnamon gum contains 30% fewer calories than sugared gum. Chewing Trident gum after eating and drinking cleans and protects teeth. Individual packs of chewing gum fit perfectly in pockets and purses.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Trident",
+  "SIZE": "",
+  "EAN": "0012546011471",
+  "STATUS": "MATCHED"
  }
 }

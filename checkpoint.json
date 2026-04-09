@@ -898,5 +898,95 @@
   "SIZE": "355 mL",
   "EAN": "0012000809941",
   "STATUS": "MATCHED"
+ },
+ "01200081331": {
+  "FULL_NAME_FOUND": "Starbucks Frappuccino Vanilla Chilled Coffee Drink - 13.7 Fl Oz Glass Bottle",
+  "DESCRIPTION": "Enjoy your favorite chilled coffee drink on the go thanks to Starbucks bottled coffee drinks. All made with real Starbucks coffee, you can enjoy the flavor of your favorite café drinks at home and on the go. The perfect late afternoon pick-me-up, this delicious cold coffee treat is great straight from the bottle or enjoyed over ice.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Starbucks",
+  "SIZE": "405 mL",
+  "EAN": "0012000813313",
+  "STATUS": "MATCHED"
+ },
+ "01204403753": {
+  "FULL_NAME_FOUND": "Old Spice Red Collection Swagger Scent Deodorant For Men - Cedarwood, 3 Oz",
+  "DESCRIPTION": "The Old Spice Red Collection deodorant for men is a bleak, maze-like environment where lasers fire in random directions and the sky is always filled with lightning. Odor never dares enter the Red Collection. The Old Spice man, on the other hand, flourishes in the Red Collection, throwing touchdowns, doing recon and saving females from danger, all while smelling great. Old Spice Red Collection Deodorant fights odor for 48 hours.",
+  "CATEGORY": "Deodorant",
+  "BRAND": "Old Spice",
+  "SIZE": "",
+  "EAN": "0012044037539",
+  "STATUS": "MATCHED"
+ },
+ "01204403891": {
+  "FULL_NAME_FOUND": "Old Spice High Endurance Pure Sport Scent Deodorant For Men",
+  "DESCRIPTION": "Old Spice High Endurance brings superior protection power to a higher level with a new formula for generating greatness. High Endurance Deodorant for men confidently delivers 48 proven hours of odor protection. Because it goes on clear, it reduces those annoying white marks on clothes. High Endurance is formulated to keep you smelling great longer with a long-lasting scent. So when you stand out in a crowd, it's because of how good you smell. Old Spice is a good offense without smelling offensive. Grab Old Spice today, because anything less than Old Spice isn't Old Spice.",
+  "CATEGORY": "Deodorant",
+  "BRAND": "Old Spice",
+  "SIZE": "",
+  "EAN": "0012044038918",
+  "STATUS": "MATCHED"
+ },
+ "01230000001": {
+  "FULL_NAME_FOUND": "Camel Cigarettes, Blue, Turkish & Domestic Blend",
+  "DESCRIPTION": "Class A cigarettes. Choice quality. Don't look for premiums or coupons, as the cost of the tobacco blended in Camel cigarettes pro-hibits the use of them. www.RJRT.com. Call us at 1-800-334-8157 or visit us at camel.com. Please don't litter.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Camel",
+  "SIZE": "",
+  "EAN": "0012300000017",
+  "STATUS": "MATCHED"
+ },
+ "01230000003": {
+  "FULL_NAME_FOUND": "Camel Cigarettes, Filters, Turkish & Domestic Blend",
+  "DESCRIPTION": "Since 1913. Class A cigarettes. Tomorrow there'll be more Camels in this town than all Asia and Africa combined! So said our ad. The Camels came and they keep coming. The Camels are coming! www.RJRT.com. Call us as 1-800-334-8157 or visit us as camel.com. Please don't litter.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Camel",
+  "SIZE": "",
+  "EAN": "0012300000031",
+  "STATUS": "MATCHED"
+ },
+ "01230000007": {
+  "FULL_NAME_FOUND": "Camel Cigarettes, Blue, Turkish & Domestic Blend",
+  "DESCRIPTION": "Since 1913. Camel's famous billboard in Times Square puffed out around 200 million giant smoke rings in its 25-year career. The sign is gone, but the enjoyment keeps on going. Camel: Costlier tobaccos. 20 class A cigarettes. www.RJRT.com. Call us at 1-800-334-8157 or visit us at camel.com. Please don't litter.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Camel",
+  "SIZE": "",
+  "EAN": "0012300000079",
+  "STATUS": "MATCHED"
+ },
+ "01230000023": {
+  "FULL_NAME_FOUND": "Camel Snus Mellow",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Camel",
+  "SIZE": "",
+  "EAN": "0012300000239",
+  "STATUS": "MATCHED"
+ },
+ "01230000040": {
+  "FULL_NAME_FOUND": "Camel Snus Frost, Large",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Chewing Tobacco",
+  "BRAND": "Camel",
+  "SIZE": "",
+  "EAN": "0012300000406",
+  "STATUS": "MATCHED"
+ },
+ "01230000068": {
+  "FULL_NAME_FOUND": "G-Light Luminária Plafon Europa 400 Led 22w 6000k Autovolt",
+  "DESCRIPTION": "O plafon Europa 400 LED G-Light, com todo seu requinte e sofisticação, chegou para deixar o seu ambiente mais elegante. Com hastes em cristal K5, o plafon mostra todo o seu glamour aliado a qualidade. Seu acabamento cromado, vidros jateados e espelhados torna-o ainda mais moderno, associando beleza a tecnologia LED. Sofisticação. A composição do plafon inclui cristais K5, parafusos em INOX, acabamentos cromados, vidros jateados e espelhados, tornando-o. Sofisticado e elegante. Durabilidade. O plafon Europa 370 LED G-light, utiliza a tecnologia LED, proporcionando uma grande economia no consumo de energia e durabilidade. Embalagem. Seguindo a revitalização de toda linha decorativa, o plafon Europa 370, já possui embalagem atraente e com apelo comercial elegante.",
+  "CATEGORY": "",
+  "BRAND": "G-Light",
+  "SIZE": "",
+  "EAN": "0001230000068",
+  "STATUS": "MATCHED"
+ },
+ "01230000070": {
+  "FULL_NAME_FOUND": "Camel Suns Frost, Regular",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Household Supplies",
+  "BRAND": "Camel",
+  "SIZE": "",
+  "EAN": "0012300000703",
+  "STATUS": "MATCHED"
  }
 }

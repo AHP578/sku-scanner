@@ -808,5 +808,95 @@
   "SIZE": "591 mL",
   "EAN": "0012000240751",
   "STATUS": "MATCHED"
+ },
+ "01200024080": {
+  "FULL_NAME_FOUND": "Pepsi Cola, Wild Cherry & Cream 20 Fl Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Pepsi",
+  "SIZE": "591 mL",
+  "EAN": "0012000240805",
+  "STATUS": "MATCHED"
+ },
+ "01200028617": {
+  "FULL_NAME_FOUND": "Pure Leaf Real Extra Sweet Brewed Tea 18.5 Fl Oz",
+  "DESCRIPTION": "Discover the deliciously refreshing taste of Pure Leaf Real Brewed Tea. Made with real tea leaves, this Extra Sweet Tea provides a 100% natural source of hydration and is a perfect balance of sweetness and flavor. Enjoy a true authentic iced tea experience with every sip.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Pure Leaf",
+  "SIZE": "547 mL",
+  "EAN": "0012000286179",
+  "STATUS": "MATCHED"
+ },
+ "01200028618": {
+  "FULL_NAME_FOUND": "Pure Leaf Real Brewed Tea Lemon 18.5 Fl Oz Bottle",
+  "DESCRIPTION": "Discover the refreshing taste of Pure Leaf Real Brewed Tea Lemon. Made with real tea leaves and natural flavors, this 547ml bottle is perfect for on-the-go enjoyment. Enjoy the crisp and tangy flavor of lemon while benefiting from the antioxidant properties of tea.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Pure Leaf",
+  "SIZE": "547 mL",
+  "EAN": "0012000286186",
+  "STATUS": "MATCHED"
+ },
+ "01200028619": {
+  "FULL_NAME_FOUND": "Pure Leaf Sweet Tea Real Brewed Tea, 18.5 Fl Oz",
+  "DESCRIPTION": "A classic deserves respect, so we paid extra attention to get our sweet tea just right. Starting from freshly picked leaves and sweetened with real sugar for a delicious fresh-brewed taste.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Pure Leaf",
+  "SIZE": "547 mL",
+  "EAN": "0012000286193",
+  "STATUS": "MATCHED"
+ },
+ "01200028620": {
+  "FULL_NAME_FOUND": "Pure Leaf No Sugar Real Unsweetened Brewed Tea 18.5 Fl Oz",
+  "DESCRIPTION": "Discover the pure taste of real brewed tea with Pure Leaf. Made with high quality tea leaves, our Unsweetened 547ml bottle is a refreshing choice for a hot summer day or an on-the-go pick me up. Enjoy the natural, crisp flavor without any added sweeteners. A perfect indulgence for tea lovers.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Pure Leaf",
+  "SIZE": "547 mL",
+  "EAN": "0012000286209",
+  "STATUS": "MATCHED"
+ },
+ "01200028621": {
+  "FULL_NAME_FOUND": "Pure Leaf Real Brewed Tea Peach 18.5 Fl Oz Bottle",
+  "DESCRIPTION": "The deliciously tart flavor of lemon is the perfect companion for freshly brewed tea. Authentically brewed using real tea leaves and water and sweetened with real sugar, for an iced tea that’s, well, exactly how you’d make it. At pure leaf, we believe the best things in life are real and simple. But sometimes, simplicity takes a little more work. Before each pure leaf brew is freshly bottled and sealed, our tea leaves are given a lot of love and attention, resulting in refreshing, leaf brewed tea (not from powder or concentrate). Pure Leaf has a passion for serving some of the best iced tea out there and offers a variety of iced teas to choose from. Our iced tea is brewed from real tea leaves, never from powders or concentrates. It starts from freshly picked tea leaves, expertly blended by the Pure Leaf team of Tea Masters, and steeped and brewed for an authentic taste that can only come from Pure Leaf.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Pure Leaf",
+  "SIZE": "547 mL",
+  "EAN": "0012000286216",
+  "STATUS": "MATCHED"
+ },
+ "01200028622": {
+  "FULL_NAME_FOUND": "Pure Leaf Real Brewed Tea Raspberry 18.5 Fl Oz Bottle",
+  "DESCRIPTION": "Pure Leaf Tea Raspberry. This product made with natural flavors. This product contains no artificial sweeteners. It s sweetened with real sugar with no added color.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Pure Leaf",
+  "SIZE": "547 mL",
+  "EAN": "0012000286223",
+  "STATUS": "MATCHED"
+ },
+ "01200028624": {
+  "FULL_NAME_FOUND": "Pure Leaf Real Brewed Tea Diet Peach 18.5 Fl Oz",
+  "DESCRIPTION": "Iced tea brewed from real leaves. Starting from fresh picked leaves and complemented by the natural flavor of peach for a delicious fresh brewed taste.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Pure Leaf",
+  "SIZE": "547 mL",
+  "EAN": "0012000286247",
+  "STATUS": "MATCHED"
+ },
+ "01200050404": {
+  "FULL_NAME_FOUND": "Aquafina Purified Drinking Water, 16.9 Fl Oz, 24 Pack Bottles",
+  "DESCRIPTION": "Aquafina’s reverse osmosis purification system means pure water and perfect taste every time. The Eco-fina bottle is made from 50% less plastic. And our plastic water bottles, even the cap, label and multipack outer wrap, are 100% recyclable.",
+  "CATEGORY": "Water",
+  "BRAND": "Aquafina",
+  "SIZE": "500 mL",
+  "EAN": "0012000504044",
+  "STATUS": "MATCHED"
+ },
+ "01200080994": {
+  "FULL_NAME_FOUND": "Pepsi Cola Soda - 12pk/12 Fl Oz Cans",
+  "DESCRIPTION": "Enjoy an ice cold Pepsi, the bold, refreshing cola. Pepsi is the official soft drink of the National Football League, Major League Baseball, and cola lovers everywhere. Pepsi was born in New Bern, NC in 1898 and is still bottled in the USA today. Perfect for parties, meals, and anywhere you need to make a big impression. This 12pk is perfect to share or take on the go anytime, anywhere. Enjoy the refreshing cola taste right out of the can, over ice, or with a twist of lemon or lime. For a classic treat, try serving with a scoop of vanilla ice cream! .",
+  "CATEGORY": "Soda",
+  "BRAND": "Pepsi",
+  "SIZE": "355 mL",
+  "EAN": "0012000809941",
+  "STATUS": "MATCHED"
  }
 }

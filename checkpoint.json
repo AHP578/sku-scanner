@@ -3598,5 +3598,95 @@
   "SIZE": "",
   "EAN": "0073010314092",
   "STATUS": "MATCHED"
+ },
+ "07310000036": {
+  "FULL_NAME_FOUND": "Copenhagen Long Cut Tobacco, Mint, Smokeless",
+  "DESCRIPTION": "Satisfaction since 1822. 100% American tobacco. Guaranteed fresh. FreshCope.com.",
+  "CATEGORY": "Chewing Tobacco",
+  "BRAND": "Copenhagen",
+  "SIZE": "",
+  "EAN": "0073100000362",
+  "STATUS": "MATCHED"
+ },
+ "07310000039": {
+  "FULL_NAME_FOUND": "Copenhagen Smokeless Tobacco, Mint, Pouches",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Household Supplies",
+  "BRAND": "Copenhagen",
+  "SIZE": "",
+  "EAN": "0073100000393",
+  "STATUS": "MATCHED"
+ },
+ "07310000060": {
+  "FULL_NAME_FOUND": "Skoal Smokeless Tobacco, Classic Straight, Long Cut - 1.2 Ounce",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Chewing Tobacco",
+  "BRAND": "Skoal",
+  "SIZE": "",
+  "EAN": "0073100000607",
+  "STATUS": "MATCHED"
+ },
+ "07310000088": {
+  "FULL_NAME_FOUND": "Skoal Smokeless Tobacco, Classic Mint, Long Cut",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Chewing Tobacco",
+  "BRAND": "Skoal",
+  "SIZE": "",
+  "EAN": "0073100000881",
+  "STATUS": "MATCHED"
+ },
+ "07310000107": {
+  "FULL_NAME_FOUND": "Copenhagen Fine Cut Snuff",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Food, Beverages & Tobacco",
+  "BRAND": "Copenhagen",
+  "SIZE": "",
+  "EAN": "0073100001079",
+  "STATUS": "MATCHED"
+ },
+ "07310000121": {
+  "FULL_NAME_FOUND": "Copenhagen Long Cut Tobacco, Smokeless",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Chewing Tobacco",
+  "BRAND": "Copenhagen",
+  "SIZE": "",
+  "EAN": "0073100001215",
+  "STATUS": "MATCHED"
+ },
+ "07310000148": {
+  "FULL_NAME_FOUND": "Skoal Smokeless Tobacco, Classic Wintergreen, Long Cut",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Chewing Tobacco",
+  "BRAND": "Skoal",
+  "SIZE": "",
+  "EAN": "0073100001482",
+  "STATUS": "MATCHED"
+ },
+ "07310000319": {
+  "FULL_NAME_FOUND": "Skoal Smokeless Tobacco, Classic Wintergreen, Pouches",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Chewing Tobacco",
+  "BRAND": "Skoal",
+  "SIZE": "",
+  "EAN": "0073100003196",
+  "STATUS": "MATCHED"
+ },
+ "07310000457": {
+  "FULL_NAME_FOUND": "Skoal Tobacco, Smokeless, Classic Mint, Pouches",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Chewing Tobacco",
+  "BRAND": "Skoal",
+  "SIZE": "",
+  "EAN": "0073100004575",
+  "STATUS": "MATCHED"
+ },
+ "07310000485": {
+  "FULL_NAME_FOUND": "Skoal Smokeless Tobacco, Long Cut, Citrus Tobacco Blend",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Chewing Tobacco",
+  "BRAND": "Skoal",
+  "SIZE": "",
+  "EAN": "0073100004858",
+  "STATUS": "MATCHED"
  }
 }

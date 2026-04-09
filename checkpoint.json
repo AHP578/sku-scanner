@@ -1708,5 +1708,95 @@
   "SIZE": "1893 mL",
   "EAN": "0014800000344",
   "STATUS": "MATCHED"
+ },
+ "01480058204": {
+  "FULL_NAME_FOUND": "ReaLime 100% Juice Natural Strength",
+  "DESCRIPTION": "Made from high quality limes in a concentrated strength. Add a citrus burst to beverages, marinades, salads, meat, seafood and desserts.",
+  "CATEGORY": "Juice",
+  "BRAND": "ReaLime",
+  "SIZE": "237 mL",
+  "EAN": "0014800582048",
+  "STATUS": "MATCHED"
+ },
+ "07013721565": {
+  "FULL_NAME_FOUND": "Black & Mild Sweets Pt Single",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0070137215653",
+  "STATUS": "MATCHED"
+ },
+ "07013783922": {
+  "FULL_NAME_FOUND": "Bm Wine Ptip",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Wine",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0070137839224",
+  "STATUS": "MATCHED"
+ },
+ "07013783982": {
+  "FULL_NAME_FOUND": "Black & Mild Wt Jazz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Household Supplies",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0070137839828",
+  "STATUS": "MATCHED"
+ },
+ "07015800005": {
+  "FULL_NAME_FOUND": "Krazy Glue Super All Purpose, Precision Tip, 0.07 Ounce",
+  "DESCRIPTION": "Make instant and lasting repairs with this Krazy Glue clear all-purpose glue tube. Bond wood, glass, and a wide variety of other materials securely with this all-purpose glue. Ideal for fixing cracks, breaks, and tears around the office, this clear glue has a precise one-drop applicator that can reach difficult spots. This Krazy Glue all-purpose glue tube opens cleanly with a self-piercing nozzle and provides an incredibly strong adhesive in one solution without the need for mixing. Glue is perfect for use on leather, plastic, ceramics, glass, and other materials. Permanent super glue.",
+  "CATEGORY": "Hardware Glue & Adhesives",
+  "BRAND": "Krazy Glue",
+  "SIZE": "",
+  "EAN": "0070158000054",
+  "STATUS": "MATCHED"
+ },
+ "07019559016": {
+  "FULL_NAME_FOUND": "America's Best Chew Chewing Tobacco, Loose Leaf, Original Blend 3 Oz",
+  "DESCRIPTION": "America's best chew. Fresh-Trak moisture-lock. Redman.com. Comments? (270) 685-8777. Sale only allowed in the United States. At least 67% domestic grown tobacco.",
+  "CATEGORY": "Chewing Tobacco",
+  "BRAND": "America's Best Chew",
+  "SIZE": "",
+  "EAN": "0070195590167",
+  "STATUS": "MATCHED"
+ },
+ "07027223202": {
+  "FULL_NAME_FOUND": "Reddi Wip Whipped Cream Original Dairy Topping",
+  "DESCRIPTION": "Enjoy this dairy whipped topping on ice cream sundaes, strawberry shortcake, pumpkin pie, hot chocolate and other desserts. Like whipped cream, the Original Reddi-wip is made with real cream as the first ingredient and has no artificial flavors or sweeteners. Real cream means real flavor with 15 calories per serving. Now that's something to be joyful about. Shake well before use.",
+  "CATEGORY": "Whips",
+  "BRAND": "Reddi Wip",
+  "SIZE": "",
+  "EAN": "0070272232027",
+  "STATUS": "MATCHED"
+ },
+ "07033000002": {
+  "FULL_NAME_FOUND": "BiC Mini Lighter",
+  "DESCRIPTION": "The Bic 5054 Mini Lighter is a compact and reliable lighter designed for everyday use. Perfect for lighting candles, barbecues, and more, this lighter is a must-have for any household or outdoor enthusiast. With a sleek design and easy-to-use functionality, it is ideal for both indoor and outdoor activities.",
+  "CATEGORY": "Lighters & Matches",
+  "BRAND": "BiC",
+  "SIZE": "",
+  "EAN": "0070330000025",
+  "STATUS": "MATCHED"
+ },
+ "07033060006": {
+  "FULL_NAME_FOUND": "BiC Classic Pocket Lighter, Assorted Colors",
+  "DESCRIPTION": "The classic Bic Lighter is a must-have for any smoker. Renowned for its reliability and longevity, this lighter ensures you’re always ready to light up, no matter the occasion. Available in various editions, each offering a unique design to suit your style and preferences.",
+  "CATEGORY": "Lighters & Matches",
+  "BRAND": "BiC",
+  "SIZE": "",
+  "EAN": "0070330600065",
+  "STATUS": "MATCHED"
+ },
+ "07033061853": {
+  "FULL_NAME_FOUND": "Bic Tattoo Lighter",
+  "DESCRIPTION": "undefined Show More Warnings Keep away from children. Ignite lighter away from face and clothing. Be sure flame is completely out after each use. Never expose to heat above 50 degrees C (122 degrees F) or to prolonged sunlight. Never puncture or put in fire. Follow all instructions and warnings provided by manufacturer of grill, appliance, or any other item when using this product. Do not keep lit for more than 30 seconds. Contains flammable gas under pressure. Wand may be hot after use. No lighter is child-proof. There is no substitute for proper adult supervision.",
+  "CATEGORY": "Lighters & Matches",
+  "BRAND": "Bic",
+  "SIZE": "",
+  "EAN": "0070330618534",
+  "STATUS": "MATCHED"
  }
 }

@@ -2518,5 +2518,95 @@
   "SIZE": "",
   "EAN": "0070970472596",
   "STATUS": "MATCHED"
+ },
+ "07097047260": {
+  "FULL_NAME_FOUND": "Mike & Ike Mega Mix Sour Peg Bag 141g - (Case Of 12)",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cocktail Mixes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0007097047260",
+  "STATUS": "MATCHED"
+ },
+ "07097047531": {
+  "FULL_NAME_FOUND": "Hot Tamales Fierce Cinnamon Flavored Chewy Candies Theater Box, 4.25 Ounce",
+  "DESCRIPTION": "Fire up your taste buds with these one-of-a-kind, chewy, cinnamon flavored candies. The original variety of HOT TAMALES Brand candies delivers an intense burst of heat with every bite. So what are you waiting for? Grab a handful, and feel the burn.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Hot Tamales",
+  "SIZE": "",
+  "EAN": "0070970475313",
+  "STATUS": "MATCHED"
+ },
+ "07097047533": {
+  "FULL_NAME_FOUND": "Mike and Ike Original Fruits Chewy Candy 4.25 Oz Box - Delicious Fruity Treat",
+  "DESCRIPTION": "Indulge your taste buds with a burst of fruity flavor in every chewy bite. This 5 oz theater box is packed with a delightful assortment of classic fruit-flavored candies, perfect for movie nights, road trips, or just a sweet treat anytime. Savor the vibrant and juicy taste combinations that have made this candy a beloved choice for generations.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Mike and Ike",
+  "SIZE": "",
+  "EAN": "0070970475337",
+  "STATUS": "MATCHED"
+ },
+ "07097047534": {
+  "FULL_NAME_FOUND": "Mike and Ike N Berry Blast Candy - Theater Box",
+  "DESCRIPTION": "Berry lovers, enjoy the Mike and Ike® Berry Blast® Theater Box! A chewy candy mix with blue raspberry, strawberry, wild berry, blueberry, and peach berry flavors. Fruity, fun, and delicious!",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Mike and Ike",
+  "SIZE": "",
+  "EAN": "0070970475344",
+  "STATUS": "MATCHED"
+ },
+ "07097047539": {
+  "FULL_NAME_FOUND": "Mike and Ike Red Rageous Theater Box 4.25oz - 12ct",
+  "DESCRIPTION": "All your favorite red fruit flavors in one theater box. Mike and Ike Red Rageous Chewy Candies are a delight to chew.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Mike and Ike",
+  "SIZE": "",
+  "EAN": "0070970475399",
+  "STATUS": "MATCHED"
+ },
+ "07097091024": {
+  "FULL_NAME_FOUND": "Goldenberg's Original Dark Chocolate Peanut Chews 2 Oz",
+  "DESCRIPTION": "Chewy, bite-sized candy pieces packed with fresh roasted peanuts and covered in a rich dark chocolatey coating. Made with fresh-roasted Georgia peanuts. A favorite American confection for over a century. Made by Just Born confectioners, famous and trusted producers of many popular candies.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Goldenberg's",
+  "SIZE": "",
+  "EAN": "0070970910241",
+  "STATUS": "MATCHED"
+ },
+ "07103800047": {
+  "FULL_NAME_FOUND": "Chock Full O'Nuts Ground Medium Heavenly Original Coffee 11.3 Oz",
+  "DESCRIPTION": "Chock Full o’Nuts Original is a classic, smooth, medium-roast coffee known for its rich aroma and bold, no-nonsense flavor. Made from a carefully selected blend of premium coffee beans, this iconic roast delivers a balanced cup that’s never bitter, with a deep, satisfying taste that coffee lovers have trusted for generations. Whether brewed in a drip machine, French press, or percolator, Chock Full o’Nuts Original offers a consistently smooth and flavorful experience, perfect for starting the day or enjoying any time.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Chock Full O'Nuts",
+  "SIZE": "334 mL",
+  "EAN": "0071038000478",
+  "STATUS": "MATCHED"
+ },
+ "07104006310": {
+  "FULL_NAME_FOUND": "Polly-o Whole Milk Mozzarella Cheese",
+  "DESCRIPTION": "Polly-O cheese brand follows the traditions of Giuseppe Pollio who, in 1899, began making ricotta and mozzarella cheeses on New York’s Coney Island, using the open-fire method of Italian cheesemakers. (from Polly-O).",
+  "CATEGORY": "Cheese",
+  "BRAND": "Polly-o",
+  "SIZE": "",
+  "EAN": "0007104006310",
+  "STATUS": "MATCHED"
+ },
+ "07104006330": {
+  "FULL_NAME_FOUND": "Polly-O Part Skim Mozzarella Cheese",
+  "DESCRIPTION": "Polly-O Part-Skim Mozzarella Cheese is made with premium-quality ingredients using classic Italian techniques. Creamy and delicious, this mozzarella cheese transforms your everyday meals into an indulgent experience. The mozzarella cheese is ideal for slicing, shredding or grating for Italian recipes. Made with high quality pasteurized part-skim milk, this creamy mozzarella cheese contains 70 calories per serving. Slice this real mozzarella cheese for snacking, shred it onto pizzas, or use some in pasta dinners for extra delicious flavor. Each 16 ounce cheese chunk is vacuum-packed to lock in flavor until ready to use.",
+  "CATEGORY": "Cheese",
+  "BRAND": "Polly-O",
+  "SIZE": "",
+  "EAN": "0071040063300",
+  "STATUS": "MATCHED"
+ },
+ "07115300203": {
+  "FULL_NAME_FOUND": "STP Brake Fluid, Heavy Duty, Dot 3 12 Fl Oz",
+  "DESCRIPTION": "Discover the power of STP® Heavy Duty Brake Fluid - an essential defense against brake failure and corrosion. This high-performance formula meets all federal motor vehicle safety standards and works with any brake system requiring DOT 3 fluids.",
+  "CATEGORY": "Vehicle Brake Fluid",
+  "BRAND": "STP",
+  "SIZE": "",
+  "EAN": "0071153002036",
+  "STATUS": "MATCHED"
  }
 }

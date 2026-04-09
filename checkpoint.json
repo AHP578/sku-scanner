@@ -2608,5 +2608,95 @@
   "SIZE": "",
   "EAN": "0071153002036",
   "STATUS": "MATCHED"
+ },
+ "07115300204": {
+  "FULL_NAME_FOUND": "STP Power Steering Fluid 12 Fl Oz",
+  "DESCRIPTION": "Vital parts in today's power steering systems need protection in order to keep them operating over a wide range of summer and winter temperature conditions. Specifically designed for power steering units, STP Power Steering Fluid provides year-round protection.Protects against wear and pump breakdown caused by abnormal wear, oxidation, and foamingPerforms even in sub-zero treatmentSpecifically designed for power steering units.",
+  "CATEGORY": "Vehicle Power Steering Fluid",
+  "BRAND": "STP",
+  "SIZE": "",
+  "EAN": "0071153002043",
+  "STATUS": "MATCHED"
+ },
+ "07115365148": {
+  "FULL_NAME_FOUND": "STP High Viscosity Oil Treatment (15 Fluid Ounces)",
+  "DESCRIPTION": "This high-viscosity formula complete with anti wear agent ZDDP is specially formulated to help fight metal-to-metal friction by providing a thicker cushion between moving engine parts. Counteracts oil thinning by boosting viscosity.",
+  "CATEGORY": "Lubricants",
+  "BRAND": "STP",
+  "SIZE": "",
+  "EAN": "0071153651487",
+  "STATUS": "MATCHED"
+ },
+ "07115366046": {
+  "FULL_NAME_FOUND": "STP Power Steering Fluid, + Stop Leak, 12 Ounce",
+  "DESCRIPTION": "Revitalizes dried, hardened and shrunken seals with a special conditioner. Helps protect against wear and pump breakdown. Compatible with all approved power steering fluids. STP Power Steering Fluid + Stop Leak is specially formulated for vehicles over 75,000 miles to stop or reduce fluid loss caused by seals that leak due to wear or shrinkage (not for use with broken or scored seals). This treatment helps stop most wear and shrinkage levels. Can be used instead of regular power steering fluid as preventive maintenance.",
+  "CATEGORY": "Vehicle Power Steering Fluid",
+  "BRAND": "STP",
+  "SIZE": "",
+  "EAN": "0071153660465",
+  "STATUS": "MATCHED"
+ },
+ "07115378380": {
+  "FULL_NAME_FOUND": "STP Diesel Fuel Treatment And Injector Cleaner, 20 Fluid Ounce Bottle",
+  "DESCRIPTION": "Helps maintain diesel engine performance by keeping fuel injectors clean and improving the lubricity of diesel fuel. Formulated to help prevent deposit buildup in diesel engines. Without cleaning, these deposits can harm performance, cause corrosion, and waste fuel.",
+  "CATEGORY": "Fuel",
+  "BRAND": "STP",
+  "SIZE": "",
+  "EAN": "0071153783805",
+  "STATUS": "MATCHED"
+ },
+ "07115378568": {
+  "FULL_NAME_FOUND": "STP Complete Fuel System Cleaner, 5.25 Fluid Ounce Bottle For Engine Performance",
+  "DESCRIPTION": "Removes deposits from entire fuel system! Treats up to 21 gallons. Use at every oil change or 4,000 miles.",
+  "CATEGORY": "Vehicle Fuel System Cleaners",
+  "BRAND": "STP",
+  "SIZE": "",
+  "EAN": "0071153785687",
+  "STATUS": "MATCHED"
+ },
+ "07115378571": {
+  "FULL_NAME_FOUND": "STP High Mileage Fuel Injector & Carburetor Treatment - 5.25 Fluid Ounce",
+  "DESCRIPTION": "Without cleaning, deposits can lead to hard starts, lost acceleration and rough idling. STP® Fuel Injector & Carburetor Treatment is specially formulated to maintain clean performance of fuel injectors and carburetors by helping to prevent the accumulation of deposits. It’s made with jet fuel, a high-quality carrier of active ingredients.",
+  "CATEGORY": "Fuel",
+  "BRAND": "STP",
+  "SIZE": "",
+  "EAN": "0071153785717",
+  "STATUS": "MATCHED"
+ },
+ "07115378572": {
+  "FULL_NAME_FOUND": "STP All Season Gasoline Water Remover 5.25 Oz",
+  "DESCRIPTION": "This concentrated fuel treatment helps maintain optimum performance all year round. It works to fight rust and corrosion while removing condensation in warm weather and helps prevent fuel line freeze.",
+  "CATEGORY": "Water",
+  "BRAND": "STP",
+  "SIZE": "155 mL",
+  "EAN": "0071153785724",
+  "STATUS": "MATCHED"
+ },
+ "07115378573": {
+  "FULL_NAME_FOUND": "STP Super Concentrated Gas Treatment, 5.25 Fluid Ounce Bottle For Fuel System Cleaning",
+  "DESCRIPTION": "STP® Gas Treatment improves the quality of gas by adding powerful cleaning agents that help fight the accumulation of harmful carbon, gum and varnish deposits in the fuel system that can reduce performance. Also engineered to remove water, which can lead to fuel line freeze. This product is made with jet fuel, a high-quality carrier of active ingredients.",
+  "CATEGORY": "Fuel",
+  "BRAND": "STP",
+  "SIZE": "",
+  "EAN": "0071153785731",
+  "STATUS": "MATCHED"
+ },
+ "07115378574": {
+  "FULL_NAME_FOUND": "STP 78574 Octane Boost",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Vehicle Greases",
+  "BRAND": "STP",
+  "SIZE": "",
+  "EAN": "0007115378574",
+  "STATUS": "MATCHED"
+ },
+ "07115378575": {
+  "FULL_NAME_FOUND": "STP 5.25 Oz. Super Concentrated Fuel Injector System Cleaner",
+  "DESCRIPTION": "Helps to save gas and lower emissions by cleansing dirty fuel injectors, restore power and acceleration, and to smooth rough idle and eliminate tough starts. The cleaner is a high-quality carrier of active ingredients. This bottle treats up to 21 gallons. Use at every oil change or 4,000 miles.",
+  "CATEGORY": "Fuel",
+  "BRAND": "STP",
+  "SIZE": "",
+  "EAN": "0071153785755",
+  "STATUS": "MATCHED"
  }
 }

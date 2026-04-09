@@ -84,10 +84,9 @@ export default async function handler(req, res) {
     let nextScheduledRun = null;
     if (!isRunning) {
       const now = new Date();
-      const nextHour = Math.ceil(now.getUTCHours() / 3) * 3;
       const next = new Date(now);
-      next.setUTCHours(nextHour, 0, 0, 0);
-      if (next <= now) next.setUTCHours(next.getUTCHours() + 3);
+      next.setUTCHours(now.getUTCHours() + 1, 0, 0, 0);
+      if (next <= now) next.setUTCHours(next.getUTCHours() + 1);
       nextScheduledRun = next.toISOString();
     }
 

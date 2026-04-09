@@ -2878,5 +2878,95 @@
   "SIZE": "",
   "EAN": "0071537060256",
   "STATUS": "MATCHED"
+ },
+ "07153706028": {
+  "FULL_NAME_FOUND": "Polar Seltzer, 100% Natural, Black Cherry",
+  "DESCRIPTION": "Just water, bubbles and great taste. Why be flat when you can sparkle? Enjoy naturally calorie-free refreshment made with nothing but water, bubbles and natural fruit essence. Family Made Since 1882 - Not much has changed in the past 135 years. Well, except Polar Seltzer now crafts over 19 different varietals, and we no longer deliver by horse and carriage. Naturally calorie-freeNo sugar, no sweeteners, no sodium, no carbsGluten free, vegan and kosher.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Polar",
+  "SIZE": "591 mL",
+  "EAN": "0071537060287",
+  "STATUS": "MATCHED"
+ },
+ "07153706030": {
+  "FULL_NAME_FOUND": "Polar Seltzer, 100% Natural, Raspberry Lime",
+  "DESCRIPTION": "In Polar Seltzer Raspberry Lime, opposites attract to create an amazing seltzer flavor-ite. Sweet and tart are always right. Pure water, zillions of tiny bubbles to tingle your taste buds, and great tasting fruit flavor to satisfy cravings. Why be flat when you can sparkle? Enjoy naturally calorie-free refreshment made with nothing but water, bubbles and natural fruit essence.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Polar",
+  "SIZE": "591 mL",
+  "EAN": "0071537060300",
+  "STATUS": "MATCHED"
+ },
+ "07153706032": {
+  "FULL_NAME_FOUND": "Polar Seltzer, 100% Natural, Cranberry Lime",
+  "DESCRIPTION": "Polar Seltzer Cranberry Lime brings together New Englands favorite fruit with the bright taste of lime. Pure water, zillions of tiny bubbles to tingle your taste buds, and great tasting fruit flavor to satisfy cravings. Why be flat when you can sparkle? Enjoy naturally calorie-free refreshment made with nothing but water, bubbles and natural fruit essence.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Polar",
+  "SIZE": "591 mL",
+  "EAN": "0071537060324",
+  "STATUS": "MATCHED"
+ },
+ "07153706034": {
+  "FULL_NAME_FOUND": "Polar Seltzer, 100% Natural, Lemon 20 Fl Oz",
+  "DESCRIPTION": "Polar Seltzer Premium Lemon Seltzer Water. Perhaps the 'Grande Dame' of seltzers. Simply superb. This is the definition of clean tasting refreshment. Polar Seltzer Premium Sparkling Water.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Polar",
+  "SIZE": "591 mL",
+  "EAN": "0071537060348",
+  "STATUS": "MATCHED"
+ },
+ "07153706035": {
+  "FULL_NAME_FOUND": "Polar Seltzer, 100% Natural, Lime",
+  "DESCRIPTION": "Polar Seltzer Lime is lean, crisp and classic…nothing more, nothing less. Pure water, zillions of tiny bubbles to tingle your taste buds, and great tasting fruit flavor to satisfy cravings. Why be flat when you can sparkle? Enjoy naturally calorie-free refreshment made with nothing but water, bubbles and natural fruit essence.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Polar",
+  "SIZE": "591 mL",
+  "EAN": "0071537060355",
+  "STATUS": "MATCHED"
+ },
+ "07153706040": {
+  "FULL_NAME_FOUND": "Polar 100% Natural Seltzer Blueberry Lemonade",
+  "DESCRIPTION": "Polar Seltzer's Blueberry Lemonade has a refreshing recipe marked by bright aroma & satisfying flavor. Pure water, zillions of tiny bubbles to tingle your taste buds, and great tasting fruit flavor to satisfy cravings. Why be flat when you can sparkle? Enjoy naturally calorie-free refreshment made with nothing but water, bubbles and natural fruit essence.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Polar",
+  "SIZE": "591 mL",
+  "EAN": "0071537060409",
+  "STATUS": "MATCHED"
+ },
+ "07153706061": {
+  "FULL_NAME_FOUND": "Polar Seltzer, 100% Natural, Orange Vanilla",
+  "DESCRIPTION": "Made with natural flavors. 0 calories per 8 fl oz. No sugar. Calorie-free. No sodium. Family made since 1882. 100% natural. PolarSeltzer.com. Please recycle.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Polar",
+  "SIZE": "591 mL",
+  "EAN": "0071537060614",
+  "STATUS": "MATCHED"
+ },
+ "07153706083": {
+  "FULL_NAME_FOUND": "Polar Seltzer, 100% Natural, Cranberry Clementine",
+  "DESCRIPTION": "Cranberry Clementine Polar Seltzer everything that is refreshing about the tangy cranberry clementine flavor, but without any of the mess. Polar Seltzer Premium Sparkling Water. Tiny Bubbles, The sparkle sets us apart. We've been perfecting the process of making our signature bubbles, with their long-lasting carbonation and crispness, since 1882.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Polar",
+  "SIZE": "591 mL",
+  "EAN": "0071537060836",
+  "STATUS": "MATCHED"
+ },
+ "07161020265": {
+  "FULL_NAME_FOUND": "Backwoods Black Russian Cigars 5ct",
+  "DESCRIPTION": "Experience the smooth and indulgent flavor of Backwoods Black Russian Cigars. This 5-count pack offers a luxurious smoking experience like no other. Each cigar is meticulously crafted to deliver a rich, full-bodied taste with hints of caramel and coffee. Whether you are a seasoned cigar aficionado or a beginner, these cigars are perfect for any occasion. Light up, sit back, and enjoy the ultimate relaxation with Backwoods Black Russian Cigars.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Backwoods",
+  "SIZE": "",
+  "EAN": "0071610202658",
+  "STATUS": "MATCHED"
+ },
+ "07161020284": {
+  "FULL_NAME_FOUND": "Backwoods Cognac Single",
+  "DESCRIPTION": "Introducing Backwoods Cognac Single, a premium indulgence for discerning connoisseurs. Crafted with meticulous attention to detail, this exceptional cognac embodies elegance and sophistication.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Backwoods",
+  "SIZE": "",
+  "EAN": "0071610202849",
+  "STATUS": "MATCHED"
  }
 }

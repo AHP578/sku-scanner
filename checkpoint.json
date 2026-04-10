@@ -4336,5 +4336,95 @@
   "SIZE": "",
   "EAN": "0016000122543",
   "STATUS": "MATCHED"
+ },
+ "01600012399": {
+  "FULL_NAME_FOUND": "Lucky Charms General Mills Frosted Toasted Oat Cereal With Marshmallows - 10.5 Ounce",
+  "DESCRIPTION": "Make mornings more magical with irresistible Lucky Charms Cereal with Marshmallows. Every box brings Lucky's mix of marshmallow hearts, stars, horseshoes, clovers, blue moons, unicorns, rainbows, and tasty red balloons to your family. Have fun spotting your favorite marshmallow shapes floating in cereal milk! Each serving of this frosted toasted cereal with marshmallows provides 19g of whole grain (at least 48g recommended daily), 12 vitamins and minerals, and a good source of calcium. Enjoy some marshmallow cereal as a magically delicious breakfast food addition, fun kids snacks, or an ingredient in homemade marshmallow cereal bars. Take a portion of this crispy cereal to go in a lunch box or school snacks tote. Or, make it a part of your dessert bar, road trip snacks, or sweet and salty trail mix recipes. However you enjoy it, Lucky Charms Cereal is part of General Mills, spreading goodness from tots to grown-ups. Contains one cardboard box of crunchy Lucky Charms Gluten Free Cereal with Marshmallows, Kids Breakfast Cereal, 10.5 oz; perfect for instant snacking, or a part of breakfast and meals.",
+  "CATEGORY": "Cereal & Granola",
+  "BRAND": "Lucky Charms",
+  "SIZE": "",
+  "EAN": "0016000123991",
+  "STATUS": "MATCHED"
+ },
+ "01600012479": {
+  "FULL_NAME_FOUND": "Cheerios Honey Nut Gluten Free Cereal, 10.8 Oz Box",
+  "DESCRIPTION": "The original cheerios breakfast cereal has been a family favorite for years. Made with 100% whole grain oats this gluten-free cereal is full of wholesome goodness for toddlers adults and everyone in between.",
+  "CATEGORY": "Cereal & Granola",
+  "BRAND": "Cheerios",
+  "SIZE": "",
+  "EAN": "0001600012479",
+  "STATUS": "MATCHED"
+ },
+ "01600012499": {
+  "FULL_NAME_FOUND": "Lucky Charms General Mills Large Size Frosted Toasted Oat Cereal With Marshmallows - 14.9 Ounce",
+  "DESCRIPTION": "Magically Delicious Lucky Charms cereal features frosted oats and colored marshmallows. Made with 11g of whole grain per serving; and it's Gluten Free!",
+  "CATEGORY": "Cereal & Granola",
+  "BRAND": "Lucky Charms",
+  "SIZE": "",
+  "EAN": "0016000124998",
+  "STATUS": "MATCHED"
+ },
+ "01600012506": {
+  "FULL_NAME_FOUND": "Cheerios General Mills Honey Nut Cereal Large Size, 15.4 Ounce",
+  "DESCRIPTION": "Sweetened whole grain oat cereal with real honey and natural almond flavor. No gluten ingredients.",
+  "CATEGORY": "Cereal & Granola",
+  "BRAND": "Cheerios",
+  "SIZE": "",
+  "EAN": "0016000125063",
+  "STATUS": "MATCHED"
+ },
+ "01600012593": {
+  "FULL_NAME_FOUND": "Cinnamon Toast Crunch General Mills Cereal Large Size, 16.8 Ounce",
+  "DESCRIPTION": "Start your day with the sweet, satisfying crunch of General Mills Cinnamon Toast Crunch! These crispy squares are sprinkled with a perfect blend of cinnamon and sugar, delivering a warm, nostalgic flavor that kids and adults love. Enjoy it with milk or straight from the box for a tasty, energizing breakfast or snack.",
+  "CATEGORY": "Cereal & Granola",
+  "BRAND": "Cinnamon Toast Crunch",
+  "SIZE": "",
+  "EAN": "0016000125933",
+  "STATUS": "MATCHED"
+ },
+ "01600013609": {
+  "FULL_NAME_FOUND": "Bugles Cinnamon Toast Crunch – 85g",
+  "DESCRIPTION": "Experience the unforgettable taste of the Bugles Cinnamon Toast Crunch! This American snack is made in the shape of a funnel, offering a crunchy corn chip texture. Echoing the taste of the Cinnamon Toast Crunch cereal, these Bugles are not only deliciously crunchy but feature a magical dusting of \"Cinnadust.\" This means you will be licking your fingertips when you reach the bottom of the bag! Filled with the flavours of both sweet and salty, these Bugles chips deliver a world of texture and taste! Taste the cinnamon-infused crunch with Bugles Cinnamon Toast Crunch!",
+  "CATEGORY": "Chips",
+  "BRAND": "Bugles",
+  "SIZE": "",
+  "EAN": "0016000136090",
+  "STATUS": "MATCHED"
+ },
+ "01600013704": {
+  "FULL_NAME_FOUND": "Gushers Super Sour Berry Fruit Snacks H/b 4.25oz",
+  "DESCRIPTION": "Super Sour Gushers are bursting with fun! Gushers have a juicy center that bursts open with delicious fruity liquid that's made with real fruit juice. No gelatin or artificial flavors, and just 90 calories.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Gushers",
+  "SIZE": "",
+  "EAN": "0016000137042",
+  "STATUS": "MATCHED"
+ },
+ "01600015129": {
+  "FULL_NAME_FOUND": "Cocoa Puffs General Mills Large Size Cereal",
+  "DESCRIPTION": "The Cocoa Puffs Cereal is a delicious, crunchy, and chocolatey delight that makes a good breakfast option. A good source of calcium and vitamin D, these puffs are great for children. The bulk case of Cocoa Puffs Cereal containing 10 packs is suitable for supermarkets, hypermarkets, and convenience stores.",
+  "CATEGORY": "Cereal & Granola",
+  "BRAND": "Cocoa Puffs",
+  "SIZE": "",
+  "EAN": "0016000151291",
+  "STATUS": "MATCHED"
+ },
+ "01600015163": {
+  "FULL_NAME_FOUND": "Cookie Crisp General Mills Chocolate Chip Breakfast Cereal, 10.6 Oz",
+  "DESCRIPTION": "Enjoy the fun and flavor of chocolate chip cookies, but in a wholesome breakfast cereal. Each cereal piece is shaped like a cookie! Enjoy a bowl with milk, dunk each piece into milk as a kids snack, or pack crispy cereal as school snacks. A serving provides 14g whole grain (at least 48g recommended daily), 12 vitamins and minerals, and a good source of calcium. Try some in cereal bars recipes.",
+  "CATEGORY": "Cereal & Granola",
+  "BRAND": "Cookie Crisp",
+  "SIZE": "",
+  "EAN": "0016000151635",
+  "STATUS": "MATCHED"
+ },
+ "01600015164": {
+  "FULL_NAME_FOUND": "Cookie Crisp Cereal, Chocolate Chip Large Size 15.1 Oz",
+  "DESCRIPTION": "The Great Taste of Chocolate Chip Cookies & Milk. No Colors from Artificial Sources & No Artificial Flavors. No high fructose corn syrup. Whole Grain.",
+  "CATEGORY": "Cereal & Granola",
+  "BRAND": "Cookie Crisp",
+  "SIZE": "",
+  "EAN": "0016000151642",
+  "STATUS": "MATCHED"
  }
 }

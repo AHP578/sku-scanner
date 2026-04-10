@@ -7984,5 +7984,95 @@
   "SIZE": "",
   "EAN": "0077567003034",
   "STATUS": "MATCHED"
+ },
+ "07756700345": {
+  "FULL_NAME_FOUND": "Good Humor Reese's Peanut Butter Bar 3.85oz",
+  "DESCRIPTION": "Good Humor Peanut Butter Frozen Dairy Dessert Bar For Ice Cream Lovers with a Milk Chocolatey Coating and Cake Crumbs.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "Good Humor",
+  "SIZE": "",
+  "EAN": "0077567003454",
+  "STATUS": "MATCHED"
+ },
+ "07756700350": {
+  "FULL_NAME_FOUND": "Minion Popsicle",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Bananas",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0077567003508",
+  "STATUS": "MATCHED"
+ },
+ "07756700374": {
+  "FULL_NAME_FOUND": "Breyers BR Reses Pieces 8 1PT Ice Cream Reses Pieces 1 PT",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Frozen Desserts & Novelties",
+  "BRAND": "Breyers",
+  "SIZE": "",
+  "EAN": "0077567003744",
+  "STATUS": "MATCHED"
+ },
+ "07756700393": {
+  "FULL_NAME_FOUND": "Good Humor Ice Cream & Frozen Desserts Giant Vanilla Sandwich",
+  "DESCRIPTION": "A giant treat with vanilla ice cream packed between two chocolate flavored wafers – each bite better than the last.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "Good Humor",
+  "SIZE": "",
+  "EAN": "0077567003935",
+  "STATUS": "MATCHED"
+ },
+ "07756700398": {
+  "FULL_NAME_FOUND": "Magnum Bars Double Raspberry",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Candles",
+  "BRAND": "Magnum",
+  "SIZE": "",
+  "EAN": "0077567003980",
+  "STATUS": "MATCHED"
+ },
+ "07756700489": {
+  "FULL_NAME_FOUND": "Klondike Mrs. Fields Frozen Dairy Dessert Sandwich 6 Fl Oz",
+  "DESCRIPTION": "Indulge in the delightful taste of Mrs. Field's Cookie Sandwich! Made with two soft and chewy chocolate chip cookies, this delicious treat is filled with creamy ice cream that melts in your mouth. Perfect for satisfying your sweet tooth, these cookie sandwiches are ideal for any occasion, whether you are hosting a party, enjoying a picnic, or simply treating yourself after a long day.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "Klondike",
+  "SIZE": "",
+  "EAN": "0077567004895",
+  "STATUS": "MATCHED"
+ },
+ "07756700822": {
+  "FULL_NAME_FOUND": "Good Humor Giant King Ice Cream Cone Vanilla And Chocolate",
+  "DESCRIPTION": "With a big chocolate tip. One cone to rule them all. Chocolate and vanilla ice creams in a sugar cone, crowned with chocolate flavored coating and royally roasted peanuts.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "Good Humor",
+  "SIZE": "",
+  "EAN": "0077567008220",
+  "STATUS": "MATCHED"
+ },
+ "07756702874": {
+  "FULL_NAME_FOUND": "Good Humor Frozen Dessert Bar Cookies N Creme",
+  "DESCRIPTION": "Helado sabor cookies & cream de Good Humor. Caja con 24 unidades de 4 oz. Clásico y delicioso para cualquier ocasión.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "Good Humor",
+  "SIZE": "",
+  "EAN": "0077567028747",
+  "STATUS": "MATCHED"
+ },
+ "07756713281": {
+  "FULL_NAME_FOUND": "Magnum Mini Ice Cream Bar Almond, 3.04 Oz",
+  "DESCRIPTION": "Indulge in the rich and creamy taste of MAGNUM Almond Ice Cream Bar! This delectable ice cream bar is crafted with high-quality ingredients, featuring a smooth almond ice cream center enveloped in a thick layer of luscious milk chocolate and sprinkled with crunchy almond pieces. Perfect for satisfying your sweet cravings, this bar is a delightful treat for any occasion.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "Magnum",
+  "SIZE": "",
+  "EAN": "0077567132819",
+  "STATUS": "MATCHED"
+ },
+ "07756713282": {
+  "FULL_NAME_FOUND": "Magnum Ice Cream Bar, Double Caramel 3.04 Fl Oz",
+  "DESCRIPTION": "Indulge in the rich and creamy delight of Magnum Double Caramel Ice Cream Bar! This luxurious ice cream bar is crafted with a smooth vanilla ice cream center, enveloped in a thick layer of luscious caramel, and coated with a rich chocolate shell. Perfect for satisfying your sweet cravings, this bar is a delicious treat for any occasion.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "Magnum",
+  "SIZE": "",
+  "EAN": "0077567132826",
+  "STATUS": "MATCHED"
  }
 }

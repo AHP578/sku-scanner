@@ -4606,5 +4606,95 @@
   "SIZE": "",
   "EAN": "0016000512580",
   "STATUS": "MATCHED"
+ },
+ "01600051369": {
+  "FULL_NAME_FOUND": "Nature Valley Cinnamon Almond Butter Biscuits 1.35 Oz",
+  "DESCRIPTION": "Each biscuit has a delicious crisp texture and 100% natural whole grain oats combined with the goodness of almond butter. Each Biscuit has No High Fructose Corn Syrup, No Artificial Flavors, 0g of Trans Fat and they are a Good Source of Fiber.",
+  "CATEGORY": "Cereal Bars",
+  "BRAND": "Nature Valley",
+  "SIZE": "",
+  "EAN": "0016000513693",
+  "STATUS": "MATCHED"
+ },
+ "01600051379": {
+  "FULL_NAME_FOUND": "Bugles Nacho Cheese 85g - Case Of 6",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cheese",
+  "BRAND": "Bugles",
+  "SIZE": "",
+  "EAN": "0001600051379",
+  "STATUS": "MATCHED"
+ },
+ "01600051528": {
+  "FULL_NAME_FOUND": "Gushers Fruit Flavored Snacks Flavor Mixers",
+  "DESCRIPTION": "Feel refreshed with Fruit Gusher Mixers that features two amazing flavors blended together to create one incredible flavor, which are; Orange Cherry, Raspberry Lemonade, and Strawberry Peach. This treat is made with real fruit juice. Perfect for any occasion!",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Gushers",
+  "SIZE": "",
+  "EAN": "0016000515284",
+  "STATUS": "MATCHED"
+ },
+ "01622990147": {
+  "FULL_NAME_FOUND": "Foco Coconut Juice 17.6 Fl Oz",
+  "DESCRIPTION": "Coconut water synonymous to heavenly water, only coconut consist of natural (or pure) water in its. The extraordinary quality from nature is its ability to rehydrate and replace mineral lost through work, sport, and other daily activities. FOCO Coconut Water is a natural beverage that will hydrate your body as you enjoy its refreshing, pure taste.",
+  "CATEGORY": "Juice",
+  "BRAND": "Foco",
+  "SIZE": "520 mL",
+  "EAN": "0016229901479",
+  "STATUS": "MATCHED"
+ },
+ "01700020929": {
+  "FULL_NAME_FOUND": "Dial Complete Antibacterial Liquid Hand Soap Gold 11 Fl Oz",
+  "DESCRIPTION": "Dial Liquid Hand Soap in Gold is a classic and trusted formula for effective handwashing. This 11oz bottle offers a rich lather that cleanses and moisturizes hands, leaving them soft and refreshed. With a pleasant fragrance and antibacterial properties, it provides a thorough clean while protecting against germs.",
+  "CATEGORY": "Liquid Hand Soap",
+  "BRAND": "Dial",
+  "SIZE": "",
+  "EAN": "0017000209296",
+  "STATUS": "MATCHED"
+ },
+ "01708200023": {
+  "FULL_NAME_FOUND": "Jack Link's Peppered Beef Steak, 1 Ounce Individual Portion",
+  "DESCRIPTION": "Jack Link’s Peppered Beef Steak is a big snack of 11g protein in each steak. These peppered beef steaks are originally from premium beef to give you the real taste of meat. After the success of Jack Link’s Original Beef Steak, the company added cracked black pepper to it. So each bite of Jack Link’s Peppered Beef Steak has a little heat. You don’t need to refrigerate it. Stick it now to be your perfect snack for work, home, the trails or the lake.",
+  "CATEGORY": "Meat",
+  "BRAND": "Jack Link's",
+  "SIZE": "",
+  "EAN": "0017082000231",
+  "STATUS": "MATCHED"
+ },
+ "01708200039": {
+  "FULL_NAME_FOUND": "Jack Link's Cheese And Beef Stick Snack, 1.2 Ounce Individual Pack",
+  "DESCRIPTION": "The land of the-free and the home of the 100% beef stick and American cheese combo. Exercise your right to snack.",
+  "CATEGORY": "Meat",
+  "BRAND": "Jack Link's",
+  "SIZE": "",
+  "EAN": "0017082000392",
+  "STATUS": "MATCHED"
+ },
+ "01708200040": {
+  "FULL_NAME_FOUND": "Jack Link's Beef Stick & Cheese, Jalapeno, Hot, 1.2 Ounce",
+  "DESCRIPTION": "It's really hard to pick a favorite. But, we have to say this meat stick and cheese combo might just be it. A made with 100% beef stick and zesty jalapeno cheese? Snacks for the bold. What could be better?",
+  "CATEGORY": "Meat",
+  "BRAND": "Jack Link's",
+  "SIZE": "",
+  "EAN": "0017082000408",
+  "STATUS": "MATCHED"
+ },
+ "01708200073": {
+  "FULL_NAME_FOUND": "Jack Link's Beef Steak Teriyaki Flavor, 1 Ounce Package",
+  "DESCRIPTION": "Savor the sweet and savory goodness of Jack Link’s Teriyaki Beef Steak, a flavorful protein snack that’s perfect for any occasion. Made from premium beef and seasoned with authentic teriyaki flavor, each 28g serving offers a delightful balance of sweetness and umami. Whether you’re on the go, hitting the trails, or simply craving a tasty snack, Jack Link’s Teriyaki Beef Steak provides a convenient and satisfying option. Packed with high-quality protein and low in fat, it’s an ideal choice for fueling your adventures or enjoying a quick pick-me-up. Look for Jack Link’s Teriyaki Beef Steak in the snack aisle of your local grocery store or convenience store, and experience the delicious taste of teriyaki-infused beef in every bite.",
+  "CATEGORY": "Meat",
+  "BRAND": "Jack Link's",
+  "SIZE": "",
+  "EAN": "0017082000736",
+  "STATUS": "MATCHED"
+ },
+ "01708200538": {
+  "FULL_NAME_FOUND": "Jack Link's Extra Thick Cut Steak Strips Original, 3oz",
+  "DESCRIPTION": "Bold satisfaction begins with Snacks, delivering timeless flavor that excites every craving. The hearty bite of Savory Snack makes this option stand out, offering texture customers love. The everyday appeal of Beef Jerky rounds out the experience, creating a classic strip that keeps shelves stocked with crave‑worthy satisfaction.",
+  "CATEGORY": "Meat",
+  "BRAND": "Jack Link's",
+  "SIZE": "",
+  "EAN": "0017082005380",
+  "STATUS": "MATCHED"
  }
 }

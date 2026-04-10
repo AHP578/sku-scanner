@@ -5560,5 +5560,95 @@
   "SIZE": "",
   "EAN": "0002200000514",
   "STATUS": "MATCHED"
+ },
+ "02200000665": {
+  "FULL_NAME_FOUND": "Wrigley'S Spearmint Gum Sticks 15 Ct Pack",
+  "DESCRIPTION": "Classic spearmint gum. Individually-wrapped sticks to preserve freshness. New slimmer package design. A classic brand that customers consistently reach for, the Wrigley™ Spearmint Gum is packed with fresh mint flavor that refreshes breath and provides a long-lasting chew. The Slim Pack design was specifically created to be an easy, space-saving addition to customer pockets and purses, making it stand out from less convenient gum packages. With the easily recognizable packing and logo, this gum is a good addition to any chewing gum selection.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Wrigley'S Spearmint",
+  "SIZE": "",
+  "EAN": "0022000006653",
+  "STATUS": "MATCHED"
+ },
+ "02200000666": {
+  "FULL_NAME_FOUND": "Doublemint Chewing Gum Slim Pack With 15 Pieces",
+  "DESCRIPTION": "Plenty pack of Doublemint, refreshing spearmint flavor chewing gum. Impulse display contains (10) 15-stick packs.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Doublemint",
+  "SIZE": "",
+  "EAN": "0022000006660",
+  "STATUS": "MATCHED"
+ },
+ "02200000667": {
+  "FULL_NAME_FOUND": "Juicy Fruit Wrigleys Chewing Gum, Original, Slim Pack - 15 Sticks",
+  "DESCRIPTION": "Plenty pack of Juicy Fruit, fruity flavor chewing gum. Impulse display contains (10) 17-stick packs.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Juicy Fruit",
+  "SIZE": "",
+  "EAN": "0022000006677",
+  "STATUS": "MATCHED"
+ },
+ "02200000668": {
+  "FULL_NAME_FOUND": "Wrigley’s Big Red Cinnamon Gum 1",
+  "DESCRIPTION": "THE BOLD CINNAMON FLAVOR OF WRIGLEY’S BIG RED PROVIDES LONG LASTING FRESH BREATH. IN FACT BIG RED HAS BEEN THE NO. 1 SELLING CINNAMON GUM SINCE 1987. RECENTLY THE FLAVOR WAS IMPRIVED TO PROVIDE EVEN MORE LONG LASTING TASTE AND A NEW 15-STICK SLIM PACK WAS INTRODUCED.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0002200000668",
+  "STATUS": "MATCHED"
+ },
+ "02200000669": {
+  "FULL_NAME_FOUND": "Winterfresh WRIGLEY'S Chewing Gum, Single Pack, 15 Stick",
+  "DESCRIPTION": "Plenty pack of Winterfresh, icy peppermint flavor chewing gum. Impulse display contains (10) 17-stick packs.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Winterfresh",
+  "SIZE": "",
+  "EAN": "0022000006691",
+  "STATUS": "MATCHED"
+ },
+ "02200000768": {
+  "FULL_NAME_FOUND": "Altoids Arctic Curiously Cool Mints, Wintergreen Tin 1.2Oz",
+  "DESCRIPTION": "Altoids Arctic WintergreenâStay cool all year long with the perennially chilly flavor of wintergreen.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Altoids",
+  "SIZE": "",
+  "EAN": "0022000007681",
+  "STATUS": "MATCHED"
+ },
+ "02200000838": {
+  "FULL_NAME_FOUND": "Extra Sweet Watermelon Sugar Free Chewing Gum Single Pack - 15 Stick",
+  "DESCRIPTION": "Wrigley's long-lasting sweet watermelon fruit flavor gum. Accepted by the American Dental Association. Impulse display contains (10) 15-stick slim packs.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Extra",
+  "SIZE": "",
+  "EAN": "0022000008381",
+  "STATUS": "MATCHED"
+ },
+ "02200000840": {
+  "FULL_NAME_FOUND": "Extra Sugar Free Winterfresh Chewing Gum 15 Pc",
+  "DESCRIPTION": "Give Extra, get extra. Extra knows that when you give a little more, you get more in return. That's why there are more ways to share a moment in every pack. So give a piece to friends, family, or someone new. It might seem like something little, but sometimes the little things last the longest.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Extra",
+  "SIZE": "",
+  "EAN": "0022000008404",
+  "STATUS": "MATCHED"
+ },
+ "02200000891": {
+  "FULL_NAME_FOUND": "Extra Gum Peppermint Sugar Free Chewing Gum, Single Pack, 15 Stick",
+  "DESCRIPTION": "Connections can happen anywhere. So get in your EXTRA Zone with EXTRA Peppermint Sugar Free Chewing Gum. EXTRA Chewing Gum is essential to have with you at all times to not only freshen your breath with long-lasting, invigorating peppermint flavor, but to keep you dedicated to those special moments. Keep an EXTRA chewing gum pack in your car, back pocket, backpack, or tote bag. Keep minty EXTRA at your fingertips, because you never know when you need to engage in a special moment. Chewing away distractions and celebrating life's meaningful moments with EXTRA. Add a pack of EXTRA Peppermint Sugar Free Chewing Gum to your cart now.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Extra",
+  "SIZE": "",
+  "EAN": "0022000008916",
+  "STATUS": "MATCHED"
+ },
+ "02200000898": {
+  "FULL_NAME_FOUND": "Extra Polar Ice Sugar Free Chewing Gum Single Pack, 15 Pieces",
+  "DESCRIPTION": "Connections can happen anywhere. So get in your EXTRA Zone with EXTRA Polar Ice Sugar Free Chewing Gum. EXTRA Chewing Gum is essential to have with you at all times to not only freshen your breath with long-lasting, invigorating icy flavor, but to keep you dedicated to those special moments. Keep an EXTRA chewing gum pack in your car, back pocket, backpack, or tote bag. Keep minty EXTRA at your fingertips, because you never know when you need a refresh or engage in a refreshing moment. Chew away distractions and celebrate life's meaningful moments with EXTRA. Add a pack of EXTRA Polar Ice Sugar Free Chewing Gum to your cart now.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Extra",
+  "SIZE": "",
+  "EAN": "0022000008985",
+  "STATUS": "MATCHED"
  }
 }

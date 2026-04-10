@@ -4786,5 +4786,95 @@
   "SIZE": "",
   "EAN": "0017082600035",
   "STATUS": "MATCHED"
+ },
+ "01708260023": {
+  "FULL_NAME_FOUND": "Jack Link's Peppered Beef Steak Jerky Meat Snacks, 2 Ounce Package",
+  "DESCRIPTION": "A faithful tribute to the Original Beef Steak in all its savory smoked glory, but with an extra kick of cracked black pepper. This protein snack is for those that like to take things up a notch.",
+  "CATEGORY": "Meat",
+  "BRAND": "Jack Link's",
+  "SIZE": "",
+  "EAN": "0017082600233",
+  "STATUS": "MATCHED"
+ },
+ "01708260073": {
+  "FULL_NAME_FOUND": "Jack Link's Teriyaki Beef Steak Meat Snack, 2 Ounce Package",
+  "DESCRIPTION": "Jack Link's Steaks are made from premium strips of lean beef seasoned with a unique blend of spices. Hickory smoked for a softer, tenderer chew than traditional jerky with all of the satisfying taste. Slow cooked and seasoned to perfection.",
+  "CATEGORY": "Meat",
+  "BRAND": "Jack Link's",
+  "SIZE": "",
+  "EAN": "0017082600738",
+  "STATUS": "MATCHED"
+ },
+ "01708287745": {
+  "FULL_NAME_FOUND": "Jack Link's Original Flavor Beef Jerky Snack, 1.25 Ounce Package",
+  "DESCRIPTION": "The Original. Some call it bold, some call it savory, some call it hardwood smoked with a hint of garlic. Transcending flavor profiling since the dawn of jerky. If you don't taste it, you'll never understand.",
+  "CATEGORY": "Jerky",
+  "BRAND": "Jack Link's",
+  "SIZE": "",
+  "EAN": "0017082877451",
+  "STATUS": "MATCHED"
+ },
+ "01708287749": {
+  "FULL_NAME_FOUND": "Jack Link's Teriyaki Beef Jerky Snack, 1.25 Ounce Package",
+  "DESCRIPTION": "Soy, ginger, a little onion and a whole lot of ideally smoked beef. The very best of east meets west.",
+  "CATEGORY": "Meat",
+  "BRAND": "Jack Link's",
+  "SIZE": "",
+  "EAN": "0017082877499",
+  "STATUS": "MATCHED"
+ },
+ "01708288387": {
+  "FULL_NAME_FOUND": "Jack Link's Thick Cut Hickory Smoked Bacon Jerky",
+  "DESCRIPTION": "A slow cooked and thick cut, naturally wood smoke jerky. That's got your mouth watering hasn't it, and with 17 grams of protein, it's time to pig-out!",
+  "CATEGORY": "Jerky",
+  "BRAND": "Jack Link's",
+  "SIZE": "",
+  "EAN": "0017082883872",
+  "STATUS": "MATCHED"
+ },
+ "01708288388": {
+  "FULL_NAME_FOUND": "Jack Link's S Beef Jerky Protein Snack Sweet & Hot 3.25 Oz",
+  "DESCRIPTION": "Sugary notes meet fiery zest in a snack made for everyday enjoyment. Each strip delivers bold taste, turning ordinary breaks into flavorful snacking occasions. With the indulgent kick of Sweet, every pack brings dependable satisfaction. The hearty appeal of Beef Jerky adds indulgence to every bite, while the lively punch of Spicy enhances the experience, creating a treat that feels both exciting and comforting. Balanced fun from Snacks rounds out the flavor, crafted to highlight the harmony of smoky chew and peppered seasoning that keeps cravings in check and enjoyment flowing throughout the day.",
+  "CATEGORY": "Jerky",
+  "BRAND": "Jack Link's",
+  "SIZE": "",
+  "EAN": "0017082883889",
+  "STATUS": "MATCHED"
+ },
+ "01708288389": {
+  "FULL_NAME_FOUND": "Jack Link's Beef Jerky, Teriyaki, 3.25 Ounce",
+  "DESCRIPTION": "Jack Link’s Jerky is seasoned with a unique blend of spices and expertly smoked for an unmistakable, authentic jerky taste. Jack Link’s Jerky is high in protein, yet low in fat, calories and carbs. Varieties and flavors of beef jerky include Original, Teriyaki, Peppered, Sweet & Hot, Steakhouse Recipe, KC Masterpiece Barbeque, Jalapeño Carne Seca, Sriracha, Original Hickory Smokehouse, Cholula Hot Sauce. Jack Link's also has Chicken, Turkey, and Pork Jerky varieties. Jack Link’s Jerky features a new, simple ingredient label that have no added MSG, no preservatives and no sodium nitrates.",
+  "CATEGORY": "Jerky",
+  "BRAND": "Jack Link's",
+  "SIZE": "",
+  "EAN": "0017082883896",
+  "STATUS": "MATCHED"
+ },
+ "01708288390": {
+  "FULL_NAME_FOUND": "Jack Link's Beef Jerky, Jalapeno, Hot! 3.25 Oz",
+  "DESCRIPTION": "Fiery zest meets smoky chew in a snack made for everyday enjoyment. Each strip delivers bold taste, turning ordinary breaks into flavorful snacking occasions. With the lively kick of Spicy, every pack brings dependable satisfaction. The hearty appeal of Beef Jerky adds indulgence to every bite, while the balanced fun of Snacks enhances the experience, creating a treat that feels both exciting and comforting. Crafted to highlight the harmony of jalapeño seasoning and meaty richness, this pack keeps cravings in check and enjoyment flowing throughout the day.",
+  "CATEGORY": "Jerky",
+  "BRAND": "Jack Link's",
+  "SIZE": "",
+  "EAN": "0017082883902",
+  "STATUS": "MATCHED"
+ },
+ "01708288391": {
+  "FULL_NAME_FOUND": "Jack Link's Original Beef Jerky 3.25oz",
+  "DESCRIPTION": "Plain & Salted flavor opens the experience with bold simplicity that satisfies everyday hunger. Each strip delivers dependable taste, turning ordinary breaks into flavorful snacking occasions. The hearty appeal of Beef Jerky adds indulgence to every bite, while the balanced fun of Snacks enhances the moment, creating a treat that feels both comforting and exciting. Crafted to highlight seasoned richness and meaty chew, this single pack keeps cravings in check and enjoyment flowing throughout the day.",
+  "CATEGORY": "Jerky",
+  "BRAND": "Jack Link's",
+  "SIZE": "",
+  "EAN": "0017082883919",
+  "STATUS": "MATCHED"
+ },
+ "01708288392": {
+  "FULL_NAME_FOUND": "Jack Link's Peppered Beef Jerky",
+  "DESCRIPTION": "Smoky flavor meets peppery bite in a snack made for everyday enjoyment. Each strip delivers bold taste, turning ordinary breaks into flavorful snacking occasions. With the hearty appeal of Savory, every pack brings dependable satisfaction. The bold kick of Beef Jerky adds indulgence to every bite, while the balanced fun of Snacks enhances the experience, creating a treat that feels both exciting and comforting. Crafted to highlight the harmony of seasoned chew and meaty richness, this pack keeps cravings in check and enjoyment flowing throughout the day.",
+  "CATEGORY": "Jerky",
+  "BRAND": "Jack Link's",
+  "SIZE": "",
+  "EAN": "0017082883926",
+  "STATUS": "MATCHED"
  }
 }

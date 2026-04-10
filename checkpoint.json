@@ -4426,5 +4426,95 @@
   "SIZE": "",
   "EAN": "0016000151642",
   "STATUS": "MATCHED"
+ },
+ "01600016010": {
+  "FULL_NAME_FOUND": "Chex Mix Savory Snack Traditional, 3.75 Oz Bag",
+  "DESCRIPTION": "Traditional Chex Mix is a great lounge-around snack and party favorite. This mix delivers a savory blend of a variety of treats including salted pretzels, baked bread pieces, rice chex cereal, and rye chips. Its mix of flavors and crunchy textures will leave you wanting more and your snack craving will be solved. Perfect treat for on the go snacking and sharing.",
+  "CATEGORY": "Chips",
+  "BRAND": "Chex Mix",
+  "SIZE": "",
+  "EAN": "0016000160101",
+  "STATUS": "MATCHED"
+ },
+ "01600017261": {
+  "FULL_NAME_FOUND": "Gushers Fruit Snacks – Tropical",
+  "DESCRIPTION": "This 12-piece pack of Gushers offers a fun, chewy candy with a delicious fruity liquid burst inside. Loved by kids and adults alike, these vibrant treats are perfect for lunchboxes, parties, or on-the-go snacking.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Gushers",
+  "SIZE": "",
+  "EAN": "0016000172616",
+  "STATUS": "MATCHED"
+ },
+ "01600017271": {
+  "FULL_NAME_FOUND": "Bugles Chili Cheese Crispy Corn Snacks 3oz",
+  "DESCRIPTION": "Bugles(TM) are a unique, funnel shaped crispy corn snack coated in chili cheese flavoring for snacking satisfaction. Individually packaged and available in bulk, 6 - 3 oz bags, best suited for retail operations.",
+  "CATEGORY": "Chips",
+  "BRAND": "Bugles",
+  "SIZE": "",
+  "EAN": "0016000172715",
+  "STATUS": "MATCHED"
+ },
+ "01600020429": {
+  "FULL_NAME_FOUND": "Chex Mix Muddy Buddies Funfetti 120 G",
+  "DESCRIPTION": "Celebrate snack time with every bag of Snack Mix your display truly needs. This festive and delightful Sweet Snack coats crispy Chex pieces in sweet white chocolate and funfetti sprinkles for a colorful, dessert-style bite worth savoring anytime. Playful and crowd-pleasing Snacks bring a vibrant, party-ready crunch that stands out from ordinary snack mixes perfect for celebrations, on-the-go munching, or satisfying cravings anywhere.",
+  "CATEGORY": "Chips",
+  "BRAND": "Chex Mix",
+  "SIZE": "",
+  "EAN": "0016000204294",
+  "STATUS": "MATCHED"
+ },
+ "01600021489": {
+  "FULL_NAME_FOUND": "Chex Mix Bold Party Blend Coffee, 3.75 Ounce",
+  "DESCRIPTION": "Discover lively crunch with a Snack Mix that delivers irresistible Barbecue taste in every bite. These crave‑worthy Snacks bring playful textures and savory satisfaction, making them a go‑to choice for anyone who loves flavorful enjoyment.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Chex Mix",
+  "SIZE": "111 mL",
+  "EAN": "0016000214897",
+  "STATUS": "MATCHED"
+ },
+ "01600021493": {
+  "FULL_NAME_FOUND": "Chex Mix Jalapeno Cheddar Snack 4.5oz",
+  "DESCRIPTION": "Loaded with fun, flavorful shapes of Chex, pretzels, cheese crackers, and breadsticks. Endless taste and texture combinations make it the perfect snack for get-togethers of all shapes and sizes. Chex Mix contains 60% less fat than regular potato chips.",
+  "CATEGORY": "Snack Foods",
+  "BRAND": "Chex Mix",
+  "SIZE": "",
+  "EAN": "0016000214934",
+  "STATUS": "MATCHED"
+ },
+ "01600021494": {
+  "FULL_NAME_FOUND": "Chex Mix Snack Savory Traditional, 4.5 Oz Bag",
+  "DESCRIPTION": "Discover classic crunch with a Snack Mix that delivers irresistible Plain & Salted flavor in every bite. These crave‑worthy Snacks blend playful textures with savory satisfaction, making them a go‑to choice for anyone who loves flavorful enjoyment.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Chex Mix",
+  "SIZE": "133 mL",
+  "EAN": "0016000214941",
+  "STATUS": "MATCHED"
+ },
+ "01600021553": {
+  "FULL_NAME_FOUND": "Chex Mix Cheddar Cheese Seasoning 3.75 Ounces",
+  "DESCRIPTION": "Enjoy bold flavor and lively crunch with a Snack Mix that delivers irresistible Cheesy taste in every bite. These crave‑worthy Snacks blend playful textures with savory satisfaction, making them a go‑to choice for anyone who loves flavorful enjoyment.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Chex Mix",
+  "SIZE": "237 mL",
+  "EAN": "0016000215535",
+  "STATUS": "MATCHED"
+ },
+ "01600022783": {
+  "FULL_NAME_FOUND": "Bluey Corn Cereal",
+  "DESCRIPTION": "Bluey Cereal makes mornings fun for the family! Inspired by the beloved pup, Bluey, this crisp, lightly sweetened corn cereal brings a breakfast time adventure to every bite. Parents will also love that each serving has a good source of calcium, 21g of whole grain (at least 48g recommended daily), 12 vitamins and minerals, and no synthetic colors. Whether you pour a bowl as part of a kids breakfast or pack crispy cereal puffs for school snack, General Mills breakfast cereals spread goodness from kids to grown-ups.",
+  "CATEGORY": "Cereal & Granola",
+  "BRAND": "Bluey",
+  "SIZE": "",
+  "EAN": "0016000227835",
+  "STATUS": "MATCHED"
+ },
+ "01600026469": {
+  "FULL_NAME_FOUND": "Nature Valley Crunchy Oat N Honey Granola Bar 22g",
+  "DESCRIPTION": "These whole grain oat clusters are bursting with the taste of real honey that’s perfect as an on-the-go snack or mixed in with yogurt anytime. Grab yours today!",
+  "CATEGORY": "Cereal & Granola",
+  "BRAND": "Nature Valley",
+  "SIZE": "",
+  "EAN": "0001600026469",
+  "STATUS": "MATCHED"
  }
 }

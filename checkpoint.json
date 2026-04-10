@@ -5236,5 +5236,59 @@
   "SIZE": "",
   "EAN": "0020923687027",
   "STATUS": "MATCHED"
+ },
+ "02092368703": {
+  "FULL_NAME_FOUND": "Prime Series 5w30 Motor Oil - 1 Quart",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Vehicle Motor Oil",
+  "BRAND": "Prime Series",
+  "SIZE": "",
+  "EAN": "0020923687034",
+  "STATUS": "MATCHED"
+ },
+ "02092368707": {
+  "STATUS": "UNMATCHED"
+ },
+ "02092368709": {
+  "STATUS": "UNMATCHED"
+ },
+ "02092368710": {
+  "STATUS": "UNMATCHED"
+ },
+ "02092368711": {
+  "STATUS": "UNMATCHED"
+ },
+ "02092368712": {
+  "STATUS": "UNMATCHED"
+ },
+ "02092368713": {
+  "STATUS": "UNMATCHED"
+ },
+ "02100000022": {
+  "FULL_NAME_FOUND": "Kraft Cheese Mozzarella String Part Skim Low Moisture",
+  "DESCRIPTION": "Kraft Mozzarella String Cheese is prepared with high quality ingredients. This 1z string cheese has a flavorful taste the whole family will enjoy. The string cheese is perfectly portioned and helps to satisfy your hunger between meals. Popular with adults and children alike, this string cheese is a perfect grab and go snack.",
+  "CATEGORY": "Dips & Spreads",
+  "BRAND": "Kraft",
+  "SIZE": "",
+  "EAN": "0021000000227",
+  "STATUS": "MATCHED"
+ },
+ "02100000522": {
+  "FULL_NAME_FOUND": "Cracker Barrel Extra Sharp Yellow Cheddar Chesse, 8 Oz. Each",
+  "DESCRIPTION": "One 8 oz. Cracker Barrel Extra Sharp Yellow Cheddar Cheese Block Made with 2% Milk, Cracker Barrel Extra Sharp Yellow Cheddar Cheese Block Made with 2% Milk is from an award-winning cheese maker, Extra sharp cheddar cheese chunk provides big flavor with traditional aged cheddar texture, Cheddar cheese chunk is easy to slice and serve, Made with 2% milk for 1/3 less fat than Cracker Barrel Cheddar Cheese, Slice for cheese plate or melt over mac and cheese, Contains 90 calories per serving.",
+  "CATEGORY": "Crackers",
+  "BRAND": "Cracker Barrel",
+  "SIZE": "",
+  "EAN": "0002100000522",
+  "STATUS": "MATCHED"
+ },
+ "02100000523": {
+  "FULL_NAME_FOUND": "Cracker Barrel Extra Sharp White Cheddar Cheese Block Made With 2% Milk",
+  "DESCRIPTION": "Cracker Barrel Extra Sharp White Cheddar Cheese Made With 2% Milk has a big flavor with a traditional aged cheddar texture. Our high standards come from a belief that cheese making is an art perfected by experts with decades of experience. The deliciously different taste of Cracker Barrel cheese will keep you coming back for more.",
+  "CATEGORY": "Cheese",
+  "BRAND": "Cracker Barrel",
+  "SIZE": "",
+  "EAN": "0021000005239",
+  "STATUS": "MATCHED"
  }
 }

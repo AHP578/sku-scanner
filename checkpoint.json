@@ -4258,5 +4258,83 @@
  },
  "991111102603": {
   "STATUS": "UNMATCHED"
+ },
+ "992725910332": {
+  "STATUS": "UNMATCHED"
+ },
+ "992779257506": {
+  "STATUS": "UNMATCHED"
+ },
+ "01480058205": {
+  "FULL_NAME_FOUND": "ReaLime 100% Juice - 15 Fl Oz Bottle",
+  "DESCRIPTION": "When you’re looking for a splash of lemon or lime juice, nothing beats ReaLemon and ReaLime. Made with 100% lemon and lime juice from concentrate, you get the benefit of the great taste of real juice without the hassle of cutting into fresh lemons or limes. First introduced in Chicago in 1934 by Irving Swartzburg, ReaLemon and ReaLime have been trusted brands that deliver only the highest quality of lemon and lime juice. ReaLemon and ReaLime are space-saving kitchen sidekicks, ideal for adding a delicious twist of lemon or lime to your favorite seafood and poultry recipes. Although they’re both great for use in a variety of marinades, they have their unique uses as well. Use ReaLemon to brighten up both hot and cold beverages or use ReaLime to add a bright splash of flavor to salads and dressings. When you want the real taste of real lemon or lime, simply reach for ReaLemon and ReaLime.",
+  "CATEGORY": "Juice",
+  "BRAND": "ReaLime",
+  "SIZE": "444 mL",
+  "EAN": "0014800582055",
+  "STATUS": "MATCHED"
+ },
+ "01480058221": {
+  "FULL_NAME_FOUND": "ReaLemon 100% Juice, 8 Fl Oz Bottle",
+  "DESCRIPTION": "ReaLime Lemon Juice From Concentrate is 100 percent natural-strength juice made from fresh, quality lemons. ReaLemon adds a perfect citrusy zing to beverages, marinades, meats, seafood and salads.",
+  "CATEGORY": "Juice",
+  "BRAND": "ReaLemon",
+  "SIZE": "237 mL",
+  "EAN": "0014800582215",
+  "STATUS": "MATCHED"
+ },
+ "01570045010": {
+  "FULL_NAME_FOUND": "Hotel Bar Salted Butter, 4 Count, 16 Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Butter & Margarine",
+  "BRAND": "Hotel Bar",
+  "SIZE": "",
+  "EAN": "0015700450109",
+  "STATUS": "MATCHED"
+ },
+ "01600010710": {
+  "FULL_NAME_FOUND": "Gold Medal All Purpose, Enriched, Bleached Flour, 2 Lb",
+  "DESCRIPTION": "All purpose means just thatour most versatile flour for any recipe that simply calls for flour. Strong enough to take high-rising yeast breads to new heights. And mellow enough to make your familys favorite pie crust recipe to flaky perfection (even without sifting).",
+  "CATEGORY": "Flour",
+  "BRAND": "Gold Medal",
+  "SIZE": "",
+  "EAN": "0001600010710",
+  "STATUS": "MATCHED"
+ },
+ "01600012024": {
+  "FULL_NAME_FOUND": "Golden Grahams General Mills Retro Recipe Large Size Cereal",
+  "DESCRIPTION": "Grab some sweet graham goodness with crispy graham squares made with a touch of real golden honey. Each bowl tastes like graham crackers in milk. Every serving has 13g whole grain (at least 48g recommended daily), vitamins and minerals, and no high fructose corn syrup. It makes an easy breakfast or snack. Keep a box handy so when you want that graham cracker taste from childhood, you’re golden.",
+  "CATEGORY": "Cereal & Granola",
+  "BRAND": "Golden Grahams",
+  "SIZE": "",
+  "EAN": "0016000120242",
+  "STATUS": "MATCHED"
+ },
+ "01600012185": {
+  "FULL_NAME_FOUND": "Reese's Puffs General Mills Sweet & Crunchy Corn Large Size, 1 Lb 0.7 Oz, 16.7 Ounce",
+  "DESCRIPTION": "Start your day with the chocolate peanut butter taste of REESE'S PUFFS chocolatey peanut butter cereal. These sweet, crunchy peanut buttery and chocolatey corn puffs are made with real REESE'S Peanut Butter. Each serving of REESE'S PUFFS Cereal provides 15g whole grain (at least 48 grams recommended daily), and has a good source of calcium, with 12 vitamins and minerals. Enjoy a bowl of this kids cereal with milk as part of a quick breakfast. Take along REESE'S PUFFS for chocolatey peanut butter fun in a school snacks bag. Whether you're looking for peanut butter cereal as part of kids breakfast, cereal bars ingredients, or kids snacks, General Mills cereals spread goodness from tots to grown-ups.",
+  "CATEGORY": "Cereal & Granola",
+  "BRAND": "Reese's Puffs",
+  "SIZE": "",
+  "EAN": "0016000121850",
+  "STATUS": "MATCHED"
+ },
+ "01600012222": {
+  "FULL_NAME_FOUND": "Reese's Puffs General Mills Sweet And Crunchu Corn Cereal 11.5 Oz",
+  "DESCRIPTION": "Start your day with the chocolate peanut butter taste of REESE'S PUFFS Chocolatey Peanut Butter Cereal. These sweet, crunchy peanut buttery and chocolatey corn puffs are made with real REESE'S Peanut Butter for a breakfast cereal like no other. Each serving of REESE'S PUFFS Cereal provides 15g whole grain (at least 48 grams recommended daily), and has a good source of calcium, with 12 vitamins and minerals. Enjoy a crispy bowl of this kids cereal with milk as part of a quick breakfast. Take along REESE'S PUFFS for chocolatey peanut butter fun in a school snacks bag. Fill up your biggest bowl for party snacks. Add some to your ice cream toppings lineup for a sundae bar. Whether you're looking for peanut butter cereal as part of a quick kids breakfast, ingredient for cereal chocolatey peanut butter bars, or kids snacks, General Mills cereals spread goodness from tots to grown-ups. Contains one cardboard box of crunchy REESE'S PUFFS Breakfast Cereal, Chocolatey Peanut Butter Cereal, 11.5 oz; Perfect for instant snacking, or a part of breakfast and meals.",
+  "CATEGORY": "Cereal & Granola",
+  "BRAND": "Reese's Puffs",
+  "SIZE": "",
+  "EAN": "0016000122222",
+  "STATUS": "MATCHED"
+ },
+ "01600012254": {
+  "FULL_NAME_FOUND": "Cinnamon Toast Crunch General Mills Crispy, Sweetened Whole Wheat & Rice Cereal - 12 Ounce",
+  "DESCRIPTION": "Cinnamon Toast Crunch Breakfast Cereal. Every crispy square is blasted with CINNADUST, the irresistible mix of real cinnamon and sugar that makes your mouth happy.",
+  "CATEGORY": "Cereal & Granola",
+  "BRAND": "Cinnamon Toast Crunch",
+  "SIZE": "",
+  "EAN": "0016000122543",
+  "STATUS": "MATCHED"
  }
 }

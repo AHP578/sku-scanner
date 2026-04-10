@@ -6640,5 +6640,95 @@
   "SIZE": "",
   "EAN": "0073854000922",
   "STATUS": "MATCHED"
+ },
+ "07403000003": {
+  "FULL_NAME_FOUND": "Galbani Cheese, Mozzarella, Whole Milk, Italian Style",
+  "DESCRIPTION": "Whole milk. Softer texture. Dal 1882. galbanicheese.com. For great recipes visit us at galbanicheese.com questions or comments 1-877-522-8254 Easy peel. Made in the USA.",
+  "CATEGORY": "Cheese",
+  "BRAND": "Galbani",
+  "SIZE": "",
+  "EAN": "0074030000033",
+  "STATUS": "MATCHED"
+ },
+ "07403000004": {
+  "FULL_NAME_FOUND": "Galbani Cheese, Mozzarella, Italian Style, Part Skim 16 Oz",
+  "DESCRIPTION": "Galbani® Cheese Mozzarella Part Skim. All Natural. Since 1882. Italy's Favorite Cheese Brand. Great For Slicing Softer Texture. Net Wt 16 oz (453 g). Questions or Comments 1-877-522-8254. For Great Recipes visit us at galbaniccheese.com. Galbani is a ® of S.p.A. Egidio Galbani. ©2014 LRDI.",
+  "CATEGORY": "Cheese",
+  "BRAND": "Galbani",
+  "SIZE": "",
+  "EAN": "0074030000040",
+  "STATUS": "MATCHED"
+ },
+ "07446000001": {
+  "FULL_NAME_FOUND": "E-Z Wider Double Wide",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0074460000016",
+  "STATUS": "MATCHED"
+ },
+ "07446000007": {
+  "FULL_NAME_FOUND": "E-Z Wider 1.5 Wide Cigarette Papers 1",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0074460000078",
+  "STATUS": "MATCHED"
+ },
+ "07446010064": {
+  "FULL_NAME_FOUND": "E-Z Wider 1 1/4 Rolling Paper",
+  "DESCRIPTION": "E-Z Wider papers are made in Belgium and always offer high-quality rolling papers, making them one of the leading brands for rolling papers. These papers are extremely thin and offer you a slow, smooth burn so you can enjoy your smoke even longer! Each paper has a watermark to help with the burning process, making these papers E-Z as ever to roll and enjoy.",
+  "CATEGORY": "Printer & Copier Paper",
+  "BRAND": "E-Z Wider",
+  "SIZE": "",
+  "EAN": "0074460100648",
+  "STATUS": "MATCHED"
+ },
+ "07457000400": {
+  "FULL_NAME_FOUND": "Haagen-Dazs Vanilla Ice Cream 14 Fl Oz",
+  "DESCRIPTION": "Not just anyone can take 5 simple ingredients – cream, milk, eggs, sugar, and Madagascar vanilla – and make it this good. In 1960, two Polish immigrants from the Bronx decided to create a new luxury in ice cream. They invented a recipe, dreamed up a name, and made it happen. Today, we still stand for that kind of creativity and imagination and continue to transform the finest ingredients into the most luxurious ice cream to be enjoyed by all. Because we believe that luxury is found wherever you are – in moments large and small. Here’s to choosing deliciousness every single time.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "Haagen-Dazs",
+  "SIZE": "",
+  "EAN": "0074570004003",
+  "STATUS": "MATCHED"
+ },
+ "07457001400": {
+  "FULL_NAME_FOUND": "Haagen-Dazs Chocolate Ice Cream - 14 Fl Oz",
+  "DESCRIPTION": "A flavor that remains unchanged from the beginning, using only five simple ingredients. Our ice cream is meant to be savored not binged. Our artfully paired flavors and quality ingredients are crafted for pure indulgence. Which is why our ice cream is worth slowing down for. So, in a world that’s telling you to speed up, remember it’s not a race; it’s a leisurely stroll.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "Haagen-Dazs",
+  "SIZE": "",
+  "EAN": "0074570014002",
+  "STATUS": "MATCHED"
+ },
+ "07457002400": {
+  "FULL_NAME_FOUND": "Haagen-Dazs Ice Cream, Strawberry 14 Fl Oz",
+  "DESCRIPTION": "Classic strawberry is taken to the next level in this delicately smooth ice cream. Fresh, sweet cream is accented with strawberry juice and loaded with real fruit pieces for a dessert that's a staple all year round.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "Haagen-Dazs",
+  "SIZE": "",
+  "EAN": "0074570024001",
+  "STATUS": "MATCHED"
+ },
+ "07457003400": {
+  "FULL_NAME_FOUND": "Haagen-Dazs Ice Cream, Coffee, 14 Fl. Oz. Cup",
+  "DESCRIPTION": "A timeless, unchanged flavor made with Brazilian coffee beans, milk, eggs, cream and sugar. The perfect coffee ice cream? You know it. Thät's dazs™ †SGS verified the Nestlé process for manufacturing this product with no GMO ingredients. *No significant difference has been shown between milk from rBS..",
+  "CATEGORY": "Frozen Desserts & Novelties",
+  "BRAND": "Haagen-Dazs",
+  "SIZE": "",
+  "EAN": "0007457003400",
+  "STATUS": "MATCHED"
+ },
+ "07457009400": {
+  "FULL_NAME_FOUND": "Haagen-Dazs Vanilla Swiss Almond Ice Cream - 14 Fl Oz",
+  "DESCRIPTION": "Chocolate-coated, roasted almonds paired with our distinctive vanilla ice cream. Creamy meets crunchy. In 1960, two Polish immigrants from the Bronx decided to create a new luxury in ice cream. They invented a recipe, dreamed up a name, and made it happen. Today, we still stand for that kind of creativity and imagination and continue to transform the finest ingredients into the most luxurious ice cream to be enjoyed by all. Because we believe that luxury is found wherever you are – in moments large and small. Here’s to choosing deliciousness every single time.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "Haagen-Dazs",
+  "SIZE": "",
+  "EAN": "0074570094004",
+  "STATUS": "MATCHED"
  }
 }

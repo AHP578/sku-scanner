@@ -10384,5 +10384,95 @@
   "SIZE": "",
   "EAN": "0028400700061",
   "STATUS": "MATCHED"
+ },
+ "02840070012": {
+  "FULL_NAME_FOUND": "SunChips Minis Whole Grain Snacks Harvest Cheddar",
+  "DESCRIPTION": "When SUNCHIPS first hit shelves across the country thirty years ago, we had this gonna-rock-your-world idea. What if we combined the goodness of 100% whole grains with incredible flavors to create truly one-of-a-kind deliciousness? We never intended to be ordinary, so why start now? Sunchips Minis Harvest Cheddar now in a canister. Unique in every wave. Now in tasty minis.",
+  "CATEGORY": "Chips",
+  "BRAND": "SunChips",
+  "SIZE": "",
+  "EAN": "0028400700122",
+  "STATUS": "MATCHED"
+ },
+ "02840070014": {
+  "FULL_NAME_FOUND": "SunChips Whole Grain Snacks, Garden Salsa, Minis",
+  "DESCRIPTION": "When SUNCHIPS® first hit shelves across the country thirty years ago, we had this gonna-rock-your-world idea. What if we combined the goodness of 100% whole grains with incredible flavors to create truly one-of-a-kind deliciousness? We never intended to be ordinary, so why start now? Sunchips Minis Garden Salsa now in a canister. Unique in every wave. Now in tasty minis.",
+  "CATEGORY": "Chips",
+  "BRAND": "SunChips",
+  "SIZE": "",
+  "EAN": "0028400700146",
+  "STATUS": "MATCHED"
+ },
+ "02840070648": {
+  "FULL_NAME_FOUND": "Ruffles Simply, Party Size, Sea Salted, Potato Chips",
+  "DESCRIPTION": "Pure deliciousness. At simply, our snacks are made with ingredients you can feel good about, and come from the brands you love. We call this pure deliciousness. Sea-salted to ultimate perfection, these crispy crunchy chips are ridgiculously good!",
+  "CATEGORY": "Chips",
+  "BRAND": "Ruffles",
+  "SIZE": "",
+  "EAN": "0028400706483",
+  "STATUS": "MATCHED"
+ },
+ "02840070761": {
+  "FULL_NAME_FOUND": "Lay's Potato Chips Sour Cream & Onion Flavored",
+  "DESCRIPTION": "Wherever celebrations and good times happen, the Lay's brand will be there just as it has been for more than 75 years. With flavors almost as rich as our history, we have a potato chip or crisp flavor guaranteed to bring a smile on your face.",
+  "CATEGORY": "Chips",
+  "BRAND": "Lay's",
+  "SIZE": "",
+  "EAN": "0028400707619",
+  "STATUS": "MATCHED"
+ },
+ "02840070763": {
+  "FULL_NAME_FOUND": "Doritos Spicy Sweet Chili Flavored Tortilla Chips",
+  "DESCRIPTION": "The DORITOS brand is all about boldness. If you’re up to the challenge, grab a bag of DORITOS tortilla chips and get ready to make some memories you won’t soon forget. It’s a bold experience in snacking and beyond.",
+  "CATEGORY": "Chips",
+  "BRAND": "Doritos",
+  "SIZE": "",
+  "EAN": "0028400707633",
+  "STATUS": "MATCHED"
+ },
+ "02840070765": {
+  "FULL_NAME_FOUND": "Sun Chips Garden Salsa, Flavored Whole Grain Snacks",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Chips",
+  "BRAND": "Sun Chips",
+  "SIZE": "",
+  "EAN": "0028400707657",
+  "STATUS": "MATCHED"
+ },
+ "02840071298": {
+  "FULL_NAME_FOUND": "Jack Link's Flamin’ Hot Flavored Original Meat Stick",
+  "DESCRIPTION": "Experience the bold and fiery flavor of Jack Link's Flamin Hot Meat Stick! Perfect for those who crave a spicy snack, this 0.92 ounce meat stick is packed with protein and flavor. Made from high-quality beef, it delivers a satisfying chew with a kick of heat that will tantalize your taste buds. Whether you are on the go, at work, or enjoying a day outdoors, this meat stick is the ideal companion for your snacking needs.",
+  "CATEGORY": "Meat",
+  "BRAND": "Jack Link's",
+  "SIZE": "",
+  "EAN": "0028400712989",
+  "STATUS": "MATCHED"
+ },
+ "02840075209": {
+  "FULL_NAME_FOUND": "Cheetos Crunchy, Cheddar Jalapeno Flavored, Cheese Flavored Snacks",
+  "DESCRIPTION": "CHEETOS snacks are the much-loved cheesy treats that are fun for everyone! You just can’t eat a CHEETOS snack without licking the signature “cheetle” off your fingertips. And wherever the CHEETOS brand and CHESTER CHEETAH go, cheesy smiles are sure to follow.",
+  "CATEGORY": "Snack Foods",
+  "BRAND": "Cheetos",
+  "SIZE": "",
+  "EAN": "0028400752091",
+  "STATUS": "MATCHED"
+ },
+ "02840075269": {
+  "FULL_NAME_FOUND": "Doritos Smartfood Nacho Cheese Flavored Popcorn",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Popcorn",
+  "BRAND": "Doritos",
+  "SIZE": "",
+  "EAN": "0028400752695",
+  "STATUS": "MATCHED"
+ },
+ "02840075886": {
+  "FULL_NAME_FOUND": "Smartfood Cheetos Flamin' Hot Popcorn",
+  "DESCRIPTION": "Smartfood is known for transforming everyday popcorn into bold, craveable snacks packed with unexpected flavor. Smartfood Flamin' Hot Cheetos Popcorn (6 Pack) takes the iconic heat and cheese of Flamin’ Hot Cheetos and infuses it into every fiery, finger-licking bite of fluffy popcorn. Coated in the bold, spicy cheese flavor of Flamin’ Hot Cheetos A fun mash-up of two fan-favorite snack brands Light, crunchy popcorn with an irresistible kick Comes in a 6-pack—perfect for sharing, lunchboxes, or on-the-go snacking A must for spice lovers and Cheetos fans alike Delivers the classic “cheetle” experience—licking your fingers is half the fun Smartfood Flamin' Hot Cheetos Popcorn brings maximum flavor, heat, and attitude to your snack stash.",
+  "CATEGORY": "Popcorn",
+  "BRAND": "Smartfood",
+  "SIZE": "",
+  "EAN": "0028400758864",
+  "STATUS": "MATCHED"
  }
 }

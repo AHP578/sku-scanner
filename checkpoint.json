@@ -8584,5 +8584,95 @@
   "SIZE": "",
   "EAN": "0079200701277",
   "STATUS": "MATCHED"
+ },
+ "07922301210": {
+  "FULL_NAME_FOUND": "Midwest Can 1210 Quick-Flow Spout Gas Plastic, 1 Gallon",
+  "DESCRIPTION": "Made of durable HDPE with barrier materials to virtually eliminate hydrocarbon emissions. Exceeds California Air Resource Board (CARB) and EPA requirements for portable fuel containers.",
+  "CATEGORY": "Lawn & Garden",
+  "BRAND": "Midwest Can",
+  "SIZE": "",
+  "EAN": "0079223012107",
+  "STATUS": "MATCHED"
+ },
+ "07922302310": {
+  "FULL_NAME_FOUND": "Midwest Can 2 Gallon Red Plastic Gasoline Fuel With Spill-Proof Spout",
+  "DESCRIPTION": "Can features our FlameShield Safety System that is compromised of an internal flame mitigation device (FMD) and our vapor locking Quick-Flow Spout. Can is desinged to be environmentally friendly. This size is perfect for personal equipment fuel storage and includes space for adding oil. Great for any of your lawn and garden projects.",
+  "CATEGORY": "Lawn & Garden",
+  "BRAND": "Midwest Can",
+  "SIZE": "",
+  "EAN": "0079223023103",
+  "STATUS": "MATCHED"
+ },
+ "07922305610": {
+  "FULL_NAME_FOUND": "Midwest Can 5 Gallon Gasoline Fuel With Spill-Proof Spout And Durable Construction",
+  "DESCRIPTION": "Can features FlameShield Safety System that is compromised of an internal flame mitigation device (FMD) and our vapor locking Quick-Flow Spout for safer use. Designed specifically with 2 handles for easier use, cans are built with wider base and lower center of gravity to reduce the chance of can tipping over.",
+  "CATEGORY": "Fuel",
+  "BRAND": "Midwest Can",
+  "SIZE": "",
+  "EAN": "0079223056101",
+  "STATUS": "MATCHED"
+ },
+ "07922308610": {
+  "FULL_NAME_FOUND": "Diesel Can 5 Gallons With FMD Quick Flow Spout",
+  "DESCRIPTION": "Eliminates evaporative emission, protecting the environment. Spill proof poly diesel can. Now includes FlameShield Safety System, two-piece system provides consumers with a “double layer of protection” from accidental fires that can result when improperly handling and storing gasoline and other flammable liquids. Compliant with the EPA CARB and ASTM regulations. 1 Unit / Display — 4 Displays / Case. MSRP – $37.99.",
+  "CATEGORY": "",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0007922308610",
+  "STATUS": "MATCHED"
+ },
+ "02430001403": {
+  "FULL_NAME_FOUND": "Drake's Ringdings",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Pastries & Scones",
+  "BRAND": "Drake's",
+  "SIZE": "",
+  "EAN": "0024300014031",
+  "STATUS": "MATCHED"
+ },
+ "02430001601": {
+  "FULL_NAME_FOUND": "Drake's Devils Food Cakes, Creme Filled",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Snack Cakes",
+  "BRAND": "Drake's",
+  "SIZE": "",
+  "EAN": "0024300016011",
+  "STATUS": "MATCHED"
+ },
+ "02430001602": {
+  "FULL_NAME_FOUND": "Drake's Coffee Cakes With Cinnamon Streusel Topping",
+  "DESCRIPTION": "These classic round Drake s coffee cakes are topped with a generous supply of sweet cinnamon-flavored streusel. We re not the first to make coffee cakes but we have made them since 1930 so we ve kind of perfected them. We might be biased but we re not the only ones who think they are confectionary perfection. Kosher certified by the Orthodox Union.",
+  "CATEGORY": "Coffee Cakes",
+  "BRAND": "Drake's",
+  "SIZE": "",
+  "EAN": "0024300016028",
+  "STATUS": "MATCHED"
+ },
+ "02430001704": {
+  "FULL_NAME_FOUND": "Drake's Yodels Frosted Creme Filled Devils Food Cakes Rolls",
+  "DESCRIPTION": "Cake Rolls, Creme Filled, Devil's Food, Frosted, Yodels, Pre-Priced, Wrapper.",
+  "CATEGORY": "Snack Cakes",
+  "BRAND": "Drake's",
+  "SIZE": "",
+  "EAN": "0024300017049",
+  "STATUS": "MATCHED"
+ },
+ "02460001001": {
+  "FULL_NAME_FOUND": "Morton Plain Salt, 26 Ounce",
+  "DESCRIPTION": "Morton Table Salt is an all-purpose salt perfect for everything from cooking and baking to filling the shakers on your table. Simplify your time in the kitchen with Morton Table Salt. At Morton Salt, we make sure only the best salt crystals reach your plate, so every dish you create will be as flavorful as you intend.",
+  "CATEGORY": "Seasonings & Spices",
+  "BRAND": "Morton",
+  "SIZE": "",
+  "EAN": "0024600010016",
+  "STATUS": "MATCHED"
+ },
+ "02460001003": {
+  "FULL_NAME_FOUND": "Morton Iodized Salt, 26 Ounce",
+  "DESCRIPTION": "Morton Iodized Table Salt is an all-purpose essential, ideal for cooking and baking to filling the shakers on your table. It simplifies kitchen prep while enhancing every dish with consistent, reliable flavor. At Morton Salt, we select the best salt crystals to ensure top quality and taste in every single sprinkle, so every dish you create will be as flavorful as you intend.",
+  "CATEGORY": "Seasonings & Spices",
+  "BRAND": "Morton",
+  "SIZE": "",
+  "EAN": "0024600010030",
+  "STATUS": "MATCHED"
  }
 }

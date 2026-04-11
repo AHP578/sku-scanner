@@ -9124,5 +9124,95 @@
   "SIZE": "",
   "EAN": "0027200002160",
   "STATUS": "MATCHED"
+ },
+ "02720000217": {
+  "FULL_NAME_FOUND": "Capri Indigo Menthol Cigarettes, 120's, Box",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Capri",
+  "SIZE": "",
+  "EAN": "0027200002177",
+  "STATUS": "MATCHED"
+ },
+ "02720000238": {
+  "FULL_NAME_FOUND": "Capri Cigarettes, Magenta",
+  "DESCRIPTION": "20 class A cigarettes. Underage sale prohibited. www.RJRT.com.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Capri",
+  "SIZE": "",
+  "EAN": "0027200002382",
+  "STATUS": "MATCHED"
+ },
+ "02720000239": {
+  "FULL_NAME_FOUND": "Capri Cigarettes, Menthol Indigo",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Capri",
+  "SIZE": "",
+  "EAN": "0027200002399",
+  "STATUS": "MATCHED"
+ },
+ "02720000660": {
+  "FULL_NAME_FOUND": "Capri Violet",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Capri",
+  "SIZE": "",
+  "EAN": "0027200006601",
+  "STATUS": "MATCHED"
+ },
+ "02720000661": {
+  "FULL_NAME_FOUND": "Capri Ultra Lights Cigarettes, Menthol, Super Slims",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Capri",
+  "SIZE": "",
+  "EAN": "0027200006618",
+  "STATUS": "MATCHED"
+ },
+ "02720000851": {
+  "FULL_NAME_FOUND": "Pall Mall Cigarettes, Red",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Pall Mall",
+  "SIZE": "",
+  "EAN": "0027200008513",
+  "STATUS": "MATCHED"
+ },
+ "02720000854": {
+  "FULL_NAME_FOUND": "Pall Mall Cigarettes, Blue",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Pall Mall",
+  "SIZE": "",
+  "EAN": "0027200008544",
+  "STATUS": "MATCHED"
+ },
+ "02720000862": {
+  "FULL_NAME_FOUND": "Pall Mall Cigarettes, 100's Box",
+  "DESCRIPTION": "Shop Pall Mall Cigarettes Light 100s Box - Pack from tomthumb. Browse our wide selection of Cigarettes for Delivery or Drive Up & Go to pick up at the store!",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Pall Mall",
+  "SIZE": "",
+  "EAN": "0027200008629",
+  "STATUS": "MATCHED"
+ },
+ "02720000867": {
+  "FULL_NAME_FOUND": "Pall Mall Cigarettes - Filter 1",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Pall Mall",
+  "SIZE": "",
+  "EAN": "0027200008674",
+  "STATUS": "MATCHED"
+ },
+ "02720034731": {
+  "FULL_NAME_FOUND": "Pall Mall Cigarettes, Menthol",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Pall Mall",
+  "SIZE": "",
+  "EAN": "0027200347315",
+  "STATUS": "MATCHED"
  }
 }

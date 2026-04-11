@@ -10834,5 +10834,95 @@
   "SIZE": "",
   "EAN": "0029000330177",
   "STATUS": "MATCHED"
+ },
+ "02912615030": {
+  "FULL_NAME_FOUND": "Dorval Trading Co. Ltd. Sour Power Cotton Candy Straws 50 G",
+  "DESCRIPTION": "Tangy, but sweet cotton candy is even more tempting when it takes the form of sour straws. Sour Power straws are a new twist on a sour candy favorite, offering a crunchy sour crystal coating for an intense, lip-puckering flavor and crunch, all with a soft candy chew. The pretty pink colored straws stand out at your point of sale. Great concession item and a must for your candy aisle.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Dorval Trading Co. Ltd.",
+  "SIZE": "",
+  "EAN": "0029126150307",
+  "STATUS": "MATCHED"
+ },
+ "07929800007": {
+  "FULL_NAME_FOUND": "Evian Natural Spring Water - 33.8 Fl Oz Bottle",
+  "DESCRIPTION": "Details EVIAN NATURAL SPRING WATER CONTAINS CALCIUM, MAGNESIUM, POTASSIUM, BICARBONATES, SULFATES AND SILICA, AND THE WATER NEUTRALLY BALANCED WITH A PH OF 7.2. EACH CONVENIENT 1 L BOTTLE DELIVERS HYDRATION IDEAL FOR HOME OR WORK. KEEP THESE BOTTLES IN THE FRIDGE FOR A COLD DRINK AFTER A WORKOUT OR JOG AROUND THE NEIGHBORHOOD, AND LEAVE SOME NEAR YOUR DESK AT WORK TO HELP KEEP YOUR MIND AND BODY FRESH ALL DAY. THIS WATER SPENDS 15 YEARS IN THE FRENCH ALPS BEFORE THE COMPANY PACKAGES IT.",
+  "CATEGORY": "Spring Water",
+  "BRAND": "Evian",
+  "SIZE": "1000 mL",
+  "EAN": "0079298000078",
+  "STATUS": "MATCHED"
+ },
+ "07929800008": {
+  "FULL_NAME_FOUND": "Evian Water, Natural Spring 1.05 Pt",
+  "DESCRIPTION": "Evian® Natural Spring Water. From the French Alps. Sodium free.",
+  "CATEGORY": "Water",
+  "BRAND": "Evian",
+  "SIZE": "500 mL",
+  "EAN": "0079298000085",
+  "STATUS": "MATCHED"
+ },
+ "07929800085": {
+  "FULL_NAME_FOUND": "Evian Natural Spring Water 6-16.9 Fl. Oz. Bottles",
+  "DESCRIPTION": "Thirst quenching yet portable, the evian water 500mL bottle is the perfect size for an on the go lifestyle. If hydration is a priority in your everyday routine, this bottle is also available in packs of six.",
+  "CATEGORY": "Spring Water",
+  "BRAND": "Evian",
+  "SIZE": "500 mL",
+  "EAN": "0079298000856",
+  "STATUS": "MATCHED"
+ },
+ "07940049787": {
+  "FULL_NAME_FOUND": "Dove Advanced Care Invisible+ 48HR Deodorant Cucumber & Cactus Water 2.6Oz",
+  "DESCRIPTION": "Dove Advanced Care Invisible+ Cucumber & Cactus Water 2.6 oz Antiperspirant Deodorant. Invisible Solid Formula.",
+  "CATEGORY": "Deodorant",
+  "BRAND": "Dove",
+  "SIZE": "",
+  "EAN": "0079400497871",
+  "STATUS": "MATCHED"
+ },
+ "07940058708": {
+  "FULL_NAME_FOUND": "Degree Men Ultra Clear Black + White Antiperspirant And Deodorant - 2.7 Oz",
+  "DESCRIPTION": "Degree Men UltraClear Black+White Antiperspirant Deodorant with long-lasting MotionSense® technology is specially designed to keep your clothes looking new. No white marks on black clothes and no yellow stains on white clothes.",
+  "CATEGORY": "Deodorant",
+  "BRAND": "Degree",
+  "SIZE": "",
+  "EAN": "0079400587084",
+  "STATUS": "MATCHED"
+ },
+ "07954230012": {
+  "FULL_NAME_FOUND": "Blue Magic 16 Ounce Turbo 108 Octane Fuel Booster Enhancer",
+  "DESCRIPTION": "Specially formulated to economically increases octane level and anti-knock effectiveness. Super concentrated. Improves power & smoothes rough idle.",
+  "CATEGORY": "Fuel",
+  "BRAND": "Blue Magic",
+  "SIZE": "",
+  "EAN": "0079542300121",
+  "STATUS": "MATCHED"
+ },
+ "07956749002": {
+  "FULL_NAME_FOUND": "Wd-40 Smart Straw Spray Lubricant, 8 Oz Aerosol Can, 12/Carton WDF490026",
+  "DESCRIPTION": "Stop squeaks, remove adhesives, loosen rust and do so much more with this multipurpose lubricant. Permanently attached Smart Straw enables you to protect, clean and lubricate thousands of items without losing the straw. Multi-action nozzle delivers either a precision stream or regular spray.",
+  "CATEGORY": "Lubricants",
+  "BRAND": "Wd-40",
+  "SIZE": "",
+  "EAN": "0079567490029",
+  "STATUS": "MATCHED"
+ },
+ "07958118400": {
+  "FULL_NAME_FOUND": "Calypso Original Lemonade, 16 Fl Oz",
+  "DESCRIPTION": "Calypso Original Lemonade is made from the highest quality ingredients. It is very refreshing and inimitable thanks to its natural taste of fresh juices and lemon pieces.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Calypso",
+  "SIZE": "355 mL",
+  "EAN": "0079581184003",
+  "STATUS": "MATCHED"
+ },
+ "07958118401": {
+  "FULL_NAME_FOUND": "Calypso Ocean Blue Lemonade - 16 Fl Oz Glass Bottle",
+  "DESCRIPTION": "Calypso Lemonades are made with real lemon bits and real sugar. We focus on quality ingredients, making a lemonade that is refreshing, and irreplaceable. The lemonade of good times on the beach or poolside kicking it with your friends.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Calypso",
+  "SIZE": "473 mL",
+  "EAN": "0079581184010",
+  "STATUS": "MATCHED"
  }
 }

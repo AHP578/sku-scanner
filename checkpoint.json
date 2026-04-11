@@ -9754,5 +9754,95 @@
   "SIZE": "",
   "EAN": "0028200310224",
   "STATUS": "MATCHED"
+ },
+ "02820031032": {
+  "FULL_NAME_FOUND": "L M Cigarettes, Filter, Menthol",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "L M",
+  "SIZE": "",
+  "EAN": "0028200310323",
+  "STATUS": "MATCHED"
+ },
+ "02820031042": {
+  "FULL_NAME_FOUND": "L M Cigarettes, Menthol, Filter, 100's",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "L M",
+  "SIZE": "",
+  "EAN": "0028200310422",
+  "STATUS": "MATCHED"
+ },
+ "02820031772": {
+  "FULL_NAME_FOUND": "Marlboro Cigarettes, Nxt, Regular To Menthol",
+  "DESCRIPTION": "Marlboro NXT is a type of cigarette known for its menthol flavor that can be activated with a crush of the filter. It's a popular choice for those who enjoy both regular and menthol cigarettes in one pack.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200317728",
+  "STATUS": "MATCHED"
+ },
+ "02820032422": {
+  "FULL_NAME_FOUND": "Marlboro Slate Box",
+  "DESCRIPTION": "21+. Class A cigarettes. Bold balanced menthol flavor. marlboroblack.com. Please don't litter. FSC.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200324221",
+  "STATUS": "MATCHED"
+ },
+ "02820032432": {
+  "FULL_NAME_FOUND": "Marlboro Slate M 100 Box",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200324320",
+  "STATUS": "MATCHED"
+ },
+ "02840003422": {
+  "FULL_NAME_FOUND": "Nut Harvest Sea Salted Whole Cashews - 2.25 Ounce",
+  "DESCRIPTION": "Nut Harvest, Deluxe mixed nuts sleeve. Wholesome Medley snack mix is a delightfully savory and sweet. A healthy way to snack.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "Nut Harvest",
+  "SIZE": "",
+  "EAN": "0028400034227",
+  "STATUS": "MATCHED"
+ },
+ "02840004380": {
+  "FULL_NAME_FOUND": "Lay's Wavy Potato Chips Original 7.75 Ounce Plastic Bag",
+  "DESCRIPTION": "Wavy Lay's potato chips have all the crispy, fresh taste made famous by Lay's potato chips, with a Wavy crunch all their own. They feature delicate and crispy ridges, making them ideal for dipping.",
+  "CATEGORY": "Chips",
+  "BRAND": "Lay's",
+  "SIZE": "",
+  "EAN": "0028400043809",
+  "STATUS": "MATCHED"
+ },
+ "02840005597": {
+  "FULL_NAME_FOUND": "Tostitos Mild Chunky Salsa 15.5oz",
+  "DESCRIPTION": "Delicious, crowd pleasing, and convenient - it can't get much better than Tostitos Mild Chunky Salsa! From entertaining friends to relaxing at home and everything in between, our perfectly blended salsa is always a hit.",
+  "CATEGORY": "Salsa",
+  "BRAND": "Tostitos",
+  "SIZE": "",
+  "EAN": "0002840005597",
+  "STATUS": "MATCHED"
+ },
+ "02840005598": {
+  "FULL_NAME_FOUND": "Tostitos Chunky Salsa Medium - 15.5oz Dip",
+  "DESCRIPTION": "Delicious, crowd pleasing and convenient ' it can't get much better than Frito-Lay chips and dips! From entertaining friends to relaxing at home and everything in between, our perfectly blended salsas and great-tasting dips are always a hit. Mix and match them to discover your own perfect pairing!",
+  "CATEGORY": "Salsa",
+  "BRAND": "Tostitos",
+  "SIZE": "",
+  "EAN": "0028400055987",
+  "STATUS": "MATCHED"
+ },
+ "02840006408": {
+  "FULL_NAME_FOUND": "Tostitos Scoops Tortilla Chips Original - 10 Ounce",
+  "DESCRIPTION": "TOSTITOS are more than tortilla chips and dips—they're an invitation to catch up with friends, so Get Together Already! TOSTITOS Tortilla Chips come in a variety of shapes, sizes and flavors, but they all have two things in common - they're completely dippable and totally delicious. Tostitos salsas are made with real chunks of garden vegetables, and Tostitos dips are so creamy, you can't resist either! Nothing pairs better with TOSTITOS Tortilla Chips, except maybe a group of friends. .",
+  "CATEGORY": "Chips",
+  "BRAND": "Tostitos",
+  "SIZE": "",
+  "EAN": "0028400064088",
+  "STATUS": "MATCHED"
  }
 }

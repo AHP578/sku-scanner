@@ -9574,5 +9574,95 @@
   "SIZE": "",
   "EAN": "0028200007841",
   "STATUS": "MATCHED"
+ },
+ "02820000787": {
+  "FULL_NAME_FOUND": "Parliament Cigarettes -Menthol Box - King 1",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Parliament",
+  "SIZE": "",
+  "EAN": "0028200007872",
+  "STATUS": "MATCHED"
+ },
+ "02820000789": {
+  "FULL_NAME_FOUND": "Parliament Cigarettes Menthol Light S 20 Cigarettes",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Dry Boxes",
+  "BRAND": "Parliament",
+  "SIZE": "",
+  "EAN": "0028200007896",
+  "STATUS": "MATCHED"
+ },
+ "02820000791": {
+  "FULL_NAME_FOUND": "Parliament Cigarettes, Recessed Filter, 100's",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Parliament",
+  "SIZE": "",
+  "EAN": "0028200007919",
+  "STATUS": "MATCHED"
+ },
+ "02820000793": {
+  "FULL_NAME_FOUND": "Parliament Cigarettes, Recessed Filter, Menthol, Flip-Top Box",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Parliament",
+  "SIZE": "",
+  "EAN": "0028200007933",
+  "STATUS": "MATCHED"
+ },
+ "02820000815": {
+  "FULL_NAME_FOUND": "Parliament Cigarettes, Silver Pack",
+  "DESCRIPTION": "Recessed filter. Nothing about this cigarette, packaging, or color should be interpreted to mean safer. Class A cigarettes. For special offers myparliament.com limited to eligible smokers 21+. www.pmusa.com. Questions? 1-800-232-3112.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Parliament",
+  "SIZE": "",
+  "EAN": "0028200008152",
+  "STATUS": "MATCHED"
+ },
+ "02820000935": {
+  "FULL_NAME_FOUND": "Marlboro Cigarettes, Black Menthol, Seventy Twos",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200009357",
+  "STATUS": "MATCHED"
+ },
+ "02820000952": {
+  "FULL_NAME_FOUND": "Marlboro Black Cigarettes",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200009524",
+  "STATUS": "MATCHED"
+ },
+ "02820000954": {
+  "FULL_NAME_FOUND": "Marlboro Cigarettes, Menthol, Black",
+  "DESCRIPTION": "Bold menthol flavor. Uncover the blends. Discover your menthol. Marlboro menthol top shelf flavor. Explore the experiences for a chance at thousands of top shelf prizes at Marlboro.com.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200009548",
+  "STATUS": "MATCHED"
+ },
+ "02820000962": {
+  "FULL_NAME_FOUND": "Marlboro Menthol Green Pack Cigarettes",
+  "DESCRIPTION": "Fresh menthol flavor. Green blend. Marlboro.com. Limited to eligible smokers 21+. Class A cigarettes. Please don't litter. FSC.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200009623",
+  "STATUS": "MATCHED"
+ },
+ "02820000963": {
+  "FULL_NAME_FOUND": "Marlboro Cigarettes, Filter, Seventy Twos",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200009630",
+  "STATUS": "MATCHED"
  }
 }

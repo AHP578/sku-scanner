@@ -9934,5 +9934,95 @@
   "SIZE": "",
   "EAN": "0028400199636",
   "STATUS": "MATCHED"
+ },
+ "02840020060": {
+  "FULL_NAME_FOUND": "Lay's Salt & Vinegar Flavored Potato Chips - 7.75 Ounce",
+  "DESCRIPTION": "Turn a get-together into a party with the 7.75oz Salt and Vinegar Flavored Potato Chips from Lay's. This classic potato chip lends a delicious blend of delicious sea salt and tangy vinegar for a mouth-puckering delight. A bowl of Lay's potato chips is just what you need for your next party. Place it out for others to enjoy all night long.",
+  "CATEGORY": "Chips",
+  "BRAND": "Lay's",
+  "SIZE": "",
+  "EAN": "0028400200608",
+  "STATUS": "MATCHED"
+ },
+ "02840025942": {
+  "FULL_NAME_FOUND": "Grandma's Chocolate Brownie Cookies",
+  "DESCRIPTION": "GRANDMA'S cookies offer a delicious variety of homemade memories. With flavors like chocolate and peanut butter, every GRANDMA'S treat is baked with love to transport you to your happy place with every bite.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Grandma's",
+  "SIZE": "",
+  "EAN": "0028400259422",
+  "STATUS": "MATCHED"
+ },
+ "02840025955": {
+  "FULL_NAME_FOUND": "Grandma's Peanut Butter Cookies",
+  "DESCRIPTION": "Peanut butter flavor offers the sweet taste of creamy peanuts. The great-tasting recipe is baked with love for happiness in every bite. Single-serve package provides maximum freshness. Perfect for lunches, picnics, company gatherings, and more.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Grandma's",
+  "SIZE": "",
+  "EAN": "0028400259552",
+  "STATUS": "MATCHED"
+ },
+ "02840025961": {
+  "FULL_NAME_FOUND": "Grandma's Brand Chocolate Chip Cookies",
+  "DESCRIPTION": "GRANDMA'S cookies offer a delicious variety of homemade memories. With flavors like chocolate and peanut butter, every GRANDMA'S treat is baked with love to transport you to your happy place with every bite.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Grandma's",
+  "SIZE": "",
+  "EAN": "0028400259613",
+  "STATUS": "MATCHED"
+ },
+ "02840026034": {
+  "FULL_NAME_FOUND": "Grandma's Sandwich Creme Cookies Vanilla - 3.25 Ounce",
+  "DESCRIPTION": "GRANDMA’S cookies offer a delicious variety of homemade memories. With flavors like chocolate, peanut butter and lemon pie, every GRANDMA’S treat is baked with love to transport you to your happy place with every bite.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Grandma's",
+  "SIZE": "",
+  "EAN": "0028400260343",
+  "STATUS": "MATCHED"
+ },
+ "02840026092": {
+  "FULL_NAME_FOUND": "Grandma's Vanilla Naturally & Artificially Flavored, Mini Sandwich Cremes, Cookies",
+  "DESCRIPTION": "GRANDMA'S cookies offer a delicious variety of homemade memories. With flavors like chocolate and peanut butter, every GRANDMA'S treat is baked with love to transport you to your happy place with every bite.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Grandma's",
+  "SIZE": "",
+  "EAN": "0028400260923",
+  "STATUS": "MATCHED"
+ },
+ "02840031401": {
+  "FULL_NAME_FOUND": "Smartfood White Cheddar Popcorn, 6.75 Ounce",
+  "DESCRIPTION": "Air Popped Popcorn. Delicious White Cheddar Cheese. It's ok to hug this bag.",
+  "CATEGORY": "Popcorn",
+  "BRAND": "Smartfood",
+  "SIZE": "",
+  "EAN": "0028400314015",
+  "STATUS": "MATCHED"
+ },
+ "02840032504": {
+  "FULL_NAME_FOUND": "Doritos Flavored Tortilla Chips, Cool Ranch",
+  "DESCRIPTION": "delivers a bold, distinctive flavor combining zesty ranch seasoning with a crispy tortilla chip base. This snack offers a balanced blend of tangy, savory, and cooling notes, making it a standout choice.",
+  "CATEGORY": "Chips",
+  "BRAND": "Doritos",
+  "SIZE": "",
+  "EAN": "0028400325042",
+  "STATUS": "MATCHED"
+ },
+ "02840033154": {
+  "FULL_NAME_FOUND": "Lay's Potato Crisps, Original, Baked - 1.875 Ounce",
+  "DESCRIPTION": "Frito-Lay’s line of Baked snacks are baked, not fried, to give you the great taste you’ve come to love with Frito-Lay snacks. On top of that, Baked snacks offer less fat than regular potato chips* and cheese-flavored snacks. 65% less fat than regular potato chips, 50% less fat than regular cheese-flavored snacks.",
+  "CATEGORY": "Chips",
+  "BRAND": "Lay's",
+  "SIZE": "",
+  "EAN": "0028400331548",
+  "STATUS": "MATCHED"
+ },
+ "02840033179": {
+  "FULL_NAME_FOUND": "Smartfood White Cheddar Cheese Popcorn",
+  "DESCRIPTION": "Air Popped Popcorn. Delicious White Cheddar Cheese. It's ok to hug this bag.",
+  "CATEGORY": "Popcorn",
+  "BRAND": "Smartfood",
+  "SIZE": "",
+  "EAN": "0028400331791",
+  "STATUS": "MATCHED"
  }
 }

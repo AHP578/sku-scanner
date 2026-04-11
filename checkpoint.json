@@ -11548,5 +11548,95 @@
   "SIZE": "",
   "EAN": "0090500010081",
   "STATUS": "MATCHED"
+ },
+ "09050001013": {
+  "FULL_NAME_FOUND": "Winston Gold 100 50c Off",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0090500010135",
+  "STATUS": "MATCHED"
+ },
+ "09050001032": {
+  "FULL_NAME_FOUND": "Winston Gold 100 B $1 Off",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Household Supplies",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0090500010326",
+  "STATUS": "MATCHED"
+ },
+ "09060000086": {
+  "FULL_NAME_FOUND": "Warner Brothers Publ Inc Travelling Through Time-Hildago/Hernandez",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Media",
+  "BRAND": "Warner Brothers Publ Inc",
+  "SIZE": "",
+  "EAN": "0090600000869",
+  "STATUS": "MATCHED"
+ },
+ "09060039166": {
+  "FULL_NAME_FOUND": "Crowns Red Box Cigarettes",
+  "DESCRIPTION": "Enhance your dental practice with the Crowns Red 100BX, a premium assortment of dental crowns and bridges in a convenient box with a clear lid insert.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Crowns",
+  "SIZE": "",
+  "EAN": "0090600391660",
+  "STATUS": "MATCHED"
+ },
+ "09060039167": {
+  "FULL_NAME_FOUND": "Crowns Dark Green Box 100s",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Crowns",
+  "SIZE": "",
+  "EAN": "0090600391677",
+  "STATUS": "MATCHED"
+ },
+ "09060039168": {
+  "FULL_NAME_FOUND": "Crowns Gold Box 100s",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Crowns",
+  "SIZE": "",
+  "EAN": "0090600391684",
+  "STATUS": "MATCHED"
+ },
+ "09396631174": {
+  "FULL_NAME_FOUND": "Mighty Beef Sticks Organics Stick, Original, Grassfed 24/1 Oz [UNFI #33479]",
+  "DESCRIPTION": "Our organic meat sticks are crafted from 100% grass-fed beef. Seasoned with organic spices for robust flavor in each bite. These perfectly portioned sticks provide a convenient, protein-packed option for on-the-go nourishment and snacking. Whether you're looking for a post-workout boost or a wholesome snack for adventures, our organic meat sticks deliver on ingredients, taste, and convenience.",
+  "CATEGORY": "Jerky",
+  "BRAND": "Mighty Beef Sticks",
+  "SIZE": "",
+  "EAN": "0093966311747",
+  "STATUS": "MATCHED"
+ },
+ "09396631176": {
+  "FULL_NAME_FOUND": "Mighty Beef Sticks Organics Stick, Teriyaki, Grassfed 24/1 Oz [UNFI #33486]",
+  "DESCRIPTION": "ORGANIC GRASSFED BEEF, SALT, ORGANIC RAW CANE SUGAR, LESS THAN 2% OF THE FOLLOWING; ORGANIC TAMARI SOY SAUCE POWDER (ORGANIC TAMARI SOY SAUCE [ORGANIC SOYBEANS, SALT], ORGANIC MALTODEXTRIN. SALT), ORGANIC PAPRIKA, ORGANIC GARLIC POWDER, ORGANIC ONION POWDER, ORGANIC SPICES, ORGANIC CORN STARCH, ORGANIC CHERRY POWDER, CULTURED CELERY JUICE POWDER, LACTIC ACID STARTER CULTURE IN COLLAGEN CASING.",
+  "CATEGORY": "Jerky",
+  "BRAND": "Mighty Beef Sticks",
+  "SIZE": "",
+  "EAN": "0093966311761",
+  "STATUS": "MATCHED"
+ },
+ "09661900003": {
+  "FULL_NAME_FOUND": "Kirkland Signature Whole Milk",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Milk",
+  "BRAND": "Kirkland Signature",
+  "SIZE": "3785 mL",
+  "EAN": "0096619000036",
+  "STATUS": "MATCHED"
+ },
+ "09661903293": {
+  "FULL_NAME_FOUND": "Kirkland Signature Organic Raw Honey, 24 Oz, 3-count Honey Bear Bottles BEE BUZZ",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Honey Jars",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0009661903293",
+  "STATUS": "MATCHED"
  }
 }

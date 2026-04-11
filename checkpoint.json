@@ -11008,5 +11008,95 @@
  },
  "08186400905": {
   "STATUS": "UNMATCHED"
+ },
+ "08259201108": {
+  "FULL_NAME_FOUND": "Naked Pina Colada Blended Juice Smoothie - 15.2 Fl Oz",
+  "DESCRIPTION": "Naked is mighty good juice with nutrients packed into every square ounce, with no added sugar and no preservatives. Blend of 5 juices partially from concentrate with added ingredients and other natural flavors.",
+  "CATEGORY": "Juice",
+  "BRAND": "Naked",
+  "SIZE": "450 mL",
+  "EAN": "0082592011084",
+  "STATUS": "MATCHED"
+ },
+ "08259201148": {
+  "FULL_NAME_FOUND": "Naked Rainbow Machine Juice Blend",
+  "DESCRIPTION": "Naked® is mighty good juice with nutrients packed into every square ounce, with no added sugar and no preservatives.",
+  "CATEGORY": "Juice",
+  "BRAND": "Naked",
+  "SIZE": "450 mL",
+  "EAN": "0008259201148",
+  "STATUS": "MATCHED"
+ },
+ "08259219415": {
+  "FULL_NAME_FOUND": "Naked Strawberry Banana Juice Smoothie - 15.2 Fl Oz",
+  "DESCRIPTION": "Naked Strawberry Banana 100% Juice Smoothie delivers a naturally delicious blend of real fruits in every sip. Made from a mix of six juices, partially from concentrate, this smoothie offers a rich and creamy strawberry banana flavor with no added sugar or preservatives. Packed in a 100% recycled PET bottle, it’s a convenient and wholesome drink for any time of the day. Enjoy the taste of nature’s best ingredients in a smoothie that’s gluten-free, vegan, and Non-GMO Project Verified. Not a low calorie food. See Nutritional Panel For Information On Sugars And Calorie Content.",
+  "CATEGORY": "Juice",
+  "BRAND": "Naked",
+  "SIZE": "450 mL",
+  "EAN": "0082592194152",
+  "STATUS": "MATCHED"
+ },
+ "08259266015": {
+  "FULL_NAME_FOUND": "Naked Mighty Mango Fruit Juice Smoothie – 15.2 Fl Oz Bottle",
+  "DESCRIPTION": "The mango, also known as the king of fruits, really is mighty. Give yourself the royal treatment with an amazingly exotic, incredibly yummy multitude of mango, blended with oranges, apples and more. Simply put, mango rules.",
+  "CATEGORY": "Juice",
+  "BRAND": "Naked",
+  "SIZE": "450 mL",
+  "EAN": "0082592660152",
+  "STATUS": "MATCHED"
+ },
+ "08259272015": {
+  "FULL_NAME_FOUND": "Naked Green Machine Juice Smoothie 15.20 Fl Oz",
+  "DESCRIPTION": "Looks weird, tastes amazing. There's nothing weird about this flavorful blend of apple and kiwi, so delicious that you won't even notice the 10 green turbo boosts.",
+  "CATEGORY": "Juice",
+  "BRAND": "Naked",
+  "SIZE": "450 mL",
+  "EAN": "0082592720153",
+  "STATUS": "MATCHED"
+ },
+ "08259272715": {
+  "FULL_NAME_FOUND": "Naked Blue Machine Juice Smoothie – 15.2 Fl Oz Bottle",
+  "DESCRIPTION": "Got the blues? Kick 'em to the curb with a swig of this fiber-full flavor machine of blueberry-blackberry goodness then strut down the street with some pep in your step. There’s some good old-fashioned mood-shine in every bottle, along with bare-naked fruits and B-vitamin boosts.",
+  "CATEGORY": "Juice",
+  "BRAND": "Naked",
+  "SIZE": "450 mL",
+  "EAN": "0082592727152",
+  "STATUS": "MATCHED"
+ },
+ "08307811311": {
+  "FULL_NAME_FOUND": "Carmex Classic Medicated Lip Balm Jar, Original, 0.25 Oz",
+  "DESCRIPTION": "Are the elements hard on your lips? Carmex locks in your own body's moisture to help protect against chapping and cracking. Carmex balm for cold sores and chapped lips provides temporary, trusted relief. It is easily absorbed into the delicate skin of your lips, where it provides a temporary barrier against the drying effects of wind, heat and cold.",
+  "CATEGORY": "Lip Balms & Treatments",
+  "BRAND": "Carmex",
+  "SIZE": "",
+  "EAN": "0083078113117",
+  "STATUS": "MATCHED"
+ },
+ "08307811317": {
+  "FULL_NAME_FOUND": "Carmex Classic Medicated Lip Balm Stick, Original, SPF 15, 0.15 Oz",
+  "DESCRIPTION": "Carmex locks in your own body's moisture to help protect against chapping and cracking. Carmex moisturizing lip balm is easily absorbed into the delicate skin of your lips, where it provides a temporary barrier against the drying effects of wind, heat and cold. SPF 15.",
+  "CATEGORY": "Lip Balms & Treatments",
+  "BRAND": "Carmex",
+  "SIZE": "",
+  "EAN": "0083078113179",
+  "STATUS": "MATCHED"
+ },
+ "08314200705": {
+  "FULL_NAME_FOUND": "Daisys Cherry Danish",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cherries",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0083142007052",
+  "STATUS": "MATCHED"
+ },
+ "08314200707": {
+  "FULL_NAME_FOUND": "Daisys Danish Grmt Apple 4 Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Apples",
+  "BRAND": "Daisys",
+  "SIZE": "",
+  "EAN": "0083142007076",
+  "STATUS": "MATCHED"
  }
 }

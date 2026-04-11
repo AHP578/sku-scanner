@@ -12076,5 +12076,65 @@
   "SIZE": "",
   "EAN": "0191554642010",
   "STATUS": "MATCHED"
+ },
+ "19293734862": {
+  "FULL_NAME_FOUND": "Go Brightly 18 Oz White Plastic Cups",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Disposable Cups",
+  "BRAND": "Go Brightly",
+  "SIZE": "",
+  "EAN": "0192937348628",
+  "STATUS": "MATCHED"
+ },
+ "19546419402": {
+  "STATUS": "UNMATCHED"
+ },
+ "19546461165": {
+  "STATUS": "UNMATCHED"
+ },
+ "19589357361": {
+  "STATUS": "UNMATCHED"
+ },
+ "19589359027": {
+  "STATUS": "UNMATCHED"
+ },
+ "19589376627": {
+  "FULL_NAME_FOUND": "For 1988-1998 GMC K2500 Brake Rotor Front AC Delco 85774NYRX 1989 1990 1991 1992",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Rum",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0195893766277",
+  "STATUS": "MATCHED"
+ },
+ "19589382941": {
+  "STATUS": "UNMATCHED"
+ },
+ "19600570833": {
+  "FULL_NAME_FOUND": "Crisco Pure Vegetable Oil, Gluten Free 40 Fl Oz",
+  "DESCRIPTION": "Crisco Pure Vegetable Oil is great for baking and frying, so you and your kitchen are always ready to make your family's favorite meals. This Crisco cooking oil features a light taste that lets the flavor of your food shine through. Crisco Vegetable Oil is ideal for baking recipes and can also be used for cooking and sautéing. Crisco is what good food is made of. This cholesterol free vegetable oil for cooking is certified kosher and gluten free. Check out other Crisco baking ingredients like shortening and a variety of other cooking oils to add versatility to your baking style.",
+  "CATEGORY": "Cooking Oils",
+  "BRAND": "Crisco",
+  "SIZE": "",
+  "EAN": "0196005708338",
+  "STATUS": "MATCHED"
+ },
+ "19600570834": {
+  "FULL_NAME_FOUND": "Crisco Pure Canola Oil, Gluten Free 40 Fl Oz",
+  "DESCRIPTION": "Crisco Pure Canola Oil is great for cooking and frying, so you and your kitchen are always ready to make your family's favorite meals. This cooking oil also features a light texture and a neutral flavor profile. You can combine this Crisco Canola Oil with a variety of baking ingredients to prepare delicious baked goods for family and friends. This Crisco Oil is also a great choice for sautéing and preparing a salad dressing or marinade; it allows the flavors in your cooking creations to shine. Crisco is what good food is made of. This cholesterol-free Crisco cooking oil is certified kosher and gluten free.",
+  "CATEGORY": "Oil & Vinegar Dispensers",
+  "BRAND": "Crisco",
+  "SIZE": "",
+  "EAN": "0196005708345",
+  "STATUS": "MATCHED"
+ },
+ "30031871818": {
+  "FULL_NAME_FOUND": "Robitussin Maximum Strength Nighttime Cough DM Max, Adult Formula, Berry Flavor - 8 Fl Oz Bottle",
+  "DESCRIPTION": "Maximum strength nighttime Robitussin controls the impulse to cough to help you sleep. Antihistamine controls and relieves cough, runny nose and sneezing. Formulated with a blue raspberry flavor and provides hours of cough suppression. Suitable for adults and children 12 years and over.",
+  "CATEGORY": "Health & Beauty",
+  "BRAND": "Robitussin",
+  "SIZE": "",
+  "EAN": "0300318718186",
+  "STATUS": "MATCHED"
  }
 }

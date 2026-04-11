@@ -8674,5 +8674,95 @@
   "SIZE": "",
   "EAN": "0024600010030",
   "STATUS": "MATCHED"
+ },
+ "02500005222": {
+  "FULL_NAME_FOUND": "Minute Maid Cranberry Apple Raspberry Fruit Juice Bottle 12 Fl Oz",
+  "DESCRIPTION": "Here at Minute Maid®, we pride ourselves on all our products. From orange juice to apple juice, lemonades and punches, we use the freshest ingredients to ensure you get the highest quality juices.",
+  "CATEGORY": "Juice",
+  "BRAND": "Minute Maid",
+  "SIZE": "355 mL",
+  "EAN": "0025000052224",
+  "STATUS": "MATCHED"
+ },
+ "02500005801": {
+  "FULL_NAME_FOUND": "Minute Maid Lemonade Made W/ Real Lemons, 20 Fl Oz",
+  "DESCRIPTION": "From enjoying juice as a kid, to providing your family with a delicious juice or enjoying a juice drink as an adult, the Minute Maid brand has been bringing goodness to your family for 75 years. And every delicious Minute Maid lemonade carries on the tradition of good. Minute Maid lemonade is authentic, timeless and downright deliciously refreshing. Minute Maid lemonade comes in a range of conveniently sized bottles for any occasion, so you can have goodness on-the-go or at home. Minute Maid has prided itself for generations on providing quality products to families around the world. With more than 100 different flavors and varieties from 100% orange juice to 100% apple juice, and lemonades to punches, real fruit juice to create the delicious, quality Minute Maid juice beverages families can trust. Delicious and refreshing juice beverages for the whole family. Now that sounds good.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Minute Maid",
+  "SIZE": "591 mL",
+  "EAN": "0025000058011",
+  "STATUS": "MATCHED"
+ },
+ "02500006151": {
+  "FULL_NAME_FOUND": "Minute Maid 100% Vitamin C Apple Fruit Juice 12 Fl Oz Bottle",
+  "DESCRIPTION": "Experience the delightful taste of Minute Maid Apple Juice, a refreshing beverage that is perfect for any occasion. This 12-ounce bottle is packed with the natural sweetness of apples, making it an ideal choice for a quick thirst quencher or a nutritious addition to your meals. Enjoy the crisp flavor and vibrant color that only Minute Maid can provide.",
+  "CATEGORY": "Juice",
+  "BRAND": "Minute Maid",
+  "SIZE": "355 mL",
+  "EAN": "0025000061516",
+  "STATUS": "MATCHED"
+ },
+ "02500006153": {
+  "FULL_NAME_FOUND": "Minute Maid Orange Juice Drink 12 Fl Oz",
+  "DESCRIPTION": "Here at Minute Maid, we pride ourselves on all our products. From orange juice to apple juice, lemonades and punches, we use the freshest ingredients to ensure you get the highest quality juices.",
+  "CATEGORY": "Juice",
+  "BRAND": "Minute Maid",
+  "SIZE": "355 mL",
+  "EAN": "0025000061530",
+  "STATUS": "MATCHED"
+ },
+ "02500011999": {
+  "FULL_NAME_FOUND": "Minute Maid Blue Raspberry Juice Drink Bottle, 20 Fl Oz",
+  "DESCRIPTION": "Experience the refreshing taste of Fuze Minute Maid Blue Raspberry! This delicious beverage combines the sweet and tangy flavor of blue raspberry with a revitalizing twist, making it the perfect drink for any occasion. Whether you are enjoying a sunny day outdoors, hosting a gathering, or simply looking for a tasty refreshment, this 20-ounce single bottle is designed to quench your thirst and satisfy your cravings.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Minute Maid",
+  "SIZE": "591 mL",
+  "EAN": "0025000119996",
+  "STATUS": "MATCHED"
+ },
+ "02550030401": {
+  "FULL_NAME_FOUND": "Folgers Classic Ground Medium Roast Coffee, 9.6 Ounce",
+  "DESCRIPTION": "Folgers Classic Roast coffee is made from Mountain Grown beans, the richest and most aromatic in the world. This classic medium-roast ground coffee has a fresh, eye-opening aroma that will entice you every morning. Folgers Classic Roast coffee is classic for a reason—that consistently rich, pure taste, cup after cup and The Best Part of Wakin’ Up for more than 150 years. Folgers coffee great pure taste is equally matched by the dedication to bringing you the flavors you love in the format you choose. Some of your favorite Folgers roasts are also available in canisters, K-Cup Pods, instant, individual single serve packets and other convenient formats.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Folgers",
+  "SIZE": "284 mL",
+  "EAN": "0025500304014",
+  "STATUS": "MATCHED"
+ },
+ "02586659198": {
+  "FULL_NAME_FOUND": "Aleve Pain Reliever/Fever Reducer 220mg Naproxen Sodium Tablets",
+  "DESCRIPTION": "Aleve Tablets are great for all day relief of minor aches and pains due to minor pain of arthritis, muscular aches, backache, menstrual cramps, headache, toothache and/or the common cold. Tablets also work to temporarily reduce fever.",
+  "CATEGORY": "Health & Beauty",
+  "BRAND": "Aleve",
+  "SIZE": "",
+  "EAN": "0025866591981",
+  "STATUS": "MATCHED"
+ },
+ "02610000284": {
+  "FULL_NAME_FOUND": "True 100's Pack",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0026100002843",
+  "STATUS": "MATCHED"
+ },
+ "02610000572": {
+  "FULL_NAME_FOUND": "Newport Cigarettes, Class A, 100s, Menthol Gold Box",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Newport",
+  "SIZE": "",
+  "EAN": "0026100005721",
+  "STATUS": "MATCHED"
+ },
+ "02610000573": {
+  "FULL_NAME_FOUND": "Newport Cigarettes, 100s, Box",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Newport",
+  "SIZE": "",
+  "EAN": "0026100005738",
+  "STATUS": "MATCHED"
  }
 }

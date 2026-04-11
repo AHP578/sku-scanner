@@ -9484,5 +9484,95 @@
   "SIZE": "",
   "EAN": "0028200005656",
   "STATUS": "MATCHED"
+ },
+ "02820000568": {
+  "FULL_NAME_FOUND": "Marlboro Cigarettes, Filter, Special Blend, 100's, Flip Top Box",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200005687",
+  "STATUS": "MATCHED"
+ },
+ "02820000733": {
+  "FULL_NAME_FOUND": "Virginia Slims Cigarettes, Class A",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Virginia Slims",
+  "SIZE": "",
+  "EAN": "0028200007339",
+  "STATUS": "MATCHED"
+ },
+ "02820000734": {
+  "FULL_NAME_FOUND": "Virginia Slims Cigarettes, Class A, Menthol",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Virginia Slims",
+  "SIZE": "",
+  "EAN": "0028200007346",
+  "STATUS": "MATCHED"
+ },
+ "02820000739": {
+  "FULL_NAME_FOUND": "Virginia Slims 120'S Cigarettes - Menthol 1",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Virginia Slims",
+  "SIZE": "",
+  "EAN": "0028200007391",
+  "STATUS": "MATCHED"
+ },
+ "02820000743": {
+  "FULL_NAME_FOUND": "Virginia Slims Silver Pack Cigarettes",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Virginia Slims",
+  "SIZE": "",
+  "EAN": "0028200007438",
+  "STATUS": "MATCHED"
+ },
+ "02820000772": {
+  "FULL_NAME_FOUND": "Virginia Slims Cigarettes - Box - 100'S 1",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Virginia Slims",
+  "SIZE": "",
+  "EAN": "0028200007728",
+  "STATUS": "MATCHED"
+ },
+ "02820000774": {
+  "FULL_NAME_FOUND": "Virginia Slims Cigarettes, Menthol",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Virginia Slims",
+  "SIZE": "",
+  "EAN": "0028200007742",
+  "STATUS": "MATCHED"
+ },
+ "02820000775": {
+  "FULL_NAME_FOUND": "Virginia Slims Cigarettes, Superslims",
+  "DESCRIPTION": "20 class A cigarettes. www.pmusa.com. Please don't litter. Nothing about this cigarette, packaging, or color should be interpreted to mean safer.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Virginia Slims",
+  "SIZE": "",
+  "EAN": "0028200007759",
+  "STATUS": "MATCHED"
+ },
+ "02820000778": {
+  "FULL_NAME_FOUND": "Virginia Slims Cigarette, Menthol, Superslims",
+  "DESCRIPTION": "Cheers to 50 years! 50th Anniversary. Nothing about this cigarette, packaging, or color should be interpreted to mean safer. Please don't litter. For special offers virginiaslims.com. Limited to eligible smokers 21+. pmusa.com.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Virginia Slims",
+  "SIZE": "",
+  "EAN": "0028200007780",
+  "STATUS": "MATCHED"
+ },
+ "02820000784": {
+  "FULL_NAME_FOUND": "Parliament Cigarettes, Recessed Filter",
+  "DESCRIPTION": "Underage sale prohibited. 20 class A cigarettes. For special offers myparliament.com. Limited to eligible smokers 21+. www.pmusa.com. Questions? 1-800-232-3112. Please don't litter.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Parliament",
+  "SIZE": "",
+  "EAN": "0028200007841",
+  "STATUS": "MATCHED"
  }
 }

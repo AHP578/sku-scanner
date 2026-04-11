@@ -8944,5 +8944,95 @@
   "SIZE": "",
   "EAN": "0026200123134",
   "STATUS": "MATCHED"
+ },
+ "02620014060": {
+  "FULL_NAME_FOUND": "Slim Jim Original Monster Size Smoked Snack Stick - 1.94 Ounce",
+  "DESCRIPTION": "Original flavor smoked pork, chicken, & beef stick with spices for a full, intense flavor. A great source of protein. Ideal for snacking anytime.",
+  "CATEGORY": "Jerky",
+  "BRAND": "Slim Jim",
+  "SIZE": "",
+  "EAN": "0026200140605",
+  "STATUS": "MATCHED"
+ },
+ "02620023187": {
+  "FULL_NAME_FOUND": "Andy Capp's Corn & Potato Snacks, Ranch Fries 3 Oz",
+  "DESCRIPTION": "Snack time gets a cool twist with fry‑shaped Chips that deliver bold Ranch flavor in every bite. These crave‑worthy Snacks bring zesty fun and crunch, making them a go‑to choice for anyone who loves lively, flavorful enjoyment.",
+  "CATEGORY": "Chips",
+  "BRAND": "Andy Capp's",
+  "SIZE": "",
+  "EAN": "0026200231877",
+  "STATUS": "MATCHED"
+ },
+ "02620023190": {
+  "FULL_NAME_FOUND": "Andy Capp's Corn & Oat Snack, Beer Battered Flavored Onion Rings",
+  "DESCRIPTION": "Snack time gets a savory twist with fry‑shaped Chips that deliver bold Onion flavor in every bite. These crave‑worthy Snacks bring a punch of taste and crunch, making them a go‑to choice for anyone who loves lively, flavorful enjoyment.",
+  "CATEGORY": "Rings",
+  "BRAND": "Andy Capp's",
+  "SIZE": "",
+  "EAN": "0026200231907",
+  "STATUS": "MATCHED"
+ },
+ "02620023891": {
+  "FULL_NAME_FOUND": "David Cracked Pepper Roasted & Salted Jumbo Sunflower Seeds 149g",
+  "DESCRIPTION": "Bold spice meets hearty crunch in a snack made for everyday enjoyment. Each bite delivers lively taste, turning ordinary breaks into flavorful snacking occasions. With the sharp kick of Savory, every pack brings dependable satisfaction. The irresistible appeal of Nuts & Seeds adds indulgence to every bite, while the balanced fun of Snacks enhances the experience, creating a treat that feels both exciting and comforting. Crafted to highlight the harmony of flavor and crunch, this bag keeps cravings in check and enjoyment flowing throughout the day.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "David",
+  "SIZE": "",
+  "EAN": "0026200238913",
+  "STATUS": "MATCHED"
+ },
+ "02620023893": {
+  "FULL_NAME_FOUND": "David Buffalo Style Ranch Salted & Roasted Jumbo Sunflower Seeds",
+  "DESCRIPTION": "Buffalo and Ranch might be the most perfect savory combination known to sunflower seeds. Get the spicy, creamy sensation like it's game day.",
+  "CATEGORY": "Seeds",
+  "BRAND": "David",
+  "SIZE": "",
+  "EAN": "0026200238937",
+  "STATUS": "MATCHED"
+ },
+ "02620046072": {
+  "FULL_NAME_FOUND": "David Roasted & Salted Sunflower Kernels - 3.75 Ounce",
+  "DESCRIPTION": "DAVID Original Salted and Roasted Sunflower Kernels are delicious sunflower seed kernels that are easy to eat. These shelled sunflower seeds are full of that salted and roasted flavor you've come to expect. A classic salty snack, these roasted and salted sunflower kernels come shelled, making them easy to enjoy anywhere, anytime.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "David",
+  "SIZE": "",
+  "EAN": "0026200460727",
+  "STATUS": "MATCHED"
+ },
+ "02620046172": {
+  "FULL_NAME_FOUND": "David Sunflower Seeds, Salted & Roasted Original Flavor",
+  "DESCRIPTION": "Grab a bag of DAVID Original Sunflower Seeds for a satisfying snack to help you stay in the game when every minute counts. DAVID Seeds are a delicious, and crunchy bite on the go. Best served anywhere and anytime, these handy to-go snacks are easy to carry for those moments when hunger strikes. Each 5.25 oz Pack contains about 2.5 servings, with 190 calories, 8 grams of protein, and 2 grams of fiber, as well as 10% of your daily allowance of Vitamin E, 25% of phosphorus, and 30% of magnesium per serving. Since 1926, DAVID Seeds provides a quality difference that you can taste with select top-quality seeds, roasted and seasoned to perfection. This Pack contains one 5.25 oz bag of DAVID Original Sunflower Seeds, great for snacking.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "David",
+  "SIZE": "",
+  "EAN": "0026200461724",
+  "STATUS": "MATCHED"
+ },
+ "02620046372": {
+  "FULL_NAME_FOUND": "David Pumpkin Seeds, All Natural, Roasted & Salted",
+  "DESCRIPTION": "Savor the delightful crunch and savory taste of roasted salted pumpkin seeds, the perfect snack to curb your cravings anytime. Packed in a convenient 2.25 oz pegged bag, these seeds are ideal for on-the-go snacking, providing a satisfying burst of flavor and texture. Rich in nutrients and roasted to perfection, they make for a wholesome treat that you can enjoy anywhere.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "David",
+  "SIZE": "",
+  "EAN": "0026200463728",
+  "STATUS": "MATCHED"
+ },
+ "02620046462": {
+  "FULL_NAME_FOUND": "David Dill Pickle Salted & Roasted Jumbo Sunflower Seeds",
+  "DESCRIPTION": "David Jumbo Variety Flavor Sunflower Seed. DAVIDs sunflower seeds have that dependable great taste you have always loved. Snack on these satisfyingly salty and roasted sunflower seeds whenever hunger strikes.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "David",
+  "SIZE": "",
+  "EAN": "0026200464626",
+  "STATUS": "MATCHED"
+ },
+ "02620046464": {
+  "FULL_NAME_FOUND": "David Sweet & Spicy Salted & Roasted Jumbo Sunflower Seeds",
+  "DESCRIPTION": "American Fizz is the UK’s largest wholesaler of sweets, drinks, and groceries from America and around the world. We offer unbeatable range, value, and global flavour with over 3,000 products and more than a decade of experience supplying customers across the UK and Europe.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "David",
+  "SIZE": "",
+  "EAN": "0026200464640",
+  "STATUS": "MATCHED"
  }
 }

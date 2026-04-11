@@ -9394,5 +9394,95 @@
   "SIZE": "",
   "EAN": "0028200004017",
   "STATUS": "MATCHED"
+ },
+ "02820000422": {
+  "FULL_NAME_FOUND": "Marlboro Cigarettes, Filter, Special Blend",
+  "DESCRIPTION": "Smooth mellow flavor. Nothing about this cigarette, packaging, or color should be interpreted to mean safer. PM USA. Please don't litter. Class A cigarettes.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200004222",
+  "STATUS": "MATCHED"
+ },
+ "02820000423": {
+  "FULL_NAME_FOUND": "Marlboro Cigarettes, Filter, Special Blend, 100's, Flip Top Box",
+  "DESCRIPTION": "Smooth mellow flavor. Please don't litter. Class A cigarettes.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200004239",
+  "STATUS": "MATCHED"
+ },
+ "02820000424": {
+  "FULL_NAME_FOUND": "Marlboro Cigarettes, Southern Cut",
+  "DESCRIPTION": "Uniquely rich and smooth. Our master blenders begin with choice burley, Virginia and oriental tobaccos in creating the distinctly flavorful taste and warm aroma they call Southern Cut. Class A cigarettes. Please don't litter.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200004246",
+  "STATUS": "MATCHED"
+ },
+ "02820000465": {
+  "FULL_NAME_FOUND": "Marlboro Cigarettes, Filter, Gold Pack, 100's, Flip Top Box",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200004659",
+  "STATUS": "MATCHED"
+ },
+ "02820000471": {
+  "FULL_NAME_FOUND": "Marlboro Cigarettes, Menthol, Gold Pack, 100's",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200004710",
+  "STATUS": "MATCHED"
+ },
+ "02820000477": {
+  "FULL_NAME_FOUND": "Marlboro Mellow Silver Pack Filter Cigarettes",
+  "DESCRIPTION": "The new Smarty SSR allows for completely custom tuning! Ability to adjust low and high level timing, high and low level rail pressure, high and low level duration and torque management to suit your needs. Race performance Catcher software inside More than 15 billions of possible tuning customizations Fastest download in the industry, up to three times faster than the competition, a typical ECM update takes about 3.5 to 5 minutes, depending on the truck model.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200004772",
+  "STATUS": "MATCHED"
+ },
+ "02820000478": {
+  "FULL_NAME_FOUND": "Marlboro Cigarettes, Filter, Silver Pack, 100's",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200004789",
+  "STATUS": "MATCHED"
+ },
+ "02820000481": {
+  "FULL_NAME_FOUND": "Marlboro Cigarettes, Silver Pack, Menthol",
+  "DESCRIPTION": "Mellow fresh menthol flavor. 20 class A cigarettes. Nothing about this cigarette, packaging, or color should be interpreted to mean safer. Green blend. For special offers marlboro.com. Limited to eligible smokers 21+. Please don't litter.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200004819",
+  "STATUS": "MATCHED"
+ },
+ "02820000485": {
+  "FULL_NAME_FOUND": "Marlboro Cigarettes, Silver Pack, Menthol, 100's",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200004857",
+  "STATUS": "MATCHED"
+ },
+ "02820000565": {
+  "FULL_NAME_FOUND": "Marlboro Cigarettes, Filter, Special Blend, Flip Top Box",
+  "DESCRIPTION": "Rich mellow flavor. Please don't litter. Class A cigarettes. Limited to eligible smokers 21+.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200005656",
+  "STATUS": "MATCHED"
  }
 }

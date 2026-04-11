@@ -11908,5 +11908,89 @@
   "SIZE": "",
   "EAN": "0099900100873",
   "STATUS": "MATCHED"
+ },
+ "09990034663": {
+  "FULL_NAME_FOUND": "Chunky Milk Chocolate With Peanuts & Raisins Candy 1.4 Oz",
+  "DESCRIPTION": "Chunky bar is packed with peanuts, juicy plump raisins all mixed in with milk chocolate. Hitting the candy scene in the 1930's it was made popular quick from the amazing flavors that it has inside.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Chunky",
+  "SIZE": "",
+  "EAN": "0099900346639",
+  "STATUS": "MATCHED"
+ },
+ "09990062546": {
+  "FULL_NAME_FOUND": "Baby Ruth Nestle Peanuts, Caramel And Chocolate Candy Bar 1.9 Oz",
+  "DESCRIPTION": "Nothing works like the nutty, chewy taste of Baby Ruth. A hearty candy bar with great American taste. Due to high heat conditions milk chocolate items will not be available during warmer months (usually May thru September).",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Baby Ruth",
+  "SIZE": "",
+  "EAN": "0099900625468",
+  "STATUS": "MATCHED"
+ },
+ "09990069423": {
+  "FULL_NAME_FOUND": "100 Grand Nestle Caramel, Milk Chocolate Candy Bar 1.5 Oz",
+  "DESCRIPTION": "The 100 Grand Bar was originally called the 100,000 Bar. This candy bar is made with chewy caramel, crispy crunchies, and covered in milk chocolate.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "100 Grand",
+  "SIZE": "",
+  "EAN": "0099900694235",
+  "STATUS": "MATCHED"
+ },
+ "09990072219": {
+  "FULL_NAME_FOUND": "Nestle Crunch King Size",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Nestle",
+  "SIZE": "",
+  "EAN": "0009990072219",
+  "STATUS": "MATCHED"
+ },
+ "09990082460": {
+  "FULL_NAME_FOUND": "Chunky King Size Milk Chocolate",
+  "DESCRIPTION": "Indulge in the royal taste of King Size Chunky chocolate. Made with the finest ingredients, this delicious treat is sure to satisfy any chocolate lover's cravings. With its generous size, you'll get to enjoy even more of the rich and creamy flavor in every bite. Treat yourself like a king with King Size Chunky.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Chunky",
+  "SIZE": "",
+  "EAN": "0099900824601",
+  "STATUS": "MATCHED"
+ },
+ "09990090836": {
+  "FULL_NAME_FOUND": "Crunch Bar, Creamy Milk Chocolate With Crisped Rice 1.55 Oz",
+  "DESCRIPTION": "It's time to get your sweet treat on with CRUNCH Full Size candy bars. These perfectly full sized, crispy chocolate bars are just for you and definitely big on taste. Packed with creamy 100% milk chocolate and crisped rice, these individually wrapped candy treats are easy to snack on and enjoy. Take these irresistible chocolate bars anywhere and share with anyone. They're great for home or the office, school lunch boxes, parties, get-togethers, dessert or a movie night sweet treat. CRUNCH is made with no artificial flavors or colors. CRUNCH Full Size candy bars are the treat everyone knows and loves.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Crunch",
+  "SIZE": "",
+  "EAN": "0099900908363",
+  "STATUS": "MATCHED"
+ },
+ "015400259480": {
+  "FULL_NAME_FOUND": "Always Super W/wings",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Personal Care",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0154002594804",
+  "STATUS": "MATCHED"
+ },
+ "015600366124": {
+  "STATUS": "UNMATCHED"
+ },
+ "18012700005": {
+  "FULL_NAME_FOUND": "Zico Pure Coconut Water, Passion Fruit, Orange Peel",
+  "DESCRIPTION": "It's one of Zico's young green coconuts, grown, selected and packaged with care precisely when the extraordinary water inside reaches a peak level of potassium and the perfect balance of essential electrolytes. With more potassium and less calories, carbs and acidity, Zico is the natural alternative to a better way to hydrate and replenish. Nature is smarter then science. Zico comes in a variety of delicious all-natural flavors that capture the authentic taste and energy of the tropics for you to enjoy anytime and everywhere. Zico, the enlightened sports drink.",
+  "CATEGORY": "Fresh & Frozen Fruits",
+  "BRAND": "Zico",
+  "SIZE": "",
+  "EAN": "0180127000050",
+  "STATUS": "MATCHED"
+ },
+ "19029800025": {
+  "FULL_NAME_FOUND": "Louisiana Brand Original Hot Sauce 12 Fl Oz",
+  "DESCRIPTION": "The perfect hot sauce. One drop does it. Louisiana Hot Sauce is perfect for spicing up foods, sauces and drinks. Use it in your favorite recipes to enhance the flavor of meats, eggs and seafood. It's also excellent when used as a condiment right at the table, or dashed into a Bloody Mary for that extra zing. A few drops of Louisiana Hot Sauce will give your taco mucho macho, and sprinkled on your on your pizza gives it real pizzaz. For a rib-tickling treat, try the following recipe for delicious Bayou Beef Ribs. And for a special treat, Louisiana Popcorn. To your popcorn butter add two generous dashed of Louisiana Hot Sauce. Makes popcorn taste freshly done even when cold. All natural ingredients. Product of USA.",
+  "CATEGORY": "Hot Sauce",
+  "BRAND": "Louisiana Brand",
+  "SIZE": "",
+  "EAN": "0190298000254",
+  "STATUS": "MATCHED"
  }
 }

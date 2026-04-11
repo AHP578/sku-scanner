@@ -11728,5 +11728,95 @@
   "SIZE": "473 mL",
   "EAN": "0098000100882",
   "STATUS": "MATCHED"
+ },
+ "09800010090": {
+  "FULL_NAME_FOUND": "Lipton Fusions Iced Tea Pineapple Mango Lemonade 16 Fl Oz",
+  "DESCRIPTION": "Fresh and fruity - We have it all! Here you are sure to find your favorite Lipton Iced Tea, that brings out the sunshine in you and turns every occasion into a small moment of joy. Find your perfect Lipton Iced Tea. Includes 1 (16 fl oz) can of Lipton Fusions Lemonade Iced Tea, Pineapple Mango Lemonade flavor. Try new Fusions Lemonade Iced Tea. Lipton Fusions Lemonade Iced Tea is made with no high fructose corn syrup. Refresh then recycle: Lipton Fusions Lemonade Iced Tea cans are recyclable.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Lipton",
+  "SIZE": "473 mL",
+  "EAN": "0098000100905",
+  "STATUS": "MATCHED"
+ },
+ "09810010030": {
+  "FULL_NAME_FOUND": "Starbucks Cold Brew Premium Vanilla Sweet Cream Coffee Drink 11 Fl Oz",
+  "DESCRIPTION": "Starbucks coffee drinks bring you the bold, irresistible taste of perfectly brewed coffee blended with rich, indulgent flavors you already love. Each sip is crafted to offer comfort and delight, turning everyday moments into something special. Wherever you are, you can savor the Starbucks experience—familiar, uplifting, and truly enjoyable. This indulgence is proof that you can enjoy a little Starbucks wherever you may be.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Starbucks",
+  "SIZE": "325 mL",
+  "EAN": "0098100100300",
+  "STATUS": "MATCHED"
+ },
+ "09810010032": {
+  "FULL_NAME_FOUND": "Starbucks Cold Brew Premium Coffee Drink Chocolate Cream 11 Fl Oz",
+  "DESCRIPTION": "Starbucks coffee drinks bring you the bold, irresistible taste of perfectly brewed coffee blended with rich, indulgent flavors you already love. Each sip is crafted to offer comfort and delight, turning everyday moments into something special. Wherever you are, you can savor the Starbucks experience—familiar, uplifting, and truly enjoyable. This indulgence is proof that you can enjoy a little Starbucks wherever you may be. .",
+  "CATEGORY": "Coffee",
+  "BRAND": "Starbucks",
+  "SIZE": "325 mL",
+  "EAN": "0098100100324",
+  "STATUS": "MATCHED"
+ },
+ "09810010034": {
+  "FULL_NAME_FOUND": "Starbucks Cold Brew Premium Coffee Drink Salted Caramel Cream 11 Fl Oz",
+  "DESCRIPTION": "Starbucks coffee drinks offer the bold, delicious taste of coffee with the rich flavors you know and love. This indulgence is proof that you can enjoy a little Starbucks wherever you may be.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Starbucks",
+  "SIZE": "325 mL",
+  "EAN": "0098100100348",
+  "STATUS": "MATCHED"
+ },
+ "09810010040": {
+  "FULL_NAME_FOUND": "Starbucks Energy Coffee Beverage, Bold Mocha, Triple Blend 11 Fl Oz",
+  "DESCRIPTION": "Savor the bold, irresistible flavor of Starbucks coffee drinks—each sip a testament to the rich, familiar tastes you love. Whether it's the classic brew or a specialty blend, this indulgence brings the Starbucks experience to you, wherever you are. Elevate your moment with the unmistakable taste of Starbucks, proving that a touch of coffee perfection is always within reach.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Starbucks",
+  "SIZE": "325 mL",
+  "EAN": "0098100100409",
+  "STATUS": "MATCHED"
+ },
+ "09810010077": {
+  "FULL_NAME_FOUND": "Starbucks Coffee Drink, Creamy Vanilla Gelato, Lite 9.5 Fl Oz",
+  "DESCRIPTION": "Starbucks Ready to Drink. Enjoy a delicious blend of our 100% Arabica coffee, and smooth, creamy milk. With Starbucks Doubleshot and Starbucks Frappuccino your next Starbucks coffee moment is ready to go – whenever. Wherever.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Starbucks",
+  "SIZE": "281 mL",
+  "EAN": "0098100100775",
+  "STATUS": "MATCHED"
+ },
+ "09810010081": {
+  "FULL_NAME_FOUND": "Starbucks Coffee Drink, Lite, Sea Salt Caramel Gelato 9.5 Fl Oz",
+  "DESCRIPTION": "Starbucks® Ready to Drink. Enjoy a delicious blend of our 100% Arabica coffee, and smooth, creamy milk. With Starbucks Doubleshot™ and Starbucks® Frappuccino® your next Starbucks® coffee moment is ready to go – whenever. Wherever. Includes 1 (9.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Starbucks",
+  "SIZE": "281 mL",
+  "EAN": "0098100100812",
+  "STATUS": "MATCHED"
+ },
+ "09810010084": {
+  "FULL_NAME_FOUND": "Starbucks Coffee Drink, Double Chocolate Gelato, Lite 9.5 Fl Oz",
+  "DESCRIPTION": "Starbucks Ready to Drink. Enjoy a delicious blend of our 100% Arabica coffee, and smooth, creamy milk. With Starbucks Doubleshot and Starbucks Frappuccino your next Starbucks coffee moment is ready to go â whenever. Wherever.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Starbucks",
+  "SIZE": "281 mL",
+  "EAN": "0098100100843",
+  "STATUS": "MATCHED"
+ },
+ "09810010099": {
+  "FULL_NAME_FOUND": "Starbucks Sparkling Energy Drink, Zero Sugar, Tropical Peach 12 Fl Oz",
+  "DESCRIPTION": "Starbucks coffee drinks offer the bold, delicious taste of coffee with the rich flavors you know and love. This indulgence is proof that you can enjoy a little Starbucks wherever you may be.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Starbucks",
+  "SIZE": "355 mL",
+  "EAN": "0098100100997",
+  "STATUS": "MATCHED"
+ },
+ "09810010101": {
+  "FULL_NAME_FOUND": "Starbucks Sparkling Energy Drink, Zero Sugar, Watermelon Twist 12 Fl Oz",
+  "DESCRIPTION": "Hydrate & Energize with a feel-good boost. Starbucks Iced Energy is a sparkling Energy Drink made with 160mg plant-based caffeine to help support mental clarity (>75mg caffeine helps support mental clarity). Starbucks Iced Energy Drink contains zero sugar and 5 calories per can.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Starbucks",
+  "SIZE": "355 mL",
+  "EAN": "0098100101017",
+  "STATUS": "MATCHED"
  }
 }

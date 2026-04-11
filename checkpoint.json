@@ -10024,5 +10024,95 @@
   "SIZE": "",
   "EAN": "0028400331791",
   "STATUS": "MATCHED"
+ },
+ "02840035527": {
+  "FULL_NAME_FOUND": "Fritos The Original, Corn Chips",
+  "DESCRIPTION": "The popularity of FRITOS corn chips puts this iconic snack in a class of its own. From small towns and family barbecues to parties in the big city, this classic snack is still satisfying fans after more than 80 years.",
+  "CATEGORY": "Chips",
+  "BRAND": "Fritos",
+  "SIZE": "",
+  "EAN": "0028400355278",
+  "STATUS": "MATCHED"
+ },
+ "02840035559": {
+  "FULL_NAME_FOUND": "Lay's Potato Chips Barbecue",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Chips",
+  "BRAND": "Lay's",
+  "SIZE": "",
+  "EAN": "0028400355599",
+  "STATUS": "MATCHED"
+ },
+ "02840035560": {
+  "FULL_NAME_FOUND": "Lay's Potato Chips, Classic",
+  "DESCRIPTION": "Wherever celebrations and good times happen, the Lay's brand will be there just as it has been for more than 75 years. With flavors almost as rich as our history, we have a potato chip or crisp flavor guaranteed to bring a smile on your face.",
+  "CATEGORY": "Chips",
+  "BRAND": "Lay's",
+  "SIZE": "",
+  "EAN": "0028400355605",
+  "STATUS": "MATCHED"
+ },
+ "02840035562": {
+  "FULL_NAME_FOUND": "Lay's Lemon-Flavored Potato Chips 63.7g",
+  "DESCRIPTION": "Wherever celebrations and good times happen, the Lay's brand will be there just as it has been for more than 75 years. With flavors almost as rich as our history, we have a potato chip or crisp flavor guaranteed to bring a smile on your face.",
+  "CATEGORY": "Chips",
+  "BRAND": "Lay's",
+  "SIZE": "",
+  "EAN": "0028400355629",
+  "STATUS": "MATCHED"
+ },
+ "02840035582": {
+  "FULL_NAME_FOUND": "Cheetos Puffs, Cheese Flavored Snacks",
+  "DESCRIPTION": "Bold, cheesy flavor with a light and airy texture. CHEETOS® Puffs Cheese Flavored Snacks are full of flavor and made with real cheese!",
+  "CATEGORY": "Chips",
+  "BRAND": "Cheetos",
+  "SIZE": "",
+  "EAN": "0028400355827",
+  "STATUS": "MATCHED"
+ },
+ "02840035584": {
+  "FULL_NAME_FOUND": "Ruffles Potato Chips Cheddar & Sour Cream 2.125oz",
+  "DESCRIPTION": "Indulge in the deliciously bold flavor of Ruffles Cheddar and Sour Cream Chips! These crispy, ridged potato chips are perfect for snacking, parties, or as a side with your favorite sandwich. Each 2.125 ounce bag is packed with the rich taste of cheddar cheese combined with the tangy zest of sour cream, making them an irresistible treat for any occasion.",
+  "CATEGORY": "Chips",
+  "BRAND": "Ruffles",
+  "SIZE": "",
+  "EAN": "0028400355841",
+  "STATUS": "MATCHED"
+ },
+ "02840035593": {
+  "FULL_NAME_FOUND": "Fritolay Ruffles Queso",
+  "DESCRIPTION": "Turn up the flavor with Ruffles Queso! These thick, ridged chips are loaded with bold, cheesy queso goodness and a hint of spice.",
+  "CATEGORY": "Chips",
+  "BRAND": "Fritolay",
+  "SIZE": "",
+  "EAN": "0028400355933",
+  "STATUS": "MATCHED"
+ },
+ "02840035614": {
+  "FULL_NAME_FOUND": "Cheetos Cheese Crunchy 2.75oz Bag",
+  "DESCRIPTION": "The fun, crunchy snack that is made with real cheese. Packed with flavor that satisfies. Always a crowd favorite.",
+  "CATEGORY": "Chips",
+  "BRAND": "Cheetos",
+  "SIZE": "",
+  "EAN": "0028400356145",
+  "STATUS": "MATCHED"
+ },
+ "02840035616": {
+  "FULL_NAME_FOUND": "Cheetos Crunchy Cheese Flavored Flamin Hot Snacks 3/4 Oz",
+  "DESCRIPTION": "CHEETOS snacks are the much-loved cheesy treats that are fun for everyone! You just can’t eat a CHEETOS snack without licking the signature “cheetle” off your fingertips. And wherever the CHEETOS brand and CHESTER CHEETAH go, cheesy smiles are sure to follow.",
+  "CATEGORY": "Chips",
+  "BRAND": "Cheetos",
+  "SIZE": "",
+  "EAN": "0028400356169",
+  "STATUS": "MATCHED"
+ },
+ "02840035678": {
+  "FULL_NAME_FOUND": "Doritos Cool Ranch Flavored, Tortilla Chips",
+  "DESCRIPTION": "The DORITOS brand is all about boldness. If you’re up to the challenge, grab a bag of DORITOS tortilla chips and get ready to make some memories you won’t soon forget. It’s a bold experience in snacking and beyond.",
+  "CATEGORY": "Chips",
+  "BRAND": "Doritos",
+  "SIZE": "",
+  "EAN": "0028400356787",
+  "STATUS": "MATCHED"
  }
 }

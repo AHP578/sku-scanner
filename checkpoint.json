@@ -9844,5 +9844,95 @@
   "SIZE": "",
   "EAN": "0028400064088",
   "STATUS": "MATCHED"
+ },
+ "02840007094": {
+  "FULL_NAME_FOUND": "Lay's Dip, French Onion Jar, 15 Ounce",
+  "DESCRIPTION": "Delicious, crowd pleasing and convenient - it can't get much better than Lay's chips and dips! From entertaining friends to relaxing at home and everything in between, our perfectly blended salsas and great-tasting dips are always a hit. Mix and match them to discover your own perfect pairing! This creamy, savory French Onion dip pairs perfectly with chips, crackers, and veggies. It is just the thing for your next night in with friends or family gathering.",
+  "CATEGORY": "Dips & Spreads",
+  "BRAND": "Lay's",
+  "SIZE": "",
+  "EAN": "0028400070942",
+  "STATUS": "MATCHED"
+ },
+ "02840007098": {
+  "FULL_NAME_FOUND": "Tostitos Dip, Salsa Con Queso, Medium, 15 Ounce",
+  "DESCRIPTION": "TOSTITOS are more than tortilla chips and dips—they're an invitation to catch up with friends, so Get Together Already! TOSTITOS Tortilla Chips come in a variety of shapes, sizes and flavors, but they all have two things in common - they're completely dippable and totally delicious. Tostitos salsas are made with real chunks of garden vegetables, and Tostitos dips are so creamy, you can't resist either! Nothing pairs better with TOSTITOS Tortilla Chips, except maybe a group of friends. .",
+  "CATEGORY": "Salsa",
+  "BRAND": "Tostitos",
+  "SIZE": "",
+  "EAN": "0028400070980",
+  "STATUS": "MATCHED"
+ },
+ "02840007914": {
+  "FULL_NAME_FOUND": "Grandma's Cookies - Chocolate Brownie",
+  "DESCRIPTION": "GRANDMA’S cookies offer a delicious variety of homemade memories. With flavors like chocolate, peanut butter and lemon pie, every GRANDMA’S treat is baked with love to transport you to your happy place with every bite.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Grandma's",
+  "SIZE": "",
+  "EAN": "0028400079143",
+  "STATUS": "MATCHED"
+ },
+ "02840007915": {
+  "FULL_NAME_FOUND": "Grandma's Peanut Butter Cookies",
+  "DESCRIPTION": "GRANDMA’S’ cookies offer a delicious variety of homemade memories. With flavors like chocolate, peanut butter and lemon pie, every GRANDMA’S treat is baked with love to transport you to your happy place with every bite.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Grandma's",
+  "SIZE": "",
+  "EAN": "0028400079150",
+  "STATUS": "MATCHED"
+ },
+ "02840007916": {
+  "FULL_NAME_FOUND": "Grandma's Cookies - Single Serve, Chocolate Chip, 2.5 Oz Packet",
+  "DESCRIPTION": "GRANDMA’S’ cookies offer a delicious variety of homemade memories. With flavors like chocolate, peanut butter and lemon pie, every GRANDMA’S treat is baked with love to transport you to your happy place with every bite.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Grandma's",
+  "SIZE": "",
+  "EAN": "0028400079167",
+  "STATUS": "MATCHED"
+ },
+ "02840007917": {
+  "FULL_NAME_FOUND": "Grandma's Cookies - Oatmeal Raisin",
+  "DESCRIPTION": "GRANDMA’S cookies offer a delicious variety of homemade memories. With flavors like chocolate, peanut butter and lemon pie, every GRANDMA’S treat is baked with love to transport you to your happy place with every bite.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Grandma's",
+  "SIZE": "",
+  "EAN": "0028400079174",
+  "STATUS": "MATCHED"
+ },
+ "02840008404": {
+  "FULL_NAME_FOUND": "Munchies Cheese Fix Snack Mix, 8 Ounce",
+  "DESCRIPTION": "Inside each bag of MUNCHIES snacks, you'll find a tasty mix of some of your favorite snack brands, including SUNCHIPS, DORITOS, ROLD GOLD and CHEETOS snacks! Grab a bag for a flavor combination that's hard to beat! At Frito-Lay, we are always thinking about how we can delight our consumers and keep them top-of-mind in every decision we make. When you look at all of our Frito-Lay snacks, they have one thing in common … great taste. .",
+  "CATEGORY": "Chips",
+  "BRAND": "Munchies",
+  "SIZE": "",
+  "EAN": "0028400084048",
+  "STATUS": "MATCHED"
+ },
+ "02840019914": {
+  "FULL_NAME_FOUND": "Lay's Potato Chips, Classic Flavor, 8oz",
+  "DESCRIPTION": "Wherever celebrations and good times happen, Lay's will be there. With a flavor almost as rich as our history, we have a chip guaranteed to bring a smile on your face.",
+  "CATEGORY": "Chips",
+  "BRAND": "Lay's",
+  "SIZE": "",
+  "EAN": "0002840019914",
+  "STATUS": "MATCHED"
+ },
+ "02840019961": {
+  "FULL_NAME_FOUND": "Lay's Barbecue Flavored Potato Chips - 7.75 Ounce",
+  "DESCRIPTION": "With a secret blend of flavorful barbeque spices and famous fresh taste, Lay's Barbecue flavored potato chips are a tasty tribute to the American backyard grilling tradition! These crispy chips have a sweet and smoky flavor that's both fresh and inviting whether you savor the flavor as a side to burgers hot off the grill, or embrace spontaneity by crumbling them into a chicken salad to add some crunch and fun. The sweet and smoky taste of Lay's Barbecue flavored potato chips offers the perfect, iconic flavor to satisfy all your snacking needs.",
+  "CATEGORY": "Chips",
+  "BRAND": "Lay's",
+  "SIZE": "",
+  "EAN": "0028400199612",
+  "STATUS": "MATCHED"
+ },
+ "02840019963": {
+  "FULL_NAME_FOUND": "Lay's Sour Cream & Onion Flavored Potato Chips - 7.75 Ounce Bag",
+  "DESCRIPTION": "Turn a get-together into a party with the 7.75oz Sour Cream and Onion Flavored Potato Chips from Lay's. This classic potato chip packs the tasty, zesty flavor of sour cream and onion into every bite. A bowl of Lay's potato chips is the house party's equivalent of the office water cooler. It's where ice is broken, silly debates are had and connections are made.",
+  "CATEGORY": "Chips",
+  "BRAND": "Lay's",
+  "SIZE": "",
+  "EAN": "0028400199636",
+  "STATUS": "MATCHED"
  }
 }

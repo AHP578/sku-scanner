@@ -8854,5 +8854,95 @@
   "SIZE": "",
   "EAN": "0026100006704",
   "STATUS": "MATCHED"
+ },
+ "02610001680": {
+  "FULL_NAME_FOUND": "Port Boost $1 Off",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0026100016802",
+  "STATUS": "MATCHED"
+ },
+ "02610001685": {
+  "FULL_NAME_FOUND": "Port 100s Promotion $1 Off",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Tobacco Products",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0026100016857",
+  "STATUS": "MATCHED"
+ },
+ "02610001688": {
+  "FULL_NAME_FOUND": "Newpor T Menthol Box Pk [$1.00 OFF]",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Newpor",
+  "SIZE": "",
+  "EAN": "0026100016888",
+  "STATUS": "MATCHED"
+ },
+ "02620000128": {
+  "FULL_NAME_FOUND": "Slim Jim Snack Stick, Smoked, Hot AF, Giant 0.97 Oz",
+  "DESCRIPTION": "Experience bold, spicy flavor with delicious Slim Jim Giant Sized Hot AF Snack Sticks. Made with beef, pork and chicken, these spicy snack sticks contain no artificial flavors or colors for full meaty flavor everyone can love. Each meat stick serving is loaded with 6 grams of protein, ideal for protein snacks that kick hunger to the curb and leave you feeling satisfied. These individually wrapped snacks go where you go and are perfect as travel snacks, school snacks or anywhere meat snacks. Slim Jim Giant Sized Hot AF Snack Sticks offer a bold and tasty way to take on the day. Each of the individual snacks is perfect for on-the-go snacking, so you are ready to hit back when savory cravings hit. Slim Jim keeps it interesting with a full line of beef sticks, snack sticks, pork rinds and jerky. Snap into a Slim Jim®!",
+  "CATEGORY": "Jerky",
+  "BRAND": "Slim Jim",
+  "SIZE": "",
+  "EAN": "0026200001289",
+  "STATUS": "MATCHED"
+ },
+ "02620000130": {
+  "FULL_NAME_FOUND": "Slim Jim Snack Stick, Teriyaki Seasoned, Smoked 0.97 Oz",
+  "DESCRIPTION": "The Slim Jim Giant Teriyaki Seasoned Smoked Snack Stick is a delicious snack option that is rich in protein. It is excellent for enjoying on the go. The bulk case with 144 Slim Jim Meat Sticks is ideal for cafeterias, pantries, and retail stores.",
+  "CATEGORY": "Jerky",
+  "BRAND": "Slim Jim",
+  "SIZE": "",
+  "EAN": "0026200001302",
+  "STATUS": "MATCHED"
+ },
+ "02620000910": {
+  "FULL_NAME_FOUND": "David Sunflower Seeds, Frank's Red Hot Flavored, Salted & Roasted, Jumbo 5.25 Oz",
+  "DESCRIPTION": "Spice up your snacking experience with David Jumbo Franks Red Hot Seeds! This 5.25-ounce bag is packed with fiery and flavorful seeds that will surely satisfy your craving for bold and zesty snacks. David Jumbo Franks Red Hot Seeds feature roasted and seasoned sunflower seeds with the intense heat of Red Hot flavor. Whether you re enjoying them during a game sharing them with friends or simply adding a kick to your snack time these seeds provide a perfect combination of crunch and spice. Embrace the bold and hot essence of David Jumbo Franks Red Hot Seeds for a snack that packs a punch!",
+  "CATEGORY": "Seeds",
+  "BRAND": "David",
+  "SIZE": "",
+  "EAN": "0026200009100",
+  "STATUS": "MATCHED"
+ },
+ "02620011700": {
+  "FULL_NAME_FOUND": "Slim Jim Giant Sized Original Smoked Snack Stick, 0.97 Oz. Meat Stick",
+  "DESCRIPTION": "Original flavor smoked pork, chicken, & beef stick with spices for a full, intense flavor. A great source of protein. Ideal for snacking anytime.",
+  "CATEGORY": "Jerky",
+  "BRAND": "Slim Jim",
+  "SIZE": "",
+  "EAN": "0026200117003",
+  "STATUS": "MATCHED"
+ },
+ "02620011730": {
+  "FULL_NAME_FOUND": "Slim Jim Snack Stick, Smoked, Tabasco Seasoned, Giant",
+  "DESCRIPTION": "The Slim Jim Giant Tabasco Snack Stick is a delicious snack option that is rich in protein. It is excellent for enjoying on the go. The bulk case with 6 packs of Slim Jim Meat Sticks is ideal for cafeterias, pantries, and retail stores.",
+  "CATEGORY": "Jerky",
+  "BRAND": "Slim Jim",
+  "SIZE": "",
+  "EAN": "0026200117300",
+  "STATUS": "MATCHED"
+ },
+ "02620011750": {
+  "FULL_NAME_FOUND": "Slim Jim Giant Snack Stick, Mild Smoked",
+  "DESCRIPTION": "Slim Jim Mild Giant Stick provides the perfect blend of spices. Satisfying snack any time of day. Each stick is packed with protein.",
+  "CATEGORY": "Jerky",
+  "BRAND": "Slim Jim",
+  "SIZE": "",
+  "EAN": "0026200117508",
+  "STATUS": "MATCHED"
+ },
+ "02620012313": {
+  "FULL_NAME_FOUND": "Slim Jim Monster Smoked Snack Stick Chile Limón Seasoned 1.94 Oz",
+  "DESCRIPTION": "Snap into monster flavor with a Slim Jim Monster Size Chile Limón Smoked Snack Stick. Made with beef and pork, chicken and no artificial flavors or colors, tame the giant meat-lover in you with 11 grams of protein in each serving. Each zesty snack stick is individually wrapped so that you can enjoy a savory, on the go snack anywhere. And then there's the flavor. Seasoned with bold chile limón flavor, this is the kind of protein snack that messes with the bull and gets the horns. So, go ahead and fill your kitchen pantry with this chile limón treat. Don't wait 'til monster hunger comes calling; snap into a Monster Slim Jim Snack Stick and snack big.",
+  "CATEGORY": "Snack Foods",
+  "BRAND": "Slim Jim",
+  "SIZE": "",
+  "EAN": "0026200123134",
+  "STATUS": "MATCHED"
  }
 }

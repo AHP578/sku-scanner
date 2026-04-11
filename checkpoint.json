@@ -10924,5 +10924,89 @@
   "SIZE": "473 mL",
   "EAN": "0079581184010",
   "STATUS": "MATCHED"
+ },
+ "07958118404": {
+  "FULL_NAME_FOUND": "Calypso Lemonade, Paradise Punch 16 Fl Oz",
+  "DESCRIPTION": "Super fruity Island Punch lemonade, made with real lemon bits, real sugar and a blend of cherry, orange, grape and pineapple flavours. Enjoy ice cold or mixed with a clear rum.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Calypso",
+  "SIZE": "473 mL",
+  "EAN": "0079581184041",
+  "STATUS": "MATCHED"
+ },
+ "07958118405": {
+  "FULL_NAME_FOUND": "Calypso Island Wave Lemonade",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Calypso",
+  "SIZE": "473 mL",
+  "EAN": "0007958118405",
+  "STATUS": "MATCHED"
+ },
+ "07958118406": {
+  "FULL_NAME_FOUND": "Calypso Tropical Mango Lemonade",
+  "DESCRIPTION": "Made with real lemon bits, real sugar and a blend of mango for a tropical sensation. Enjoy ice cold or mixed with a clear rum.",
+  "CATEGORY": "Mangoes",
+  "BRAND": "Calypso",
+  "SIZE": "",
+  "EAN": "0079581184065",
+  "STATUS": "MATCHED"
+ },
+ "07958118407": {
+  "FULL_NAME_FOUND": "Calypso Juice, Triple Melon Lemonade 16 Fl Oz",
+  "DESCRIPTION": "Great all Natural product blended from melon & real lemon pulp in every bottle. When only the best will do.",
+  "CATEGORY": "Melons",
+  "BRAND": "Calypso",
+  "SIZE": "",
+  "EAN": "0079581184072",
+  "STATUS": "MATCHED"
+ },
+ "07958118409": {
+  "FULL_NAME_FOUND": "Calypso Juice, Kiwi Lemonade 16 Fl Oz",
+  "DESCRIPTION": "Kiwi Lemonade was picked as one of the four original flavors due to its unique citrus flavor, striking green appearance and delicious taste. Made with Real Lemon or Lime Bits and Natural Flavors. Served in Premium Custom 16 Fl Oz Glass Bottles.",
+  "CATEGORY": "Kiwis",
+  "BRAND": "Calypso",
+  "SIZE": "",
+  "EAN": "0079581184096",
+  "STATUS": "MATCHED"
+ },
+ "07958118501": {
+  "FULL_NAME_FOUND": "Calypso Pineapple Peach Limeade 473 Ml",
+  "DESCRIPTION": "A real Limeade made with real lime bits, sugar and a blend of tropical pineapple and juicy peach flavours. Enjoy ice-cold or mixed with a clear spirit.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Calypso",
+  "SIZE": "355 mL",
+  "EAN": "0079581185017",
+  "STATUS": "MATCHED"
+ },
+ "07965603186": {
+  "FULL_NAME_FOUND": "Banana Boat Sport Performance Clear UltraMist Broad Spectrum SPF 50 Continuous Spray Sunscreen 8 Fl. Oz. Can",
+  "DESCRIPTION": "Provides powerful protection that absorbs quickly and wont run into your eyes. These lightweight, clear sprays are designed specifically for sports enthusiasts and other active folks who need sunscreen staying power in the sun!",
+  "CATEGORY": "Sunscreen",
+  "BRAND": "Banana Boat",
+  "SIZE": "",
+  "EAN": "0079656031867",
+  "STATUS": "MATCHED"
+ },
+ "08000000519": {
+  "FULL_NAME_FOUND": "StarKist Low Sodium Solid White Albacore Tuna In Water - 5oz",
+  "DESCRIPTION": "StarKist Solid White Albacore Tuna in Water 25% Less Sodium features a solid fillet of delicious wild caught albacore tuna – try it in a wrap or tuna salad sandwich. With 240mg of sodium per serving (compared to 320mg in our Regular Solid Albacore in Water 5 oz. can), it’s an excellent choice if you are watching your sodium intake. StarKist makes it easy to incorporate seafood into your lifestyle. With 110 calories and 26g of protein per serving, this nutrient dense tuna can works well with Mediterranean, DASH, Weight Watchers, Keto, and Paleo diet plans.",
+  "CATEGORY": "Soups & Broths",
+  "BRAND": "StarKist",
+  "SIZE": "",
+  "EAN": "0080000005199",
+  "STATUS": "MATCHED"
+ },
+ "08000000672": {
+  "FULL_NAME_FOUND": "StarKist Solid White Albacore Tuna In Water Can - 5oz",
+  "DESCRIPTION": "Discover the delicious and nutritious StarKist Solid White Albacore Tuna in Water! Perfect for a quick meal or a healthy snack, this 5-ounce can of premium solid white albacore tuna is packed in water, ensuring a light and refreshing taste. Whether you are preparing a tuna salad, sandwich, or simply enjoying it straight from the can, this tuna is a versatile addition to your pantry. Rich in protein and omega-3 fatty acids, it is an excellent choice for health-conscious individuals.",
+  "CATEGORY": "Soups & Broths",
+  "BRAND": "StarKist",
+  "SIZE": "",
+  "EAN": "0080000006721",
+  "STATUS": "MATCHED"
+ },
+ "08186400905": {
+  "STATUS": "UNMATCHED"
  }
 }

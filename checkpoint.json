@@ -8764,5 +8764,95 @@
   "SIZE": "",
   "EAN": "0026100005738",
   "STATUS": "MATCHED"
+ },
+ "02610000575": {
+  "FULL_NAME_FOUND": "Newport Cigarettes, Box",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Newport",
+  "SIZE": "",
+  "EAN": "0026100005752",
+  "STATUS": "MATCHED"
+ },
+ "02610000576": {
+  "FULL_NAME_FOUND": "Newport Cigarettes, Menthol Gold, Box",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Newport",
+  "SIZE": "",
+  "EAN": "0026100005769",
+  "STATUS": "MATCHED"
+ },
+ "02610000577": {
+  "FULL_NAME_FOUND": "Newport Cigarettes - Pack 1",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Newport",
+  "SIZE": "",
+  "EAN": "0026100005776",
+  "STATUS": "MATCHED"
+ },
+ "02610000578": {
+  "FULL_NAME_FOUND": "Newport Cigarettes, Kings",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Newport",
+  "SIZE": "",
+  "EAN": "0026100005783",
+  "STATUS": "MATCHED"
+ },
+ "02610000583": {
+  "FULL_NAME_FOUND": "Newport Cigarettes, Menthol Blue, Box",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Newport",
+  "SIZE": "",
+  "EAN": "0026100005837",
+  "STATUS": "MATCHED"
+ },
+ "02610000656": {
+  "FULL_NAME_FOUND": "Newport Cigarettes, Non Menthol, Box",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Newport",
+  "SIZE": "",
+  "EAN": "0026100006568",
+  "STATUS": "MATCHED"
+ },
+ "02610000657": {
+  "FULL_NAME_FOUND": "Newport Cigarettes, Non Menthol, 100s, Box",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Newport",
+  "SIZE": "",
+  "EAN": "0026100006575",
+  "STATUS": "MATCHED"
+ },
+ "02610000661": {
+  "FULL_NAME_FOUND": "Newport Cigarettes, Non Menthol Gold, 100s, Box",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Newport",
+  "SIZE": "",
+  "EAN": "0026100006612",
+  "STATUS": "MATCHED"
+ },
+ "02610000668": {
+  "FULL_NAME_FOUND": "Newport Cigarettes, Smooth Select, Menthol, 100s, Box",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Newport",
+  "SIZE": "",
+  "EAN": "0026100006681",
+  "STATUS": "MATCHED"
+ },
+ "02610000670": {
+  "FULL_NAME_FOUND": "Newport Cigarettes, Smooth Select, Menthol, Box",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Newport",
+  "SIZE": "",
+  "EAN": "0026100006704",
+  "STATUS": "MATCHED"
  }
 }

@@ -8434,5 +8434,83 @@
   "SIZE": "1999 mL",
   "EAN": "0078000206463",
   "STATUS": "MATCHED"
+ },
+ "07800020940": {
+  "FULL_NAME_FOUND": "Schweppes Sparkling Water Beverage, Lemon Lime, Unsweetened 20 Oz",
+  "DESCRIPTION": "Schweppes Lemon Lime Sparkling Water Beverage brings out the best in water with a hint of bright citrus flavor and refreshing effervescence. An ideal alternative to sweetened soft drinks, it contains no sweeteners and is naturally flavored. Experience a crisp twist on the ordinary with Schweppes Lemon Lime Sparkling Water Beverage.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Schweppes",
+  "SIZE": "591 mL",
+  "EAN": "0078000209402",
+  "STATUS": "MATCHED"
+ },
+ "07800021845": {
+  "FULL_NAME_FOUND": "Schweppes Tonic Water, Caffeine Free 33.8 Fl Oz",
+  "DESCRIPTION": "Schweppes Tonic Water comes in a generous 33.8 fluid ounce size. It's a refreshing and crisp mixer, perfect for cocktails or to enjoy by itself.",
+  "CATEGORY": "Water",
+  "BRAND": "Schweppes",
+  "SIZE": "1000 mL",
+  "EAN": "0078000218459",
+  "STATUS": "MATCHED"
+ },
+ "07835470218": {
+  "FULL_NAME_FOUND": "Cabot Creamery Monterey Jack Cheese",
+  "DESCRIPTION": "Cabot’s Monterey Jack delivers a mild, creamy flavor and smooth texture that makes it a versatile favorite. Perfect for melting, shredding, or slicing, it pairs well with everything from crackers and veggies to tacos and grilled cheese.",
+  "CATEGORY": "Cheese",
+  "BRAND": "Cabot Creamery",
+  "SIZE": "",
+  "EAN": "0078354702185",
+  "STATUS": "MATCHED"
+ },
+ "07835470759": {
+  "FULL_NAME_FOUND": "Cabot Creamery Premium Natural Cheese Pepper Jack",
+  "DESCRIPTION": "If you love Cabot’s Monterey Jack, wait until you try its spicy cousin, award-winning Pepper Jack. Melt it over corn chips for a kickin' nacho platter, or add it to your next grilled cheese for some spicy flare. Or just slice it up for a bold, zesty snack. With just the right amount of heat, it’s the ultimate balance of smooth and spicy, and utterly irresistible. Cabot's Monterey Jack Cheese contains milk but has zero grams of lactose and is naturally gluten-free. Keep refrigerated.",
+  "CATEGORY": "Cheese",
+  "BRAND": "Cabot Creamery",
+  "SIZE": "",
+  "EAN": "0078354707593",
+  "STATUS": "MATCHED"
+ },
+ "07835471070": {
+  "FULL_NAME_FOUND": "Cabot Creamery Legacy Collection Farmhouse Reserve Cheddar Cheese",
+  "DESCRIPTION": "Bold, creamy and extra sharp! Enjoy this well-balanced Cheddar's full, rich taste and slightly crumbly texture. Available in 6-ounce Dairy Bars, this tempting cheese is a part of our Farmers' Legacy Collection.",
+  "CATEGORY": "Cheese",
+  "BRAND": "Cabot Creamery",
+  "SIZE": "",
+  "EAN": "0078354710708",
+  "STATUS": "MATCHED"
+ },
+ "07851600022": {
+  "FULL_NAME_FOUND": "Turkey Creek Chicharrones, Bar B Que 2 Oz",
+  "DESCRIPTION": "The Sony XM-ZR604 Xplod Car Amplifier is designed to deliver powerful audio performance in your vehicle. With a maximum output of 600 Watts, this amplifier ensures that your music sounds crisp and clear, even at high volumes. Its versatile 4/3 channel configuration allows for flexible installation options, making it suitable for various audio setups. Whether you are an audiophile or just want to enhance your driving experience, this amplifier is a perfect choice.",
+  "CATEGORY": "Pork Rinds",
+  "BRAND": "Turkey Creek",
+  "SIZE": "",
+  "EAN": "0078516000227",
+  "STATUS": "MATCHED"
+ },
+ "07851600032": {
+  "FULL_NAME_FOUND": "Turkey Creek Pork Skins Hot & Spicy",
+  "DESCRIPTION": "These are very good pork rinds. When you first bite in, there's a very nice taste, with no hint of hog fat. The heat is pretty good — not dangerously hot, but an impressive kick of hot pepper. There's a mild pork tast a few seconds later, and then a lingering hot aftertaste that hangs around for several minutes.",
+  "CATEGORY": "Chips",
+  "BRAND": "Turkey Creek",
+  "SIZE": "",
+  "EAN": "0078516000326",
+  "STATUS": "MATCHED"
+ },
+ "07851600072": {
+  "FULL_NAME_FOUND": "Turkey Creek Chili Lime Pork Skin-2 oz.-12/Case",
+  "DESCRIPTION": "Spicy red chili powder blended with garlic, onion and a generous splash of lime for a flavor that will start the party and keep it going. Less than 1 gram total carb per serving for a snack that leaves you satisfied by not weighed down. Chili Lime takes chicharrones to a new level with flavor too good not to share!",
+  "CATEGORY": "Pork Rinds",
+  "BRAND": "Turkey Creek",
+  "SIZE": "",
+  "EAN": "0078516000722",
+  "STATUS": "MATCHED"
+ },
+ "07888966456": {
+  "STATUS": "UNMATCHED"
+ },
+ "07888966458": {
+  "STATUS": "UNMATCHED"
  }
 }

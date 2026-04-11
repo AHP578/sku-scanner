@@ -9664,5 +9664,95 @@
   "SIZE": "",
   "EAN": "0028200009630",
   "STATUS": "MATCHED"
+ },
+ "02820000964": {
+  "FULL_NAME_FOUND": "Marlboro Cigarettes, Special Blend, Menthol, 100's, Flip Top Box",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200009647",
+  "STATUS": "MATCHED"
+ },
+ "02820000965": {
+  "FULL_NAME_FOUND": "Marlboro Cigarettes, Filter, Gold Pack 72's",
+  "DESCRIPTION": "Smooth original flavor. Please don't litter. Class A cigarettes.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200009654",
+  "STATUS": "MATCHED"
+ },
+ "02820017467": {
+  "FULL_NAME_FOUND": "Marl Black 100 S Sb Pk $1 Off",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0028200174673",
+  "STATUS": "MATCHED"
+ },
+ "02820017931": {
+  "FULL_NAME_FOUND": "Marlboro Marl Black Gold",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200179319",
+  "STATUS": "MATCHED"
+ },
+ "02820030142": {
+  "FULL_NAME_FOUND": "Merit Blue 100s Cigarettes",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Merit",
+  "SIZE": "",
+  "EAN": "0028200301420",
+  "STATUS": "MATCHED"
+ },
+ "02820030172": {
+  "FULL_NAME_FOUND": "Merit Cigarettes, Class A, 100's, Blue Pack",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Merit",
+  "SIZE": "",
+  "EAN": "0028200301727",
+  "STATUS": "MATCHED"
+ },
+ "02820030982": {
+  "FULL_NAME_FOUND": "L M L&M Red Box",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "L M",
+  "SIZE": "",
+  "EAN": "0028200309822",
+  "STATUS": "MATCHED"
+ },
+ "02820030992": {
+  "FULL_NAME_FOUND": "L M Cigarettes, Filter, 100's",
+  "DESCRIPTION": "L&M Red 100's Box contains filtered cigarettes known for their classic and consistent flavor. These cigarettes are packaged in a box for convenience and easy storage.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "L M",
+  "SIZE": "",
+  "EAN": "0028200309921",
+  "STATUS": "MATCHED"
+ },
+ "02820031002": {
+  "FULL_NAME_FOUND": "L M Cigarettes, Filter, Blue Pack",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "L M",
+  "SIZE": "",
+  "EAN": "0028200310026",
+  "STATUS": "MATCHED"
+ },
+ "02820031022": {
+  "FULL_NAME_FOUND": "L M Cigarettes, Filter, Blue Pack, 100's",
+  "DESCRIPTION": "L&M Blue 100's are a type of cigarette known for their smooth taste and balanced flavor. They come in a longer, 100-millimeter size, packaged in a convenient box.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "L M",
+  "SIZE": "",
+  "EAN": "0028200310224",
+  "STATUS": "MATCHED"
  }
 }

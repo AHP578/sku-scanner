@@ -11818,5 +11818,95 @@
   "SIZE": "355 mL",
   "EAN": "0098100101017",
   "STATUS": "MATCHED"
+ },
+ "09810010103": {
+  "FULL_NAME_FOUND": "Starbucks Sparkling Energy Drink, Zero Sugar, Blueberry Lemonade 12 Fl Oz",
+  "DESCRIPTION": "Hydrate & Energize with a feel-good boost. Starbucks Iced Energy is a sparkling Energy Drink made with 160mg plant-based caffeine for hydration and mental clarity. Starbucks Iced Energy Drink contains zero sugar and 5 calories per can. Includes 1 (12 fl oz) can of Starbucks Iced Energy Sparkling Energy Drink, Blueberry Lemonade flavor. Starbucks Blueberry Lemonade Iced Energy: Juicy flavors of blueberry and the taste of lemonade. It’s refreshing everyday energy. Starbucks Iced Energy Sparkling Energy Drink contains Zero Sugar and 5 calories per can. Hydrate & energize with a feel-good boost: Made with 160mg plant-based caffeine to help support mental clarity (>75mg caffeine helps support mental clarity). Refresh then recycle: Please recycle this can.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Starbucks",
+  "SIZE": "355 mL",
+  "EAN": "0098100101031",
+  "STATUS": "MATCHED"
+ },
+ "09810010123": {
+  "FULL_NAME_FOUND": "Starbucks Iced Energy Strawberry Kiwi",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Starbucks",
+  "SIZE": "355 mL",
+  "EAN": "0098100101239",
+  "STATUS": "MATCHED"
+ },
+ "09830800202": {
+  "FULL_NAME_FOUND": "Better Than Bouillon Chicken Paste Roasted Base Premium - 8 Ounce",
+  "DESCRIPTION": "Original Better Than Bouillon® Roasted Chicken Base is made with roasted chicken. This gives it a richer, more robust flavor than ordinary bouillons or soup stocks. Better Than Bouillon blendable bases easily spoon right out of the jar and let you add as much, or as little, flavor as desired. From marinades, glazes and vegetables to soups, sides and slow cooker dishes, Better Than Bouillon Roasted Chicken Base adds flavor to all your favorite dishes.",
+  "CATEGORY": "Soups & Broths",
+  "BRAND": "Better Than Bouillon",
+  "SIZE": "",
+  "EAN": "0098308002024",
+  "STATUS": "MATCHED"
+ },
+ "09830800205": {
+  "FULL_NAME_FOUND": "Better Than Bouillon Premium Seasoned Vegetable Base, 8 Ounce",
+  "DESCRIPTION": "Original Better Than Bouillon Seansoned Vegetable Base is made by combining pureed carrots, celery, onions and tomato and aromatic seasonings. Better Than Bouillon blendable bases easily spoon right out of the jar and lets you add as much, or as little, flavor as desired. From marinades, glazes and vegetables to soups, sides and slow cooker dishes, Better Than Bouillon Vegetable Base adds flavor to all your favorite dishes.",
+  "CATEGORY": "Soups & Broths",
+  "BRAND": "Better Than Bouillon",
+  "SIZE": "",
+  "EAN": "0098308002055",
+  "STATUS": "MATCHED"
+ },
+ "09879400026": {
+  "FULL_NAME_FOUND": "Stewart's Root Beer",
+  "DESCRIPTION": "In 1924, Frank Stewart set out to develop the world's best-tasting root beer, which he intended to sell to supplement his income as a school teacher. With secret recipes in hand, he soon opened his first Stewart's Drive-In, and an empire was born.",
+  "CATEGORY": "Soda",
+  "BRAND": "Stewart's",
+  "SIZE": "355 mL",
+  "EAN": "0098794000269",
+  "STATUS": "MATCHED"
+ },
+ "09879400027": {
+  "FULL_NAME_FOUND": "Stewart's Orange Cream Soda",
+  "DESCRIPTION": "Cold brewed draft orange soda sweetened with real sugar. Stewarts Soda takes you on a refreshing walk down memory lane with classic fountain favorites. Stewarts Orange n Cream is a handcrafted recipe of secret ingredients, making for a smooth and creamy taste that contains no caffeine. Enjoy as an ice-cold beverage or a delicious float. Relive the days of good, old-fashioned flavor with Stewarts Orange n Cream. No high fructose corn syrup. 12 fluid ounce bottle.",
+  "CATEGORY": "Soda",
+  "BRAND": "Stewart's",
+  "SIZE": "355 mL",
+  "EAN": "0098794000276",
+  "STATUS": "MATCHED"
+ },
+ "09879400028": {
+  "FULL_NAME_FOUND": "Stewart's Cream Soda 355ml",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Soda",
+  "BRAND": "Stewart's",
+  "SIZE": "355 mL",
+  "EAN": "0098794000283",
+  "STATUS": "MATCHED"
+ },
+ "09879400029": {
+  "FULL_NAME_FOUND": "Stewart's Fountain Classics Black Cherry Wishniak Soda",
+  "DESCRIPTION": "Indulge in the rich, luscious taste of Stewart’s Black Cherry Soda, a classic beverage that has delighted soda lovers since 1924. Proudly crafted in the USA, this refreshing soda brings together the deep, sweet flavor of ripe black cherries with the perfect amount of fizz, making it a timeless favorite for any occasion.",
+  "CATEGORY": "Soda",
+  "BRAND": "Stewart's",
+  "SIZE": "355 mL",
+  "EAN": "0098794000290",
+  "STATUS": "MATCHED"
+ },
+ "09990000147": {
+  "FULL_NAME_FOUND": "Butterfinger Candy Bar, 2 Piece, Share Pack",
+  "DESCRIPTION": "Butterfinger bars are made up of a generous crunchy peanut butter centre with a slightly crumbly consistency. This is then covered in smooth Nestle milk.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Butterfinger",
+  "SIZE": "",
+  "EAN": "0099900001477",
+  "STATUS": "MATCHED"
+ },
+ "09990010087": {
+  "FULL_NAME_FOUND": "Butterfinger Nestle Candy Bar, 1.9 Ounce",
+  "DESCRIPTION": "A chocolate bar filled with a crunchy peanut buttery center. Due to high heat conditions milk chocolate items will not be available during warmer months (usually May thru September).",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Butterfinger",
+  "SIZE": "",
+  "EAN": "0099900100873",
+  "STATUS": "MATCHED"
  }
 }

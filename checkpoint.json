@@ -9304,5 +9304,95 @@
   "SIZE": "",
   "EAN": "0028200003034",
   "STATUS": "MATCHED"
+ },
+ "02820000323": {
+  "FULL_NAME_FOUND": "Marlboro Smooth Menthol Cigarettes 1",
+  "DESCRIPTION": "Uniquely rich & smooth. Nothing about this cigarette, packaging, or color should be interpreted to mean safer. Uncover the blends. Discover your menthol. Unique blend.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200003232",
+  "STATUS": "MATCHED"
+ },
+ "02820000357": {
+  "FULL_NAME_FOUND": "Marlboro Filter Cigarettes, Box",
+  "DESCRIPTION": "Class A cigarettes. Nothing about this cigarette, packaging, or color should be interpreted to mean safer. Special offer inside. Void in MA & where prohibited.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200003577",
+  "STATUS": "MATCHED"
+ },
+ "02820000361": {
+  "FULL_NAME_FOUND": "Marlboro Menthol Cigarettes, Box",
+  "DESCRIPTION": "Fresh menthol flavor. Nothing about this cigarette, packaging, or color should be interpreted to mean safer. PM USA. Green blend.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200003614",
+  "STATUS": "MATCHED"
+ },
+ "02820000363": {
+  "FULL_NAME_FOUND": "Marlboro Filter Cigarettes, 100's, Flip Top Box",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200003638",
+  "STATUS": "MATCHED"
+ },
+ "02820000364": {
+  "FULL_NAME_FOUND": "Marlboro Cigarettes, Menthol, 100's",
+  "DESCRIPTION": "Fresh menthol flavor. Nothing about this cigarette, packaging, or color should be interpreted to mean safer. PM USA. Green blend.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200003645",
+  "STATUS": "MATCHED"
+ },
+ "02820000368": {
+  "FULL_NAME_FOUND": "Marlboro Cigarettes, Filter, Red Label",
+  "DESCRIPTION": "Rich smooth original flavor. Please don't litter. Class A cigarettes.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200003683",
+  "STATUS": "MATCHED"
+ },
+ "02820000369": {
+  "FULL_NAME_FOUND": "Marlboro Cigarettes, Filter, Red Label, 100's",
+  "DESCRIPTION": "Rich smooth original flavor. Please don't litter. Class A cigarettes.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200003690",
+  "STATUS": "MATCHED"
+ },
+ "02820000384": {
+  "FULL_NAME_FOUND": "Marlboro Smooth Original Gold Pack Filter Cigarettes",
+  "DESCRIPTION": "Smooth original flavor. Nothing about this cigarette, packaging, or color should be interpreted to mean safer. Class A cigarettes.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200003843",
+  "STATUS": "MATCHED"
+ },
+ "02820000386": {
+  "FULL_NAME_FOUND": "Marlboro Cigarettes, Filter, Silver Pack 72's",
+  "DESCRIPTION": "Mellow flavor. Nothing about this cigarette, packaging, or color should be interpreted to mean safer. PM USA. Please don't litter. Class A cigarettes.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200003867",
+  "STATUS": "MATCHED"
+ },
+ "02820000401": {
+  "FULL_NAME_FOUND": "Marlboro Menthol Gold Box",
+  "DESCRIPTION": "Smooth fresh menthol flavor. Nothing about this cigarette, packaging, or color should be interpreted to mean safer. PM USA. Green blend.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200004017",
+  "STATUS": "MATCHED"
  }
 }

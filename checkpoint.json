@@ -9034,5 +9034,95 @@
   "SIZE": "",
   "EAN": "0026200464640",
   "STATUS": "MATCHED"
+ },
+ "02620046466": {
+  "FULL_NAME_FOUND": "David Jumbo Sour Cream & Onion Roasted Sunflower Seeds 5.25oz",
+  "DESCRIPTION": "Candy Gum & Mints Health & Pharmacy Incense & Candles Smoke Shop David Sunflower Seeds Description Hunger wont wait for crunch time. Grab a pack of DAVID Sunflo.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "David",
+  "SIZE": "",
+  "EAN": "0026200464664",
+  "STATUS": "MATCHED"
+ },
+ "02620046472": {
+  "FULL_NAME_FOUND": "David Sunflower Seeds, Salted & Roasted, Jumbo, Jalapeno Hot Salsa 5.25 Oz",
+  "DESCRIPTION": "David Jumbo Sunflower Seeds Jalapeño deliver a bold, spicy kick with every crunchy bite. These large sunflower seeds are perfectly seasoned with zesty jalapeño flavour, making them an exciting snack for those who love a little heat. Whether you’re snacking at home, at a BBQ, or on the go, David Jumbo Sunflower Seeds Jalapeño provide the perfect balance of spice and crunch to satisfy your cravings.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "David",
+  "SIZE": "",
+  "EAN": "0026200464725",
+  "STATUS": "MATCHED"
+ },
+ "02620046572": {
+  "FULL_NAME_FOUND": "David Salted & Roasted Bar B Q Flavored Jumbo Sunflower Seeds 5.25 Oz",
+  "DESCRIPTION": "America’s favorite in-shell sunflower seeds are delicious and fun to eat any time, anywhere. Natural and nutritious, DAVID Sunflower Seeds are available in a variety of new flavors and convenient, portable packaging for easy, on-the-go enjoyment!",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "David",
+  "SIZE": "",
+  "EAN": "0026200465722",
+  "STATUS": "MATCHED"
+ },
+ "02620046772": {
+  "FULL_NAME_FOUND": "David Salted & Roasted Ranch Jumbo Sunflower Seeds",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Seeds",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0002620046772",
+  "STATUS": "MATCHED"
+ },
+ "02620047135": {
+  "FULL_NAME_FOUND": "Andy Capp's BBQ Fries Corn & Potato Snacks",
+  "DESCRIPTION": "Andy Capp's fries look just like french fries, but crunch like crisps. These unique alternatives to regular potato chips pack a powerful flavor punch in every crunch. Available in Cheddar, Ranch and the ever-popular Hot Fries. All with 0 grams of trans fat per serving.",
+  "CATEGORY": "Chips",
+  "BRAND": "Andy Capp's",
+  "SIZE": "",
+  "EAN": "0026200471358",
+  "STATUS": "MATCHED"
+ },
+ "02620047138": {
+  "FULL_NAME_FOUND": "Andy Capp's Fire Fries, Corn & Potato Snacks, 3 Oz",
+  "DESCRIPTION": "Turn up the heat with Andy Capp's Fire Fries Corn and Potato Snacks. These spicy fries are extra hot, packing a powerful fiery punch with every crunch. Switch up your snack routine with the salty snack that looks like a French fry and crunches like a potato chip. These savory snack fries make a great addition to lunches and are a great school snack, work snack or travel snack, or any type of on-the-go snack you can think of. Road trips and dorm room study breaks have never tasted spicier. Andy Capp's Fire Fries have 140 calories in each serving.",
+  "CATEGORY": "Chips",
+  "BRAND": "Andy Capp's",
+  "SIZE": "",
+  "EAN": "0026200471389",
+  "STATUS": "MATCHED"
+ },
+ "02620047158": {
+  "FULL_NAME_FOUND": "Andy Capp's Cheddar Fries Corn & Potato Snacks 3 Oz. Bag",
+  "DESCRIPTION": "Indulge in the irresistible taste of Andy Capp's Cheddar Fries! These delightful snacks combine the crunch of corn and potato, coated in a rich cheddar flavor that will satisfy your cravings. Perfect for parties, movie nights, or a quick snack on the go, this 3-ounce bag is a convenient size for enjoying solo.",
+  "CATEGORY": "Chips",
+  "BRAND": "Andy Capp's",
+  "SIZE": "",
+  "EAN": "0026200471587",
+  "STATUS": "MATCHED"
+ },
+ "02620047159": {
+  "FULL_NAME_FOUND": "Andy Capp's Hot Fries Corn & Potato Snacks 3oz Bag",
+  "DESCRIPTION": "Bring bold energy to snack time with fry‑shaped Chips that deliver a fiery punch. These crave‑worthy Snacks pack a Spicy kick, making them a standout choice for anyone who loves heat and flavor in every bite.",
+  "CATEGORY": "Chips",
+  "BRAND": "Andy Capp's",
+  "SIZE": "",
+  "EAN": "0026200471594",
+  "STATUS": "MATCHED"
+ },
+ "02700038143": {
+  "FULL_NAME_FOUND": "Hunt's Tomato Ketchup Squeeze Bottle, 20 Ounce",
+  "DESCRIPTION": "Taste the difference with Hunt's vine-ripened tomatoes, choice seasonings and spices. Fits a low carb lifestyle with 5g net carbs per serving.",
+  "CATEGORY": "Ketchup",
+  "BRAND": "Hunt's",
+  "SIZE": "",
+  "EAN": "0027000381434",
+  "STATUS": "MATCHED"
+ },
+ "02720000216": {
+  "FULL_NAME_FOUND": "Capri Cigarettes, Magenta 120's",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Capri",
+  "SIZE": "",
+  "EAN": "0027200002160",
+  "STATUS": "MATCHED"
  }
 }

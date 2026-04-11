@@ -10564,5 +10564,95 @@
   "SIZE": "",
   "EAN": "0028400769051",
   "STATUS": "MATCHED"
+ },
+ "02840076907": {
+  "FULL_NAME_FOUND": "Ruffles Cheddar Sour Cream Potato Chips - 2.25oz",
+  "DESCRIPTION": "RUFFLES Cheddar & Sour Cream Flavored Potato Chips have bold, thick and deep ridges to hold more of the real cheddar cheese & sour cream flavor you love. Ruffles thick ridges hold up to even the thickest of dips. Try pairing with your favorite onion dip for a quick and easy appetizer. Back in the day chips were flat and that was boring. So we made a chip that zigged and zagged and shared it with the world.",
+  "CATEGORY": "Chips",
+  "BRAND": "Ruffles",
+  "SIZE": "",
+  "EAN": "0028400769075",
+  "STATUS": "MATCHED"
+ },
+ "02840076913": {
+  "FULL_NAME_FOUND": "Fritos Honey Bbq Corn Snacks 3.375 Oz",
+  "DESCRIPTION": "The popularity of FRITOS corn chips puts this iconic snack in a class of its own. From small towns and family barbecues to parties in the big city, this classic snack is still satisfying fans after more than 80 years.",
+  "CATEGORY": "Snack Foods",
+  "BRAND": "Fritos",
+  "SIZE": "",
+  "EAN": "0028400769136",
+  "STATUS": "MATCHED"
+ },
+ "02840076922": {
+  "FULL_NAME_FOUND": "Cheetos Crunchy, Flamin' Hot Flavored, Cheese Flavored Snacks",
+  "DESCRIPTION": "CHEETOS snacks are the much-loved cheesy treats that are fun for everyone! You just cant eat a CHEETOS snack without licking the signature cheetle off your fingertips. And wherever the CHEETOS brand and CHESTER CHEETAH go, cheesy smiles are sure to follow.",
+  "CATEGORY": "Chips",
+  "BRAND": "Cheetos",
+  "SIZE": "",
+  "EAN": "0028400769228",
+  "STATUS": "MATCHED"
+ },
+ "02840076926": {
+  "FULL_NAME_FOUND": "Cheetos Puffs Cheese Snacks",
+  "DESCRIPTION": "CHEETOS® snacks are the much-loved cheesy treats that are fun for everyone! You just can’t eat a CHEETOS® snack without licking the signature “cheetle” off your fingertips. And wherever the CHEETOS® brand and CHESTER CHEETAH® go, cheesy smiles are sure to follow..",
+  "CATEGORY": "Chips",
+  "BRAND": "Cheetos",
+  "SIZE": "",
+  "EAN": "0028400769266",
+  "STATUS": "MATCHED"
+ },
+ "02840076965": {
+  "FULL_NAME_FOUND": "Lay's Salt & Vinegar Flavored, Potato Chips",
+  "DESCRIPTION": "Wherever celebrations and good times happen, the Lay's brand will be there just as it has been for more than 75 years. With flavors almost as rich as our history, we have a potato chip or crisp flavor guaranteed to bring a smile on your face. Salt & VinegarNo Artificial FlavorsNo Artificial ColorsTriangle K Certification2 1/2 Oz.",
+  "CATEGORY": "Chips",
+  "BRAND": "Lay's",
+  "SIZE": "",
+  "EAN": "0028400769655",
+  "STATUS": "MATCHED"
+ },
+ "02840077005": {
+  "FULL_NAME_FOUND": "Lay's Sour Cream & Onion Flavored Potato Chips",
+  "DESCRIPTION": "Wherever celebrations and good times happen, the Lay's® brand will be there just as it has been for more than 75 years. With flavors almost as rich as our history, we have a potato chip or crisp flavor guaranteed to bring a smile on your face. Sour Cream & OnionNo Artificial FlavorsTriangle K Dairy Certification2.5 oz.",
+  "CATEGORY": "Chips",
+  "BRAND": "Lay's",
+  "SIZE": "",
+  "EAN": "0028400770057",
+  "STATUS": "MATCHED"
+ },
+ "02840077008": {
+  "FULL_NAME_FOUND": "Lay's Classic Potato Chips - 2.5oz",
+  "DESCRIPTION": "It starts with farm-grown potatoes- cooked and seasoned to perfection. Then we add the tang of sour cream and sharp cheddar. So every Lay's potato chip is perfectly crispy and delicious. Happiness in every bite. The shareable size is perfect for your next party or gathering. Try pairing with your favorite onion dip for a quick and easy appetizer. Try packing Classic Lay’s Potato Chips in your next work or school lunch for just the right amount of deliciousness. .",
+  "CATEGORY": "Chips",
+  "BRAND": "Lay's",
+  "SIZE": "",
+  "EAN": "0028400770088",
+  "STATUS": "MATCHED"
+ },
+ "02840077012": {
+  "FULL_NAME_FOUND": "Lay's Limon Potato Chips",
+  "DESCRIPTION": "Wherever celebrations and good times happen, the Lay's® brand will be there just as it has been for more than 75 years. With flavors almost as rich as our history, we have a potato chip or crisp flavor guaranteed to bring a smile on your face.",
+  "CATEGORY": "Chips",
+  "BRAND": "Lay's",
+  "SIZE": "",
+  "EAN": "0028400770125",
+  "STATUS": "MATCHED"
+ },
+ "02840077018": {
+  "FULL_NAME_FOUND": "Lay's Dill Pickle Flavored, Potato Chips",
+  "DESCRIPTION": "Wherever celebrations and good times happen, the Lay's brand will be there just as it has been for more than 75 years. With flavors almost as rich as our history, we have a potato chip or crisp flavor guaranteed to bring a smile on your face. Dill PickleNo Artificial FlavorsTriangle K CertificationNo Preservatives.",
+  "CATEGORY": "Chips",
+  "BRAND": "Lay's",
+  "SIZE": "",
+  "EAN": "0028400770187",
+  "STATUS": "MATCHED"
+ },
+ "02840077026": {
+  "FULL_NAME_FOUND": "Lay's Jalapeno Flavored Kettle Cooked Potato Chips",
+  "DESCRIPTION": "Wherever celebrations and good times happen, the Lay's brand will be there just as it has been for more than 75 years. With flavors almost as rich as our history, we have a potato chip or crisp flavor guaranteed to bring a smile on your face. JalapenoNo Artificial FlavorsNo PreservativesOU Kosher Dairy2 1/4 Oz.",
+  "CATEGORY": "Chips",
+  "BRAND": "Lay's",
+  "SIZE": "",
+  "EAN": "0028400770262",
+  "STATUS": "MATCHED"
  }
 }

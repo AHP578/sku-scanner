@@ -10654,5 +10654,95 @@
   "SIZE": "",
   "EAN": "0028400770262",
   "STATUS": "MATCHED"
+ },
+ "02840077056": {
+  "FULL_NAME_FOUND": "Doritos Cool Ranch Flavor Tortilla Chips - 2.625oz",
+  "DESCRIPTION": "DORITOS® isn’t just a chip. It’s fuel for disruption — our flavors ignite adventure and inspire action. With every crunch, we aim to redefine culture and support those who are boldly themselves. Are you ready? If so, crunch on. With seasoning that has a punch of zesty goodness, Doritos® Cool Ranch® has pleased the masses for decades. It doesn't get more classic than a blue DORITOS® bag!",
+  "CATEGORY": "Chips",
+  "BRAND": "Doritos",
+  "SIZE": "",
+  "EAN": "0028400770569",
+  "STATUS": "MATCHED"
+ },
+ "02840077059": {
+  "FULL_NAME_FOUND": "Doritos Nacho Cheese Tortilla Chips - 2.625oz",
+  "DESCRIPTION": "Bite into the cheesy goodness of Doritos Nacho Cheese flavored tortilla chips for a taste bud-shattering crunch. With Doritos Nacho Cheese chips every crunchy bite is packed with a burst of bold, cheesy flavor. Turn any event into a bold snacking experience! Enjoy on its own or try dipping in your favorite salsa or queso dip. Shareable bag is the perfect size to bring some crunchy deliciousness to your next party or gathering.",
+  "CATEGORY": "Chips",
+  "BRAND": "Doritos",
+  "SIZE": "",
+  "EAN": "0028400770590",
+  "STATUS": "MATCHED"
+ },
+ "02840077060": {
+  "FULL_NAME_FOUND": "Doritos Tortilla Chips Spicy Nacho Flavored 2.625 Oz",
+  "DESCRIPTION": "As a food industry expert, trust in the bold and zesty flavors of Doritos Spicy Nacho. With 74g of addicting crunch, this snack will satisfy your cravings. Made with real cheese and the perfect amount of spice, indulge in this satisfying treat.",
+  "CATEGORY": "Chips",
+  "BRAND": "Doritos",
+  "SIZE": "",
+  "EAN": "0028400770606",
+  "STATUS": "MATCHED"
+ },
+ "02840077069": {
+  "FULL_NAME_FOUND": "Dorito's Spicy Sweet Chili Tortilla Chips",
+  "DESCRIPTION": "The DORITOS brand is all about boldness. If you’re up to the challenge, grab a bag of DORITOS tortilla chips and get ready to make some memories you won’t soon forget. It’s a bold experience in snacking and beyond. Is your tongue torn between choosing spicy and sweet? Why not both! With chili heat and a touch of sweetness that’s perfectly balanced in each crunch, you might turn into a DORITOS® enthusiast after one bite of these.",
+  "CATEGORY": "Chips",
+  "BRAND": "Dorito's",
+  "SIZE": "",
+  "EAN": "0028400770699",
+  "STATUS": "MATCHED"
+ },
+ "02840077228": {
+  "FULL_NAME_FOUND": "Doritos, Late Night Loaded Taco",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Chips",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0028400772280",
+  "STATUS": "MATCHED"
+ },
+ "02840077358": {
+  "FULL_NAME_FOUND": "Ruffles Spicy Dill Pickle Flavored, Potato Chips",
+  "DESCRIPTION": "With crunchy ridges made to stand up to even the thickest dips, Ruffles® potato chips bring epic flavor and snack satisfaction to any get-together.",
+  "CATEGORY": "Chips",
+  "BRAND": "Ruffles",
+  "SIZE": "",
+  "EAN": "0028400773584",
+  "STATUS": "MATCHED"
+ },
+ "02900001006": {
+  "FULL_NAME_FOUND": "Planter's Sweet & Salty Trail Mix",
+  "DESCRIPTION": "PLANTERS Sweet and Salty Trail Mix help beat unhealthy food cravings in an instant. It is loaded with nuts, peanut chocolate candies, yogurt coated raisins, and cranberries for optimum flavor and nutrition.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "Planter's",
+  "SIZE": "",
+  "EAN": "0029000010062",
+  "STATUS": "MATCHED"
+ },
+ "02900001257": {
+  "FULL_NAME_FOUND": "Planter's Honey Roasted Peanuts Big Bag 12/6oz",
+  "DESCRIPTION": "PLANTERS® honey roasted peanuts answer the call of snack time with sweet, salty goodness. These peanuts are coated with honey and seasoned with salt for an irresistible crunch. Every serving of the honey coated peanuts helps curb hunger with protein and unsaturated fats, tiding you over until mealtime while satisfying your cravings for something sweet. Plus, these honey peanuts are cholesterol-free and Kosher, so you can share with anyone else who is feeling peckish. Roasted and packed in the USA, these honey roast peanuts are packaged for freshness.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "Planter's",
+  "SIZE": "",
+  "EAN": "0029000012578",
+  "STATUS": "MATCHED"
+ },
+ "02900001258": {
+  "FULL_NAME_FOUND": "Planter's Salted Peanuts Big Bag 12/6oz",
+  "DESCRIPTION": "The Planters Salted Peanuts are a tasty on-the-go snack sure to be liked by kids and adults alike. These ready-to-eat peanuts are topped with sea salt for enhanced flavor. Ideal for convenience stores, retail stores, and supermarkets, this bulk case contains 12 bags of Planters salted peanuts.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "Planter's",
+  "SIZE": "",
+  "EAN": "0029000012585",
+  "STATUS": "MATCHED"
+ },
+ "02900001263": {
+  "FULL_NAME_FOUND": "Planter's Peanuts Wicked Hot Chipotle Big Bag",
+  "DESCRIPTION": "The bold and spicy Planters Wicked Hot Chipotle Peanuts make for a satisfying snack. Seasoned with onion, garlic, and sea salt, these flavorful peanuts are ideal for serving at house parties and game nights. Available in a bulk pack of 12 packs per case, the Planters Chipotle Peanuts are ideal for vending machines, retail outlets, and convenience stores.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "Planter's",
+  "SIZE": "",
+  "EAN": "0029000012639",
+  "STATUS": "MATCHED"
  }
 }

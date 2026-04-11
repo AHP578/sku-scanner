@@ -10114,5 +10114,95 @@
   "SIZE": "",
   "EAN": "0028400356787",
   "STATUS": "MATCHED"
+ },
+ "02840035700": {
+  "FULL_NAME_FOUND": "Doritos Flamin' Hot Nacho Flavored, Tortilla Chips",
+  "DESCRIPTION": "The DORITOS brand is all about boldness. If you’re up to the challenge, grab a bag of DORITOS tortilla chips and get ready to make some memories you won’t soon forget. It’s a bold experience in snacking and beyond.",
+  "CATEGORY": "Chips",
+  "BRAND": "Doritos",
+  "SIZE": "",
+  "EAN": "0028400357005",
+  "STATUS": "MATCHED"
+ },
+ "02840035701": {
+  "FULL_NAME_FOUND": "Doritos Nacho Cheese Tortilla Chips",
+  "DESCRIPTION": "The DORITOS brand is all about boldness. If you’re up to the challenge, grab a bag of DORITOS tortilla chips and get ready to make some memories you won’t soon forget. It’s a bold experience in snacking and beyond.",
+  "CATEGORY": "Chips",
+  "BRAND": "Doritos",
+  "SIZE": "",
+  "EAN": "0028400357012",
+  "STATUS": "MATCHED"
+ },
+ "02840035739": {
+  "FULL_NAME_FOUND": "Frito Lay Funyuns Onion Flavored Rings",
+  "DESCRIPTION": "FUNYUNS Onion Flavored Rings are a deliciously different snack that's fun to eat, with a crisp texture and zesty onion flavor. Next time you're in the mood for a tasty treat that's out of the ordinary, try FUNYUNS Onion Flavored Rings.",
+  "CATEGORY": "Chips",
+  "BRAND": "Frito Lay",
+  "SIZE": "",
+  "EAN": "0028400357395",
+  "STATUS": "MATCHED"
+ },
+ "02840035744": {
+  "FULL_NAME_FOUND": "Sun Chips Harvest Cheddar 2 3-8oz",
+  "DESCRIPTION": "SUNCHIPS snacks are wavy, ripple-y squares full of whole-grain goodness (19g of whole grains per serving). Grab a bag of SUNCHIPS multigrain snacks in your favorite flavor, and tell your taste buds to meet you at the corner of delicious and wholesome.",
+  "CATEGORY": "Chips",
+  "BRAND": "Sun Chips",
+  "SIZE": "",
+  "EAN": "0028400357449",
+  "STATUS": "MATCHED"
+ },
+ "02840035775": {
+  "FULL_NAME_FOUND": "Smartfood White Cheddar Popcorn 1.75oz",
+  "DESCRIPTION": "Air-popped popcorn tossed in delicious white cheddar cheese. It’s okay to hug this bag. No one will judge.",
+  "CATEGORY": "Popcorn",
+  "BRAND": "Smartfood",
+  "SIZE": "",
+  "EAN": "0028400357753",
+  "STATUS": "MATCHED"
+ },
+ "02840036099": {
+  "FULL_NAME_FOUND": "Rold Gold Thins, Original, Pretzels",
+  "DESCRIPTION": "Rold Gold Thin Pretzels with a tangy dip are a perfect pair. Between the one-of-a-kind flavor and crispy texture of ROLD GOLD pretzels, you just might fall in love with this golden-baked snack all over again every time you take a break. Try them with peanut butter, hummus, or on their own to take your break to a whole new level!",
+  "CATEGORY": "Pretzels",
+  "BRAND": "Rold Gold",
+  "SIZE": "",
+  "EAN": "0028400360999",
+  "STATUS": "MATCHED"
+ },
+ "02840037185": {
+  "FULL_NAME_FOUND": "Lay's Frito Kettle Cooked Jalapeno",
+  "DESCRIPTION": "LAY'S Kettle Cooked Jalapeño potato chips combine the delicious taste of farm-grown potatoes with the fiery wallop of real jalapeños. In other words, be careful not to rub your eyes.",
+  "CATEGORY": "Chips",
+  "BRAND": "Lay's",
+  "SIZE": "",
+  "EAN": "0002840037185",
+  "STATUS": "MATCHED"
+ },
+ "02840045958": {
+  "FULL_NAME_FOUND": "Nut Harvest Pistachios, In Shell, Sea Salted",
+  "DESCRIPTION": "In-shell pistachios seasoned with sea salt. 6g protein per serving. Whether you're going for a run or heading out to run errands, \"on the go\" shouldn't mean going without the snacks that keep you going. Nut Harvest snacks are a tasty way to stay satisfied while you're out and about.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "Nut Harvest",
+  "SIZE": "",
+  "EAN": "0028400459587",
+  "STATUS": "MATCHED"
+ },
+ "02840049141": {
+  "FULL_NAME_FOUND": "Doritos Rolled Chile Limon Tortilla Chips 3.5 Oz",
+  "DESCRIPTION": "The DORITOS brand is all about boldness. If you’re up to the challenge, grab a bag of DORITOS tortilla chips and get ready to make some memories you won’t soon forget. It’s a bold experience in snacking and beyond.",
+  "CATEGORY": "Chips",
+  "BRAND": "Doritos",
+  "SIZE": "",
+  "EAN": "0028400491419",
+  "STATUS": "MATCHED"
+ },
+ "02840051631": {
+  "FULL_NAME_FOUND": "Doritos Cool Ranch Flavored Corn Chips",
+  "DESCRIPTION": "The doritos brand is all about boldness. If you’re up to the challenge grab a bag of doritos tortilla chips and get ready to make some memories you won’t soon forget. It’s a bold experience in snacking and beyond.",
+  "CATEGORY": "Chips",
+  "BRAND": "Doritos",
+  "SIZE": "",
+  "EAN": "0002840051631",
+  "STATUS": "MATCHED"
  }
 }

@@ -11278,5 +11278,95 @@
   "SIZE": "473 mL",
   "EAN": "0089396000603",
   "STATUS": "MATCHED"
+ },
+ "08939600062": {
+  "FULL_NAME_FOUND": "Mistic Juice Drink, Tropical Fruit Punch",
+  "DESCRIPTION": "New look, same great taste! A tropical escape for your taste buds awaits you inside.",
+  "CATEGORY": "Juice",
+  "BRAND": "Mistic",
+  "SIZE": "473 mL",
+  "EAN": "0089396000627",
+  "STATUS": "MATCHED"
+ },
+ "08939600066": {
+  "FULL_NAME_FOUND": "Mistic Juice Drink, Kiwi Strawberry 15.9 Fl Oz",
+  "DESCRIPTION": "A refreshing beverage that comes in a 470ml bottle. The specific flavor you mentioned is Kiwi Strawberry. Mistic Juice Drinks are known for their fruity and delicious taste. The combination of kiwi and strawberry creates a flavorful and enjoyable drink. The 470ml size provides a generous amount of juice, perfect for quenching your thirst or enjoying as a refreshing treat. Mistic Juice Drinks are often enjoyed chilled and can be a great option for parties, picnics, or simply for sipping on a hot day.",
+  "CATEGORY": "Juice",
+  "BRAND": "Mistic",
+  "SIZE": "470 mL",
+  "EAN": "0089396000665",
+  "STATUS": "MATCHED"
+ },
+ "08939600068": {
+  "FULL_NAME_FOUND": "Mistic Juice Drink, Lotta Colada 15.9 Fl Oz",
+  "DESCRIPTION": "Mistic's Tropical Lotta Colada Juice Drink transports you straight to a sun-drenched beach with its vibrant and refreshing flavors. Known for its range of fruit-forward beverages, Mistic delivers an enchanting blend of pineapple and coconut in this drink, echoing the classic taste of a piña colada without the alcohol. It's a non-alcoholic tropical getaway in a bottle, letting you indulge in island fantasies anytime, anywhere. Pouring a glass reveals a light, slightly cloudy liquid that immediately brings to mind fresh tropical fruit juices. The first sip offers a harmonious balance of tangy pineapple, which is then complemented by the creamy, smooth undertones of coconut. It's neither overly sweet nor too muted; it strikes the perfect balance for those who crave a genuine tropical experience. Whether you're at a picnic, relaxing at home, or looking for a midday refreshment, Mistic's Tropical Lotta Colada provides a burst of island flavour, ensuring a delightful mini-vacation with every sip.",
+  "CATEGORY": "Juice",
+  "BRAND": "Mistic",
+  "SIZE": "470 mL",
+  "EAN": "0089396000689",
+  "STATUS": "MATCHED"
+ },
+ "09047841004": {
+  "FULL_NAME_FOUND": "Jarrito's Pineapple Soda, 12.5 Fl Oz (370 Ml) Glass Bottle",
+  "DESCRIPTION": "When you're in the mood for a sweet and bubbly beverage, grab a Mexican Soda from Jarritos. You could never believe that fruit could have such a punch. Made with 100% natural sugar and natural flavors, you can indulge your sweet tooth without the guilt. Pour over ice or drink straight from the bottle to enjoy a refreshing sip.",
+  "CATEGORY": "Soda",
+  "BRAND": "Jarrito's",
+  "SIZE": "370 mL",
+  "EAN": "0090478410043",
+  "STATUS": "MATCHED"
+ },
+ "09047841005": {
+  "FULL_NAME_FOUND": "Jarrito's Lime Natural Flavor Soda, 12.5 Fl Oz",
+  "DESCRIPTION": "When you're in the mood for a sweet and bubbly beverage, grab a Mexican Soda from Jarritos. You could never believe that fruit could have such a punch. Made with 100% natural sugar and natural flavors, you can indulge your sweet tooth without the guilt. Pour over ice or drink straight from the bottle to enjoy a refreshing sip.",
+  "CATEGORY": "Soda",
+  "BRAND": "Jarrito's",
+  "SIZE": "370 mL",
+  "EAN": "0090478410050",
+  "STATUS": "MATCHED"
+ },
+ "09047841007": {
+  "FULL_NAME_FOUND": "Jarritos Grapefruit Soda - Case Of 24 - 12.5 Fl Oz",
+  "DESCRIPTION": "Experience tart, tangy and a kick of sweetness with every sip. Also, an insatiable need for another sip. Jarritos Natural soda is one of Mexico's premier sodas, and its popularity has extended well past the country's borders due to its refreshing flavor and use of actual sugar. This comes at a time when so many companies are using high-fructose corn syrup in their sodas. Jarritos uses 100% real sugar and natural flavors.",
+  "CATEGORY": "Soda",
+  "BRAND": "Jarritos",
+  "SIZE": "370 mL",
+  "EAN": "0090478410074",
+  "STATUS": "MATCHED"
+ },
+ "09047841008": {
+  "FULL_NAME_FOUND": "Jarritos Soda, Guava 12.5 Fl Oz",
+  "DESCRIPTION": "Jarritos was born in 1950. By 1960, it was being bottled and sold in 80% of Mexican states—making Jarritos the best-selling, naturally flavoured soft drink brand in the country. From mandarin to guava to hibiscus (or Jamaica, as it’s been branded in North America), Jarritos’ innovative flavors and cheery colors set the brand apart from traditional sodas. Many consumers also find Jarritos to be more refreshing than your average soda thanks to the company’s commitment to using only natural sugars (no high fructose corn syrup here) and flavors.",
+  "CATEGORY": "Soda",
+  "BRAND": "Jarritos",
+  "SIZE": "370 mL",
+  "EAN": "0090478410081",
+  "STATUS": "MATCHED"
+ },
+ "09047841009": {
+  "FULL_NAME_FOUND": "Jarritos Strawberry Soda - 12.5 Fl Oz Glass Bottle",
+  "DESCRIPTION": "When you're in the mood for a sweet and bubbly beverage, grab a Mexican Soda from Jarritos. You could never believe that fruit could have such a punch. Made with 100% natural sugar and natural flavors, you can indulge your sweet tooth without the guilt. Pour over ice or drink straight from the bottle to enjoy a refreshing sip.",
+  "CATEGORY": "Soda",
+  "BRAND": "Jarritos",
+  "SIZE": "370 mL",
+  "EAN": "0090478410098",
+  "STATUS": "MATCHED"
+ },
+ "09047841010": {
+  "FULL_NAME_FOUND": "Jarritos Mango Soda",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Soda",
+  "BRAND": "Jarritos",
+  "SIZE": "370 mL",
+  "EAN": "0009047841010",
+  "STATUS": "MATCHED"
+ },
+ "09050000038": {
+  "FULL_NAME_FOUND": "Maverick Box Cigarettes",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Maverick",
+  "SIZE": "",
+  "EAN": "0090500000389",
+  "STATUS": "MATCHED"
  }
 }

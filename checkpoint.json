@@ -10474,5 +10474,95 @@
   "SIZE": "",
   "EAN": "0028400758864",
   "STATUS": "MATCHED"
+ },
+ "02840075887": {
+  "FULL_NAME_FOUND": "Smartfood, Cheetos Cheddar Flavored, Popcorn",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Popcorn",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0028400758871",
+  "STATUS": "MATCHED"
+ },
+ "02840075904": {
+  "FULL_NAME_FOUND": "Doritos Tortilla Chips Golden Sriracha - 9.25oz",
+  "DESCRIPTION": "DORITOS® isn’t just a chip. It’s fuel for disruption — our flavors ignite adventure and inspire action. With every crunch, we aim to redefine culture and support those who are boldly themselves. Doritos Tortilla Chips deliver a bold snacking experience on their own or when paired with your favorite dip. Are you ready? If so, crunch on. .",
+  "CATEGORY": "Chips",
+  "BRAND": "Doritos",
+  "SIZE": "",
+  "EAN": "0028400759045",
+  "STATUS": "MATCHED"
+ },
+ "02840076003": {
+  "FULL_NAME_FOUND": "Frito Lay Doritos Tortilla Chips - Golden Sriracha Flavored",
+  "DESCRIPTION": "Doritos Golden Sriracha is a flavour that combines the classic Doritos crunch with a asweet and tangy twist on sriracha flavour. It's inspired by the yellow and green sriracha sauces, offering a bold, sweet taste with a hint of heat and a touch of vinegar.",
+  "CATEGORY": "Chips",
+  "BRAND": "Frito Lay",
+  "SIZE": "",
+  "EAN": "0028400760034",
+  "STATUS": "MATCHED"
+ },
+ "02840076383": {
+  "FULL_NAME_FOUND": "Grandma's Mini Sandwiches Double Chocolate Cookies 85g",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Grandma's",
+  "SIZE": "",
+  "EAN": "0028400763837",
+  "STATUS": "MATCHED"
+ },
+ "02840076635": {
+  "FULL_NAME_FOUND": "Information Fritos, Chili Cheese Flavored, Corn Chips",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Chips",
+  "BRAND": "Information",
+  "SIZE": "",
+  "EAN": "0028400766357",
+  "STATUS": "MATCHED"
+ },
+ "02840076712": {
+  "FULL_NAME_FOUND": "Lay's Potato Chips, All Dressed",
+  "DESCRIPTION": "Wherever celebrations and good times happen, the Lay's brand will be there just as it has been for more than 75 years. With flavors almost as rich as our history, we have a potato chip or crisp flavor guaranteed to bring a smile on your face.",
+  "CATEGORY": "Chips",
+  "BRAND": "Lay's",
+  "SIZE": "",
+  "EAN": "0028400767125",
+  "STATUS": "MATCHED"
+ },
+ "02840076820": {
+  "FULL_NAME_FOUND": "Funyuns Onion Rings",
+  "DESCRIPTION": "FUNYUNS Onion-Flavored Rings are a deliciously different snack that's fun to eat, with a crisp texture and zesty onion flavor. Next time you're in the mood for a tasty treat that's out of the ordinary, give them a try.",
+  "CATEGORY": "Onions",
+  "BRAND": "Funyuns",
+  "SIZE": "",
+  "EAN": "0028400768207",
+  "STATUS": "MATCHED"
+ },
+ "02840076826": {
+  "FULL_NAME_FOUND": "Smartfood White Cheddar Popcorn - 1.875oz",
+  "DESCRIPTION": "Smartfood White Cheddar Cheese Popcorn lets you enjoy delicious popcorn without the guilt, you’ll love this cheesy treat. Smartfood popcorn is just the thing for hosting friends on game day or movie night with the fam. The perfect shareable size and the delicious flavor of white cheddar cheese in an air-popped goodness.",
+  "CATEGORY": "Popcorn",
+  "BRAND": "Smartfood",
+  "SIZE": "",
+  "EAN": "0028400768269",
+  "STATUS": "MATCHED"
+ },
+ "02840076891": {
+  "FULL_NAME_FOUND": "Cheetos Crunchy Cheese Flavored Snacks - 2.875oz",
+  "DESCRIPTION": "CHEETOS snacks are the much-loved cheesy treats that are fun for everyone! You just can't eat a CHEETOS snack without licking the \"cheetle\" off your fingertips. And wherever the CHEETOS brand and CHESTER CHEETAH go, cheesy smiles are sure to follow. Try packing about 21 cheetos crunchy snacks for your next work or school lunch- that's just the right amount for fun to the max!",
+  "CATEGORY": "Chips",
+  "BRAND": "Cheetos",
+  "SIZE": "",
+  "EAN": "0028400768917",
+  "STATUS": "MATCHED"
+ },
+ "02840076905": {
+  "FULL_NAME_FOUND": "Ruffles Potato Chips Sour Cream & Onion",
+  "DESCRIPTION": "Discover the bold and tangy taste of Ruffles Sour Cream chips. Made with real sour cream and perfectly cooked for a satisfying crunch in every bite. With only 70.6g per bag, you can enjoy the delicious flavor without the guilt. Perfect for on-the-go snacking or adding a tasty side to any meal.",
+  "CATEGORY": "Chips",
+  "BRAND": "Ruffles",
+  "SIZE": "",
+  "EAN": "0028400769051",
+  "STATUS": "MATCHED"
  }
 }

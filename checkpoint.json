@@ -13990,5 +13990,95 @@
   "SIZE": "",
   "EAN": "0034000725083",
   "STATUS": "MATCHED"
+ },
+ "03400094653": {
+  "FULL_NAME_FOUND": "Reese's Oreo King Size Peanut Butter Cups",
+  "DESCRIPTION": "Reese’s White Crème Oreo – Peanut Butter, Cookies & Cream in One Epic Bite. Experience a snack mash-up like never before with Reese’s White Crème Oreo Peanut Butter Cups—a dream combination of creamy peanut butter, crunchy Oreo cookie pieces, and smooth white crème coating. This irresistible treat blends the iconic Reese’s flavor you love with the bold cookies-and-cream crunch of Oreo, creating a one-of-a-kind sweet experience. Each cup features Reese’s signature peanut butter filling loaded with real Oreo cookie bits, adding texture and a chocolatey crunch. The entire cup is wrapped in a rich, velvety white crème that perfectly complements both flavors. Sweet, creamy, crunchy, and totally addictive—this is the ultimate treat for candy lovers who enjoy a little extra indulgence.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Reese's",
+  "SIZE": "",
+  "EAN": "0034000946532",
+  "STATUS": "MATCHED"
+ },
+ "03450042063": {
+  "FULL_NAME_FOUND": "Land O Lakes Cheese, Sharp White Cheddar",
+  "DESCRIPTION": "With Land O Lakes Sharp White Cheddar Cheese, you can enjoy delicious cheese whenever you want. This block cheese offers an irresistible sharp flavor for all your dishes and snacks. Whether you want a quick cheese snack or an upgrade to your homemade dishes, this white cheddar block is the perfect cheesy companion. Cut this sharp white cheddar block into slices to enjoy with crackers and cured meats on a charcuterie board, or shred it for a freshly shredded topping for your salads, tacos and more. Each purchase of a sharp white cheddar cheese block supports farmer-owners in communities across the country. Land O Lakes Sharp White Cheddar — Eat It Like You Own It.",
+  "CATEGORY": "Cheese",
+  "BRAND": "Land O Lakes",
+  "SIZE": "",
+  "EAN": "0034500420631",
+  "STATUS": "MATCHED"
+ },
+ "03450042064": {
+  "FULL_NAME_FOUND": "Land O Lakes Sharp Cheddar Cheese Chunk",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "Land O Lakes",
+  "SIZE": "",
+  "EAN": "0003450042064",
+  "STATUS": "MATCHED"
+ },
+ "03450042068": {
+  "FULL_NAME_FOUND": "Land O Lakes Extra Sharp Cheddar Cheese Chunk",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cheese",
+  "BRAND": "Land O Lakes",
+  "SIZE": "",
+  "EAN": "0034500420686",
+  "STATUS": "MATCHED"
+ },
+ "03485605091": {
+  "FULL_NAME_FOUND": "Welch's Island Fruits Fruit Snacks Peg Bag 5oz",
+  "DESCRIPTION": "Discover the sun-kissed delight of Welch's Island Fruits Fruit Snacks. This chewy, fruity treat blends tropical flavors with real fruit goodness for a naturally sweet, satisfying bite. Packaged in a compact five-ounce pouch, it's easy to toss into lunch bags, backpacks, or handbags for on-the-go enjoyment. A cheerful, island-inspired snack your whole family will reach for again and again. Benefits you’ll love: Enjoy a tasty pick-me-up without compromising on quality. These snacks are fat-free and gluten-free, making them suitable for many dietary preferences while delivering real fruit taste in every bite. Quick, convenient, and delicious, they fit busy days and family moments alike.",
+  "CATEGORY": "Fruit Snacks",
+  "BRAND": "Welch's",
+  "SIZE": "",
+  "EAN": "0034856050919",
+  "STATUS": "MATCHED"
+ },
+ "03485605092": {
+  "FULL_NAME_FOUND": "Welch's Fruit Snacks Mixed Berries And Cherries Flavor, 5 Ounce Package",
+  "DESCRIPTION": "Welch's fruit snacks are made with real fruit and feature an excellent source of vitamins A, C and E, no preservatives and more. The berries 'N cherries variety features the ideal combination of flavors blackberry, blueberry, cherry, dark cherry, strawberry and raspberry.",
+  "CATEGORY": "Fruit Snacks",
+  "BRAND": "Welch's",
+  "SIZE": "",
+  "EAN": "0034856050926",
+  "STATUS": "MATCHED"
+ },
+ "03485605094": {
+  "FULL_NAME_FOUND": "Welch's Fruit Snacks Concord Grape 5oz Bag",
+  "DESCRIPTION": "At Welch's fruit snacks we always use real fruit as the first ingredient, that's why our fruit snacks are bursting with delicious taste. With over 10 mouthwatering Welch's fruit snacks flavor varieties to love, it's easy to find your favorite!",
+  "CATEGORY": "Fruit Snacks",
+  "BRAND": "Welch's",
+  "SIZE": "",
+  "EAN": "0034856050940",
+  "STATUS": "MATCHED"
+ },
+ "03485605098": {
+  "FULL_NAME_FOUND": "Welch's Fruit Snacks 5 Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Fruits & Vegetables",
+  "BRAND": "Welch's",
+  "SIZE": "",
+  "EAN": "0003485605098",
+  "STATUS": "MATCHED"
+ },
+ "03500045041": {
+  "FULL_NAME_FOUND": "Palmolive Ultra Dishwashing Liquid Dish Soap, Oxy Power Degreaser - 20 Fluid Ounce",
+  "DESCRIPTION": "Experience the unparalleled cleaning power of this dishwashing liquid, designed to tackle even the toughest grease and grime. Its unscented formula ensures that your dishes are cleaned without leaving any overpowering fragrance behind. Housed in a convenient 20 oz bottle, this dishwashing liquid is perfect for households who prefer a powerful yet gentle cleaning solution for their kitchen needs.",
+  "CATEGORY": "Dish Detergent & Soap",
+  "BRAND": "Palmolive",
+  "SIZE": "",
+  "EAN": "0035000450418",
+  "STATUS": "MATCHED"
+ },
+ "03500045118": {
+  "FULL_NAME_FOUND": "Palmolive Liquid Dish Soap, Ultra Strength Original Scent, 20 Fluid Ounce",
+  "DESCRIPTION": "Experience the powerful cleaning performance of Palmolive 20 oz. Ultra Original Liquid Dish Detergent, now available at Western Ohio True Value in Minster, OH. This exceptional dish soap is specially formulated to be tough on grease while remaining gentle on your hands, making it an ideal choice for households seeking both effectiveness and care. Designed to use one-third less than regular dishwashing liquids, it offers an economical and efficient solution for keeping your dishes spotless.",
+  "CATEGORY": "Dish Detergent & Soap",
+  "BRAND": "Palmolive",
+  "SIZE": "",
+  "EAN": "0035000451187",
+  "STATUS": "MATCHED"
  }
 }

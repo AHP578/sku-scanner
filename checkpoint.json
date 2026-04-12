@@ -16030,5 +16030,71 @@
   "SIZE": "1000 mL",
   "EAN": "0657227000339",
   "STATUS": "MATCHED"
+ },
+ "65722700050": {
+  "FULL_NAME_FOUND": "Essentia Bottled Water, 1.5 Liter Bottle, Ionized Alkaline Water",
+  "DESCRIPTION": "Supercharged purified ionized alkaline water with pH levels of 9.5 or higher delivering better hydration with a clean, smooth taste. BPA, chlorine and flouride free.",
+  "CATEGORY": "Water",
+  "BRAND": "Essentia",
+  "SIZE": "1500 mL",
+  "EAN": "0657227000506",
+  "STATUS": "MATCHED"
+ },
+ "65722700120": {
+  "FULL_NAME_FOUND": "Essentia Alkaline Ionized Bottled Water, 20 Fl Oz",
+  "DESCRIPTION": "Essentia Water exists to help overachievers go farther for longer with better rehydration*; increase potential while walking, hiking, biking, jogging, running, sprinting, surfing or skiing. Expect the most of bottled drinking water; Essentia Water, pioneers in ionized, alkaline bottled water, has started the movement for better hydration*; packaging may differ. Essentia Water is proud of the unique, proprietary ionization process that unlocks the potential of water from any source around the world, reducing carbon footprint; enjoy life and drink Essentia.",
+  "CATEGORY": "Water",
+  "BRAND": "Essentia",
+  "SIZE": "591 mL",
+  "EAN": "0657227001206",
+  "STATUS": "MATCHED"
+ },
+ "66035537924": {
+  "FULL_NAME_FOUND": "Cali Plus Disposable - Mighty Mint",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0660355379246",
+  "STATUS": "MATCHED"
+ },
+ "67079365552": {
+  "STATUS": "UNMATCHED"
+ },
+ "67079365554": {
+  "STATUS": "UNMATCHED"
+ },
+ "67173400268": {
+  "FULL_NAME_FOUND": "Bob Marley Pure Hemp King Size Rolling Papers + Tips",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Printer & Copier Paper",
+  "BRAND": "Bob Marley",
+  "SIZE": "",
+  "EAN": "0671734002686",
+  "STATUS": "MATCHED"
+ },
+ "67455411107": {
+  "FULL_NAME_FOUND": "Pride Antifreeze 1 Gallon 6Ct",
+  "DESCRIPTION": "PRIDE 500 Antifreeze & Coolant 50/50 Pre-Mix антифриз готовый к применению, цвет зеленый. Технические характеристики:. Артикул 6P500 Цвет Зеленый Концентрация Готовый Классификация API/ACEA ASTM D 3306 , ASTM D 4985 Упаковка 3.785 литра Вес 3.7060 Штрихкод 674554111071 Возможности PRIDE 500 Antifreeze & Coolant 50/50 Pre-Mix • изготовлен на основе этиленгликоля, свободный от силикатов, фосфатов и нитратов с гасителем пены • готовый к применению антифриз, предварительно смешанный с водой (50/50) • НЕ ТРЕБУЕТ РАЗБАВЛЕНИЯ • обеспечивает защиту от замерзания до –37°С и защиту от закипания до +136°С • полностью совместим с большинством других марок высококачественных и обычных антифризовохлаждающих жидкостей • НЕ СОДЕРЖИТ вторичного антифриза. Применение Антифриз PRIDE 500 Antifreeze & Coolant 50/50 Pre-Mix рекомендуется для легковых, грузовых автомобилей, тракторов, тяжелых коммерческих двигателей и стационарных двигателей.",
+  "CATEGORY": "Pears",
+  "BRAND": "Pride",
+  "SIZE": "",
+  "EAN": "0674554111071",
+  "STATUS": "MATCHED"
+ },
+ "67455411507": {
+  "FULL_NAME_FOUND": "Pride 1 Gal Liquid Clear Gold 50/50 Prediluted Ready-To-Use Antifreeze Coolant",
+  "DESCRIPTION": "Pride Universal All-Makes - All Models 50/50 PREMIX Antifreeze/Coolant.",
+  "CATEGORY": "Vehicle Antifreeze",
+  "BRAND": "Pride",
+  "SIZE": "",
+  "EAN": "0674554115079",
+  "STATUS": "MATCHED"
+ },
+ "67455444107": {
+  "STATUS": "UNMATCHED"
+ },
+ "67455445107": {
+  "STATUS": "UNMATCHED"
  }
 }

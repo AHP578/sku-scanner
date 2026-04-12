@@ -17158,5 +17158,95 @@
   "SIZE": "",
   "EAN": "0038000845512",
   "STATUS": "MATCHED"
+ },
+ "03800084552": {
+  "FULL_NAME_FOUND": "Pringles 12-Pack Sour Cream Onion Grab & Go Potato Crisps 1.4oz Snacks",
+  "DESCRIPTION": "The awesomeness of sour cream, onion and potato together canâ€™t be measured by modern science. Weâ€™ve decided itâ€™s simply a flavor combination nature intended and man perfected. We donâ€™t question it. Weâ€™ll just keep making â€™em, as long as you keep nomming â€™em.",
+  "CATEGORY": "Chips",
+  "BRAND": "Pringles",
+  "SIZE": "",
+  "EAN": "0038000845529",
+  "STATUS": "MATCHED"
+ },
+ "03800084553": {
+  "FULL_NAME_FOUND": "Pringles Cheddar Cheese 1.41 Oz",
+  "DESCRIPTION": "Dried Potatoes, Vegetable Oil (Corn, Cottonseed, High Oleic Soybean, and/or Sunflower Oil), Degerminated Yellow Corn Flour, Cornstarch, Rice Flour, Maltodextrin, Mono and Diglycerides. Contains 2% or Less of Whey, Salt, Monosodium Glutamate, Sugar, Natural Flavors, Onion Powder, Nonfat Milk, Cheddar Cheese (Milk, Cheese Cultures, Salt, Enzymes), Blue Cheese (Milk, Cheese Cultures, Salt, Enzymes), Buttermilk, Lactic Acid, Butter (Cream, Salt), Paprika Extract Color, Citric Acid, Disodium Inosinate, Disodium Guanylate, Turmeric Extract Color, Coconut Oil, Autolyzed Yeast Extract, Yeast Extract, Wheat Starch.",
+  "CATEGORY": "Chips",
+  "BRAND": "Pringles",
+  "SIZE": "",
+  "EAN": "0003800084553",
+  "STATUS": "MATCHED"
+ },
+ "03800084894": {
+  "FULL_NAME_FOUND": "Pringles Potato Crisps, Salt & Vinegar, Grab N' Go",
+  "DESCRIPTION": "Indulge in the bold flavor of Pringles Salt and Vinegar Potato Crisps! These deliciously crispy chips are perfect for snacking anytime, anywhere. With their unique blend of tangy vinegar and savory salt, they offer a satisfying crunch that will keep you coming back for more. Each 2.5-ounce canister is designed for freshness and convenience, making it easy to enjoy your favorite snack on the go.",
+  "CATEGORY": "Chips",
+  "BRAND": "Pringles",
+  "SIZE": "",
+  "EAN": "0038000848940",
+  "STATUS": "MATCHED"
+ },
+ "03809333265": {
+  "FULL_NAME_FOUND": "Giants Sunflower Seeds, Original, Roasted & Salted",
+  "DESCRIPTION": "The Giant's Original Roasted and Salted Sunflower Seeds make a good snack option. It is kosher certified, making it suitable for those with special dietary needs. The bulk case with 24 packs of Giant's Salted Sunflower Seeds is ideal for snack bars, pantries, and cafeterias.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "Giants",
+  "SIZE": "",
+  "EAN": "0038093332654",
+  "STATUS": "MATCHED"
+ },
+ "03890000808": {
+  "FULL_NAME_FOUND": "Dole 100% Pineapple Juice In Can",
+  "DESCRIPTION": "100% pineapple juice dole pineapple juice was awarded the chefsbest award by the american culinary chefsbest. The american culinary chefsbest is an independent chef-based organization dedicated to identifying the best food products for both consumer and professional kitchens.",
+  "CATEGORY": "Juice",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0003890000808",
+  "STATUS": "MATCHED"
+ },
+ "03890000818": {
+  "FULL_NAME_FOUND": "Dole 100% Pineapple Juice - 46 Fl Oz Can",
+  "DESCRIPTION": "Dole Packaged Foods, LLC is a world leader in growing, sourcing, distributing, and marketing fruit and healthy snacks. Dole sells a full line of packaged shelf stable fruit, frozen fruit, dried fruit, and juices.",
+  "CATEGORY": "Juice",
+  "BRAND": "Dole",
+  "SIZE": "1360 mL",
+  "EAN": "0038900008185",
+  "STATUS": "MATCHED"
+ },
+ "03890072808": {
+  "FULL_NAME_FOUND": "Dole 100% Pineapple Juice 46 Fl. Oz. Can",
+  "DESCRIPTION": "Discover the refreshing taste and health benefits of Dole Pineapple Juice. Made from 100% pure pineapple juice, each 46oz bottle is packed with essential vitamins and minerals. Satisfy your thirst and strengthen your body with every flavorful sip.",
+  "CATEGORY": "Juice",
+  "BRAND": "Dole",
+  "SIZE": "1360 mL",
+  "EAN": "0038900728083",
+  "STATUS": "MATCHED"
+ },
+ "03910102212": {
+  "FULL_NAME_FOUND": "Johnsen's Brake Fluid DOT 3 Synthetic 12 Oz",
+  "DESCRIPTION": "Universal DOT 3 Brake Fluid (2212) by Blue Magic®. This product is made of high-quality materials to serve you for years to come. Designed using state-of-the-art technology and with customers in mind. It will meet your needs and deliver great quality at an affordable cost.",
+  "CATEGORY": "Vehicle Brake Fluid",
+  "BRAND": "Johnsen's",
+  "SIZE": "",
+  "EAN": "0039101022123",
+  "STATUS": "MATCHED"
+ },
+ "03910103282": {
+  "FULL_NAME_FOUND": "Johnsen's Spray De Icer",
+  "DESCRIPTION": "Johnsen’s De- Icer 12ct for frozen windshields, locks and doors. Removes frost and ice from windshields, lock, doors, and mirrors. Works great in passenger cars, diesel engines, lawn mowers, chain saws, outboard motors and fractional horse power engines. This diesel fuel additives complies with federal low sulfur content requirements for use in diesel motor vehicles and non-road engines. Helps start stubborn engines fast in cold weather, saves batteries, contains upper cylinder lubricant.",
+  "CATEGORY": "Personal Care",
+  "BRAND": "Johnsen's",
+  "SIZE": "",
+  "EAN": "0039101032825",
+  "STATUS": "MATCHED"
+ },
+ "03910104628": {
+  "FULL_NAME_FOUND": "Johnsen's 4628 Smoke Eliminator With Stop Leak - 14.5 Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Smoke Detectors",
+  "BRAND": "Johnsen's",
+  "SIZE": "",
+  "EAN": "0039101046280",
+  "STATUS": "MATCHED"
  }
 }

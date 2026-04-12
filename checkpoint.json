@@ -17326,5 +17326,89 @@
   "SIZE": "",
   "EAN": "0039612139020",
   "STATUS": "MATCHED"
+ },
+ "03961213919": {
+  "FULL_NAME_FOUND": "28543 - Trisonic Tubeless Tire Repair Kit (TS-G688) - BOX",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Hardware",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0039612139198",
+  "STATUS": "MATCHED"
+ },
+ "03961214798": {
+  "STATUS": "UNMATCHED"
+ },
+ "04000000031": {
+  "FULL_NAME_FOUND": "M&M's Milk Chocolate Candies 1.69 Oz Bag",
+  "DESCRIPTION": "Chocolate candies in colorful bite size pieces. Due to high heat conditions milk chocolate items will not be available during warmer months (usually May thru September).",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "M&M's",
+  "SIZE": "",
+  "EAN": "0040000000310",
+  "STATUS": "MATCHED"
+ },
+ "04000000032": {
+  "FULL_NAME_FOUND": "M&M's Peanut Milk Chocolate Candies, 1.52 Ounce",
+  "DESCRIPTION": "Indulge in the delightful taste of M&M's Peanut Chocolate Candy! These colorful, bite-sized treats are perfect for satisfying your sweet tooth or sharing with friends and family. Each piece is filled with crunchy peanuts and coated in a layer of rich milk chocolate, all wrapped in a vibrant candy shell. Ideal for parties, movie nights, or just a quick snack on the go, M&M's Peanut Candy is a classic favorite that never goes out of style.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "M&M's",
+  "SIZE": "",
+  "EAN": "0040000000327",
+  "STATUS": "MATCHED"
+ },
+ "04000000051": {
+  "FULL_NAME_FOUND": "Starburst Original Fruit Chews Chewy Candy - 2.07 Ounce",
+  "DESCRIPTION": "Individually wrapped fruit chews. Original flavors are cherry, lemon, orange, and strawberry.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Starburst",
+  "SIZE": "",
+  "EAN": "0040000000518",
+  "STATUS": "MATCHED"
+ },
+ "04000000160": {
+  "FULL_NAME_FOUND": "Skittles Original Fruit Bite Size Candies, 2.17 Ounce",
+  "DESCRIPTION": "Hey there! Get ready for the classic flavors of SKITTLES Original Chewy Candy! It's got the iconic mix of strawberry, lemon, orange, grape, and lime flavors. This bag of fruity candies is perfect for a quick snack or to split with your pals and coworkers while watching movies or playing games. These chewy treats are also awesome for candy buffets, party favors, or sprinkling into trendy candy salads. With its fruity and tangy taste, SKITTLES Original Chewy Candy will make any occasion more fun. You can eat these chewy SKITTLES chewy candy all by themselves or toss 'em into your fave candy mix. SKITTLES is all about Taste the Rainbow, and this candy pack is no different. Share the colorful and mouthwatering experience with your loved ones, or enjoy it as a sweet treat on the go.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Skittles",
+  "SIZE": "",
+  "EAN": "0040000001607",
+  "STATUS": "MATCHED"
+ },
+ "04000000162": {
+  "FULL_NAME_FOUND": "Skittles Dove Candies, Wild Berry, Bite Size - 2.17 Ounce",
+  "DESCRIPTION": "Skittles Wild Berry Gummy Candy offers a burst of bold, fruity flavors in a fun, gluten-free treat. This 2.17 oz full-size bag is perfect for enjoying on-the-go or sharing with friends. With wild berry-inspired flavors like raspberry, strawberry, berry punch, melon berry, and wild cherry, every bite is an explosion of sweetness. These gummies have a soft and chewy texture, making them a satisfying snack for any time of the day.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Skittles",
+  "SIZE": "",
+  "EAN": "0040000001621",
+  "STATUS": "MATCHED"
+ },
+ "04000000163": {
+  "FULL_NAME_FOUND": "Skittles Bite Size Candies Tropical",
+  "DESCRIPTION": "Nostalgic Candy. Skittles Candy, Tropical Flavor. Gluten and Allergen Free Candy. Handcrafted since 1974, Skittles Tropical Candy is free from gluten and major allergens. Enjoy sweet chewy morsels in banana berry, kiwi lime, mango tangelo, pineapple passionfruit, and strawberry star fruit flavors. Skittles Tropical flavored candies are a brightly colored treat that makes a unique colorful addition to any dessert display.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Skittles",
+  "SIZE": "",
+  "EAN": "0040000001638",
+  "STATUS": "MATCHED"
+ },
+ "04000000223": {
+  "FULL_NAME_FOUND": "M&M's Peanut Butter Share Size Chocolate Candies - 2.83oz",
+  "DESCRIPTION": "Iconic M&M'S Candy only gets better with the delicious taste of real peanut butter. Enjoy bite-sized pieces of chocolate-covered peanut butter that are coated with a colorful candy shell. Peanut Butter M&M'S Candy is a tasty chocolate treat that's great for parties, baking, road trips or filling your candy dish. Add colorful fun to your day with M&M’S Peanut Butter Chocolate Candy.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "M&M's",
+  "SIZE": "",
+  "EAN": "0040000002239",
+  "STATUS": "MATCHED"
+ },
+ "04000000237": {
+  "FULL_NAME_FOUND": "M&M's Milk Chocolate Minis Tube",
+  "DESCRIPTION": "Share delicious colorful fun with m&m's minis size milk chocolate candy tubes. These individually wrapped chocolate candy tubes are a delicious way to share your love of chocolate with friends and family. Minis m&m's milk chocolate candy tubes can be used to pass out to trick-or-treaters on halloween bring to share at a holiday party or add to a candy buffet at your next gathering. There's no end to the fun you can have with m&m's milk chocolate candy.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "M&M's",
+  "SIZE": "",
+  "EAN": "0004000000237",
+  "STATUS": "MATCHED"
  }
 }

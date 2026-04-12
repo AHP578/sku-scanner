@@ -15856,5 +15856,89 @@
   "SIZE": "340 mL",
   "EAN": "0643843717898",
   "STATUS": "MATCHED"
+ },
+ "64575999300": {
+  "FULL_NAME_FOUND": "Magnum Xxl 500 K",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Vitamins & Supplements",
+  "BRAND": "Magnum",
+  "SIZE": "",
+  "EAN": "0645759993007",
+  "STATUS": "MATCHED"
+ },
+ "64656323416": {
+  "STATUS": "UNMATCHED"
+ },
+ "64843610001": {
+  "FULL_NAME_FOUND": "Paldo Soup, Bowl Noodle, Shrimp Flavor",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Pasta & Noodles",
+  "BRAND": "Paldo",
+  "SIZE": "",
+  "EAN": "0648436100019",
+  "STATUS": "MATCHED"
+ },
+ "64843610003": {
+  "FULL_NAME_FOUND": "Paldo Soup, Hot & Spicy Flavor, Bowl Noodle",
+  "DESCRIPTION": "Experience a burst of flavor with our Hot and Spicy Noodle Bowl. Made with quality ingredients, this noodle bowl is perfect for anyone who loves a bit of heat in their meals. Quick and easy to prepare, it's a convenient choice for a tasty lunch or dinner. Just add hot water and you'll have a flavorful meal in no time. Product Benefits. Easy To Prepare. Great For Quick Meals.",
+  "CATEGORY": "Pasta & Noodles",
+  "BRAND": "Paldo",
+  "SIZE": "",
+  "EAN": "0648436100033",
+  "STATUS": "MATCHED"
+ },
+ "64843610004": {
+  "FULL_NAME_FOUND": "Paldo Soup, Kimchi Flavor, Bowl Noodle",
+  "DESCRIPTION": "Instant noodle soup. Delicious. Fun & yum. www.paldofood.com. Product of Korea.",
+  "CATEGORY": "Soups & Broths",
+  "BRAND": "Paldo",
+  "SIZE": "",
+  "EAN": "0648436100040",
+  "STATUS": "MATCHED"
+ },
+ "64843610027": {
+  "FULL_NAME_FOUND": "Paldo King Noodle Cup, Lobster Taste Langosta",
+  "DESCRIPTION": "Instant noodle with rich lobster flavour soup base. Available in 2 flavours: Original & Lime.",
+  "CATEGORY": "Pasta & Noodles",
+  "BRAND": "Paldo",
+  "SIZE": "",
+  "EAN": "0648436100279",
+  "STATUS": "MATCHED"
+ },
+ "64843610055": {
+  "FULL_NAME_FOUND": "Paldo King Noodle Seafood Flavor Cup, 3.88 OZ",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Seafood",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0064843610055",
+  "STATUS": "MATCHED"
+ },
+ "64843610062": {
+  "FULL_NAME_FOUND": "Paldo Langosta Noodle Hot, Each",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Pasta & Noodles",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0064843610062",
+  "STATUS": "MATCHED"
+ },
+ "64843610070": {
+  "FULL_NAME_FOUND": "Paldo Co. Ltd. Kokomen King Noodle Cup - Case Of 6/3.7 Oz",
+  "DESCRIPTION": "The Paldo Kokomen King Noodle Cup is a convenient and delicious option for a quick meal or snack. Each cup is filled with flavorful noodles and a savory broth that is sure to satisfy your cravings. Perfect for on-the-go or when you need a warm and comforting meal, these noodle cups are easy to prepare and enjoy. With a case of 6 cups, you'll have plenty to share with friends or keep stocked in your pantry for whenever hunger strikes. Treat yourself to the rich and satisfying taste of Paldo Kokomen King Noodle Cup.",
+  "CATEGORY": "Pasta & Noodles",
+  "BRAND": "Paldo Co. Ltd.",
+  "SIZE": "",
+  "EAN": "0648436100705",
+  "STATUS": "MATCHED"
+ },
+ "64843610079": {
+  "FULL_NAME_FOUND": "Paldo Namja Ramyun King Cup Noodle",
+  "DESCRIPTION": "Enjoy this excellent red broth with fried garlic taste! Paldo Namja Ramen is a very spicy type of ramen that challenges you. Your taste buds are going to tingle because this bowl of ramen is flaming hot!",
+  "CATEGORY": "Pasta & Noodles",
+  "BRAND": "Paldo",
+  "SIZE": "",
+  "EAN": "0648436100798",
+  "STATUS": "MATCHED"
  }
 }

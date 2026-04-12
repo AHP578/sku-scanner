@@ -17248,5 +17248,83 @@
   "SIZE": "",
   "EAN": "0039101046280",
   "STATUS": "MATCHED"
+ },
+ "03910105000": {
+  "FULL_NAME_FOUND": "Js Fiber JOHNSEN's Anti-Gel Diesel Fuel Conditioner - 12 Fluid Ounce",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Fuel",
+  "BRAND": "Js Fiber",
+  "SIZE": "",
+  "EAN": "0039101050003",
+  "STATUS": "MATCHED"
+ },
+ "03910105593": {
+  "FULL_NAME_FOUND": "Johnsens 2-Cycle Engine Oil 8oz",
+  "DESCRIPTION": "Johnsens 2-Cycle Engine Oil 8oz, wholesale, bulk - Unit per pack 24.",
+  "CATEGORY": "Vehicles",
+  "BRAND": "Johnsens",
+  "SIZE": "",
+  "EAN": "0039101055930",
+  "STATUS": "MATCHED"
+ },
+ "03910106762": {
+  "FULL_NAME_FOUND": "Johnsen's Starting Fluid 10.7oz",
+  "DESCRIPTION": "It helps to start internal combustion engines, especially in cold climates or in engines that are difficult to start using conventional starting procedures. It can be used to start direct injection diesel engines or poor combustion spark engines that run on alcohol.",
+  "CATEGORY": "Lighter Fluid",
+  "BRAND": "Johnsen's",
+  "SIZE": "",
+  "EAN": "0039101067629",
+  "STATUS": "MATCHED"
+ },
+ "03922200002": {
+  "FULL_NAME_FOUND": "Mitlitsky Eggs Grade A Extra Large",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Eggs",
+  "BRAND": "Mitlitsky Eggs",
+  "SIZE": "",
+  "EAN": "0039222000024",
+  "STATUS": "MATCHED"
+ },
+ "03961213133": {
+  "FULL_NAME_FOUND": "Trisonic Adjustable Wrench",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Wrenches",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0039612131338",
+  "STATUS": "MATCHED"
+ },
+ "03961213202": {
+  "FULL_NAME_FOUND": "Avon 21015 - Precision Screwdrivers - 4 Pack (TS-G152) - Box: - Loc: 31F",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Hardware",
+  "BRAND": "Avon",
+  "SIZE": "",
+  "EAN": "0039612132021",
+  "STATUS": "MATCHED"
+ },
+ "03961213208": {
+  "STATUS": "UNMATCHED"
+ },
+ "03961213259": {
+  "STATUS": "UNMATCHED"
+ },
+ "03961213779": {
+  "FULL_NAME_FOUND": "Trisonic Screwdriver 6 In 1 / Handy Tool",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Tools",
+  "BRAND": "Trisonic",
+  "SIZE": "",
+  "EAN": "0039612137798",
+  "STATUS": "MATCHED"
+ },
+ "03961213902": {
+  "FULL_NAME_FOUND": "Trisonic Adjustable Plier",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Pliers",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0039612139020",
+  "STATUS": "MATCHED"
  }
 }

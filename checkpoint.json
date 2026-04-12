@@ -14350,5 +14350,95 @@
   "SIZE": "",
   "EAN": "0035751117097",
   "STATUS": "MATCHED"
+ },
+ "03575111720": {
+  "FULL_NAME_FOUND": "Bon Appetit Pan De Queso Cheese Cake",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Snack Cakes",
+  "BRAND": "Bon Appetit",
+  "SIZE": "",
+  "EAN": "0035751117202",
+  "STATUS": "MATCHED"
+ },
+ "03575111723": {
+  "FULL_NAME_FOUND": "Bon Appetit Sweet Roll, California, Picon",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Pastries & Scones",
+  "BRAND": "Bon Appetit",
+  "SIZE": "",
+  "EAN": "0035751117233",
+  "STATUS": "MATCHED"
+ },
+ "03600026085": {
+  "FULL_NAME_FOUND": "Kleenex Ultra Soft 3 Ply White Tissues",
+  "DESCRIPTION": "Whether it's cold and flu season, or the kids are heading back to school, the job of preparing your family is never done. Partner with Kleenex Ultra Soft Tissues for extra softness and our Sneeze Shield that helps keep little hands clean and dry. When you want even more softness, Kleenex Ultra Soft Tissues are there for you with a little extra TLC. Rely on Kleenex Facial Tissues for gentle care that won't rub noses raw.",
+  "CATEGORY": "Facial Tissues",
+  "BRAND": "Kleenex",
+  "SIZE": "",
+  "EAN": "0036000260854",
+  "STATUS": "MATCHED"
+ },
+ "03600037457": {
+  "FULL_NAME_FOUND": "Kleenex Facial Tissue 230ct 2ply Trusted",
+  "DESCRIPTION": "Kleenex Facial Tissue 230ct 2ply Trusted, wholesale, bulk - Unit per pack 10.",
+  "CATEGORY": "Facial Tissues",
+  "BRAND": "Kleenex",
+  "SIZE": "",
+  "EAN": "0036000374575",
+  "STATUS": "MATCHED"
+ },
+ "03600050957": {
+  "FULL_NAME_FOUND": "Kleenex Soothing Lotion Norish Skin Coconut Oil & Aloe",
+  "DESCRIPTION": "SOOTHE AND NOURISH Kleenex®Soothing Lotion™ Tissues moisturize to help prevent skin irritation during Cold & Flu season. Their unique, dermatologist-tested formulation uses aloe, coconut oil, Vitamin E, and gentle moisturizers to nourish skin. All Kleenex®Brand Tissues are made from 100% responsibly sourced fiber, and our cartons feature bright, colorful designs that are sure to pop in your home!",
+  "CATEGORY": "Health Care",
+  "BRAND": "Kleenex",
+  "SIZE": "",
+  "EAN": "0036000509571",
+  "STATUS": "MATCHED"
+ },
+ "03620000250": {
+  "FULL_NAME_FOUND": "Ragu Old World Style Traditional Pasta Sauce",
+  "DESCRIPTION": "Enjoy the taste of our heritage with RAGÚ® Old World Style® Traditional spaghetti sauce. A classic pasta sauce crafted with vine-ripened tomatoes and well-storied passion.",
+  "CATEGORY": "Pasta Sauce",
+  "BRAND": "Ragu",
+  "SIZE": "",
+  "EAN": "0036200002506",
+  "STATUS": "MATCHED"
+ },
+ "03620000300": {
+  "FULL_NAME_FOUND": "Ragu Old World Style Meat Pasta Sauce - 24oz",
+  "DESCRIPTION": "Taste the traditional flavor of Ragú Old World Style Sauce Flavored with Meat. It's Nonna approved! Classically crafted with vine-ripened tomatoes and Italian spices, our smooth Old World Style spaghetti sauce has the rich, familiar flavor you’re looking for. Farm-grown tomatoes, cooked ground beef and herbs and spices combine for a red sauce with a well-rounded taste. A great option for family dinner, Ragú Old World Style Sauce Flavored with Meat is made from an authentic recipe with high quality ingredients. A Nonna approved sauce that began in an Italian mother's kitchen that has traditional Italian flavor. The savory pasta sauce flavored with meat can be mixed with penne, used to make stuffed shells with ricotta cheese, added to pasta primavera for a tasty dinner you and the kids will enjoy, or used in a crockpot to make an Italian-style pot-roast. Since 1937, Ragú has made Italian pasta sauces inspired by an Italian mother's recipes for a familiar taste that feels like home. To maintain freshness, refrigerate this 24 oz. jar of tomato pasta sauce after opening.",
+  "CATEGORY": "Pasta Sauce",
+  "BRAND": "Ragu",
+  "SIZE": "",
+  "EAN": "0036200003008",
+  "STATUS": "MATCHED"
+ },
+ "03620000468": {
+  "FULL_NAME_FOUND": "Ragu Chunky Sauteed Onion & Garlic Pasta Sauce",
+  "DESCRIPTION": "Savor the hearty taste of Ragú Chunky Sauteed Onion and Garlic Pasta Sauce. Brimming with hearty vegetables, diced tomatoes and spices, our Chunky Sauces stay close to the roots and create a seasoned, well-balanced flavor in any meal. Ripe tomatoes, flavorful herbs and seasonings combine in this spaghetti sauce for a traditional taste. A great option for family dinner, Ragú Chunky Sauteed Onion and Garlic Pasta Sauce is made with high quality ingredients. Cook like a mother with a chunky red sauce that’s chocked full of flavor and vegetables.",
+  "CATEGORY": "Pasta Sauce",
+  "BRAND": "Ragu",
+  "SIZE": "",
+  "EAN": "0036200004685",
+  "STATUS": "MATCHED"
+ },
+ "03660200101": {
+  "FULL_NAME_FOUND": "Ricola Original Natural Herb Cough Suppressant Throat Drops",
+  "DESCRIPTION": "Ricola uses the goodness of mountain herbs to create a natural cough drop that's as delicious as it is effective.",
+  "CATEGORY": "Health & Beauty",
+  "BRAND": "Ricola",
+  "SIZE": "",
+  "EAN": "0036602001015",
+  "STATUS": "MATCHED"
+ },
+ "03660283313": {
+  "FULL_NAME_FOUND": "Ricola Drops Cherry Oral Anesthetic",
+  "DESCRIPTION": "Ricola uses the goodness of mountain herbs to create a natural cough drop that's as delicious as it is effective. Ricola natural herb cough drops are made the same way they were in the 1940s: with high quality natural herbs from the Swiss alpine areas, processed with natural farming methods. No chemical pestides are used in the production of Ricola cough drops. A tasty cough suppressant you can feel good about! Sold in display unit of 20 sticks. 9 cough drops per stick. Gluten free. Cherry flavor.",
+  "CATEGORY": "Health & Beauty",
+  "BRAND": "Ricola",
+  "SIZE": "",
+  "EAN": "0036602833135",
+  "STATUS": "MATCHED"
  }
 }

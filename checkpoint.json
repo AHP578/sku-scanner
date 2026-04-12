@@ -16870,5 +16870,59 @@
   "SIZE": "",
   "EAN": "0725275637057",
   "STATUS": "MATCHED"
+ },
+ "72527594003": {
+  "FULL_NAME_FOUND": "Coco Quemado Coconut Macaroon",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Chips",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0725275940034",
+  "STATUS": "MATCHED"
+ },
+ "73194601064": {
+  "FULL_NAME_FOUND": "ZiQ Pregnancy Rapid Test",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Pregnancy Tests",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0731946010647",
+  "STATUS": "MATCHED"
+ },
+ "73262610010": {
+  "FULL_NAME_FOUND": "Howard's Fried Pork Skins",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Pork Rinds",
+  "BRAND": "Howard's",
+  "SIZE": "",
+  "EAN": "0732626100108",
+  "STATUS": "MATCHED"
+ },
+ "73262610011": {
+  "FULL_NAME_FOUND": "Howard's Fried Pork Skins - Lime Chili 4.00 Oz",
+  "DESCRIPTION": "Howard s Lime Pork Skins Strips a staple in the pork skins department and a favorite among many. It is a delicious Keto Snack with a nice pork skins crunch. It is one of the pair of the two flavors lime pork skins strips along with original pork skins flavor. Pork Skins Strips are delicious however chicken skins chips by Howard s exists as well! Check it out today!",
+  "CATEGORY": "Computer Covers & Skins",
+  "BRAND": "Howard's",
+  "SIZE": "",
+  "EAN": "0732626100115",
+  "STATUS": "MATCHED"
+ },
+ "73520329565": {
+  "STATUS": "UNMATCHED"
+ },
+ "73526350874": {
+  "STATUS": "UNMATCHED"
+ },
+ "73526351458": {
+  "STATUS": "UNMATCHED"
+ },
+ "73526355383": {
+  "STATUS": "UNMATCHED"
+ },
+ "73526355699": {
+  "STATUS": "UNMATCHED"
+ },
+ "73526357025": {
+  "STATUS": "UNMATCHED"
  }
 }

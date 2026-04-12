@@ -15676,5 +15676,95 @@
   "SIZE": "591 mL",
   "EAN": "0613008751272",
   "STATUS": "MATCHED"
+ },
+ "61300875130": {
+  "FULL_NAME_FOUND": "Arizona Fruit Punch Beverage 20 Oz",
+  "DESCRIPTION": "A classic fruit punch taste made with a fun blend of fruit juices and all-natural flavors. Its Vitamin C is fortified.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Arizona",
+  "SIZE": "591 mL",
+  "EAN": "0613008751302",
+  "STATUS": "MATCHED"
+ },
+ "61300875136": {
+  "FULL_NAME_FOUND": "Arizona Iced Tea With Lemon Flavor 591ml (Imported)",
+  "DESCRIPTION": "This is the iced tea that put AriZona on the map. The secret to our success? We keep it simple. AriZona Lemon Tea is made from real black tea and natural lemon flavor that help to create the slightly sweet, refreshing taste of sun brewed tea style.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Arizona",
+  "SIZE": "591 mL",
+  "EAN": "0613008751364",
+  "STATUS": "MATCHED"
+ },
+ "61300875665": {
+  "FULL_NAME_FOUND": "Arizona Beverage Company Pineapple 591 mL",
+  "DESCRIPTION": "Indulge in the tropical sweetness of Arizona Pineapple. Quench your thirst with this juicy and refreshing drink made with real pineapple. Perfect for a hot summer day or anytime you need a taste of the islands. Paradise in a bottle!",
+  "CATEGORY": "Juice",
+  "BRAND": "Arizona Beverage Company",
+  "SIZE": "591 mL",
+  "EAN": "0613008756659",
+  "STATUS": "MATCHED"
+ },
+ "63085514000": {
+  "FULL_NAME_FOUND": "Raindrops Magic Potion Color Changing Sour Liquid Candy",
+  "DESCRIPTION": "The magic potion is an incredibly exciting liquid candy! Introduce the tablet inside the bottle, wait 5 minutes and see which new colour will appear. At first, you won’t know which color you’ll get, nor its flavour.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Raindrops",
+  "SIZE": "",
+  "EAN": "0630855140004",
+  "STATUS": "MATCHED"
+ },
+ "63085516006": {
+  "FULL_NAME_FOUND": "Raindrops Sour Belts Green Apple 3.52oz - 48ct",
+  "DESCRIPTION": "Raindrops Sour Belts are sweet and sour bite size pieces of fruity goodness. These delicious, soft, and chewy belt candy are perfect for sharing and great for snacking. Try our Green Apple flavor now! 4/12ct 48pcs/case.",
+  "CATEGORY": "Belts",
+  "BRAND": "Raindrops",
+  "SIZE": "",
+  "EAN": "0630855160064",
+  "STATUS": "MATCHED"
+ },
+ "63243200004": {
+  "FULL_NAME_FOUND": "Guayaki Yerba Mate, Organic, Tropical Uprising 15.5 Fl Oz",
+  "DESCRIPTION": "Tropical Uprising has a juicy burst of mango and pineapple with a hint of hibiscus. It has half the calories of our best-selling 15.5oz cans.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Guayaki",
+  "SIZE": "458 mL",
+  "EAN": "0632432000046",
+  "STATUS": "MATCHED"
+ },
+ "63243200017": {
+  "FULL_NAME_FOUND": "Guayaki Yerba Mate, Organic, Peach Revival 15.5 Fl Oz",
+  "DESCRIPTION": "Lower sugar, sweeter vibes. Say hello to the newest member of the Guayakí Yerba Mate flavor family, Peach Revival! A refreshing infusion of organic yerba mate, and peach juice with delicate sweetness and a hint of floral undertones. Enjoy this peachy perfection with only 20 calories, 3g of sugar and 150mg of caffeine per can! Yerba mate contains 24 vitamins and minerals, 15 amino acids, and abundant polyphenols; yerba mate nourishes while it stimulates.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Guayaki",
+  "SIZE": "458 mL",
+  "EAN": "0632432000176",
+  "STATUS": "MATCHED"
+ },
+ "63243270877": {
+  "FULL_NAME_FOUND": "Guayaki Yerba Mate, Organic, Bluephoria 15.5 Fl Oz",
+  "DESCRIPTION": "Bluephoria provides a euphoric burst of blueberry, elderberry, and yerba mate.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Guayaki",
+  "SIZE": "458 mL",
+  "EAN": "0632432708775",
+  "STATUS": "MATCHED"
+ },
+ "63243271777": {
+  "FULL_NAME_FOUND": "Guayaki Yerba Mate, Organic, Lemon Elation 15.5 Fl Oz",
+  "DESCRIPTION": "Lemon Elation provides a sensation of elation – yerba mate accented with lemon, ginger, and elderflower.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Guayaki",
+  "SIZE": "458 mL",
+  "EAN": "0632432717777",
+  "STATUS": "MATCHED"
+ },
+ "63243272877": {
+  "FULL_NAME_FOUND": "Guayaki Yerba Mate, Organic, Orange Exuberance 15.5 Fl Oz",
+  "DESCRIPTION": "Orange Exuberance provides a burst of orange, tangerine, and lime.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Guayaki",
+  "SIZE": "458 mL",
+  "EAN": "0632432728773",
+  "STATUS": "MATCHED"
  }
 }

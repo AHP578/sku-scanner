@@ -15940,5 +15940,95 @@
   "SIZE": "",
   "EAN": "0648436100798",
   "STATUS": "MATCHED"
+ },
+ "64843610145": {
+  "FULL_NAME_FOUND": "Paldo Mr.Kimchi Kimchi Ramen King Cup Noodle, 110 G",
+  "DESCRIPTION": "Instant noodle soup with kimchi flavor based on intensive hot and spicy flavors. No meat, no trans-fat, and no cholesterol.",
+  "CATEGORY": "Pasta & Noodles",
+  "BRAND": "Paldo",
+  "SIZE": "",
+  "EAN": "0648436101450",
+  "STATUS": "MATCHED"
+ },
+ "64843610164": {
+  "FULL_NAME_FOUND": "Paldo Volcano King Cup Noodle",
+  "DESCRIPTION": "Volcano Chicken takes fresh spices and savory flavors of roasted chicken to create a Ramyun that can be enjoyed anywhere, anytime. We strive to capture the wonderful & delicious tastes of Traditional & Modern Korean dishes so that they can be prepared in minutes but accessible anywhere in the world!",
+  "CATEGORY": "Pasta & Noodles",
+  "BRAND": "Paldo",
+  "SIZE": "",
+  "EAN": "0648436101641",
+  "STATUS": "MATCHED"
+ },
+ "64843612201": {
+  "FULL_NAME_FOUND": "Paldo King Cup Noodle - Sriracha Lobster Flavor 3.88oz (110g)",
+  "DESCRIPTION": "Chewy ramen noodles with spicy sriracha lobster flavor, which provides a decent bite and flavor. The broth was sriracha lobster seafood flavor broth boasts large solid chunks of assorted vegetables and meat doused in thick and rich soup. To prepare, empty the contents of the sachets into the bowl and pour in boiling water. Let the noodles cook for 3 minutes and stir well before serving. We garnish the noodles with some spring onion, sautéed mushrooms, chili, leafy greens and Chinese’s sausage. It is very easy to cook.",
+  "CATEGORY": "Pasta & Noodles",
+  "BRAND": "Paldo",
+  "SIZE": "",
+  "EAN": "0648436122011",
+  "STATUS": "MATCHED"
+ },
+ "64843612203": {
+  "FULL_NAME_FOUND": "Paldo King Cup Lime Lobster Ramen 3.88oz",
+  "DESCRIPTION": "Chewy ramen noodles with lime lobster flavor, which provides a decent bite and flavor. The broth was lime lobster seafood flavor broth boasts large solid chunks of assorted vegetables and meat doused in thick and rich soup. To prepare, empty the contents of the sachets into the bowl and pour in boiling water. Let the noodles cook for 3 minutes and stir well before serving. We garnish the noodles with some spring onion, sautéed mushrooms, chili, leafy greens and Chinese’s sausage. It is very easy to cook.",
+  "CATEGORY": "Pasta & Noodles",
+  "BRAND": "Paldo",
+  "SIZE": "",
+  "EAN": "0648436122035",
+  "STATUS": "MATCHED"
+ },
+ "64843612272": {
+  "FULL_NAME_FOUND": "Paldo King Mild Chicken",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Pasta & Noodles",
+  "BRAND": "Paldo",
+  "SIZE": "",
+  "EAN": "0648436122721",
+  "STATUS": "MATCHED"
+ },
+ "64843612274": {
+  "FULL_NAME_FOUND": "Paldo King 1pc 110g Noodle Spicy Chicken Flavor Big Bowl",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Bowls",
+  "BRAND": "Paldo King",
+  "SIZE": "",
+  "EAN": "0648436122745",
+  "STATUS": "MATCHED"
+ },
+ "65007599512": {
+  "FULL_NAME_FOUND": "O.P.M.S Kratom Black Extract 5ct",
+  "DESCRIPTION": "A kratom extract contains a highly concentrated amount of Mitragynine and other active alkloids. For that reason, if you do not have any prior use with kratom, it is recomended to begin with powder and capsules.",
+  "CATEGORY": "Vitamins & Supplements",
+  "BRAND": "O.P.M.S Kratom",
+  "SIZE": "",
+  "EAN": "0650075995123",
+  "STATUS": "MATCHED"
+ },
+ "65007599513": {
+  "FULL_NAME_FOUND": "OPMS Kratom Black Liquid Extract Shot",
+  "DESCRIPTION": "The OPMS Black Liquid Kratom Extract is a multi-award-winning blend of amazing alkaloids derived from the Maeng Da kratom plant. 8.8mL liquid extract is contained in each shot.",
+  "CATEGORY": "Vitamins & Supplements",
+  "BRAND": "OPMS Kratom",
+  "SIZE": "",
+  "EAN": "0650075995130",
+  "STATUS": "MATCHED"
+ },
+ "65570811968": {
+  "FULL_NAME_FOUND": "Visine Red Eye Hydrating Comfort, Each",
+  "DESCRIPTION": "VISINE Advanced Relief Eye Drops combine the redness-relieving power of VISINE Original Eye Drops with 3 moisturizing ingredients to cool, soothe, and refresh irritated eyes. 0.28 fl oz Eye Drops bottle. 6 Units / Display — 12 Display / Case. MSRP – $5.99.",
+  "CATEGORY": "Health & Beauty",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0065570811968",
+  "STATUS": "MATCHED"
+ },
+ "65722700033": {
+  "FULL_NAME_FOUND": "Essentia Ionized Alkaline 9.5 pH Bottled Water, 33.8 Fl Oz",
+  "DESCRIPTION": "Essentia Water is Supercharged Ionized Alkaline Water so you can do the things that matter most to you and stop for nothing. Essentia’s proprietary three-step ionization process produces Overachieving H2O that’s 99.9% pure with a pH of 9.5 or higher and a clean, smooth taste.",
+  "CATEGORY": "Water",
+  "BRAND": "Essentia",
+  "SIZE": "1000 mL",
+  "EAN": "0657227000339",
+  "STATUS": "MATCHED"
  }
 }

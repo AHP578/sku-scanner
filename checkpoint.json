@@ -15586,5 +15586,95 @@
   "SIZE": "591 mL",
   "EAN": "0613008725716",
   "STATUS": "MATCHED"
+ },
+ "61300872609": {
+  "FULL_NAME_FOUND": "Arizona Southwest Style Lemonade",
+  "DESCRIPTION": "Discover the refreshing taste of Arizona Lemonade in a convenient 22oz can. Made with real lemons, this drink is 100% natural and contains no artificial colors or flavors. Quench your thirst and enjoy the benefits of real fruit in every sip.",
+  "CATEGORY": "Juice",
+  "BRAND": "Arizona",
+  "SIZE": "680 mL",
+  "EAN": "0613008726096",
+  "STATUS": "MATCHED"
+ },
+ "61300872857": {
+  "FULL_NAME_FOUND": "AriZona Half & Half, Iced Tea Lemonade, Zero",
+  "DESCRIPTION": "The King of golf has joined forces with the King of Tea and brought to market another delightful version: Diet Arnold Palmer BIG AZ CAN™. It has the same great half iced tea and half lemonade taste as the original, but with only 10 calories per 12oz serving. The legend continues to grow!",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "AriZona",
+  "SIZE": "680 mL",
+  "EAN": "0613008728571",
+  "STATUS": "MATCHED"
+ },
+ "61300873102": {
+  "FULL_NAME_FOUND": "AriZona Blueberry White Tea - 1 X 591 Ml",
+  "DESCRIPTION": "AriZona's first white tea combines the natural antioxidant goodness of blueberries, pear, and a dash of honey. This antioxidant-formulated beverage also features Vitamins A, C, and E, Selenium, and Panax Ginseng.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "AriZona",
+  "SIZE": "591 mL",
+  "EAN": "0613008731021",
+  "STATUS": "MATCHED"
+ },
+ "61300873228": {
+  "FULL_NAME_FOUND": "Arizona Beverage Company Raspberry Tea",
+  "DESCRIPTION": "Arizona Tall Boy Raspberry Half & Half offers the perfect blend of refreshing iced tea and tart raspberry lemonade in a generous 20oz can. This classic combination delivers a harmonious balance of sweet and tangy flavors, making it a go-to beverage for any occasion. Packaged in a case of 24, it’s ideal for stocking up at home, the office, or your next gathering. Enjoy the iconic taste of Arizona in every sip!",
+  "CATEGORY": "Beverages",
+  "BRAND": "Arizona Beverage Company",
+  "SIZE": "591 mL",
+  "EAN": "0613008732288",
+  "STATUS": "MATCHED"
+ },
+ "61300873515": {
+  "FULL_NAME_FOUND": "AriZona Sun Brewed Style Lemon Flavor Iced Tea 23 Fl Oz",
+  "DESCRIPTION": "This green tea is sun brewed style, with lemon flavor. Comes in 23 fl oz can for convenience and ease.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "AriZona",
+  "SIZE": "680 mL",
+  "EAN": "0613008735159",
+  "STATUS": "MATCHED"
+ },
+ "61300873541": {
+  "FULL_NAME_FOUND": "Arizona Mucho Mango Fruit Juice Cocktail",
+  "DESCRIPTION": "Here's to your health! This Mucho Mango Fruit Juice Cocktail is Vitamin C fortified and 100% natural. Comes in a 23 fl oz can for convenience.",
+  "CATEGORY": "Juice",
+  "BRAND": "Arizona",
+  "SIZE": "680 mL",
+  "EAN": "0061300873541",
+  "STATUS": "MATCHED"
+ },
+ "61300873543": {
+  "FULL_NAME_FOUND": "AriZona Fruit Juice Cocktail, Kiwi Strawberry 22 Fl Oz",
+  "DESCRIPTION": "AriZona presents the delicate balance of mixed perfection in Kiwi Strawberry. Fortified with Vitamin C, this dynamic duo is made with all natural flavors - without preservatives or artificial colors.",
+  "CATEGORY": "Kiwis",
+  "BRAND": "AriZona",
+  "SIZE": "",
+  "EAN": "0613008735432",
+  "STATUS": "MATCHED"
+ },
+ "61300875115": {
+  "FULL_NAME_FOUND": "Arizona Green Tea With Ginseng And Honey Beverage 20 Oz",
+  "DESCRIPTION": "An AriZona classic, we’re proud to say is America’s best-selling green tea. Enjoy our 100% natural AriZona Green Tea iced or served up hot, with just the right amount of ginseng and honey. Reflect on all that goodness, delicious as ever.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Arizona",
+  "SIZE": "591 mL",
+  "EAN": "0613008751159",
+  "STATUS": "MATCHED"
+ },
+ "61300875118": {
+  "FULL_NAME_FOUND": "Arizona Arnold Palmer Half & Half, Lite, Iced Tea/Lemonade",
+  "DESCRIPTION": "The name Arnold Palmer has legendary roots as an original beverage combination of half iced teas and half lemonade widely known for its refreshing taste and ability to revive the senses after a competitive round of golf. This version combines traditional black tea and lemonade to make a refreshing.Find the BEVERAG ICED TEA LEMNADE at Ace.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Arizona",
+  "SIZE": "591 mL",
+  "EAN": "0613008751180",
+  "STATUS": "MATCHED"
+ },
+ "61300875127": {
+  "FULL_NAME_FOUND": "AriZona Fruit Juice Cocktail, Watermelon 20 Fl Oz",
+  "DESCRIPTION": "Arizona brand, famous for amazing iced tea, brings their beverage making expertise to a watermelon fruit cocktail drink that is refreshing and not too sweet. Clear bottles with rich graphics on the label that stands out in your beverage assortment.",
+  "CATEGORY": "Juice",
+  "BRAND": "AriZona",
+  "SIZE": "591 mL",
+  "EAN": "0613008751272",
+  "STATUS": "MATCHED"
  }
 }

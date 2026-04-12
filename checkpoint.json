@@ -13006,5 +13006,95 @@
   "SIZE": "",
   "EAN": "0030100211488",
   "STATUS": "MATCHED"
+ },
+ "03010054537": {
+  "FULL_NAME_FOUND": "Keebler Cheese & Peanut Butter Sandwich Crackers, 1.38 Oz",
+  "DESCRIPTION": "Keebler Cheese and Peanut Butter sandwich crackers are the real deal. Conveniently-packaged crackers feature a tempting combination of crunchy crackers sandwiched around a tasty filling made with real peanut butter for total snacking satisfaction. Made with no high fructose syrup, these crunchy, flaky sandwich crackers pack a huge punch of flavor that's irresistible any time. A great snack to pack in a school lunch, enjoy as an after-school treat, grab for a late-night bite and more; The options are endless. Toss a package of Keebler Sandwich Crackers in your tote to bring along on field trips, trips to the park, picnics, or even while you're running everyday errands. You'll love the one-of-a-kind flavor of real cheese in every tasty package of Keebler Cheese and Peanut Butter sandwich crackers.",
+  "CATEGORY": "Nut Butters",
+  "BRAND": "Keebler",
+  "SIZE": "",
+  "EAN": "0030100545378",
+  "STATUS": "MATCHED"
+ },
+ "03010054552": {
+  "FULL_NAME_FOUND": "Keebler Toast & Peanut Butter Sandwich Crackers 1.38 Oz",
+  "DESCRIPTION": "Sandwich crackers made with real peanut butter. Visit Keebler.com for information on promotions, recipes, products, and FAQs.",
+  "CATEGORY": "Crackers",
+  "BRAND": "Keebler",
+  "SIZE": "",
+  "EAN": "0030100545521",
+  "STATUS": "MATCHED"
+ },
+ "03077202564": {
+  "FULL_NAME_FOUND": "Febreze Premium Car Vent Lush Scent",
+  "DESCRIPTION": "Everyday odors get trapped in your car and follow you around town. Kick em to the curb with some bold freshness. Febreze AUTO eliminates odors trapped in your car minivan or ice cream truck with an irresistible scent. These powerful but tiny car vent air fresheners have incredible odor blockers and odor eliminators that remove all those stinks and smells built up from your longest commute-iest days. Even with the windows up they keep your interior smelling fresh and breezy on the coldest stuffiest days or the hottest days. Simply push the vent clip firmly until you hear it click to activate fragrance then clip onto your car vent and drive stink-free for a whole 80 days. So freshen up your ride and breathe happily.",
+  "CATEGORY": "Air Fresheners",
+  "BRAND": "Febreze",
+  "SIZE": "",
+  "EAN": "0030772025642",
+  "STATUS": "MATCHED"
+ },
+ "03077203339": {
+  "FULL_NAME_FOUND": "Always Ultra Thin Daytime Pads With Wings Size 1 Regular Unscented",
+  "DESCRIPTION": "Stay confident and comfortable all day with Always Ultra Thin Daytime Pads with Wings. Designed for maximum comfort and protection, these Size 1 pads are perfect for light to moderate flow days. The unscented pads feature flexible wings to stay securely in place, providing discreet protection you can trust.",
+  "CATEGORY": "Health & Beauty",
+  "BRAND": "Always",
+  "SIZE": "",
+  "EAN": "0030772033395",
+  "STATUS": "MATCHED"
+ },
+ "03077205300": {
+  "FULL_NAME_FOUND": "Secret Outlast Advanced Deodorant Completely Clean 73 Gr",
+  "DESCRIPTION": "Secret Outlast Advanced Antiperspirant Deodorant is designed to provide long-lasting odor and wetness protection for up to 72 hours. This deodorant features a fast-drying formula that goes on clear, leaving no visible residue. It’s engineered with advanced odor-fighting technology to prevent sweat and odor, even during active or stressful moments.",
+  "CATEGORY": "Deodorant",
+  "BRAND": "Secret",
+  "SIZE": "",
+  "EAN": "0030772053003",
+  "STATUS": "MATCHED"
+ },
+ "03077205815": {
+  "FULL_NAME_FOUND": "Bounty Select-a-Size Kitchen Roll Paper Towels, 2-Ply, 5.9 X 11, White, 90 Sheets/Double Roll, 24 Rolls/Carton",
+  "DESCRIPTION": "Don t let spills and messes get in your way. Lock in confidence with Bounty.",
+  "CATEGORY": "Paper Towels",
+  "BRAND": "Bounty",
+  "SIZE": "",
+  "EAN": "0030772058152",
+  "STATUS": "MATCHED"
+ },
+ "03077207199": {
+  "FULL_NAME_FOUND": "Febreze Auto Car Vent Clip Air Freshener, Noir",
+  "DESCRIPTION": "Kick car odors to the curb and enjoy up to 40 days of consistent scent with Febreze AUTO. While other car refreshers start off like a floral punch in the face, Febreze smells just right, right away. You'll get that first-day Febreze fresh for up to 40 days courtesy of its patented Steady Release Technology.",
+  "CATEGORY": "Air Fresheners",
+  "BRAND": "Febreze",
+  "SIZE": "",
+  "EAN": "0030772071991",
+  "STATUS": "MATCHED"
+ },
+ "03077208124": {
+  "FULL_NAME_FOUND": "Dawn Ultra Dish Soap Dishwashing Liquid Original Scent 7.50 Fl Oz",
+  "DESCRIPTION": "This liquid dish detergent cuts through tough food residue and grease, leaving dishes sparkling clean. It has a gentle, pleasant scent.",
+  "CATEGORY": "Dish Detergent & Soap",
+  "BRAND": "Dawn",
+  "SIZE": "",
+  "EAN": "0030772081242",
+  "STATUS": "MATCHED"
+ },
+ "03077208344": {
+  "FULL_NAME_FOUND": "Crest Mouthwash Advance Complete Care",
+  "DESCRIPTION": "Crest Pro-Health Advanced Mouthwash helps you advance to a healthier mouth from day one. The alcohol-free mouthwash kills 99% of germs that cause plaque, gingivitis, and bad breath.",
+  "CATEGORY": "Personal Care",
+  "BRAND": "Crest",
+  "SIZE": "",
+  "EAN": "0030772083444",
+  "STATUS": "MATCHED"
+ },
+ "03077208685": {
+  "FULL_NAME_FOUND": "Bounty Plus Paper Towel 86 Sheets",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Paper Towels",
+  "BRAND": "Bounty",
+  "SIZE": "",
+  "EAN": "0030772086858",
+  "STATUS": "MATCHED"
  }
 }

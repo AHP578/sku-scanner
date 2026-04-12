@@ -14260,5 +14260,95 @@
   "SIZE": "",
   "EAN": "0035751113136",
   "STATUS": "MATCHED"
+ },
+ "03575111314": {
+  "FULL_NAME_FOUND": "Bon Appetit Banana Nut Muffin",
+  "DESCRIPTION": "Muffins con sabor a plátano y nueces de gran tamaño, sabor y textura. Contiene trigo, soya, leche, huevos. Podría contener: maní, almendras, nueces, pecanas y otras nueces de árbol. Producto con duración de 21 días. Despacho sólo a comunas adheridas de la RM por duración del producto.",
+  "CATEGORY": "Muffins",
+  "BRAND": "Bon Appetit",
+  "SIZE": "",
+  "EAN": "0035751113143",
+  "STATUS": "MATCHED"
+ },
+ "03575111316": {
+  "FULL_NAME_FOUND": "Bon Appetit Strawberry Cheese Muffin",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cheese",
+  "BRAND": "Bon Appetit",
+  "SIZE": "",
+  "EAN": "0035751113167",
+  "STATUS": "MATCHED"
+ },
+ "03575111425": {
+  "FULL_NAME_FOUND": "Bon Appetit Bread, Banana",
+  "DESCRIPTION": "Banana Bread 4 oz (113 g) May contain peanuts, almonds, walnuts, pecans and other tree nuts. Contains wheat, soy, milk, walnuts and/or pecans and eggs. 4 oz (113 g) Vernon, CA 90058.",
+  "CATEGORY": "Breads & Buns",
+  "BRAND": "Bon Appetit",
+  "SIZE": "",
+  "EAN": "0035751114256",
+  "STATUS": "MATCHED"
+ },
+ "03575111426": {
+  "FULL_NAME_FOUND": "Bon Appetit Pound Cake",
+  "DESCRIPTION": "Sliced Pound Cake 4 oz (113 g) Sliced. May contain peanuts, almonds, walnuts, pecans and other tree nuts. Contains wheat, soy, milk and eggs. 4 oz (113 g) Vernon, CA 90058.",
+  "CATEGORY": "Snack Cakes",
+  "BRAND": "Bon Appetit",
+  "SIZE": "",
+  "EAN": "0035751114263",
+  "STATUS": "MATCHED"
+ },
+ "03575111427": {
+  "FULL_NAME_FOUND": "Bon Appetit Cheese Cake",
+  "DESCRIPTION": "Cheese Cake 4 oz (113 g) Sliced. May contain peanuts, almonds, walnuts, pecans and other tree nuts. Contains wheat, soy, milk and eggs. 4 oz (113 g) Vernon, CA 90058.",
+  "CATEGORY": "Cheese",
+  "BRAND": "Bon Appetit",
+  "SIZE": "",
+  "EAN": "0035751114270",
+  "STATUS": "MATCHED"
+ },
+ "03575111428": {
+  "FULL_NAME_FOUND": "Bon Appetit Cake, Lemon",
+  "DESCRIPTION": "$ 2.390  Out of Stock  Product available with different options Avísame. 113 g Queque con sabor a limón Bon Appetit. Este pastel es una opción saludable para satisfacer tus antojos de azúcar. Tiene una textura de pastel y se derrite en la boca cuando se come con una taza de té por la noche. Además, no es demasiado dulce y contiene la cantidad justa de azúcar para satisfacer tus antojos. Contiene trigo, soya, leche y huevos..",
+  "CATEGORY": "Snack Cakes",
+  "BRAND": "Bon Appetit",
+  "SIZE": "",
+  "EAN": "0035751114287",
+  "STATUS": "MATCHED"
+ },
+ "03575111429": {
+  "FULL_NAME_FOUND": "Bon Appetit Marble Cake",
+  "DESCRIPTION": "$ 2.390  Out of Stock  Product available with different options Avísame. 113 g Queque mármol Bon Appetit. Este pastel es una opción saludable para satisfacer tus antojos de azúcar. Tiene una textura de pastel y se derrite en la boca cuando se come con una taza de té por la noche. Además, no es demasiado dulce y contiene la cantidad justa de azúcar para satisfacer tus antojos. Contiene trigo, soya, leche y huevos. Producto con..",
+  "CATEGORY": "Marbles",
+  "BRAND": "Bon Appetit",
+  "SIZE": "",
+  "EAN": "0035751114294",
+  "STATUS": "MATCHED"
+ },
+ "03575111432": {
+  "FULL_NAME_FOUND": "Bon Appetit Cream Cheese Cake",
+  "DESCRIPTION": "Cream Cheese Cake 4 oz (114 g) May contains peanuts almonds walnuts pecans and other tree nuts.",
+  "CATEGORY": "Cream Cheese",
+  "BRAND": "Bon Appetit",
+  "SIZE": "",
+  "EAN": "0035751114324",
+  "STATUS": "MATCHED"
+ },
+ "03575111700": {
+  "FULL_NAME_FOUND": "Bon Appetit French Sweetie Roll, Concha",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "French Horns",
+  "BRAND": "Bon Appetit",
+  "SIZE": "",
+  "EAN": "0035751117004",
+  "STATUS": "MATCHED"
+ },
+ "03575111709": {
+  "FULL_NAME_FOUND": "Bon Appetit Semita Sweet Roll",
+  "DESCRIPTION": "Semita Hispanic Pastry with authentic flavor profile meant to please.",
+  "CATEGORY": "Breads & Buns",
+  "BRAND": "Bon Appetit",
+  "SIZE": "",
+  "EAN": "0035751117097",
+  "STATUS": "MATCHED"
  }
 }

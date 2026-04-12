@@ -15766,5 +15766,95 @@
   "SIZE": "458 mL",
   "EAN": "0632432728773",
   "STATUS": "MATCHED"
+ },
+ "63243273777": {
+  "FULL_NAME_FOUND": "Guayaki Yerba Mate, Organic, Revel Berry 15.5 Fl Oz",
+  "DESCRIPTION": "Revel Berry provides a melodic blend of raspberry, blackberry, hibiscus, and yerba mate .",
+  "CATEGORY": "Beverages",
+  "BRAND": "Guayaki",
+  "SIZE": "458 mL",
+  "EAN": "0632432737775",
+  "STATUS": "MATCHED"
+ },
+ "63243275777": {
+  "FULL_NAME_FOUND": "Guayaki Yerba Mate, Organic, Enlighten Mint 15.5 Fl Oz",
+  "DESCRIPTION": "Enlighten Mint is a blend of peppermint, yerba mate, and a touch of honey.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Guayaki",
+  "SIZE": "458 mL",
+  "EAN": "0632432757773",
+  "STATUS": "MATCHED"
+ },
+ "63256500001": {
+  "FULL_NAME_FOUND": "Fiji Natural Artesian Water, 1.05 Pt, 16.9 Fluid Ounce",
+  "DESCRIPTION": "The 500 mL size is perfect for everyday on-the-go hydration. Its soft smooth taste comes from its extraordinary source -- a protected artesian aquifer found deep underground in the remote Fiji Islands. Fizi Water is the choice of discerning top chefs fine restaurants and hotels around the world.",
+  "CATEGORY": "Water",
+  "BRAND": "Fiji",
+  "SIZE": "500 mL",
+  "EAN": "0632565000012",
+  "STATUS": "MATCHED"
+ },
+ "63256500002": {
+  "FULL_NAME_FOUND": "Fiji Natural Artesian Water - 1 L (34 Fl Oz) Bottle",
+  "DESCRIPTION": "FIJI Water 1L is known for its smooth, soft taste, attributed to its unique mineral profile and the natural filtration process it undergoes in the Fijian islands. This artesian water is bottled at the source, ensuring its purity.",
+  "CATEGORY": "Water",
+  "BRAND": "Fiji",
+  "SIZE": "1000 mL",
+  "EAN": "0632565000029",
+  "STATUS": "MATCHED"
+ },
+ "63256500003": {
+  "FULL_NAME_FOUND": "Fiji Natural Artesian Water - 1.5 L (50.7 Fl Oz) Bottle",
+  "DESCRIPTION": "1.5L (50.7 oz) bottle of FIJI Water. The 1.5L size is great for ongoing hydration throughout the day. Its soft, smooth taste comes from its extraordinary source -- a protected artesian aquifer found deep underground in the remote Fiji Islands. FIJI Water is the choice of discerning top chefs, fine restaurants and hotels around the world.",
+  "CATEGORY": "Water",
+  "BRAND": "Fiji",
+  "SIZE": "1499 mL",
+  "EAN": "0632565000036",
+  "STATUS": "MATCHED"
+ },
+ "63256500065": {
+  "FULL_NAME_FOUND": "Fiji Natural Artesian Water 1.47 Pt",
+  "DESCRIPTION": "The 500ml FIJI Water bottle offers a balanced size for individual consumption, fitting easily in bags and car cup holders. It maintains the same pristine quality as other FIJI Water products.",
+  "CATEGORY": "Water",
+  "BRAND": "Fiji",
+  "SIZE": "700 mL",
+  "EAN": "0632565000654",
+  "STATUS": "MATCHED"
+ },
+ "64160675653": {
+  "FULL_NAME_FOUND": "Magnum Gold 24K 24ct Display",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Health & Beauty",
+  "BRAND": "Magnum",
+  "SIZE": "",
+  "EAN": "0641606756535",
+  "STATUS": "MATCHED"
+ },
+ "64384371704": {
+  "FULL_NAME_FOUND": "Premier Protein High Shake, Vanilla",
+  "DESCRIPTION": "Classic and oh-so-dreamy vanilla that tastes like vanilla wafers, Winner of American Masters of Taste Gold Medal. 30g of protein to help curb your hunger, as a mid-day snack or for post workout recovery; includes all essential amino acids.",
+  "CATEGORY": "Nutrition Drinks & Shakes",
+  "BRAND": "Premier Protein",
+  "SIZE": "",
+  "EAN": "0643843717041",
+  "STATUS": "MATCHED"
+ },
+ "64384371715": {
+  "FULL_NAME_FOUND": "Premier Protein Chocolate High Shake 11.5 Fl Oz",
+  "DESCRIPTION": "This Premier Protein shake is made with nutrients for immune health support. Packed with 30 grams of protein, it features a classic chocolate flavor.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Premier Protein",
+  "SIZE": "340 mL",
+  "EAN": "0643843717157",
+  "STATUS": "MATCHED"
+ },
+ "64384371789": {
+  "FULL_NAME_FOUND": "Premier Protein Cafe Latte High Shake 11.5 Fl Oz",
+  "DESCRIPTION": "Packaged in a 11.5oz bottle, each Premier Protein Shake contains 30 grams of protein, complete with all the essential amino acids, 1g of sugar, 3-5g carbs (depending on flavor), 160 calories, 24 vitamins & minerals, and is also low in fat. We use a blend of milk protein and casein in our shakes to help fuel muscles quickly and for several hours to help support your goals. Enjoy a shake as a healthy snack, a breakfast on-the-go, an afternoon snack, or as pre- or post-workout fuel. They are delicious as is but are also highly customizable. Try blending with your favorite fruits and vegetables for a delicious smoothie or adding to cereal or oatmeal.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Premier Protein",
+  "SIZE": "340 mL",
+  "EAN": "0643843717898",
+  "STATUS": "MATCHED"
  }
 }

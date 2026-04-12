@@ -13186,5 +13186,89 @@
   "SIZE": "",
   "EAN": "0031146053414",
   "STATUS": "MATCHED"
+ },
+ "03114615060": {
+  "FULL_NAME_FOUND": "Nongshim Nong Shim Shin Ramyun Noodle Gourmet Spicy Soup, 4.2 Oz",
+  "DESCRIPTION": "1. Boil 550 ml (about 2-1/3 cups) of water. Add noodles, soup base, and vegetable mix. 2. Cook for 4-5 minutes, stirring occasionally. 3. Remove from heat and serve.",
+  "CATEGORY": "Soups & Broths",
+  "BRAND": "Nongshim",
+  "SIZE": "",
+  "EAN": "0031146150601",
+  "STATUS": "MATCHED"
+ },
+ "03114615691": {
+  "FULL_NAME_FOUND": "Nongshim Udon Premium Noodle Soup Bowl",
+  "DESCRIPTION": "This is a fresh Udon Noodle Cup which is a popular dish in both Korea and Japan. It is a thick, wheat-based noodle, usually served in a mildly flavored broth, seasoned with soy sauce. The soup has a mild flavor and it contains dried seaweed, tempura, and fish cakes. The Udon Noodle Cup is perfect for anyone who prefers a non-spicy noodle dish.",
+  "CATEGORY": "Soups & Broths",
+  "BRAND": "Nongshim",
+  "SIZE": "",
+  "EAN": "0031146156917",
+  "STATUS": "MATCHED"
+ },
+ "03120020007": {
+  "FULL_NAME_FOUND": "Ocean Spray Juice Cocktail, Cranberry, The Original 64 Fl Oz",
+  "DESCRIPTION": "Enjoy the crisp, clean taste of real cranberries straight from the bog. It’s a delicious way to get your daily dose of vitamin C and unique cranberry health benefits.",
+  "CATEGORY": "Juice",
+  "BRAND": "Ocean Spray",
+  "SIZE": "1893 mL",
+  "EAN": "0031200200075",
+  "STATUS": "MATCHED"
+ },
+ "03129016162": {
+  "FULL_NAME_FOUND": "Godiva Goldmark Assorted Chocolate Creations 27 Pcs Box 320g",
+  "DESCRIPTION": "Since 1926 Godiva Chocolatier has been making the finest chocolate. Godiva’s legendary heritage of quality craftsmanship combined with creatively modernized techniques and recipes guarantees that every piece of Godiva will spark joy. With just one bite you’ll experience Godiva’s deliciously rich chocolate complex and layered and sure to indulge and delight all five of your senses.",
+  "CATEGORY": "Home & Garden",
+  "BRAND": "Godiva",
+  "SIZE": "",
+  "EAN": "0031290161621",
+  "STATUS": "MATCHED"
+ },
+ "03129016176": {
+  "FULL_NAME_FOUND": "Godiva Premium Assortment Spring Box, 11.3 Oz., 27-piece",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Home & Garden",
+  "BRAND": "Godiva",
+  "SIZE": "",
+  "EAN": "0031290161768",
+  "STATUS": "MATCHED"
+ },
+ "03129016283": {
+  "FULL_NAME_FOUND": "Godiva Belgium Assorted Chocolates Gift Set 10.9 Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Godiva",
+  "SIZE": "",
+  "EAN": "0031290162833",
+  "STATUS": "MATCHED"
+ },
+ "03170000020": {
+  "STATUS": "UNMATCHED"
+ },
+ "03170005515": {
+  "FULL_NAME_FOUND": "Game Leaf Sweet Aromatic",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Game Leaf",
+  "SIZE": "",
+  "EAN": "0031700055151",
+  "STATUS": "MATCHED"
+ },
+ "03170005803": {
+  "FULL_NAME_FOUND": "Game Honey 2 Cigar/ 3CT",
+  "DESCRIPTION": "Since 1882. 100% imported tobacco. Game guarantees every cigar. If you are not totally satisfied, return the pouch and cigars with the date & place of purchase for a replacement coupon. www.gamecigars.com. Resealable pouch. Made in the Dominican Republic.",
+  "CATEGORY": "Games",
+  "BRAND": "Game",
+  "SIZE": "",
+  "EAN": "0031700058039",
+  "STATUS": "MATCHED"
+ },
+ "03170005804": {
+  "FULL_NAME_FOUND": "Game Natural Leaf White Grape Cigarillos",
+  "DESCRIPTION": "Game White Grape cigarillos provide a refined and sophisticated smoking experience with a distinct white grape flavor. They offer a smooth, slightly sweet taste with subtle hints of tartness, capturing the essence of ripe white grapes. The high-quality tobacco enhances the fruity infusion, creating a balanced and enjoyable smoke. Game White Grape is a popular choice for those who appreciate a fruity, elegant flavor in their cigarillos.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Game",
+  "SIZE": "",
+  "EAN": "0031700058046",
+  "STATUS": "MATCHED"
  }
 }

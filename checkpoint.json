@@ -14170,5 +14170,95 @@
   "SIZE": "",
   "EAN": "0035000556776",
   "STATUS": "MATCHED"
+ },
+ "03575111106": {
+  "FULL_NAME_FOUND": "Bon Appetit Danish, Apple",
+  "DESCRIPTION": "Danish, Apple 5 oz (142 g) May contain peanuts, almonds, walnuts, pecans, and other tree nuts. Contains wheat, soy, milk and eggs. 5 oz (142 g) Vernon, CA 90058.",
+  "CATEGORY": "Apples",
+  "BRAND": "Bon Appetit",
+  "SIZE": "",
+  "EAN": "0035751111064",
+  "STATUS": "MATCHED"
+ },
+ "03575111107": {
+  "FULL_NAME_FOUND": "Bon Appetit Bear Claw",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Chips",
+  "BRAND": "Bon Appetit",
+  "SIZE": "",
+  "EAN": "0035751111071",
+  "STATUS": "MATCHED"
+ },
+ "03575111109": {
+  "FULL_NAME_FOUND": "Bon Appetit Danish, Cheese & Berries",
+  "DESCRIPTION": "Delicious flaky pastry filled with cheese and berries. Made with artisan ingredients for a gourmet taste. Perfect combination of savory cheese and sweet berries. Each pack contains 8 individual 5 ounce danishes. Ideal for breakfast, brunch, or a tasty snack any time of the day. Indulge in a mouthwatering treat with Bon Appetit Cheese & Berry Danish.",
+  "CATEGORY": "Cheese",
+  "BRAND": "Bon Appetit",
+  "SIZE": "",
+  "EAN": "0035751111095",
+  "STATUS": "MATCHED"
+ },
+ "03575111113": {
+  "FULL_NAME_FOUND": "Bon Appetit Cheese Croissant Danish",
+  "DESCRIPTION": "Croissant, Cheese 5 oz (142 g) May contain peanuts, almonds, walnuts, pecans and other tree nuts. Contains wheat, soy, milk, peanuts and eggs. 5 oz (142 g) Vernon, CA 90058.",
+  "CATEGORY": "Cheese",
+  "BRAND": "Bon Appetit",
+  "SIZE": "",
+  "EAN": "0035751111132",
+  "STATUS": "MATCHED"
+ },
+ "03575111114": {
+  "FULL_NAME_FOUND": "Bon Appetit Blueberry Cream Danish 142g",
+  "DESCRIPTION": "Danish, Blueberry Cream 5 oz (142 g) May contain peanuts, almonds, walnuts, pecans and other tree nuts. Contains wheat, soy, milk, peanuts and eggs. 5 oz (142 g) Vernon, CA 90058.",
+  "CATEGORY": "Chips",
+  "BRAND": "Bon Appetit",
+  "SIZE": "",
+  "EAN": "0035751111149",
+  "STATUS": "MATCHED"
+ },
+ "03575111201": {
+  "FULL_NAME_FOUND": "Bon Appetit Super Cinnamon Roll",
+  "DESCRIPTION": "Postre de cinnamon roll dulce y exquisito con ligero relleno de azúcar canela, rociado con glaseado de vainilla. Contiene trigo, soya, leche, huevos. Podría contener: maní, almendras, nueces, pecanas y otras nueces de árbol. Producto con duración de 21 días. Despacho sólo a comunas adheridas de la RM por duración del producto.",
+  "CATEGORY": "Home & Garden",
+  "BRAND": "Bon Appetit",
+  "SIZE": "",
+  "EAN": "0035751112016",
+  "STATUS": "MATCHED"
+ },
+ "03575111204": {
+  "FULL_NAME_FOUND": "Need More Information",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Name Plates",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0035751112047",
+  "STATUS": "MATCHED"
+ },
+ "03575111208": {
+  "FULL_NAME_FOUND": "Bon Appetit Strawberry ‘n Créme Danish",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Food Items",
+  "BRAND": "Bon Appetit",
+  "SIZE": "",
+  "EAN": "0035751112085",
+  "STATUS": "MATCHED"
+ },
+ "03575111310": {
+  "FULL_NAME_FOUND": "Bon Appetit Muffin Blueberry",
+  "DESCRIPTION": "Son deliciosamente suaves y húmedos cargados de arándanos frescos. Contiene trigo, soya, leche, huevos. Podría contener: maní, almendras, nueces, pecanas y otras nueces de árbol. Producto con duración de 21 días. Despacho sólo a comunas adheridas de la RM por duración del producto.",
+  "CATEGORY": "Muffins",
+  "BRAND": "Bon Appetit",
+  "SIZE": "",
+  "EAN": "0035751113105",
+  "STATUS": "MATCHED"
+ },
+ "03575111313": {
+  "FULL_NAME_FOUND": "Bon Appetit Muffin Chocolate Chip",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Chips",
+  "BRAND": "Bon Appetit",
+  "SIZE": "",
+  "EAN": "0035751113136",
+  "STATUS": "MATCHED"
  }
 }

@@ -13540,5 +13540,95 @@
   "SIZE": "",
   "EAN": "0034000002214",
   "STATUS": "MATCHED"
+ },
+ "03400000229": {
+  "FULL_NAME_FOUND": "Kit Kat King Size Wafer Bar 3 Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Snack Foods",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0003400000229",
+  "STATUS": "MATCHED"
+ },
+ "03400000239": {
+  "FULL_NAME_FOUND": "Hershey's 1.55 Oz. Chocolate, Cookies 'n' Cream Candy Bar",
+  "DESCRIPTION": "Looking for twist on a classic candy bar? Look no further! Enjoy a smooth white creme base combined with crunchy chocolate cookie pieces. It's a sweet treat that offers delicious indulgence in every bite.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Hershey's",
+  "SIZE": "",
+  "EAN": "0034000002399",
+  "STATUS": "MATCHED"
+ },
+ "03400000240": {
+  "FULL_NAME_FOUND": "Hershey's Milk Chocolate Candy Bar, 1.55 Ounce",
+  "DESCRIPTION": "Sweet milk chocolate bar impulse display. Due to high heat conditions milk chocolate items will not be available during warmer months (usually May thru September).",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Hershey's",
+  "SIZE": "",
+  "EAN": "0034000002405",
+  "STATUS": "MATCHED"
+ },
+ "03400000241": {
+  "FULL_NAME_FOUND": "Hershey's Milk Chocolate With Whole Almonds Candy Bar",
+  "DESCRIPTION": "These are more than just candy bars. They’re chances to stop and savor life’s sweeter side. Each bite is filled with crunchy whole almonds and classic HERSHEY’S Milk Chocolate.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Hershey's",
+  "SIZE": "",
+  "EAN": "0034000002412",
+  "STATUS": "MATCHED"
+ },
+ "03400000243": {
+  "FULL_NAME_FOUND": "Dick Cepek Hershey Mr Goodbar Milk Chocolate Candy Bar",
+  "DESCRIPTION": "The perfect crunchy blend of freshly roasted peanuts and chocolate candy.",
+  "CATEGORY": "Vehicles",
+  "BRAND": "Dick Cepek",
+  "SIZE": "",
+  "EAN": "0003400000243",
+  "STATUS": "MATCHED"
+ },
+ "03400000246": {
+  "FULL_NAME_FOUND": "Kit Kat Crisp Wafers In Milk Chocolate Candy Bar 1.5 Oz",
+  "DESCRIPTION": "Enjoy a sweet pick me up during the day with Hershey's Kit Kat Chocolate. Crispy wafers are covered in tasty chocolate for a treat you can't resist. Delicious chocolate covers crisp cookie wafers. Great for on the go.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Kit Kat",
+  "SIZE": "",
+  "EAN": "0034000002467",
+  "STATUS": "MATCHED"
+ },
+ "03400000312": {
+  "FULL_NAME_FOUND": "Hershey's Syrup Genuine Chocolate Flavor Fat Free - 24 Ounce",
+  "DESCRIPTION": "HERSHEY'S chocolate syrup is full of the genuine chocolate flavor you know and love packaged in the classic bottle. Enjoy the sweet and delicious taste of chocolate syrup on everything from cakes to cookies. It is the perfect syrup to add to your milk, hot cocoa and coffee. Try drizzling it over your brownies and cakes or use it to make chocolate floats and sundaes. No matter what you're making or who is at your gathering, pop open the lid and squeeze, swirl, dot or drizzle the syrup on top of some of your favorite drinks and desserts. Squeeze HERSHEY'S chocolate syrup onto your ice cream sundaes as a tasty topping or stir it into a glass of milk for a classic glass of chocolate milk. The syrup is also a great way to add a little sweetness to your morning coffee. HERSHEY'S chocolate syrup is great to have on hand for every occasion so that you're ready to create delicious treats for the entire family. This chocolate syrup is fat free, gluten free and has no artificial colors. It comes packaged in a closeable, squeezable syrup bottle for easy pouring. Once you're finished, place the bottle in the refrigerator.",
+  "CATEGORY": "Syrup",
+  "BRAND": "Hershey's",
+  "SIZE": "",
+  "EAN": "0034000003129",
+  "STATUS": "MATCHED"
+ },
+ "03400000320": {
+  "FULL_NAME_FOUND": "Almond Joy 1.6 Oz. Chocolate w/Coconut & Almonds Candy Bar",
+  "DESCRIPTION": "Take a deserved break and unwind with an Almond Joy Candy Bar. Made with coconut filling and whole almonds covered in milk chocolate a sweet and satisfying snack. Enjoy it on its own or incorporate it into dessert recipes. Free of gluten, this kosher candy bar contains no cholesterol or trans fat. Escape from your daily routine with an Almond Joy Candy Bar.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Almond Joy",
+  "SIZE": "",
+  "EAN": "0034000003204",
+  "STATUS": "MATCHED"
+ },
+ "03400000405": {
+  "FULL_NAME_FOUND": "Ice Breakers Cubes Kiwi Watermelon Sugar Free Chewing Gum",
+  "DESCRIPTION": "Long lasting flavor. 30% fewer calories than sugared gum. Calorie content for this size has been reduced from 7 to 5 calories.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Ice Breakers",
+  "SIZE": "",
+  "EAN": "0034000004058",
+  "STATUS": "MATCHED"
+ },
+ "03400000440": {
+  "FULL_NAME_FOUND": "Reese's Milk Chocolate Peanut Butter Cups, Candy Pack",
+  "DESCRIPTION": "Reese's Peanut Butter Cups are classic sweets featuring smooth and creamy peanut butter poured into a milk chocolate cup. This candy is a rich and decadent dessert, hard to resist!",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Reese's",
+  "SIZE": "",
+  "EAN": "0034000004409",
+  "STATUS": "MATCHED"
  }
 }

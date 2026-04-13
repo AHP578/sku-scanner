@@ -11,19 +11,22 @@ export default async function handler(req, res) {
   const debug = { hasToken: !!GITHUB_TOKEN, errors: [] };
 
   try {
-    // Fetch checkpoint.json contents (works without auth for public repos)
+    // Fetch checkpoint.json from raw URL (contents API has 1MB limit; checkpoint exceeds it)
     const checkpointRes = await fetch(
-      `https://api.github.com/repos/${REPO}/contents/checkpoint.json`,
-      { headers }
+      `https://raw.githubusercontent.com/${REPO}/master/checkpoint.json`,
+      { headers: GITHUB_TOKEN ? { Authorization: `Bearer ${GITHUB_TOKEN}` } : {} }
     );
 
     let checkpoint = {};
     let totalSkus = 3273;
 
     if (checkpointRes.ok) {
-      const data = await checkpointRes.json();
-      const content = Buffer.from(data.content, "base64").toString("utf-8");
-      checkpoint = JSON.parse(content);
+      const text = await checkpointRes.text();
+      try {
+        checkpoint = JSON.parse(text);
+      } catch (e) {
+        debug.errors.push(`checkpoint parse: ${e.message} (len=${text.length})`);
+      }
     } else {
       debug.errors.push(`checkpoint: ${checkpointRes.status} ${checkpointRes.statusText}`);
     }

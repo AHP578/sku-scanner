@@ -2,12 +2,16 @@ export default async function handler(req, res) {
   const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
   const REPO = "AHP578/sku-scanner";
   const headers = {
-    Authorization: `Bearer ${GITHUB_TOKEN}`,
     Accept: "application/vnd.github.v3+json",
   };
+  if (GITHUB_TOKEN) {
+    headers.Authorization = `Bearer ${GITHUB_TOKEN}`;
+  }
+
+  const debug = { hasToken: !!GITHUB_TOKEN, errors: [] };
 
   try {
-    // Fetch checkpoint.json contents
+    // Fetch checkpoint.json contents (works without auth for public repos)
     const checkpointRes = await fetch(
       `https://api.github.com/repos/${REPO}/contents/checkpoint.json`,
       { headers }
@@ -20,6 +24,8 @@ export default async function handler(req, res) {
       const data = await checkpointRes.json();
       const content = Buffer.from(data.content, "base64").toString("utf-8");
       checkpoint = JSON.parse(content);
+    } else {
+      debug.errors.push(`checkpoint: ${checkpointRes.status} ${checkpointRes.statusText}`);
     }
 
     // Count statuses
@@ -51,15 +57,17 @@ export default async function handler(req, res) {
     );
     const hasLockFile = lockRes.ok;
 
+    let actionsRunning = false;
+    let runSource = null;
     const actionsRes = await fetch(
       `https://api.github.com/repos/${REPO}/actions/runs?status=in_progress&per_page=1`,
       { headers }
     );
-    let actionsRunning = false;
-    let runSource = null;
     if (actionsRes.ok) {
       const actionsData = await actionsRes.json();
       actionsRunning = actionsData.total_count > 0;
+    } else {
+      debug.errors.push(`actions: ${actionsRes.status} ${actionsRes.statusText}`);
     }
 
     const isRunning = hasLockFile || actionsRunning;
@@ -78,9 +86,11 @@ export default async function handler(req, res) {
       if (commits.length > 0) {
         lastRunTime = commits[0].commit.committer.date;
       }
+    } else {
+      debug.errors.push(`commits: ${commitsRes.status} ${commitsRes.statusText}`);
     }
 
-    // Calculate next scheduled run (every 3 hours from cron)
+    // Calculate next scheduled run (every hour from cron)
     let nextScheduledRun = null;
     if (!isRunning) {
       const now = new Date();
@@ -101,8 +111,9 @@ export default async function handler(req, res) {
       lastRunTime,
       nextScheduledRun,
       recentLookups: recentLookups.slice(-20).reverse(),
+      debug,
     });
   } catch (error) {
-    res.status(500).json({ error: error.message });
+    res.status(500).json({ error: error.message, stack: error.stack, debug });
   }
 }

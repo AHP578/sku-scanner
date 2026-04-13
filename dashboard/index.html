@@ -339,12 +339,14 @@
     async function loadStatus() {
       try {
         const res = await fetch('/api/status');
-        if (!res.ok) throw new Error('API error');
-        const data = await res.json();
+        const data = await res.json().catch(() => ({}));
+        if (!res.ok || data.error) {
+          throw new Error(data.error || `HTTP ${res.status}`);
+        }
         render(data);
       } catch (e) {
         document.getElementById('content').innerHTML =
-          `<div class="error-msg">Failed to load status. Retrying...</div>`;
+          `<div class="error-msg">Failed to load status: ${e.message}. Retrying...</div>`;
         document.getElementById('status-badge').innerHTML = '';
         document.getElementById('time-info').innerHTML = '';
       }

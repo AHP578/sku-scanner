@@ -18580,5 +18580,95 @@
   "SIZE": "",
   "EAN": "0042000158039",
   "STATUS": "MATCHED"
+ },
+ "04210000294": {
+  "FULL_NAME_FOUND": "Kodiak Snuff, Moist, Premium Wintergreen",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Food, Beverages & Tobacco",
+  "BRAND": "Kodiak",
+  "SIZE": "",
+  "EAN": "0042100002942",
+  "STATUS": "MATCHED"
+ },
+ "04210000543": {
+  "FULL_NAME_FOUND": "Grizzly Snuff, Moist, Premium Wintergreen, Pouches",
+  "DESCRIPTION": "mygrizzly.com. Sale only allowed in the United States. Coupons & more at mygrizzly.com (website restricted to age 21+ tobacco consumers). Wintergreen pouches. Est. 1900 American Snuff Co.",
+  "CATEGORY": "Food, Beverages & Tobacco",
+  "BRAND": "Grizzly",
+  "SIZE": "",
+  "EAN": "0042100005431",
+  "STATUS": "MATCHED"
+ },
+ "04210000871": {
+  "FULL_NAME_FOUND": "Grizzly Long Cut Moist Snuff - 1.2 Ounce",
+  "DESCRIPTION": "Sale only allowed in the United States. Coupons & more at mygrizzly.com (website restricted to age 21+ tobacco consumers.). mygrizzly.com. Est. 1900 American Snuff Co.",
+  "CATEGORY": "Food, Beverages & Tobacco",
+  "BRAND": "Grizzly",
+  "SIZE": "",
+  "EAN": "0042100008715",
+  "STATUS": "MATCHED"
+ },
+ "04210002648": {
+  "FULL_NAME_FOUND": "Grizzly Ppt Pouch 7 Mg",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0042100026481",
+  "STATUS": "MATCHED"
+ },
+ "04210002651": {
+  "FULL_NAME_FOUND": "Grizzly Spt Pouch 7 Mg",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0042100026511",
+  "STATUS": "MATCHED"
+ },
+ "04210002654": {
+  "FULL_NAME_FOUND": "Grizzly Wtg Pouch 7 Mg",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0042100026542",
+  "STATUS": "MATCHED"
+ },
+ "04210004555": {
+  "FULL_NAME_FOUND": "Grizzly Wintergreen 12 Mg Nicotine Pouches",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Tobacco Products",
+  "BRAND": "Grizzly",
+  "SIZE": "",
+  "EAN": "0042100045550",
+  "STATUS": "MATCHED"
+ },
+ "04210004564": {
+  "FULL_NAME_FOUND": "Grizzly Southern 12 Mg Nicotine Pouches",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Tobacco Products",
+  "BRAND": "Grizzly",
+  "SIZE": "",
+  "EAN": "0042100045642",
+  "STATUS": "MATCHED"
+ },
+ "04210004570": {
+  "FULL_NAME_FOUND": "Grizzly 12 Mg Mint Nicotine Pouches",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Tobacco Products",
+  "BRAND": "Grizzly",
+  "SIZE": "",
+  "EAN": "0042100045703",
+  "STATUS": "MATCHED"
+ },
+ "04223820409": {
+  "FULL_NAME_FOUND": "Haribo Ginger Lemon Gummi Candy 4 Oz Peg Bag",
+  "DESCRIPTION": "Gummi pieces with a delightful combination of spicy ginger and lemon. The perfect HARIBO-refreshment on the go and in between.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Haribo",
+  "SIZE": "",
+  "EAN": "0042238204096",
+  "STATUS": "MATCHED"
  }
 }

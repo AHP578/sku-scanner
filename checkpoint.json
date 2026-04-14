@@ -17590,5 +17590,95 @@
   "SIZE": "",
   "EAN": "0040000514251",
   "STATUS": "MATCHED"
+ },
+ "04000051451": {
+  "FULL_NAME_FOUND": "Marques M&M Peanut Chocolate Candy 1.74oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Marques",
+  "SIZE": "",
+  "EAN": "0004000051451",
+  "STATUS": "MATCHED"
+ },
+ "04000058493": {
+  "FULL_NAME_FOUND": "Combo's Stuffed Snacks Nacho Cheese Baked Pretzel Snacks, 6.3 Oz Bag",
+  "DESCRIPTION": "Zesty flavor meets crunchy satisfaction in a snack made for everyday enjoyment. Each bite delivers playful taste, turning ordinary breaks into flavorful snacking occasions. With the familiar joy of Pretzels, every pack brings dependable satisfaction. The irresistible appeal of Cheesy notes adds indulgence to every bite, while the balanced fun of Snacks enhances the experience, creating a treat that feels both lively and comforting. Designed to highlight the harmony of flavor and crunch, this bag keeps cravings in check and enjoyment flowing throughout the day.",
+  "CATEGORY": "Pretzels",
+  "BRAND": "Combo's",
+  "SIZE": "",
+  "EAN": "0040000584933",
+  "STATUS": "MATCHED"
+ },
+ "04000059278": {
+  "FULL_NAME_FOUND": "M&M's Chocolate Candies, Peanut Butter, Mega, Share Size",
+  "DESCRIPTION": "This iconic candy gets even better with bites of chocolate candy and real creamy peanut butter. You’ll love the snack-sized pieces of chocolate-covered peanut butter coated with a colorful candy shell.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "M&M's",
+  "SIZE": "",
+  "EAN": "0040000592785",
+  "STATUS": "MATCHED"
+ },
+ "04000059533": {
+  "FULL_NAME_FOUND": "Snickers Pecan Milk Chocolate Bar, Share Size",
+  "DESCRIPTION": "New Snickers Pecan - a delicious twist on the iconic candy bar you love. The perfect blend of caramel, nougat and milk chocolate is now complimented by the savory-sweetness of pecansFind the SNICKERS PECAN 2.82OZ at Ace.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Snickers",
+  "SIZE": "",
+  "EAN": "0040000595335",
+  "STATUS": "MATCHED"
+ },
+ "04100000285": {
+  "FULL_NAME_FOUND": "Lipton Black Tea 20 Bags",
+  "DESCRIPTION": "Lipton Black Tea Bags are picked at the peak of freshness for a naturally smooth taste. Carefully selected and fresh-pressed tea leaves capture as much natural tea taste as possible. Sturdy, secure lock-box for easy storage, and wrapped Stay Fresh tea trays help preserve great tea taste and aroma. Like other hot and iced tea, wine and cocoa, Lipton Black Tea contains flavonoids. Consuming flavonoids as part of your everyday diet can help support a healthy heart. Lipton Black Tea is made with only 100 Rainforest Alliance certified tea bags.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Lipton",
+  "SIZE": "44 mL",
+  "EAN": "0041000002854",
+  "STATUS": "MATCHED"
+ },
+ "04100005414": {
+  "FULL_NAME_FOUND": "Good Humor Ice Cream Bar, Strawberry Shortcake",
+  "DESCRIPTION": "Indulge in the delightful taste of summer with the Good Humor Strawberry Shortcake Ice Cream Bar! This 4-ounce frozen treat combines creamy vanilla ice cream with a luscious strawberry-flavored center, all enveloped in a crunchy, golden cake coating. Perfect for satisfying your sweet tooth, this ice cream bar is a nostalgic favorite that brings joy to both kids and adults alike. Enjoy it on a hot day, as a dessert after dinner, or as a midday snack to lift your spirits.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "Good Humor",
+  "SIZE": "",
+  "EAN": "0041000054143",
+  "STATUS": "MATCHED"
+ },
+ "04100005415": {
+  "FULL_NAME_FOUND": "Fargo Electronics Ribbon Eco Ymcko W/cleaning 045411",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Electronics",
+  "BRAND": "Fargo Electronics",
+  "SIZE": "",
+  "EAN": "0004100005415",
+  "STATUS": "MATCHED"
+ },
+ "04111600519": {
+  "FULL_NAME_FOUND": "Ring Pop Sour Watermelon Candy - 0.5 Oz",
+  "DESCRIPTION": "Put a ring on it with Ring Pop! This delicious and quirky candy has a convenient ring-shaped design, making it perfect for on-the-go snacking. Plus, with 14 g of candy per pop, you'll have plenty to share (or not). It's a fun and tasty treat for any occasion, pop it and rock it!",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Ring Pop",
+  "SIZE": "",
+  "EAN": "0041116005190",
+  "STATUS": "MATCHED"
+ },
+ "04111600595": {
+  "FULL_NAME_FOUND": "Baby Bottle Pop Original Candy Lollipops With Dipping Powder Assorted Flavors",
+  "DESCRIPTION": "For over two decades, Baby Bottle Pop has been one of kids' favorite candies – packed with the fun and silliness that makes being a kid so great. Now pick from one of five delicious kid-favorite flavors! Each Baby Bottle Pop is a baby-bottle shaped lollipop and powder 2-in-1 candy that lets kids customize their flavor by dipping the sweet lollipop into delicious flavor-boosting powder. Just lick the lollipop top and dip, dunk or shake it with the sweet flavored powder to boost the taste to the next level of deliciousness and silliness. Dip as much or as little as you want! And if you want to save some for later, pop on the plastic cap and take it on the go. Pick from a mix of Strawberry, Blue Raspberry, Watermelon, and Berry Blast. Baby Bottle Pop – Packed Full of Silliness!",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Baby Bottle Pop",
+  "SIZE": "",
+  "EAN": "0041116005954",
+  "STATUS": "MATCHED"
+ },
+ "04111600634": {
+  "FULL_NAME_FOUND": "Baby Bottle Pop Candy, Watermelon 0.85 Oz",
+  "DESCRIPTION": "Indulge in the delightful world of Baby Bottle Pop Candy! These fun and flavorful candies are perfect for children and adults alike, offering a unique candy experience that combines sweet and sour flavors in a playful bottle design. Each Baby Bottle Pop features a lollipop that can be dipped into a tangy powder, creating a deliciously interactive treat that is sure to bring smiles to any occasion.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Baby Bottle Pop",
+  "SIZE": "",
+  "EAN": "0041116006340",
+  "STATUS": "MATCHED"
  }
 }

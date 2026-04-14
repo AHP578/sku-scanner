@@ -18400,5 +18400,95 @@
   "SIZE": "",
   "EAN": "0041433009536",
   "STATUS": "MATCHED"
+ },
+ "04143300954": {
+  "FULL_NAME_FOUND": "Market Sandwich Albacore Tuna Salad",
+  "DESCRIPTION": "Indulge in the delightful taste of our Market Albacore Tuna Salad Sandwich, perfectly crafted for those who appreciate quality and convenience. Each 5-ounce sandwich is made with premium albacore tuna, blended with a savory mix of ingredients to create a satisfying meal that is both nutritious and delicious. Ideal for lunch, picnics, or a quick snack, this sandwich is a must-have for anyone on the go.",
+  "CATEGORY": "Salad Toppings",
+  "BRAND": "Market Sandwich",
+  "SIZE": "",
+  "EAN": "0041433009543",
+  "STATUS": "MATCHED"
+ },
+ "04143300955": {
+  "FULL_NAME_FOUND": "Market Sandwich Mega Smoked Ham & Cheese",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Meat",
+  "BRAND": "Market Sandwich",
+  "SIZE": "",
+  "EAN": "0041433009550",
+  "STATUS": "MATCHED"
+ },
+ "04143300956": {
+  "FULL_NAME_FOUND": "Market Sandwich Mega Smoked White Turkey Cheese",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cheese",
+  "BRAND": "Market Sandwich",
+  "SIZE": "",
+  "EAN": "0041433009567",
+  "STATUS": "MATCHED"
+ },
+ "04143300957": {
+  "FULL_NAME_FOUND": "Market Sandwich Mega Italian Style",
+  "DESCRIPTION": "Sandwich with spicy ham, pepperoni & provolone. 25 g protein. 450 calories. Contains a bioengineered food ingredients. US inspected and passed by Department of Agriculture.",
+  "CATEGORY": "Deli Slicers",
+  "BRAND": "Market Sandwich",
+  "SIZE": "",
+  "EAN": "0041433009574",
+  "STATUS": "MATCHED"
+ },
+ "04143302538": {
+  "FULL_NAME_FOUND": "Market Sandwich Chicken Caesar Wrap",
+  "DESCRIPTION": "When you want the salad, but want more fulfillment, grab our Chicken Caesar Wrap. Chicken breast meat, creamy provolone cheese and zesty Caesar dressing are all rolled up in a spinach herb-flour tortilla.",
+  "CATEGORY": "Tortillas & Wraps",
+  "BRAND": "Market Sandwich",
+  "SIZE": "",
+  "EAN": "0041433025383",
+  "STATUS": "MATCHED"
+ },
+ "04143302576": {
+  "FULL_NAME_FOUND": "Market Sandwich Turkey Club Wrap",
+  "DESCRIPTION": "Made with oven roasted white turkey, bacon, smoked ham, cheddar cheese & ranch dressing on a tomato basil tortilla. Inspected for wholesomeness by US Department of Agriculture.",
+  "CATEGORY": "Clubs & Batons",
+  "BRAND": "Market Sandwich",
+  "SIZE": "",
+  "EAN": "0041433025765",
+  "STATUS": "MATCHED"
+ },
+ "04150080501": {
+  "FULL_NAME_FOUND": "Frank's RedHot Red Hot Cayenne Pepper Sauce, Original 5 Fl Oz",
+  "DESCRIPTION": "Frank's Original Red Hot Sauce is made with a premium blend of aged cayenne peppers that add a kick of heat and a whole lot of flavor to your favorite foods. It's a recipe that's worked for over 80 years. The perfect blend of flavor and heat.",
+  "CATEGORY": "Condiments & Sauces",
+  "BRAND": "Frank's RedHot",
+  "SIZE": "",
+  "EAN": "0041500805016",
+  "STATUS": "MATCHED"
+ },
+ "04150880008": {
+  "FULL_NAME_FOUND": "S.Pellegrino Sparkling Natural Mineral Water, 16.9 Fl Oz. Plastic Bottle",
+  "DESCRIPTION": "Sparkling natural mineral water imported from Italy. Long-lived bubbles with a creamy feel, slightly salty taste and well-balanced acidity produce a refreshing, thirst-quencher.",
+  "CATEGORY": "Water",
+  "BRAND": "S.Pellegrino",
+  "SIZE": "500 mL",
+  "EAN": "0041508800082",
+  "STATUS": "MATCHED"
+ },
+ "04157005181": {
+  "FULL_NAME_FOUND": "Blue Diamond Whole Natural Almonds, 1.5 Ounce Tube",
+  "DESCRIPTION": "Blue Diamond Whole Natural Almonds is a healthy snack with the flavor of the raw almond. These nonpareil almonds are a good way to get a handful of the almonds’ nutritional benefits every day. Also, it is a Heart-Healthy Food certified by the American Heart Association.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "Blue Diamond",
+  "SIZE": "",
+  "EAN": "0041570051818",
+  "STATUS": "MATCHED"
+ },
+ "04157005576": {
+  "FULL_NAME_FOUND": "Blue Diamond Bold Almonds, Salt & Vinegar, 1.5 Ounce",
+  "DESCRIPTION": "Blue Diamond add just the right amount of salt to complement the almond’s delicate flavor. And our unique roasting process holds in freshness for that just-right crunch. Perfect for snacking, they’re also ideal for your favorite recipes.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "Blue Diamond",
+  "SIZE": "",
+  "EAN": "0041570055762",
+  "STATUS": "MATCHED"
  }
 }

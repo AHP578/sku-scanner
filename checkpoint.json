@@ -21400,5 +21400,89 @@
   "SIZE": "",
   "EAN": "0044000082086",
   "STATUS": "MATCHED"
+ },
+ "04400008211": {
+  "FULL_NAME_FOUND": "Oreo Double Stuff Chocolate Cookies 4 Oz Pouch",
+  "DESCRIPTION": "Take a delicious break with Oreo Double Stuf Chocolate Sandwich Cookies, America's favorite sandwich cookie for over 100 years. Supremely dunkable, Oreo cookies sandwich a double layer of rich creme filling between the bold taste of two chocolate wafers-making them milk's favorite cookie.Find the OREO DBL STUFF 4OZ at Ace.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Oreo",
+  "SIZE": "",
+  "EAN": "0044000082116",
+  "STATUS": "MATCHED"
+ },
+ "04400008214": {
+  "FULL_NAME_FOUND": "Nabisco oreo Golden Double Stuf King Size Cookies 4.15oz",
+  "DESCRIPTION": "Indulge in the ultimate cookie experience with Oreo's Golden Double Stuff! Each bite delivers twice the luscious creme filling sandwiched between two golden vanilla wafers, offering a perfectly sweet and creamy treat. This King Size pack is ideal for satisfying your cravings or sharing with friends and family. Perfect for snacking on the go, pairing with your favorite beverage, or adding a delightful twist to your desserts. Whether you're a longtime Oreo lover or new to the golden variety, this irresistible classic is sure to become your new favorite. Grab your 4.15 OZ King Size pack today at Escaya Wine and Spirits and elevate your snack game with Oreo's signature decadence!",
+  "CATEGORY": "Cookies",
+  "BRAND": "Nabisco oreo",
+  "SIZE": "",
+  "EAN": "0044000082147",
+  "STATUS": "MATCHED"
+ },
+ "04400008249": {
+  "FULL_NAME_FOUND": "Oreo Reese's Peanut Buttery Creme Chocolate Sandwich Cookies - 10.81oz",
+  "DESCRIPTION": "Chocolate sandwich cookies filled with Reese's Peanut Buttery creme with Oreo cookie crumbs. Milk's favorite cookie.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Oreo",
+  "SIZE": "",
+  "EAN": "0044000082499",
+  "STATUS": "MATCHED"
+ },
+ "04436503051": {
+  "STATUS": "UNMATCHED"
+ },
+ "04460000938": {
+  "FULL_NAME_FOUND": "Clorox Toilet Bowl Cleaner With Bleach Rain Clean 24oz",
+  "DESCRIPTION": "Clorox™ Toilet Bowl Cleaner with Bleach kills 99.9%, including COVID-19* Virus, of germs and whitens and brightens your toilet bowl with the trusted power of Clorox™ Bleach. This powerful bleach cleans your toilet bowl while it destroys tough stains, disinfects and eliminates odors with a refreshing..",
+  "CATEGORY": "Toilet Bowl Cleaners",
+  "BRAND": "Clorox",
+  "SIZE": "",
+  "EAN": "0004460000938",
+  "STATUS": "MATCHED"
+ },
+ "04460002001": {
+  "FULL_NAME_FOUND": "Fresh Step Non Clumping Premium Clay Litter With Febreze Freshness, Multi Cat Formula, 7 Lb",
+  "DESCRIPTION": "Fresh Step Regular 7 lb contains everything you love about clay with one refreshing difference. It contains carbon to help eliminate odors on contact and keep your home smelling even fresher.",
+  "CATEGORY": "Cat Litter",
+  "BRAND": "Fresh Step",
+  "SIZE": "",
+  "EAN": "0044600020013",
+  "STATUS": "MATCHED"
+ },
+ "04460032064": {
+  "FULL_NAME_FOUND": "Kingsford Original Charcoal Briquettes 16 Pounds Bag For Grilling And Barbecue",
+  "DESCRIPTION": "Bring people together and make any meal an event with Kingsford Original Charcoal Briquettes. Designed with the breakthrough technology of Sure Fire G.",
+  "CATEGORY": "Charcoal Briquettes",
+  "BRAND": "Kingsford",
+  "SIZE": "",
+  "EAN": "0044600320649",
+  "STATUS": "MATCHED"
+ },
+ "04460032070": {
+  "FULL_NAME_FOUND": "Kingsford Charcoal Briquets Original 4 Lb Bag",
+  "DESCRIPTION": "With no preparation and no lighter fluid needed, Kingsford Easy Light Bag makes impromptu grilling fun and easy. Convenient and portable, this single-use bag allows you to charcoal grill almost anywhere. Like Kingsford Original Charcoal, these charcoal briquettes are made with natural ingredients and real wood to deliver an authentic smoky flavor. This charcoal features Sure Fire Groove technology for fast lighting. Just turn the bag on its side, pull the bottom flap out, and light as illustrated on the bag. This Kingsford Easy Light bag of charcoal is easy to light. When coals are covered in ash spread evenly and start grilling.",
+  "CATEGORY": "Charcoal Briquettes",
+  "BRAND": "Kingsford",
+  "SIZE": "",
+  "EAN": "0044600320700",
+  "STATUS": "MATCHED"
+ },
+ "04460032096": {
+  "FULL_NAME_FOUND": "Kingsford Match Light Instant Charcoal Briquets 4 Lb",
+  "DESCRIPTION": "No lighter fluid needed with the single-use bag of Kingsford® Match Light charcoal briquettes. Made with real wood — great for an authentic smoky flavor.",
+  "CATEGORY": "Charcoal Briquettes",
+  "BRAND": "Kingsford",
+  "SIZE": "",
+  "EAN": "0044600320960",
+  "STATUS": "MATCHED"
+ },
+ "04460032260": {
+  "FULL_NAME_FOUND": "Clorox Disinfecting Bleach, Concentrated Formula, Regular - 43 Ounce Bottle",
+  "DESCRIPTION": "Helps reduce soil adhesion to surfaces and provides a quicker clean. Delivers brighter and longer-lasting whites by improving performance between Clorox Regular Bleach2 and detergents.",
+  "CATEGORY": "Bleach",
+  "BRAND": "Clorox",
+  "SIZE": "",
+  "EAN": "0044600322605",
+  "STATUS": "MATCHED"
  }
 }

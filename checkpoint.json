@@ -19546,5 +19546,95 @@
   "SIZE": "",
   "EAN": "0784847575067",
   "STATUS": "MATCHED"
+ },
+ "78484757507": {
+  "FULL_NAME_FOUND": "Tyson Legend Frozen Banana",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Bananas",
+  "BRAND": "Tyson",
+  "SIZE": "",
+  "EAN": "0784847575074",
+  "STATUS": "MATCHED"
+ },
+ "78484757510": {
+  "FULL_NAME_FOUND": "Tyson 2.0 Legend 30K Frozen Mango",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Mangoes",
+  "BRAND": "Tyson",
+  "SIZE": "",
+  "EAN": "0784847575104",
+  "STATUS": "MATCHED"
+ },
+ "78484757515": {
+  "FULL_NAME_FOUND": "Tyson Legend Strawberry Banana",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Bananas",
+  "BRAND": "Tyson",
+  "SIZE": "",
+  "EAN": "0784847575159",
+  "STATUS": "MATCHED"
+ },
+ "78484757553": {
+  "FULL_NAME_FOUND": "Tyson Miami Mint 2.0 Legend 30K Disposable",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Tobacco Products",
+  "BRAND": "Tyson",
+  "SIZE": "",
+  "EAN": "0784847575531",
+  "STATUS": "MATCHED"
+ },
+ "78484757651": {
+  "FULL_NAME_FOUND": "Tyson Legend Cherry Bomb",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Tobacco Products",
+  "BRAND": "Tyson",
+  "SIZE": "",
+  "EAN": "0784847576514",
+  "STATUS": "MATCHED"
+ },
+ "78484757680": {
+  "FULL_NAME_FOUND": "Tyson Pineapple Kiwi 2.0 Legend 30K Disposable",
+  "DESCRIPTION": "Craving a refreshing fruit combination? Pineapple Kiwi Tyson 2.0 Legend 30K offers the perfect mix of tangy kiwi and sweet pineapple in every puff. Triple mesh coil technology provides smooth, consistent vapor, and adjustable airflow allows you to customize each draw. This draw-activated device features a 3D curved display with battery life and e-liquid indicators, so you never run out unexpectedly. Recharge quickly via Type-C port and enjoy long-lasting flavor. Compact, powerful, and flavorful, the Pineapple Kiwi Tyson 2.0 Legend 30K is a must-have for fans of tropical fruit blends.",
+  "CATEGORY": "Tobacco Products",
+  "BRAND": "Tyson",
+  "SIZE": "",
+  "EAN": "0784847576804",
+  "STATUS": "MATCHED"
+ },
+ "78616200151": {
+  "FULL_NAME_FOUND": "Smartwater Vapor Distilled Premium Water Bottle, 23.7 Fl Oz",
+  "DESCRIPTION": "A lot of great things happen on the ground, we live here, for one, and that's nothing to shake a stick at. But when it comes to finding some purified water, you've got to look up. When you look up, you just think about things differently. You see faces in the clouds. You admire the clear, blue Sky. Heck, if you're lucky you might even see a shooting star or a Bald Eagle or both. We looked up and were inspired by the clouds to vapor-distill smartwater. By taking cues from mother nature and then adding electrolytes for taste, we were able to take crisp and pure to a whole new level. So, next time you're searching for some new possibilities (or just some purified water) You know where to look.",
+  "CATEGORY": "Water",
+  "BRAND": "Smartwater",
+  "SIZE": "704 mL",
+  "EAN": "0786162001511",
+  "STATUS": "MATCHED"
+ },
+ "78616200296": {
+  "FULL_NAME_FOUND": "Vitaminwater Sugar Xxx Açai Blueberry Pomegranate Nutrient Enhanced Flavored Beverage 20 Fl Oz",
+  "DESCRIPTION": "Experience the refreshing taste of Glaceau Vitaminwater Zero, a nutrient-enhanced water beverage that combines the delicious flavors of Acai, Blueberry, and Pomegranate. This 20 Fl Oz bottle is perfect for hydration on the go, providing essential vitamins and minerals without the added sugars. Ideal for those who lead an active lifestyle, Vitaminwater Zero is designed to keep you energized and refreshed throughout the day.",
+  "CATEGORY": "Water",
+  "BRAND": "Vitaminwater",
+  "SIZE": "591 mL",
+  "EAN": "0786162002969",
+  "STATUS": "MATCHED"
+ },
+ "78616200297": {
+  "FULL_NAME_FOUND": "Vitaminwater Zero Sugar Squeezed Lemonade Nutrient Enhanced Flavored Water Beverage, 20 Fl Oz Bottle",
+  "DESCRIPTION": "sometimes you're going through life, minding your own business, and then bam! you're thirsty. life can be unpredictable like that. luckily, there's vitaminwater zero sugar squeezed, lemonade — the brand-new flavor from vitaminwater just waiting to become your new favorite beverage. think of it as the best-tasting drink you can imagine but, you know, with essential vitamins and great taste. it's like someone bottled up a moment of bliss and added a bunch of vitamins. sounds fancy, right? plus, it's a brand-new flavor, so you have the perfect excuse to ditch your boring, old drink and try something fresh. don't be intimidated by all those multivitamins. it's like a pep talk in a bottle, with a good source of calcium and zinc thrown in for good measure. and let's not forget the hydration part — nothing screams \"i've got my life together\" quite like staying hydrated with a delicious, flavored-water beverage with 0 calories per 20 fl oz bottle. for those who want to enjoy every sip and go back for more. plus, the entire vitaminwater zero sugar lineup contains no artificial sweeteners, no artificial flavors, or synthetic colors. so next time life throws a curveball and you're parched, grab a vitaminwater zero sugar squeezed, lemonade. it's the little things that make life sweet, and this bottled, nutrient-enhanced water beverage is one of them.",
+  "CATEGORY": "Water",
+  "BRAND": "Vitaminwater",
+  "SIZE": "591 mL",
+  "EAN": "0786162002976",
+  "STATUS": "MATCHED"
+ },
+ "78616200485": {
+  "FULL_NAME_FOUND": "Vitaminwater Refresh Tropical Mango Nutrient Enhanced Flavored Water Beverage, 20 Fl Oz Bottle",
+  "DESCRIPTION": "Nutrient enhanced water beverage. Full of antioxidants, vitamins, electrolytes, and more. Keeps you refreshed and hydrated—great for the gym, work, sports, and more. Refresh Tropical Mango flavor. Contains 20 ounces per unit. Bulk pack includes 12 units. By Glaceau.",
+  "CATEGORY": "Water",
+  "BRAND": "Vitaminwater",
+  "SIZE": "591 mL",
+  "EAN": "0786162004857",
+  "STATUS": "MATCHED"
  }
 }

@@ -21130,5 +21130,95 @@
   "SIZE": "",
   "EAN": "0815058022337",
   "STATUS": "MATCHED"
+ },
+ "81505802234": {
+  "FULL_NAME_FOUND": "Logic Power Tobacco Cartridges 1",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Respiratory Care",
+  "BRAND": "Logic",
+  "SIZE": "",
+  "EAN": "0815058022344",
+  "STATUS": "MATCHED"
+ },
+ "81505802235": {
+  "FULL_NAME_FOUND": "Logic Power Menthol Cartridges 1",
+  "DESCRIPTION": "27 mg/ml nicotine. All nicotine sourced from 100% foreign-grown tobacco. Exclusively for use with Logic Power Capsule System - Electronic Cigarette. logicvapes.com.",
+  "CATEGORY": "Food, Beverages & Tobacco",
+  "BRAND": "Logic",
+  "SIZE": "",
+  "EAN": "0815058022351",
+  "STATUS": "MATCHED"
+ },
+ "81505802243": {
+  "FULL_NAME_FOUND": "Logic Pro Refills 20mg T 20ct 11/18 Free",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Massage & Relaxation",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0815058022436",
+  "STATUS": "MATCHED"
+ },
+ "81505802244": {
+  "FULL_NAME_FOUND": "Logic Pro Menthol Capsules 1",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Massage & Relaxation",
+  "BRAND": "Logic",
+  "SIZE": "",
+  "EAN": "0815058022443",
+  "STATUS": "MATCHED"
+ },
+ "81505802286": {
+  "FULL_NAME_FOUND": "Logic Pro Vape Device 1",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Massage & Relaxation",
+  "BRAND": "Logic",
+  "SIZE": "",
+  "EAN": "0815058022863",
+  "STATUS": "MATCHED"
+ },
+ "81509902020": {
+  "FULL_NAME_FOUND": "Late July Jalapeno Lime Tortilla Chips, 2 Ounce, 24 Per Case",
+  "DESCRIPTION": "The Late July Jalapeno Lime Clasico Tortilla Chips are a light and crispy snack. It is made with whole ground yellow corn, jalapeno pepper seasoning, and a fresh taste of lime. This gluten-free, vegan, and kosher snack is suitable for a variety of dietary needs. The bulk case with 6 packets is ideal for cafeterias, supermarkets, and vending machines.",
+  "CATEGORY": "Chips",
+  "BRAND": "Late July",
+  "SIZE": "",
+  "EAN": "0815099020200",
+  "STATUS": "MATCHED"
+ },
+ "81509902021": {
+  "FULL_NAME_FOUND": "Late July Snacks Clasico Nacho Chipotle Tortilla Chips",
+  "DESCRIPTION": "At Late July, we believe life is better with good friends and great food. Since 2003, we have been obsessed with crafting the world's most delicious snacks with the finest organic & Non-GMO ingredients. Thanks for snacking with us! The Late July Team.",
+  "CATEGORY": "Chips",
+  "BRAND": "Late July Snacks",
+  "SIZE": "",
+  "EAN": "0815099020217",
+  "STATUS": "MATCHED"
+ },
+ "81515402000": {
+  "FULL_NAME_FOUND": "NOS High Performance Energy Drink 16 Fl Oz",
+  "DESCRIPTION": "NOS is an energy drink sold in 16 and 24 US fluid ounce 470 and 710 ml cans. The drink was also distributed in a bottle designed to look like a NOS, nitrous oxide systems, tank which has been discontinued. Formerly a property of the coca cola company, it is currently produced by Monster beverage. Refreshing tropical citrus flavor with balanced mango and passion fruit notes.Find the ENRGY DRNK CTR LM 16FLOZ at Ace.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "NOS",
+  "SIZE": "473 mL",
+  "EAN": "0815154020008",
+  "STATUS": "MATCHED"
+ },
+ "81515402007": {
+  "FULL_NAME_FOUND": "NOS High Performance Energy Drink 24 Fl Oz",
+  "DESCRIPTION": "NOS Energy Drink is designed to provide a powerful energy boost with a refreshing taste. Each 24-ounce can is packed with essential vitamins and energy-boosting ingredients, making it the perfect choice for anyone needing an extra kick to get through their day. Whether you are hitting the gym, working late, or just need a pick-me-up, NOS Energy Drink is your go-to solution.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "NOS",
+  "SIZE": "710 mL",
+  "EAN": "0815154020077",
+  "STATUS": "MATCHED"
+ },
+ "81515402009": {
+  "FULL_NAME_FOUND": "Nos High Performance Grape Energy Drink - 16 Fl Oz Can",
+  "DESCRIPTION": "NOS® High Performance Energy Drink GT Grape. High performance energy + Enhanced mental focus. Cmplx6®: Taurine. Caffeine. Inositol. Vitamin B6. Guarana. Vitamin B12. Natural and artificial flavor. 16 fl. oz. (473 ml).",
+  "CATEGORY": "Beverages",
+  "BRAND": "Nos",
+  "SIZE": "473 mL",
+  "EAN": "0815154020091",
+  "STATUS": "MATCHED"
  }
 }

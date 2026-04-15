@@ -18916,5 +18916,95 @@
   "SIZE": "",
   "EAN": "0044000024567",
   "STATUS": "MATCHED"
+ },
+ "04400002828": {
+  "FULL_NAME_FOUND": "Mondelez Bel Vita Blueberry Breakfast Biscuits",
+  "DESCRIPTION": "Busy customers looking for a better-for-you breakfast to take on the go will love BelVita's Blueberry Breakfast Biscuit. The baked goods are made with high-quality, wholesome ingredients, like rolled oats and real blueberries to help give customers nutritious, steady energy. The vibrant single serve packaging will attract attention at your point of sale inspiring impulse purchases.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Mondelez",
+  "SIZE": "52 mL",
+  "EAN": "0044000028282",
+  "STATUS": "MATCHED"
+ },
+ "04400002950": {
+  "FULL_NAME_FOUND": "Oreo Sandwich Cookies, Chocolate, King Size",
+  "DESCRIPTION": "This King Size package now contains even more of Milk’s favorite cookie! These convenient single-serve packs contain 10 Oreo cookies and are great for purses, briefcases, and backpacks. Enjoy them anytime on the road, at the office, or at home. Package contains 4 oz of Oreo cookies.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Oreo",
+  "SIZE": "",
+  "EAN": "0044000029500",
+  "STATUS": "MATCHED"
+ },
+ "04400002952": {
+  "FULL_NAME_FOUND": "Oreo Sandwich Cookies, Chocolate, Double Stuf, King Size",
+  "DESCRIPTION": "Take a delicious break with OREO Double Stuf Chocolate Sandwich Cookies, America's favorite sandwich cookie for over 100 years. Supremely dunkable, OREO cookies sandwich a double layer of rich creme filling between the bold taste of two chocolate wafers--making them milk's favorite cookie. OREO double stuffed cookies are great for serving at parties, packing in work or school lunches, or mixing into your favorite dessert recipe. These convenient OREO cookie snack packs hold eight cookies each, making them perfect for sharing or traveling. These bulk cookies are the ideal size for stocking the pantry at your home, office or small business.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Oreo",
+  "SIZE": "",
+  "EAN": "0044000029524",
+  "STATUS": "MATCHED"
+ },
+ "04400002954": {
+  "FULL_NAME_FOUND": "NH Prato Bolo Com Pé 27X26X26Cm Bambu Natural Tampa Vidro",
+  "DESCRIPTION": "PRATO BOLO COM PÉ 27x26x26cm BAMBU NATURAL TAMPA VIDRO. É a peça que faltava para completar a sua experiência na cozinha. É um produto muito prático para o dia a dia, pois facilita o manuseio. Não utilizar produtos abrasivos.",
+  "CATEGORY": "",
+  "BRAND": "NH",
+  "SIZE": "",
+  "EAN": "0004400002954",
+  "STATUS": "MATCHED"
+ },
+ "04400002991": {
+  "FULL_NAME_FOUND": "Chips Ahoy! Chocolate Chip With Reese's Peanut Butter Cups Chewy Cookies - 9.5 Ounce",
+  "DESCRIPTION": "CHIPS AHOY! Chewy Chocolate Chip Cookies with Reese’s Peanut Butter Cups are the CHIPS AHOY! cookies you know and love, baked ‘til soft and chewy and packed with delicious chocolate and peanut butter cup chunks. Enjoy the comforting taste of these soft chocolate chip cookies, and with the added bite of Reese’s Peanut Butter Cups they are sure to become a household favorite. Make lunches at school or work more exciting by including CHIPS AHOY! chewy soft cookies as sweet treats, or grab a pack of bite size cookies to prep for a party or gathering for easy party favors and snacks. Regardless of the occasion, these cookies make a simple treat or dessert. The lift tab makes this package of soft baked cookies easy to open and close for convenient storage.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Chips Ahoy!",
+  "SIZE": "",
+  "EAN": "0044000029913",
+  "STATUS": "MATCHED"
+ },
+ "04400003111": {
+  "FULL_NAME_FOUND": "Ritz Original Crackers",
+  "DESCRIPTION": "Made with 100% whole grain, these Crunchmaster Multi-Grain Cracker feature crunchy, baked crackers with a rich and savory taste. Free of sugar, trans fat, and cholesterol, these are a great snack option.",
+  "CATEGORY": "Crackers",
+  "BRAND": "Ritz",
+  "SIZE": "",
+  "EAN": "0004400003111",
+  "STATUS": "MATCHED"
+ },
+ "04400003113": {
+  "FULL_NAME_FOUND": "Ritz Original Crackers - Fresh Stacks, 11.8 Ounce",
+  "DESCRIPTION": "RITZ Fresh Stacks Original Crackers have a rich, buttery flavor that's perfect for pairing, topping, or snacking. Whether it’s a formal event or a gathering of friends, these tasty round crackers are an ideal snack food or appetizer. Enjoy RITZ crackers on their own or pair RITZ salted crackers with a variety of toppings like cheese, meat, fruit, peanut butter, or chocolate. Keep a package of original RITZ Fresh Stacks Crackers on your snack shelf of salty snacks or in your office food pantry for an easy anytime treat. Each box of RITZ Fresh Stacks contains individually wrapped cracker snack packs, each containing 13 crackers making them great on the go travel snacks for adults, and lunch snacks for kids. Fresh stacks keep bulk RITZ crackers fresh and ready to share.",
+  "CATEGORY": "Crackers",
+  "BRAND": "Ritz",
+  "SIZE": "",
+  "EAN": "0044000031138",
+  "STATUS": "MATCHED"
+ },
+ "04400003133": {
+  "FULL_NAME_FOUND": "Ritz Crackers, Baked With Whole Wheat",
+  "DESCRIPTION": "RITZ Whole Wheat Crackers are the classic RITZ crackers you love, now baked with the goodness of whole wheat. In addition to their rich, buttery flavor, these snack crackers pack five grams of whole grain per 15 gram serving. RITZ salted crackers have a classic taste that provides a creative canvas for almost any topping, and they're a great snack food on their own. Add RITZ Whole Wheat Crackers to your shelf of salty snacks for an after school treat, or crush them as a unique dessert topping. Each package includes one 12.9 ounce box of RITZ crackers that is sealed to lock in freshness.",
+  "CATEGORY": "Crackers",
+  "BRAND": "Ritz",
+  "SIZE": "",
+  "EAN": "0044000031336",
+  "STATUS": "MATCHED"
+ },
+ "04400003193": {
+  "FULL_NAME_FOUND": "Belvita Bel Vita Breakfast Biscuits, Cinnamon Brown Sugar",
+  "DESCRIPTION": "Breakfast Biscuits. Good source of fiber, B-vitamins.No high fructose corn syrup, partially hydrogenated oils or artificial flavors or sweeteners.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Belvita",
+  "SIZE": "52 mL",
+  "EAN": "0044000031930",
+  "STATUS": "MATCHED"
+ },
+ "04400003219": {
+  "FULL_NAME_FOUND": "Chips Ahoy! Original Chocolate Chip Cookies, 13 Ounce",
+  "DESCRIPTION": "CHIPS AHOY! Chewy Chocolate Chip Cookies are the CHIPS AHOY! classic cookies you know and love, but baked to be perfectly soft and chewy. These soft cookies are baked to perfection for maximum chewy goodness. Enjoy the comforting taste of these cookies that are sure to become a household favorite treat. Make lunches at school or work more exciting by including CHIPS AHOY! chocolate chip cookies, or serve these chewy cookies as birthday cookies or ice cream toppers at your next party. Regardless of the occasion, these cookies make a simply delicious treat or dessert when a sweet craving strikes. The lift tab makes this package of soft baked cookies easy to open and close for convenient storage.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Chips Ahoy!",
+  "SIZE": "",
+  "EAN": "0044000032197",
+  "STATUS": "MATCHED"
  }
 }

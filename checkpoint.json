@@ -18850,5 +18850,71 @@
   "SIZE": "",
   "EAN": "0042897660035",
   "STATUS": "MATCHED"
+ },
+ "04300009414": {
+  "FULL_NAME_FOUND": "Maxwell House Coffee, Ground, Medium, Original Roast - 10.3 Ounce",
+  "DESCRIPTION": "Good to the last drop. Smooth and rich from the first sip to the last. Take a moment. Prepare for what is next with Maxwell House. Brew smooth, delicious coffee. Take in the rich aroma. Savor the strong, full-bodied flavor. Get ready and show the world what you are all about.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Maxwell House",
+  "SIZE": "305 mL",
+  "EAN": "0043000094143",
+  "STATUS": "MATCHED"
+ },
+ "04330000086": {
+  "FULL_NAME_FOUND": "Carlton Box Pack",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Carlton",
+  "SIZE": "",
+  "EAN": "0043300000868",
+  "STATUS": "MATCHED"
+ },
+ "04330000095": {
+  "FULL_NAME_FOUND": "Misty Cigarettes, Menthol Green",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Misty",
+  "SIZE": "",
+  "EAN": "0043300000950",
+  "STATUS": "MATCHED"
+ },
+ "04365221135": {
+  "STATUS": "UNMATCHED"
+ },
+ "04365221191": {
+  "STATUS": "UNMATCHED"
+ },
+ "04365221192": {
+  "STATUS": "UNMATCHED"
+ },
+ "04365221193": {
+  "STATUS": "UNMATCHED"
+ },
+ "04400000382": {
+  "FULL_NAME_FOUND": "Premium Saltine Crackers Original",
+  "DESCRIPTION": "Premium Saltine Crackers are topped with coarse sea salt. Enjoy Premium Saltines dipped or crumbled into your favorite stews, soups or dips. Premium Saltine Crackers make a great light snack, especially when you add cheese or peanut butter. Premium Crackers are Kosher Dairy, no cholesterol, trans fat or saturated fat. This includes one 4oz box of Premium Saltine Crackers Original.",
+  "CATEGORY": "Crackers",
+  "BRAND": "Premium",
+  "SIZE": "",
+  "EAN": "0044000003821",
+  "STATUS": "MATCHED"
+ },
+ "04400000749": {
+  "FULL_NAME_FOUND": "Oreo Chocolate Sandwich Cookies - 5.25oz",
+  "DESCRIPTION": "Supremely dunkable, Oreo cookies sandwich a rich creme filling between the bold taste of two chocolate wafers--making them milk's favorite cookie. Contains zero trans fatsPerfect for snacking and sharing at home, in the office, or on-the-goAlways made with cocoa.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Oreo",
+  "SIZE": "",
+  "EAN": "0044000007492",
+  "STATUS": "MATCHED"
+ },
+ "04400002456": {
+  "FULL_NAME_FOUND": "Chips Ahoy! Cookies, Milk Chocolate, Reese's Peanut Butter Cups",
+  "DESCRIPTION": "You'll love 'em to pieces! Your favorite cookie with the fun of Reese's. Slit appears when opened sealed.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Chips Ahoy!",
+  "SIZE": "",
+  "EAN": "0044000024567",
+  "STATUS": "MATCHED"
  }
 }

@@ -22114,5 +22114,95 @@
   "SIZE": "591 mL",
   "EAN": "0049000026207",
   "STATUS": "MATCHED"
+ },
+ "04900002820": {
+  "FULL_NAME_FOUND": "Fanta Pineapple Soda Soft Drink, 20 Fl Oz Bottle",
+  "DESCRIPTION": "Experience the refreshing taste of Fanta Pineapple Soda! Fanta Pineapple Soda is a delightful, caffeine-free beverage that brings the tropical flavor of pineapple to your palate. Perfect for quenching your thirst on a hot day or adding a splash of fun to any gathering, this soda is a favorite among soda lovers. Each 20-ounce bottle is packed with the sweet and tangy taste of pineapple, making it an ideal choice for parties, picnics, or simply enjoying at home.",
+  "CATEGORY": "Soda",
+  "BRAND": "Fanta",
+  "SIZE": "591 mL",
+  "EAN": "0049000028201",
+  "STATUS": "MATCHED"
+ },
+ "04900003117": {
+  "FULL_NAME_FOUND": "Coca-Cola Vanilla Soda Soft Drink 20 Fl Oz",
+  "DESCRIPTION": "Experience the classic taste of Coca-Cola with a delightful twist! Indulge in the refreshing flavor of Coca-Cola Vanilla Soda, a perfect blend of the iconic Coca-Cola taste with a smooth vanilla finish. This 20 fluid ounce bottle is ideal for quenching your thirst on a hot day or enjoying with your favorite meal. Whether you are hosting a gathering or simply treating yourself, Coca-Cola Vanilla is a delicious choice that everyone will love.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Coca-Cola",
+  "SIZE": "591 mL",
+  "EAN": "0049000031171",
+  "STATUS": "MATCHED"
+ },
+ "04900004086": {
+  "FULL_NAME_FOUND": "Coca-Cola Zero Sugar Coke Diet Soda Soft Drink - 20 Fl Oz",
+  "DESCRIPTION": "There's nothing quite like the crisp, refreshing taste of an ice-cold Coca-Cola Zero Sugar. With this zero sugar soda, you can enjoy the same great Coca-Cola taste, with zero sugar and zero calories. However you choose to enjoy it, this delicious soft drink elevates life's sweetest moments and makes them even better (without the sugar). Delicious and refreshing, Coca-Cola Zero Sugar is meant to be enjoyed anytime, anywhere. This zero-sugar cola's secret formula has been carefully crafted to create a no-sugar taste experience like no other. The familiar fizz and caffeine give you a moment of refreshment with every sip. Pop open a Coca-Cola Zero Sugar to make great taste a part of every day. Whether spending time with friends and family or taking a quick break to recharge, Coke Zero provides the great Coca-Cola taste you love without the sugar. Find your magic and make life delicious with an ice-cold Coca-Cola Zero Sugar.",
+  "CATEGORY": "Soda",
+  "BRAND": "Coca-Cola Zero Sugar",
+  "SIZE": "591 mL",
+  "EAN": "0049000040869",
+  "STATUS": "MATCHED"
+ },
+ "04900004782": {
+  "FULL_NAME_FOUND": "Sprite Lemon Lime Caffeine Free Soda Soft Drink Mexico Glass Bottle 12 Fl Oz",
+  "DESCRIPTION": "With its cool, satisfying, and refreshing citrus taste, Sprite is the soda that ignites your senses to keep you on your toes. As the OG, the head honcho in the lemon-lime flavored soft drink biz, Sprite was, is, and will always be an innovator. An inventor. Keeping things interesting for you, no matter how you drink it. It’s a big challenge, but one that Sprite’s not afraid of—because innovators aren’t afraid of anything. Every sip of Sprite is refreshing, so it should come as no surprise why Sprite and lemon-lime have become synonymous. As the awe-inspiring trendsetter of the iconic flavor, Sprite never fails to deliver exactly what it promises, every single time. After all, it’s been doing that for 50 years already. For the people who love a little more zing, there’s a variety of different Sprite flavors, like Cherry and Tropical Mix, as well as zero calorie and zero sugar options. And while the original Sprite is its own brand of perfection, its different flavor options offer a brand-new soda experience. Sprite delivers intense, crisp citrus taste in every single sip. So when it comes to the ultimate lemon-lime flavored drink, there’s only one place to turn—the flavor that started it all.",
+  "CATEGORY": "Soda",
+  "BRAND": "Sprite",
+  "SIZE": "355 mL",
+  "EAN": "0049000047820",
+  "STATUS": "MATCHED"
+ },
+ "04900004784": {
+  "FULL_NAME_FOUND": "Fanta Orange Soda Soft Drink Glass Bottle 12 Fl Oz",
+  "DESCRIPTION": "Experience the refreshing taste of Fanta Caffeine-Free Orange Soda! Enjoy the vibrant and zesty flavor of this classic orange soda, now available in a convenient 12 fluid ounce glass bottle. Perfect for quenching your thirst on a hot day or as a delightful addition to any gathering, this soda is a favorite among fans of fruity beverages. Made with high-quality ingredients, Fanta Orange Soda is caffeine-free, making it an ideal choice for all ages.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Fanta",
+  "SIZE": "355 mL",
+  "EAN": "0049000047844",
+  "STATUS": "MATCHED"
+ },
+ "04900005010": {
+  "FULL_NAME_FOUND": "Coca-Cola Original Taste Soda Pop, 2 Liter Bottle",
+  "DESCRIPTION": "Coca-Cola is the soda that brings people together, one fizzy drink at a time. Crisp and refreshing, it's the soft drink you've loved forever. With just the right amount of sparkle, Coca-Cola makes every sip feel like a celebration. Who needs an excuse? Pop open a bottle and enjoy the moment. This sparkling soda is the real MVP of gatherings. Picture it paired with crispy wings, loaded nachos, or that slice of pizza everyone's eyeing. From backyard cookouts to game-day celebrations, it's the fizzy drink that fits right into any setting. One pour, one sip, and you're reminded why Coca-Cola has been bringing people together for generations. The centerpiece of good times, Coca-Cola is the icon of carbonated soft drinks. The bubbly drink everyone reaches for, the cola that doesn't quit. It's bold, classic, and oh-so-versatile. Whether you're sharing it with loved ones or savoring it all to yourself, every sip brings a little joy. So go ahead-grab a bottle, kick back, and let the good times roll. Every pour, every smile, every fizz-it's Coca-Cola.",
+  "CATEGORY": "Soda",
+  "BRAND": "Coca-Cola",
+  "SIZE": "2000 mL",
+  "EAN": "0049000050103",
+  "STATUS": "MATCHED"
+ },
+ "04900005011": {
+  "FULL_NAME_FOUND": "AT Surgical Diet Coke 2L",
+  "DESCRIPTION": "Diet coke is the most popular calorie-free soft drink in america. It is the original carbonated beverage for those who want great flavor without the calories a drink for those with great taste.",
+  "CATEGORY": "Soda",
+  "BRAND": "AT Surgical",
+  "SIZE": "2000 mL",
+  "EAN": "0004900005011",
+  "STATUS": "MATCHED"
+ },
+ "04900005015": {
+  "FULL_NAME_FOUND": "Sprite Lemon Lime Soda Soft Drink Lemon-Lime, 2 Liter Bottle",
+  "DESCRIPTION": "Some people know it simply as a lemon-lime flavored soft drink, but most know it as Sprite. The OG, the head honcho in the lemon-lime soda biz. The flavor that started it all. It should come as no surprise why Sprite and lemon-lime have become synonymous. As the awe-inspiring trendsetter of the iconic flavor, Sprite never fails to deliver an extremely satisfying taste. With 100% natural flavors, and caffeine-free, you can enjoy at any time of day.",
+  "CATEGORY": "Soda",
+  "BRAND": "Sprite",
+  "SIZE": "2000 mL",
+  "EAN": "0049000050158",
+  "STATUS": "MATCHED"
+ },
+ "04900005025": {
+  "FULL_NAME_FOUND": "Fanta Orange Soda Soft Drink Bottle, 2 Liters",
+  "DESCRIPTION": "Welcome to the vibrant world of Fanta Orange Soda. This crisp, orange fruit-flavored soft drink is full of fizzy refreshment and deliciousness. Each sip of this caffeine-free soda promises lip-smacking refreshment you don't need but really, really want. It's perfect for snacking, road trips, movie nights, and more.",
+  "CATEGORY": "Soda",
+  "BRAND": "Fanta",
+  "SIZE": "1999 mL",
+  "EAN": "0049000050257",
+  "STATUS": "MATCHED"
+ },
+ "04900005026": {
+  "FULL_NAME_FOUND": "Fanta Pineapple Soda Fruit Flavored Soft Drink, 2 Liter Bottle",
+  "DESCRIPTION": "Fanta Pineapple Fruit Soda Pop, 2 Liter Bottle Store / Juices and soft drinks.",
+  "CATEGORY": "Soda",
+  "BRAND": "Fanta",
+  "SIZE": "1999 mL",
+  "EAN": "0049000050264",
+  "STATUS": "MATCHED"
  }
 }

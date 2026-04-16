@@ -22834,5 +22834,95 @@
   "SIZE": "828 mL",
   "EAN": "0052000063424",
   "STATUS": "MATCHED"
+ },
+ "05200006816": {
+  "FULL_NAME_FOUND": "Gatorade Zero Sugar Thirst Quencher Glacier Freeze Bottle",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Gatorade",
+  "SIZE": "",
+  "EAN": "0052000068160",
+  "STATUS": "MATCHED"
+ },
+ "05200006818": {
+  "FULL_NAME_FOUND": "Gatorade Thirst Quencher Orange Flavor Drink",
+  "DESCRIPTION": "With a legacy over 50 years in the making, Gatorade Thirst Quencher is backed by science with electrolytes to help replace what is lost in sweat. Includes 1 (24 fl oz) bottle of Gatorade Thirst Quencher Orange Flavor DrinkWhen you sweat, you lose more than water Gatorade Thirst Quencher contains critical electrolytes to help replace what's lost in sweatThe sodium and potassium in Gatorade Thirst Quencher helps replace the electrolytes that are lost in sweatTop off your fuel stores with carbohydrate energy, your body's preferred source of fuelTested in the lab and used by the pros.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Gatorade",
+  "SIZE": "",
+  "EAN": "0052000068184",
+  "STATUS": "MATCHED"
+ },
+ "05200010241": {
+  "FULL_NAME_FOUND": "Gatorade Frost Thirst Quencher Glacier Cherry 28 Fl Oz",
+  "DESCRIPTION": "The one and only. With a legacy over 50 years in the making, it's the most scientifically researched and game-tested way to replace electrolytes lost in sweat. Gatorade Frost has a light, crisp flavor and is made to keep you hydrated, which is why it's trusted by some of the world's best athletes.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Gatorade",
+  "SIZE": "828 mL",
+  "EAN": "0052000102413",
+  "STATUS": "MATCHED"
+ },
+ "05200010247": {
+  "FULL_NAME_FOUND": "Gatorade Frost Thirst Quencher Glacier Cherry 20 Fl Oz",
+  "DESCRIPTION": "Plastic bottle with screw on top. Contains the right amount of carbohydrates, electrolytes and flavoring to rapidly put back everything the body needs during physical activity.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Gatorade",
+  "SIZE": "591 mL",
+  "EAN": "0052000102475",
+  "STATUS": "MATCHED"
+ },
+ "05200010410": {
+  "FULL_NAME_FOUND": "Gatorade Fierce Bold & Intense Blue Cherry Thirst Quencher 28 Fl Oz",
+  "DESCRIPTION": "The one and only. With a legacy over 50 years in the making, it’s the most scientifically researched and game-tested way to replace electrolytes lost in sweat. Gatorade Fierce has a bold, intense flavor that hydrates better than water, which is why it’s trusted by some of the world’s best athletes.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Gatorade",
+  "SIZE": "828 mL",
+  "EAN": "0052000104103",
+  "STATUS": "MATCHED"
+ },
+ "05200010411": {
+  "FULL_NAME_FOUND": "Gatorade Fierce Green Apple Thirst Quencher 28 Fl Oz",
+  "DESCRIPTION": "With a legacy over 50 years in the making, it’s the most scientifically researched and game-tested way to replace electrolytes lost in sweat. Gatorade hydrates better than water, which is why it’s trusted by some of the world’s best athletes.",
+  "CATEGORY": "Apples",
+  "BRAND": "Gatorade",
+  "SIZE": "",
+  "EAN": "0052000104110",
+  "STATUS": "MATCHED"
+ },
+ "05200010432": {
+  "FULL_NAME_FOUND": "Gatorade Recover Whey Protein Bar Chocolate Chip",
+  "DESCRIPTION": "Made with 20 gram of high quality whey and milk protein to help rebuild your muscles so you come back strong. The protein bar used by the NFL, NHL, NBA and MLB is now available to you.",
+  "CATEGORY": "Fitness & Nutrition",
+  "BRAND": "Gatorade",
+  "SIZE": "",
+  "EAN": "0052000104325",
+  "STATUS": "MATCHED"
+ },
+ "05200010433": {
+  "FULL_NAME_FOUND": "Gatorade Recover Chocolate Caramel Whey Protein Bar, 2.8 Ounce",
+  "DESCRIPTION": "Made with 20 gram of high quality whey and milk protein to help rebuild your muscles so you come back strong. The protein bar used by the NFL, NHL, NBA and MLB is now available to you.",
+  "CATEGORY": "Fitness & Nutrition",
+  "BRAND": "Gatorade",
+  "SIZE": "",
+  "EAN": "0052000104332",
+  "STATUS": "MATCHED"
+ },
+ "05200013490": {
+  "FULL_NAME_FOUND": "Gatorade Strawberry Watermelon Thirst Quencher 28 Fl Oz",
+  "DESCRIPTION": "With a legacy over 40 years in the making, it’s the most scientifically researched and game-tested way to replace electrolytes lost in sweat. Gatorade Thirst Quencher replenishes better than water, which is why it’s trusted by some of the world’s best athletes.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Gatorade",
+  "SIZE": "828 mL",
+  "EAN": "0052000134902",
+  "STATUS": "MATCHED"
+ },
+ "05200013508": {
+  "FULL_NAME_FOUND": "Gatorade Thirst Quencher Green Lime Cucumber Electrolyte Enhanced Sports Drink",
+  "DESCRIPTION": "With a legacy over 50 years in the making, it’s the most scientifically researched and game-tested way to replace electrolytes lost in sweat. Gatorade hydrates better than water, which is why it’s trusted by some of the world’s best athletes.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Gatorade",
+  "SIZE": "828 mL",
+  "EAN": "0005200013508",
+  "STATUS": "MATCHED"
  }
 }

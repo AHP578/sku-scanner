@@ -25834,5 +25834,95 @@
   "SIZE": "",
   "EAN": "0888109010010",
   "STATUS": "MATCHED"
+ },
+ "88810901002": {
+  "FULL_NAME_FOUND": "Hostess Ding Dongs Cake, With Creamy Filling, Chocolate",
+  "DESCRIPTION": "Hostess chocolate Ding Dongs snack cakes with creamy filling. Single serve pack of 2.",
+  "CATEGORY": "Bakery",
+  "BRAND": "Hostess",
+  "SIZE": "",
+  "EAN": "0888109010027",
+  "STATUS": "MATCHED"
+ },
+ "88810901004": {
+  "FULL_NAME_FOUND": "Hostess Coffee Cakes, Cinnamon Streusel, 2.89 Ounce",
+  "DESCRIPTION": "HOSTESS Coffee Cakes love company, especially yours. An individually wrapped breakfast-time favorite, these treats are the perfect companion for your delightful morning cup of joe. Or enjoy the cinnamon goodness with whatever you please. They're great for breakfast, afternoon snacking, and late-night indulgences alike. Either way, you're sure to LIVE YOUR MOSTESS with the delectable cinnamon streusel flavor. It's swirled into moist, buttery cake for the ultimate delight. You're in for a real treat with these coffee cakes. Keep your pantry filled with them, so you can grab-and-go whenever your snack cravings come knocking. You and HOSTESS Coffee Cakes make the perfect pair.",
+  "CATEGORY": "Coffee Cakes",
+  "BRAND": "Hostess",
+  "SIZE": "",
+  "EAN": "0888109010041",
+  "STATUS": "MATCHED"
+ },
+ "88810901005": {
+  "FULL_NAME_FOUND": "Hostess Zingers Iced Devil's Food Cakes",
+  "DESCRIPTION": "A perfect teatime treat. Moist chocolate cake with a creamy filling covered with thick chocolate icing.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Hostess",
+  "SIZE": "",
+  "EAN": "0888109010058",
+  "STATUS": "MATCHED"
+ },
+ "88810901006": {
+  "FULL_NAME_FOUND": "Hostess Ho Hos Chocolate Cake Rolled With Creamy Filling 3 Oz",
+  "DESCRIPTION": "Indulge in a decadent treat with Hostess Ho Ho's. Each single serving is packed with rich chocolate and filled with creamy filling. Satisfy your sweet tooth and enjoy the nostalgic taste of these classic snacks. Perfect for on-the-go snacking or as a lunchbox addition. 🧾.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Hostess",
+  "SIZE": "",
+  "EAN": "0888109010065",
+  "STATUS": "MATCHED"
+ },
+ "88810901007": {
+  "FULL_NAME_FOUND": "Hostess Â Orange Flavored Single-Serve Cupcakes",
+  "DESCRIPTION": "Frosted orange flavored cake with creamy filling. Natural flavor. HostessCakes.com. Facebook. Twitter. Hostess Quality Commitment.",
+  "CATEGORY": "Snack Cakes",
+  "BRAND": "Hostess",
+  "SIZE": "",
+  "EAN": "0088810901007",
+  "STATUS": "MATCHED"
+ },
+ "88810901008": {
+  "FULL_NAME_FOUND": "Hostess Zingers Cakes, Raspberry",
+  "DESCRIPTION": "Add a little Zing to your snacking routine with HOSTESS ZINGERS. Vanilla cake and raspberry coating rolled in coconut make for an irresistible treat. These delightful snacks are individually packed for freshness and easy to grab when you need to satisfy your sweet tooth. LIVE YOUR MOSTESS, and take them along for any adventure in your bag or lunchbox.",
+  "CATEGORY": "Snack Cakes",
+  "BRAND": "Hostess",
+  "SIZE": "",
+  "EAN": "0888109010089",
+  "STATUS": "MATCHED"
+ },
+ "88810901009": {
+  "FULL_NAME_FOUND": "Hostess Snoballs Chocolate Cake With Creamy Filling Coconut & Marshmallow Covered 2 Cakes",
+  "DESCRIPTION": "Who knew marshmallow would look so pretty in pink? That's the beauty of HOSTESS SNOBALLS. To your delight, they'll taste as delicious as they look! There's nothing like that first bite of chocolatey, coconutty, creamy satisfaction that just blows you away. Plus, every moment after is like a sweet party you won't want to leave. Need a little something on the side? Grab a cup of coffee or whatever your favorite beverage may be. Enjoy SNOBALLS at any time of day, no matter where you are. Single packaging makes them conveniently portable. Simply grab your 2-pack, and LIVE YOUR MOSTESS.",
+  "CATEGORY": "Pastries & Scones",
+  "BRAND": "Hostess",
+  "SIZE": "",
+  "EAN": "0888109010096",
+  "STATUS": "MATCHED"
+ },
+ "88810901010": {
+  "FULL_NAME_FOUND": "Hostess Twinkies Golden Sponge Cake With Creamy Filling 2 Cakes",
+  "DESCRIPTION": "Hostess Twinkies offers a golden sponge cake with a creamy filling. It is perfect for a delicious snack option and pairs well as a side with tea or coffee. These golden cakes are individually wrapped to easily snacking on the go.",
+  "CATEGORY": "Snack Cakes",
+  "BRAND": "Hostess",
+  "SIZE": "",
+  "EAN": "0888109010102",
+  "STATUS": "MATCHED"
+ },
+ "88810901011": {
+  "FULL_NAME_FOUND": "Hostess Iced Vanilla Zingers Single Serve, 3 Count, 3.81 Oz",
+  "DESCRIPTION": "Indulge in the delightful taste of Hostess Zingers Vanilla Iced Cake! This deliciously moist cake is filled with a rich, creamy vanilla filling and topped with a sweet icing that makes it a perfect treat for any occasion. Each cake is individually wrapped, ensuring freshness and convenience for on-the-go snacking or sharing with friends and family.",
+  "CATEGORY": "Cakes & Dessert Bars",
+  "BRAND": "Hostess",
+  "SIZE": "",
+  "EAN": "0888109010119",
+  "STATUS": "MATCHED"
+ },
+ "88810901210": {
+  "FULL_NAME_FOUND": "Hostess Cup Cakes, Birthday",
+  "DESCRIPTION": "A convenient 2 pack of Hostess Birthday Cupcakes. A yellow sponge cake with a creamy filling and covered with a frosted white icing, decorated with sprinkles and squiggle icing.",
+  "CATEGORY": "Cakes & Dessert Bars",
+  "BRAND": "Hostess",
+  "SIZE": "",
+  "EAN": "0888109012106",
+  "STATUS": "MATCHED"
  }
 }

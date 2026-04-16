@@ -23194,5 +23194,83 @@
   "SIZE": "",
   "EAN": "0054600003350",
   "STATUS": "MATCHED"
+ },
+ "05460010568": {
+  "FULL_NAME_FOUND": "Fantastik All Purpose Cleaner With Bleach Spray Bottle - 32 Fl. Oz",
+  "DESCRIPTION": "This all-purpose cleaner fights tough stains with the power of bleach. Use throughout kitchens and bathrooms to help remove food stains, greasy soil, soap scum and mold/mildew stains. Plus, it leaves a fresh, clean scent.",
+  "CATEGORY": "Saxophone Care & Cleaning",
+  "BRAND": "Fantastik",
+  "SIZE": "",
+  "EAN": "0054600105689",
+  "STATUS": "MATCHED"
+ },
+ "005808801039": {
+  "STATUS": "UNMATCHED"
+ },
+ "005808801046": {
+  "STATUS": "UNMATCHED"
+ },
+ "06414404302": {
+  "FULL_NAME_FOUND": "Chef Boyardee Pasta In Tomato And Meat Sauce Beefaroni - 15 Ounce",
+  "DESCRIPTION": "Dig into a flavourful entre in minutes. Kids & parents alike love the bold flavour of Chef Boyardee Beefaroni. The mouth-watering combination of beef & tomatoes from California helps support wholesome lunches & comforting dinners. This easy to prep pasta contains no artificial colours, flavours or preservatives & always ready to go. Non-BPA lined cans. Thank goodness for Chef Boyardee.",
+  "CATEGORY": "Pasta & Noodles",
+  "BRAND": "Chef Boyardee",
+  "SIZE": "",
+  "EAN": "0064144043026",
+  "STATUS": "MATCHED"
+ },
+ "06414404304": {
+  "FULL_NAME_FOUND": "Chef Boyardee Lasagna",
+  "DESCRIPTION": "Chef Boyardee Lasagna is a delicious and convenient meal that is ready to eat in minutes and has delighted families for generations, Made with enriched pasta in a rich, Italian-flavored tomato sauce, Chef Boyardee Lasagna has the timeless flavor everyone loves, When you need a quick meal, Chef Boyardee has your back. Just pop the easy-open lid, and in 90 seconds, dinner is ready to serve, Chef Boyardee Lasagna is so simple and easy to prepare, anyone can grab it off the shelf for a quick and filling snack, Each 15 oz easy-open can of Chef Boyardee Lasagna contains 1 serving of pasta and tomato sauce, with 8 grams of protein and 270 calories per serving.",
+  "CATEGORY": "Pasta & Noodles",
+  "BRAND": "Chef Boyardee",
+  "SIZE": "",
+  "EAN": "0006414404304",
+  "STATUS": "MATCHED"
+ },
+ "06414404306": {
+  "FULL_NAME_FOUND": "Chef Boyardee Beef Ravioli In Pasta Sauce Mini - 15 Ounce",
+  "DESCRIPTION": "Pasta smothered in hearty, Italian-flavored tomato sauce, and stuffed with real beef. 8 grams of protein. Simple and easy to prepare.",
+  "CATEGORY": "Pasta & Noodles",
+  "BRAND": "Chef Boyardee",
+  "SIZE": "",
+  "EAN": "0064144043064",
+  "STATUS": "MATCHED"
+ },
+ "06414404315": {
+  "FULL_NAME_FOUND": "Chef Boyardee Beef Ravioli In Pasta Sauce, 15 Ounce",
+  "DESCRIPTION": "Chef Boyardee Beef Ravioli is a delicious and convenient prepared meal that is ready to eat in minutes and has delighted families for generations. Made with tasty beef ravioli pasta smothered in rich, Italian-flavored pasta sauce, this canned food has the timeless flavor everyone loves. Made with no artificial flavors, colors or preservatives, this iconic pantry staple makes a wholesome meal for kids of ALL ages. When you need a quick stove top or microwave meal, grab a can of beef ravioli pasta and in just a few minutes, dinner is ready to serve. Perfect for office or school lunches, easy dinners, or quick and filling snacks, Chef Boyardee ravioli provides that time-tested taste your family loves.",
+  "CATEGORY": "Pasta & Noodles",
+  "BRAND": "Chef Boyardee",
+  "SIZE": "",
+  "EAN": "0064144043156",
+  "STATUS": "MATCHED"
+ },
+ "06414404322": {
+  "FULL_NAME_FOUND": "Chef Boyardee Spaghetti And Meatballs In Tomato Sauce",
+  "DESCRIPTION": "Chef Boyardee Spaghetti and Meatballs is a delicious and convenient prepared meal that is ready to eat in minutes and has delighted families for generations. Made with enriched pasta noodles, rich, Italian-flavored tomato sauce, and tasty meatballs made with pork, chicken and beef, this canned food has the timeless flavor everyone loves. Made with no artificial flavors, colors or preservatives, this iconic pantry staple makes a wholesome meal for kids of ALL ages. When you need a quick stove top or microwave meal, grab a can of spaghetti and meatballs and in just a few minutes, dinner is ready to serve. Perfect for office or school lunches, easy dinners, or quick and filling snacks, Chef Boyardee pasta provides that time-tested taste your family loves.",
+  "CATEGORY": "Pasta & Noodles",
+  "BRAND": "Chef Boyardee",
+  "SIZE": "",
+  "EAN": "0064144043224",
+  "STATUS": "MATCHED"
+ },
+ "06731200511": {
+  "FULL_NAME_FOUND": "Voortman Bakery Vanilla Wafers",
+  "DESCRIPTION": "Take a carefree bite out of a delicious Voortman Bakery Vanilla Wafer. These crispy wafers will flood your mouth with the taste of vanilla. Break off one (or a few!) for yourself or your family and retreat to your favorite snacking spot. Any time is a great time for Voortman wafers. Pair them with a..",
+  "CATEGORY": "Bakery",
+  "BRAND": "Voortman",
+  "SIZE": "",
+  "EAN": "0006731200511",
+  "STATUS": "MATCHED"
+ },
+ "06731200512": {
+  "FULL_NAME_FOUND": "Voortman Bakery Chocolate Wafers - 10.6 Ounce",
+  "DESCRIPTION": "Light and crispy wafer cookies baked with real cocoa. No artificial colors, flavors or high fructose corn syrup. Product of Canada.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Voortman",
+  "SIZE": "",
+  "EAN": "0067312005123",
+  "STATUS": "MATCHED"
  }
 }

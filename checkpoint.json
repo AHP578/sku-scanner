@@ -24694,5 +24694,95 @@
   "SIZE": "568 mL",
   "EAN": "0850031700079",
   "STATUS": "MATCHED"
+ },
+ "85003170018": {
+  "FULL_NAME_FOUND": "Liquid Death Sparkling Mountain Water, 19.2 Oz King Size Can",
+  "DESCRIPTION": "Quenching thirst and slaying boredom, Liquid Death Sparkling Water offers a refreshingly satisfying experience with every sip. Get a kick (or death, depending on how dark your humor is) out of this unique and playful beverage. Perfect for those who don't take themselves too seriously (we're looking at you, sparkling water elitists).",
+  "CATEGORY": "Water",
+  "BRAND": "Liquid Death",
+  "SIZE": "568 mL",
+  "EAN": "0850031700185",
+  "STATUS": "MATCHED"
+ },
+ "85003170020": {
+  "FULL_NAME_FOUND": "Liquid Death Sparkling Water, Mango Chainsaw Flavored 19.2 Fl Oz",
+  "DESCRIPTION": "Liquid Death is a popular, sparkling beverage available in 14 delicious flavours. Made with pure ingredients and now sold in Edmonton at Yeg exotic. Stay hydrated and rejuvenated with Liquid Death.",
+  "CATEGORY": "Water",
+  "BRAND": "Liquid Death",
+  "SIZE": "568 mL",
+  "EAN": "0850031700208",
+  "STATUS": "MATCHED"
+ },
+ "85003170021": {
+  "FULL_NAME_FOUND": "Liquid Death Berry It Alive Agave Sparkling Water - 19.2 Fl Oz Can",
+  "DESCRIPTION": "These ruthless tallboys of flavored sparkling water are armed with agave nectar and merciless flavor to refresh your body and murder your thirst.",
+  "CATEGORY": "Water",
+  "BRAND": "Liquid Death",
+  "SIZE": "568 mL",
+  "EAN": "0850031700215",
+  "STATUS": "MATCHED"
+ },
+ "85003170022": {
+  "FULL_NAME_FOUND": "Liquid Death Severed Lime Agave Sparkling Water - 19.2 Fl Oz Can",
+  "DESCRIPTION": "These ruthless tallboys of flavored sparkling water are armed with agave nectar and merciless flavor to refresh your body and murder your thirst.",
+  "CATEGORY": "Water",
+  "BRAND": "Liquid Death",
+  "SIZE": "568 mL",
+  "EAN": "0850031700222",
+  "STATUS": "MATCHED"
+ },
+ "85003170024": {
+  "FULL_NAME_FOUND": "Liquid Death Convicted Melon Agave Sparkling Water - 19.2 Fl Oz Can",
+  "DESCRIPTION": "These ruthless tallboys of flavored sparkling water are armed with agave nectar and merciless flavor to refresh your body and murder your thirst.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Liquid Death",
+  "SIZE": "568 mL",
+  "EAN": "0850031700246",
+  "STATUS": "MATCHED"
+ },
+ "85003170025": {
+  "FULL_NAME_FOUND": "Liquid Death Iced Tea, Agave, Vitamins, Grim Leafer 19.2 Fl Oz",
+  "DESCRIPTION": "These psychotic cans of iced black tea (sweet tea) are dead set on using natural agave and B vitamins to savagely murder your thirst and turn its insides into balloon animals to book gigs at children’s birthday parties.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Liquid Death",
+  "SIZE": "568 mL",
+  "EAN": "0850031700253",
+  "STATUS": "MATCHED"
+ },
+ "85003170026": {
+  "FULL_NAME_FOUND": "Liquid Death Dead Billionaire Tea/Lemonade 19.2 Fl Oz",
+  "DESCRIPTION": "These psychotic cans of half iced black tea, half lemonade are dead set on using natural agave and B vitamins to savagely murder your thirst and turn its insides into balloon animals to book gigs at children’s birthday parties.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Liquid Death",
+  "SIZE": "568 mL",
+  "EAN": "0850031700260",
+  "STATUS": "MATCHED"
+ },
+ "85003170027": {
+  "FULL_NAME_FOUND": "Liquid Death Rest In Peach Tea - 19.2 Fl Oz Can",
+  "DESCRIPTION": "These psychotic cans of peach iced black tea are dead set on using natural agave and B vitamins to savagely murder your thirst and turn its insides into balloon animals to book gigs at children’s birthday parties.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Liquid Death",
+  "SIZE": "568 mL",
+  "EAN": "0850031700277",
+  "STATUS": "MATCHED"
+ },
+ "85003170089": {
+  "FULL_NAME_FOUND": "Liquid Death Sparkling Water, Cherry Obituary, 19.2 Oz King Sized Can",
+  "DESCRIPTION": "Liquid Death Sparking Water Cherry Obituary is a refreshing sparkling water in a can. With cherry and notes of lemon and lime, this cherry sparkling water is sure to murder your thirst!",
+  "CATEGORY": "Water",
+  "BRAND": "Liquid Death",
+  "SIZE": "568 mL",
+  "EAN": "0850031700895",
+  "STATUS": "MATCHED"
+ },
+ "85004042708": {
+  "FULL_NAME_FOUND": "Prime Hydration Ice Pop Sports Drink - 16.9 Fl Oz Bottle",
+  "DESCRIPTION": "Unleash your potential with Prime Hydration —the ultimate hydration drink crafted by Logan Paul and KSI. Packed with 834mg of electrolytes, 250mg BCAAs, antioxidants, and vitamins, it delivers high-performance hydration with just 2g of naturally derived sugars and zero added sugar. Bold flavors like Cherry Freeze and Ice Pop make every sip a refreshing victory, perfect for athletes, gamers, or anyone on the go. Stay refreshed and recover fast with this caffeine-free, gluten-free powerhouse!",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Prime",
+  "SIZE": "500 mL",
+  "EAN": "0850040427080",
+  "STATUS": "MATCHED"
  }
 }

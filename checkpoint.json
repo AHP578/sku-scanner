@@ -23014,5 +23014,95 @@
   "SIZE": "710 mL",
   "EAN": "0052000241235",
   "STATUS": "MATCHED"
+ },
+ "05200032481": {
+  "FULL_NAME_FOUND": "Gatorade Thirst Quencher Cool Blue 20 Fl Oz",
+  "DESCRIPTION": "The proven classic. With a legacy of over 50 years in the making, it's the most scientifically researched and game-tested way to replace electrolytes lost in sweat. Gatorade Thirst Quencher is specifically made to help keep you hydrated, which is why it's trusted by some of the world's best athletes.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Gatorade",
+  "SIZE": "591 mL",
+  "EAN": "0052000324815",
+  "STATUS": "MATCHED"
+ },
+ "05200032486": {
+  "FULL_NAME_FOUND": "Gatorade Glacier Freeze 20 Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Gatorade",
+  "SIZE": "591 mL",
+  "EAN": "0005200032486",
+  "STATUS": "MATCHED"
+ },
+ "05200032866": {
+  "FULL_NAME_FOUND": "Gatorade Thirst Quencher Fruit Punch Sports Drinks 20 Fl Oz Bottle",
+  "DESCRIPTION": "The proven classic drink. With a legacy over 50 years in the making, it's the most scientifically researched and game-tested way to replace electrolytes lost in sweat. Gatorade Thirst Quencher is specifically made to help keep you hydrated, which is why it's trusted by some of the world's best athletes.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Gatorade",
+  "SIZE": "591 mL",
+  "EAN": "0052000328660",
+  "STATUS": "MATCHED"
+ },
+ "05200032867": {
+  "FULL_NAME_FOUND": "Gatorade Thirst Quencher Orange Sports Drink 20 Fl Oz",
+  "DESCRIPTION": "The proven classic. With a legacy of over 50 years in the making, it's the most scientifically researched and game-tested way to replace electrolytes lost in sweat. Gatorade Thirst Quencher is specifically made to help keep you hydrated, which is why it's trusted by some of the world's best athletes.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Gatorade",
+  "SIZE": "591 mL",
+  "EAN": "0052000328677",
+  "STATUS": "MATCHED"
+ },
+ "05200032868": {
+  "FULL_NAME_FOUND": "Gatorade Thirst Quencher Sports Drink, Lemon Lime, 20 Oz Bottle",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Gatorade",
+  "SIZE": "591 mL",
+  "EAN": "0005200032868",
+  "STATUS": "MATCHED"
+ },
+ "05200070777": {
+  "FULL_NAME_FOUND": "Propel Zero Sugar Electrolyte Water Beverage Berry 20 Fl Oz Bottle",
+  "DESCRIPTION": "Propel is designed for your active life. Going beyond just hydration by replenishing you with antioxidant vitamins, Propel quenches your thrist with great-tasting flavors without adding calories.",
+  "CATEGORY": "Water",
+  "BRAND": "Propel",
+  "SIZE": "24000 mL",
+  "EAN": "0052000707779",
+  "STATUS": "MATCHED"
+ },
+ "05200070778": {
+  "FULL_NAME_FOUND": "Propel Electrolyte Water Beverage, Kiwi Strawberry 20 Fl Oz",
+  "DESCRIPTION": "Gatorade Electrolytes so you can hydrate, replenish, and enjoy your. best workout with zero sugar, as well as vitamins B3, B5, B6 and. antioxidant vitamins C and E. Created by the makers of Gatorade,. Propel is the only zero calorie, zero sugar electrolyte water beverage.",
+  "CATEGORY": "Water",
+  "BRAND": "Propel",
+  "SIZE": "591 mL",
+  "EAN": "0052000707786",
+  "STATUS": "MATCHED"
+ },
+ "05200070779": {
+  "FULL_NAME_FOUND": "Propel Zero Sugar Electrolyte Water Beverage Grape 20 Fl Oz Bottle",
+  "DESCRIPTION": "Propel is designed for your active life. Going beyond just hydration by replenishing you with antioxidant vitamins, Propel quenches your thrist with great-tasting flavors without adding calories.",
+  "CATEGORY": "Water",
+  "BRAND": "Propel",
+  "SIZE": "591 mL",
+  "EAN": "0052000707793",
+  "STATUS": "MATCHED"
+ },
+ "05211010425": {
+  "FULL_NAME_FOUND": "Krystal Kleer Washer Fluid, Windshield, All Season Formula 1 Gal",
+  "DESCRIPTION": "The Krystal Kleer 1 Gal. Windshield Washer Fluid may help Clear your windshield in temperatures as little as -20°F.",
+  "CATEGORY": "Washers",
+  "BRAND": "Krystal Kleer",
+  "SIZE": "",
+  "EAN": "0052110104253",
+  "STATUS": "MATCHED"
+ },
+ "05300000614": {
+  "FULL_NAME_FOUND": "Borden American 2% Milk Singles Reduced Fat Pasteurized Prepared Cheese Product - 0.75 Ounce",
+  "DESCRIPTION": "1/3 less fat than process cheese food. Since 1857. See nutrition information for saturated fat and sodium content.",
+  "CATEGORY": "Cheese",
+  "BRAND": "Borden",
+  "SIZE": "",
+  "EAN": "0053000006145",
+  "STATUS": "MATCHED"
  }
 }

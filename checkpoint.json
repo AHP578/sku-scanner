@@ -23104,5 +23104,95 @@
   "SIZE": "",
   "EAN": "0053000006145",
   "STATUS": "MATCHED"
+ },
+ "05300000636": {
+  "FULL_NAME_FOUND": "Borden American Cheese, Cheese Slices, Singles - 12 Ounce",
+  "DESCRIPTION": "Since 1857. See nutrition information for saturated fat and sodium content. 3X the calcium of process cheese food. Calcium in this product 40% DV versus process food 10% DV.",
+  "CATEGORY": "Cheese",
+  "BRAND": "Borden",
+  "SIZE": "",
+  "EAN": "0053000006367",
+  "STATUS": "MATCHED"
+ },
+ "05300001636": {
+  "FULL_NAME_FOUND": "Borden Cheese Product, Singles, White American",
+  "DESCRIPTION": "Triple the calcium! 100% farmer owned. Pasteurized prepared cheese product. Triple the calcium of process cheese food. 100% of our proceeds go to American dairy farmers. When you choose Borden Cheese you are supporting American diary farmers who work hard every day to put the best the farm has to offer on your table. Calcium in this product 40% DV versus process cheese food 10%.",
+  "CATEGORY": "Cheese",
+  "BRAND": "Borden",
+  "SIZE": "",
+  "EAN": "0053000016366",
+  "STATUS": "MATCHED"
+ },
+ "05400020042": {
+  "FULL_NAME_FOUND": "Scott 1000 Sheets Per Roll Toilet Paper, Bath Tissue",
+  "DESCRIPTION": "Scott® 1000 tissue gives you the long-lasting quality you want in 1,000 septic-safe sheets. Performance and long-lasting rolls with the value you expect.",
+  "CATEGORY": "Toilet Paper",
+  "BRAND": "Scott",
+  "SIZE": "",
+  "EAN": "0054000200427",
+  "STATUS": "MATCHED"
+ },
+ "05400047219": {
+  "FULL_NAME_FOUND": "Scott 1000 Sheets Per Roll Toilet Paper, 1 Bonus Roll, Bath Tissue",
+  "DESCRIPTION": "Long-Lasting Value & Reliable Comfort Scott 1100 toilet paper delivers exceptional value with 1,100 sheets per roll, ensuring you get more for your money. Designed for long-lasting use, this septic-safe toilet paper provides the perfect balance of strength and softness, making it an essential addition to any household. Septic-Safe & Eco-Friendly for Peace of Mind Scott 1100 is 100% septic and sewer-safe, breaking down quickly to prevent clogs while maintaining durability during use. Made with responsibly sourced materials, it’s an eco-conscious choice that supports sustainability without sacrificing performance.",
+  "CATEGORY": "Toilet Paper",
+  "BRAND": "Scott",
+  "SIZE": "",
+  "EAN": "0054000472190",
+  "STATUS": "MATCHED"
+ },
+ "05400075130": {
+  "FULL_NAME_FOUND": "Scott Original Shop Towels - 1 Ply - 55 Sheets/Roll - Blue - Stro",
+  "DESCRIPTION": "Ideal for changing oil, refilling fluids and general automotive maintenance. Fits on a standard towel holder for convenient dispensing of a fresh, clean towel.",
+  "CATEGORY": "Towels",
+  "BRAND": "Scott",
+  "SIZE": "",
+  "EAN": "0054000751301",
+  "STATUS": "MATCHED"
+ },
+ "05420000080": {
+  "FULL_NAME_FOUND": "Austins Glass Cleaner, Windshield Washer Fluid",
+  "DESCRIPTION": "KIK INTERNATIONAL 00080 1 Gal. Winter Formula Windshield Washer Fluid 6/cs (CASE OF6) AUTOMOTIVE GTIN# 10054200000800.",
+  "CATEGORY": "Glass Cleaners",
+  "BRAND": "Austins",
+  "SIZE": "",
+  "EAN": "0054200000803",
+  "STATUS": "MATCHED"
+ },
+ "05420000805": {
+  "FULL_NAME_FOUND": "Elite Performance Windshield Washer Fluid, 1 Gallon",
+  "DESCRIPTION": "Say goodbye to frozen windshields and hello to clear vision with Elite Windshield Washer Fluid! Our high-quality formula offers unbeatable freeze protection up to -20 degrees, ensuring you can safely navigate any winter weather. No more worrying about chipping away ice or waiting for your car to defrost – just fill up your reservoir with Elite Windshield Washer Fluid and hit the road confidently and effortlessly.",
+  "CATEGORY": "Vehicle Windshield Fluid",
+  "BRAND": "Elite",
+  "SIZE": "",
+  "EAN": "0054200008052",
+  "STATUS": "MATCHED"
+ },
+ "05440000009": {
+  "FULL_NAME_FOUND": "A1 Steak Sauce, 5 Oz",
+  "DESCRIPTION": "Original flavor a-1 steak sauce is a time-tested and delicious way to jazz up marinades or your favorite meatloaf recipe. Tangy and delicious a-1 perfectly complements the flavor of your favorite beef and is a low calorie way to please any audience. This sauce just makes everything taste better.",
+  "CATEGORY": "Condiments & Sauces",
+  "BRAND": "A1",
+  "SIZE": "",
+  "EAN": "0005440000009",
+  "STATUS": "MATCHED"
+ },
+ "05460000286": {
+  "FULL_NAME_FOUND": "Fantastik SJN306387EA Disinfectant Multi Purpose Cleaner Fresh Scent 32 Oz Spray Bottle",
+  "DESCRIPTION": "When used as directed this all-purpose cleaner kills 99% of germs, viruses and bacteria as it cleans. It also powers through tough grease and grime without leaving a smeary residue. Plus it deodorizes and leaves a fresh smell.",
+  "CATEGORY": "Saxophone Care & Cleaning",
+  "BRAND": "Fantastik",
+  "SIZE": "",
+  "EAN": "0054600002865",
+  "STATUS": "MATCHED"
+ },
+ "05460000335": {
+  "FULL_NAME_FOUND": "Fantastik SJN306388EA Disinfectant Multi Purpose Cleaner Lemon Scent 32 Oz Spray Bottle",
+  "DESCRIPTION": "Bring a burst of fresh lemon scent to your cleaning routine with Fantastik Trigger Lemon Cleaner. This versatile spray quickly tackles grease, grime, and everyday messes on multiple surfaces, leaving them spotless and refreshed. The convenient trigger bottle makes it easy to apply, while the powerful formula disinfects and deodorizes, helping to keep your home clean and smelling great.",
+  "CATEGORY": "Saxophone Care & Cleaning",
+  "BRAND": "Fantastik",
+  "SIZE": "",
+  "EAN": "0054600003350",
+  "STATUS": "MATCHED"
  }
 }

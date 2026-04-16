@@ -24514,5 +24514,95 @@
   "SIZE": "",
   "EAN": "0850006748709",
   "STATUS": "MATCHED"
+ },
+ "85000674871": {
+  "FULL_NAME_FOUND": "Pocas Vegetable Bowl Noodle Soup",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Fruits & Vegetables",
+  "BRAND": "Pocas",
+  "SIZE": "",
+  "EAN": "0850006748716",
+  "STATUS": "MATCHED"
+ },
+ "85001174504": {
+  "FULL_NAME_FOUND": "Bemar Snacks Mofongo Mix Chili & Lime 4oz",
+  "DESCRIPTION": "Mofongo Original Chili Lime Flavor Plantain and Pork Skins are delicious as a snack and can be enjoyed with a variety of dips. Enjoy them in place of chips or popcorn for a perfect snack. Order today!",
+  "CATEGORY": "Chips",
+  "BRAND": "Bemar Snacks Mofongo",
+  "SIZE": "",
+  "EAN": "0850011745045",
+  "STATUS": "MATCHED"
+ },
+ "85001174507": {
+  "FULL_NAME_FOUND": "Rcp Products Plantains, Cassava Chips, And Pork Rinds",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Chips",
+  "BRAND": "Rcp Products",
+  "SIZE": "",
+  "EAN": "0850011745076",
+  "STATUS": "MATCHED"
+ },
+ "85001174508": {
+  "FULL_NAME_FOUND": "Bemar Mofongo Garlic Flavor",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Garlic",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0850011745083",
+  "STATUS": "MATCHED"
+ },
+ "85001174530": {
+  "FULL_NAME_FOUND": "Bemar Tostones, Sliced 4.25 Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0085001174530",
+  "STATUS": "MATCHED"
+ },
+ "85001174531": {
+  "FULL_NAME_FOUND": "Bemar Snacks Lime Tostones",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Fruit Snacks",
+  "BRAND": "Bemar Snacks",
+  "SIZE": "",
+  "EAN": "0850011745311",
+  "STATUS": "MATCHED"
+ },
+ "85001174532": {
+  "FULL_NAME_FOUND": "Bemar Snacks Tostones Garlic",
+  "DESCRIPTION": "Bemar Tostones Garlic offers a taste of authentic Hispanic cuisine with these delicious crispy fried plantain slices. Made from green plantains and seasoned with savory garlic tostones are a beloved snack and side dish throughout Latin America and the Caribbean. Each 10 oz package provides a generous portion of these golden-brown delights ready to be enjoyed straight from the bag or lightly reheated for an extra crisp texture. These garlic-infused tostones are incredibly versatile. Serve them as a crunchy accompaniment to your favorite Latin American dishes like arroz con gandules pernil or mofongo. They also make a fantastic standalone snack perfect for parties gatherings or simply satisfying a craving for something savory and satisfying. Experience the traditional flavor and satisfying crunch of Bemar Tostones Garlic a staple that brings the vibrant tastes of Hispanic culture to your table.",
+  "CATEGORY": "Chips",
+  "BRAND": "Bemar Snacks",
+  "SIZE": "",
+  "EAN": "0850011745328",
+  "STATUS": "MATCHED"
+ },
+ "85001174534": {
+  "FULL_NAME_FOUND": "Bemar Snacks Tostones Sweet",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Chips",
+  "BRAND": "Bemar Snacks",
+  "SIZE": "",
+  "EAN": "0850011745342",
+  "STATUS": "MATCHED"
+ },
+ "85001174540": {
+  "FULL_NAME_FOUND": "BEAR Snacks Seasoned Strips Fried Pork Skins",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Pork Rinds",
+  "BRAND": "BEAR Snacks",
+  "SIZE": "",
+  "EAN": "0850011745403",
+  "STATUS": "MATCHED"
+ },
+ "85001174541": {
+  "FULL_NAME_FOUND": "Bemar Snacks Pork Skins, Fried, Chili & Lime Strips",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Pork Rinds",
+  "BRAND": "Bemar Snacks",
+  "SIZE": "",
+  "EAN": "0850011745410",
+  "STATUS": "MATCHED"
  }
 }

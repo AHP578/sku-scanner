@@ -24424,5 +24424,95 @@
   "SIZE": "",
   "EAN": "0849205032160",
   "STATUS": "MATCHED"
+ },
+ "85000042908": {
+  "FULL_NAME_FOUND": "Barebells Salty Peanut Protein Bar, 1.94 Ounce",
+  "DESCRIPTION": "Salty peanuts and sweet chocolate - literally like a match made in heaven. This tasty little treat is without palm oil, contains 20 grams of protein and no added sugar*. Talk about happy snacking.",
+  "CATEGORY": "Vitamins & Supplements",
+  "BRAND": "Barebells",
+  "SIZE": "",
+  "EAN": "0850000429086",
+  "STATUS": "MATCHED"
+ },
+ "85000042909": {
+  "FULL_NAME_FOUND": "Barebells Protein Bar, Caramel Cashew, 1.94 Ounce",
+  "DESCRIPTION": "Protein bar with caramel flavouring, cashew nuts (6 %) and milk chocolate coating (18 %). Contains sweeteners and naturally occurring sugars.",
+  "CATEGORY": "Nutrition Bars",
+  "BRAND": "Barebells",
+  "SIZE": "",
+  "EAN": "0850000429093",
+  "STATUS": "MATCHED"
+ },
+ "85000042911": {
+  "FULL_NAME_FOUND": "Barebells Protein Bar, Cookies & Cream - 1.9 Ounce",
+  "DESCRIPTION": "Protein bar with cookies & cream flavour and milk chocolate coating (24 %). Contains sweeteners and naturally occurring sugars.",
+  "CATEGORY": "Nutrition Bars",
+  "BRAND": "Barebells",
+  "SIZE": "",
+  "EAN": "0850000429116",
+  "STATUS": "MATCHED"
+ },
+ "85000042926": {
+  "FULL_NAME_FOUND": "Barebells Protein Bar, Chocolate Dough, 1.94 Ounce",
+  "DESCRIPTION": "Barebells Protein Bars are a popular choice for a convenient and tasty protein boost. The Single Bar is a smaller version, ideal for a quick snack or to satisfy a craving without overdoing it.",
+  "CATEGORY": "Dough",
+  "BRAND": "Barebells",
+  "SIZE": "",
+  "EAN": "0850000429260",
+  "STATUS": "MATCHED"
+ },
+ "85000042941": {
+  "FULL_NAME_FOUND": "Barebells Creamy Crisp Protein Bar, 1.94 Ounce",
+  "DESCRIPTION": "Barebells Creamy Crisp is a caramel-filled protein bar that's covered in chocolate and topped with puffy crisps. Packed with 20 grams of protein and no added sugar, it's a decadent snack.",
+  "CATEGORY": "Nutrition Bars",
+  "BRAND": "Barebells",
+  "SIZE": "",
+  "EAN": "0850000429413",
+  "STATUS": "MATCHED"
+ },
+ "85000042976": {
+  "FULL_NAME_FOUND": "Barebells Soft Protein Bar, Caramel Choco",
+  "DESCRIPTION": "Barebells offers a broad range of high protein bars that provide a delicious alternative to snacks and desserts – that never compromise on flavor. We believe in happy eating and healthy living. We offer a diverse variety of delicious products to satisfy a wide range of needs. We are on a mission to continue to develop our products to prove to the world that protein products don’t have to taste bland… But can be simply irresistible! Want to get the latest news, updates and special offers from Barebells? Sign up to our newsletter below to avoid further FOMO!",
+  "CATEGORY": "Nutrition Bars",
+  "BRAND": "Barebells",
+  "SIZE": "",
+  "EAN": "0850000429765",
+  "STATUS": "MATCHED"
+ },
+ "85000356044": {
+  "FULL_NAME_FOUND": "Prime Hydration Tropical Punch Sports Drink - 16.9 Fl Oz Bottle",
+  "DESCRIPTION": "Prime was developed to fill the void where great taste meets function. With bold, thirst-quenching flavors to help you refresh, replenish, and refuel, Prime is the perfect boost for every endeavor. We're confident you'll love it as much as we do. Humbly, the Prime Team.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Prime",
+  "SIZE": "500 mL",
+  "EAN": "0850003560441",
+  "STATUS": "MATCHED"
+ },
+ "85000356045": {
+  "FULL_NAME_FOUND": "Prime Hydration Blue Raspberry Sports Drink - 16.9 Fl Oz Bottle",
+  "DESCRIPTION": "Prime was developed to fill the void where great taste meets function. With bold, thirst-quenching flavors to help you refresh, replenish, and refuel, Prime is the perfect boost for every endeavor. We're confident you'll love it as much as we do. Humbly, the Prime Team.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Prime",
+  "SIZE": "500 mL",
+  "EAN": "0850003560458",
+  "STATUS": "MATCHED"
+ },
+ "85000674867": {
+  "FULL_NAME_FOUND": "Pocas Spicy Chicken Bowl Noodle Soup",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Soups & Broths",
+  "BRAND": "Pocas",
+  "SIZE": "",
+  "EAN": "0850006748679",
+  "STATUS": "MATCHED"
+ },
+ "85000674870": {
+  "FULL_NAME_FOUND": "Pocas International Corp. Spicy Crab Bowl Noodle Soup",
+  "DESCRIPTION": "Paper cup. Fork inside. Chili paste included, adjust the spicy level!. Ready in 3 minutes!. Contains Wheat, Soy, Fish Sauce (Anchovy), Shrimp, Crab. Product of Vietnam. 12Q/C.",
+  "CATEGORY": "Pasta & Noodles",
+  "BRAND": "Pocas International Corp.",
+  "SIZE": "",
+  "EAN": "0850006748709",
+  "STATUS": "MATCHED"
  }
 }

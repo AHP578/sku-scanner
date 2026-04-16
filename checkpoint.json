@@ -25306,5 +25306,95 @@
   "SIZE": "",
   "EAN": "0856577006354",
   "STATUS": "MATCHED"
+ },
+ "85726900312": {
+  "FULL_NAME_FOUND": "Ice Melt",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Household Supplies",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0857269003125",
+  "STATUS": "MATCHED"
+ },
+ "85741600619": {
+  "FULL_NAME_FOUND": "Perfect Hydration pH 9.5+ Electrolytes Alkaline Water, 33.8 Fl Oz",
+  "DESCRIPTION": "The Perfect Hydration Alkaline Water is a refreshing and hydrating beverage that is designed to support a healthy lifestyle. This case includes 12 bottles, each containing 33.8 oz of water. Whether you're hitting the gym, going for a run, or simply need a refreshing drink, Perfect Hydration Alkaline Water is the perfect choice to keep you hydrated and feeling your best.",
+  "CATEGORY": "Water",
+  "BRAND": "Perfect Hydration",
+  "SIZE": "1000 mL",
+  "EAN": "0857416006191",
+  "STATUS": "MATCHED"
+ },
+ "85798300403": {
+  "FULL_NAME_FOUND": "Hi-Chew Fruit Chews Banana Chewy Candy 50g",
+  "DESCRIPTION": "Hi-chew bars are awesome! They come in a variety of flavours like strawberry, banana, green apple, mango, grape, açai, kiwi, and even watermelon sweet and sour. So many fruity options to enjoy!",
+  "CATEGORY": "Bananas",
+  "BRAND": "Hi-Chew",
+  "SIZE": "",
+  "EAN": "0857983004033",
+  "STATUS": "MATCHED"
+ },
+ "85798300416": {
+  "FULL_NAME_FOUND": "Morinaga Hi Soft Salted Caramel Chews",
+  "DESCRIPTION": "The Hi-Soft Salted Caramel Chews in a peg bag provide a perfect mix of rich caramel sweetness with a touch of salt. Each chew is soft, individually wrapped, and packaged for easy snacking anywhere. Perfect for fans of sweet and savory flavors in a delightful candy form.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Morinaga",
+  "SIZE": "",
+  "EAN": "0857983004163",
+  "STATUS": "MATCHED"
+ },
+ "85798300473": {
+  "FULL_NAME_FOUND": "Hi-Chew Kiwi Fruit Chews Candy",
+  "DESCRIPTION": "Hi-Chew Kiwi candy is the ultimate juicy, chewy, and fruity snack for kiwi lovers. Each candy is individually wrapped, easy to share, and impossible not to love. The palm trees and juicy kiwis featured on the packaging let customers know that they’re in for a taste escape unlike any other. Hi-Chew flavors are undeniably long-lasting, and after one taste, everyone will be eager to come back to restock. Hi-Chew fans come from far and wide to get their hands on the number one-selling chewy Japanese candy.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Hi-Chew",
+  "SIZE": "",
+  "EAN": "0857983004736",
+  "STATUS": "MATCHED"
+ },
+ "85798300494": {
+  "FULL_NAME_FOUND": "Hi-Chew Fruit Chews Acai",
+  "DESCRIPTION": "Hi Chew Acai Fruit Chews are soft, chewy candy that tastes like açaí. The outer shell is speckled with real chia seeds. Can you feel the crunch?",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Hi-Chew",
+  "SIZE": "",
+  "EAN": "0857983004941",
+  "STATUS": "MATCHED"
+ },
+ "85914600617": {
+  "FULL_NAME_FOUND": "Trubar Cookie Dough Flavoured Vegan Gluten Free Protein 50 G",
+  "DESCRIPTION": "The temptation to devour an entire tub of cookie dough before it hits the oven is real. For the times when satisfying those cravings are also real, our delicious chocolate chunk cookie dough bar hits the spot.",
+  "CATEGORY": "Nutrition Bars",
+  "BRAND": "Trubar",
+  "SIZE": "",
+  "EAN": "0859146006175",
+  "STATUS": "MATCHED"
+ },
+ "85914600660": {
+  "FULL_NAME_FOUND": "Trubar Get In My Belly Pb & Jelly Protein 1.76 Oz",
+  "DESCRIPTION": "A vegan protein bar without soy, gluten or sweeteners. Soft, exceptionally delicious, with a natural and simple composition, loved by American celebrities promoting a healthy and active lifestyle, its admirers include the Williams sisters.",
+  "CATEGORY": "Cereal & Granola Bars",
+  "BRAND": "Trubar",
+  "SIZE": "",
+  "EAN": "0859146006601",
+  "STATUS": "MATCHED"
+ },
+ "85971400716": {
+  "FULL_NAME_FOUND": "Tuty Mix Nut Bar",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "Tuty",
+  "SIZE": "",
+  "EAN": "0859714007160",
+  "STATUS": "MATCHED"
+ },
+ "86000143711": {
+  "FULL_NAME_FOUND": "Proper Wild Blackberry, Clean All Day Energy Shot",
+  "DESCRIPTION": "The Proper Wild Blackberry Energy Shot is a convenient and delicious way to boost your energy levels throughout the day. Each shot is packed with a powerful blend of ingredients to help you stay focused and alert. With a refreshing blackberry flavor, these shots are perfect for on-the-go use or whenever you need a quick pick-me-up. The convenient case of 12 ensures you always have a supply on hand for whenever you need a natural energy boost. Say goodbye to sluggish afternoons and hello to sustained energy with Proper Wild Blackberry Energy Shots.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Proper Wild",
+  "SIZE": "74 mL",
+  "EAN": "0860001437119",
+  "STATUS": "MATCHED"
  }
 }

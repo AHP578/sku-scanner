@@ -22474,5 +22474,95 @@
   "SIZE": "473 mL",
   "EAN": "0051000146540",
   "STATUS": "MATCHED"
+ },
+ "05100014655": {
+  "FULL_NAME_FOUND": "V8 Splash Strawberry Kiwi Flavored Juice Beverage, 16 Fl Oz Bottle",
+  "DESCRIPTION": "V8 Splash® Strawberry Kiwi is the perfect thirst-quencher for your whole family. So fruity and delicious, it will juice up their day.",
+  "CATEGORY": "Juice",
+  "BRAND": "V8",
+  "SIZE": "473 mL",
+  "EAN": "0051000146557",
+  "STATUS": "MATCHED"
+ },
+ "05100014663": {
+  "FULL_NAME_FOUND": "V8 Splash Fruit Medley Flavored Juice Beverage, 16 Fl Oz Bottle",
+  "DESCRIPTION": "The original vegetable juice drink with a fruity twist! V8 Fruit Medley is a refreshing combination of natural fruit flavours with a 5% carrot juice blend for a deliciously sweet taste. It’s a good source of Antioxidant Vitamins A & C and the perfect beverage to satisfy you and your family throughout the day. Contains a blend of Carrot, Apple, Pear, Pineapple and Cherry juices!",
+  "CATEGORY": "Juice",
+  "BRAND": "V8",
+  "SIZE": "473 mL",
+  "EAN": "0051000146632",
+  "STATUS": "MATCHED"
+ },
+ "05100015277": {
+  "FULL_NAME_FOUND": "V8 Splash Mango Peach Flavored Juice Beverage 64 Fl Oz Bottle",
+  "DESCRIPTION": "V8 Splash Mango Peach Flavored Beverage is a refreshing thirst-quencher for the whole family. Made with 5% carrot juice concentrate along with other natural flavors, this V8 juice features notes of mango and peach for delicious kids drinks. Gluten free V8 Splash contains antioxidants vitamin C and B vitamins, and it has 25% less sugar than leading brands of juice drinks (1). Serve this mango peach juice beverage anytime you need a refreshing drink. V8 Splash juice drinks taste best when chilled before serving.",
+  "CATEGORY": "Juice",
+  "BRAND": "V8",
+  "SIZE": "1893 mL",
+  "EAN": "0051000152770",
+  "STATUS": "MATCHED"
+ },
+ "05100025111": {
+  "FULL_NAME_FOUND": "V8 Splash Mango Peach Juice Beverage 16 Fl Oz",
+  "DESCRIPTION": "V8 Splash Mango Peach is the perfect thirst-quencher for your whole family. So fruity and delicious, it will juice up their day. What gives Splash drinks their tastiness? The combination of natural fruit flavors and 5% juice, whirled together for a deliciously refreshing taste. Grab & go anytime, anywhere.",
+  "CATEGORY": "Juice",
+  "BRAND": "V8",
+  "SIZE": "473 mL",
+  "EAN": "0051000251114",
+  "STATUS": "MATCHED"
+ },
+ "05100028315": {
+  "FULL_NAME_FOUND": "Campbell's Chicken Noodle 18oz",
+  "DESCRIPTION": "527 g. La sopa de fideos con pollo Simply de Campbell está hecha con ingredientes simples: carne de pollo, fideos de huevo, zanahorias cultivadas en granja, apio, ajo, perejil y cebollas en un sabroso caldo de pollo.",
+  "CATEGORY": "Pasta & Noodles",
+  "BRAND": "Campbell's",
+  "SIZE": "",
+  "EAN": "0051000283153",
+  "STATUS": "MATCHED"
+ },
+ "05114190270": {
+  "FULL_NAME_FOUND": "Scotch Utility Tape, Clear, 0.5in X 700in",
+  "DESCRIPTION": "SCOTCH Utility Tape is a versatile, general-purpose tape designed for a wide range of everyday uses. Whether you're sealing packages, labeling containers, or doing quick repairs, this durable tape provides a strong hold and easy application. It features a smooth, clear finish that blends seamlessly on most surfaces and resists splitting or tearing during use. Perfect for home, office, or school tasks, SCOTCH Tape Utility is the go-to choice for simple yet dependable adhesion.",
+  "CATEGORY": "Wig Glue & Tape",
+  "BRAND": "Scotch",
+  "SIZE": "",
+  "EAN": "0051141902708",
+  "STATUS": "MATCHED"
+ },
+ "05150001249": {
+  "FULL_NAME_FOUND": "Smucker's Jam, Concord Grape, Value Size",
+  "DESCRIPTION": "Fall in love with Smucker’s Concord Grape Jam. The sweet flavor of this jam will practically transport you to the warm, sunny summers of your youth. Pair this grape jam with our Smucker’s peanut butter to create a classic PB and J. Or, you can spread it on an English muffin, add a heaping spoonful to oatmeal, or use it as a sauté base for chicken. The possibilities are endless with this fruity spread. Plus, Smucker’s Concord Grape Jam comes in a convenient, spoonable jar that makes it easy to portion out multiple servings. Each sweet bite will have you wanting more.",
+  "CATEGORY": "Jams & Jellies",
+  "BRAND": "Smucker's",
+  "SIZE": "",
+  "EAN": "0051500012499",
+  "STATUS": "MATCHED"
+ },
+ "05200001012": {
+  "FULL_NAME_FOUND": "Gatorade Recover Chocolate Peanut Butter Whey Protein Bar",
+  "DESCRIPTION": "The protein bar used by the NFL, NBA, NBA, and MLB is now available to you. With a mix of carbs and protein, recover whey protein bars fuel muscle recovery to help bring muscles back to life.",
+  "CATEGORY": "Nut Butters",
+  "BRAND": "Gatorade",
+  "SIZE": "",
+  "EAN": "0052000010121",
+  "STATUS": "MATCHED"
+ },
+ "05200001028": {
+  "FULL_NAME_FOUND": "Gatorade Frost Thirst Quencher Icy Charge 28 Fl Oz",
+  "DESCRIPTION": "With a legacy over 50 years in the making, it’s the most scientifically researched and game-tested way to replace electrolytes lost in sweat. Gatorade hydrates better than water, which is why it’s trusted by some of the world’s best athletes.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Gatorade",
+  "SIZE": "828 mL",
+  "EAN": "0052000010282",
+  "STATUS": "MATCHED"
+ },
+ "05200001358": {
+  "FULL_NAME_FOUND": "Propel Electrolyte Water Beverage, Zero Sugar, Watermelon 20 Fl Oz",
+  "DESCRIPTION": "Give your workout a boost of fruit flavor. Each Propel provides electrolytes, vitamin B, and antioxidant vitamins C and E, so you can hydrate, replenish and get your best workout without adding calories.",
+  "CATEGORY": "Water",
+  "BRAND": "Propel",
+  "SIZE": "591 mL",
+  "EAN": "0052000013580",
+  "STATUS": "MATCHED"
  }
 }

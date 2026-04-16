@@ -23272,5 +23272,95 @@
   "SIZE": "",
   "EAN": "0067312005123",
   "STATUS": "MATCHED"
+ },
+ "06731200513": {
+  "FULL_NAME_FOUND": "Voortman Bakery Strawberry Wafers - 10.6 Ounce",
+  "DESCRIPTION": "Light and crispy wafer cookies baked with real strawberry. No artificial colors, flavors or high fructose corn syrup. Product of Canada.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Voortman",
+  "SIZE": "",
+  "EAN": "0067312005130",
+  "STATUS": "MATCHED"
+ },
+ "06731200519": {
+  "FULL_NAME_FOUND": "Voortman Bakery Zero Sugar Orange Creme Wafers - 9 Oz",
+  "DESCRIPTION": "Brighten your day and delight your taste buds with a mouthful of delicious, citrus sunshine. A tangy treat baked with oranges, VOORTMAN BAKERY Zero Sugar Orange Creme Wafers are made with no artificial colors, flavors, or high-fructose corn syrup, so you can enjoy bite after bite. Eat them at sunrise, mid-afternoon, or for a late-night snack. Simply pair them with a glass of milk or whatever your favorite beverage may be. When you're on the move, pack them in your bag or lunchbox to come along for the ride. VOORTMAN Zero Sugar wafers are sure to brighten up your day in the best way.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Voortman",
+  "SIZE": "",
+  "EAN": "0067312005192",
+  "STATUS": "MATCHED"
+ },
+ "06731200525": {
+  "FULL_NAME_FOUND": "Voortman Bakery Vanilla Sugar Free Wafers - 9 Ounce",
+  "DESCRIPTION": "Who needs sugar with a life this sweet? Take a carefree bite out of delicious VOORTMAN BAKERY Zero Sugar Vanilla Wafers. These crispy wafers will flood your mouth with the delicious taste of vanilla. Plus, there's no high-fructose corn syrup, artificial colors, or flavors, so you can feel better about your treat any time of day. Enjoy them at sunrise, mid-afternoon, or for a late-night snack. When you're on the move, pack them in your bag or lunchbox to come along for the ride. VOORTMAN Zero Sugar wafers are sure to brighten up your day in the best way.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Voortman",
+  "SIZE": "",
+  "EAN": "0067312005253",
+  "STATUS": "MATCHED"
+ },
+ "06731200526": {
+  "FULL_NAME_FOUND": "Voortman Bakery Wafers, Zero Sugar, Chocolate - 9 Ounce",
+  "DESCRIPTION": "Voortman Bakery uses real ingredients in the wonderfully delicious cookies that we bake every day. You will not find any artficial colors, artificial flavors, or any high fructose corn syrup in our portfolio of products. As a result, the food has amazing taste and the quality is second to none. These cookies are a delightful addition to any occasion.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Voortman",
+  "SIZE": "",
+  "EAN": "0067312005260",
+  "STATUS": "MATCHED"
+ },
+ "06731200527": {
+  "FULL_NAME_FOUND": "Voortman Bakery Wafers, Zero Sugar, Strawberry",
+  "DESCRIPTION": "Enjoy these Voortman's Strawberry flavored treats any time to light up your day — morning, noon, or night. Best of all, they've got no high-fructose corn syrup, sugar, or artificial colors or flavors, so you can snack with confidence. Pair them with a hot cup of coffee or tea, or a cold glass of milk to make snack time complete. Mix them into your ice-cream for a sweet & delicious frozen desert! Have guests coming over? Place VOORTMAN No Sugar Added Strawberry wafers on a beautiful platter, ready for self-serve. They're sure to keep everyone happy as you mix and mingle. Keep these delicate wafer cookies handy for a lovely, light after-school and after-meal treats. Store in a cool, dry place.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Voortman",
+  "SIZE": "",
+  "EAN": "0067312005277",
+  "STATUS": "MATCHED"
+ },
+ "06731200574": {
+  "FULL_NAME_FOUND": "Voortman Bakery Wafers, Key Lime",
+  "DESCRIPTION": "Take a truly delicious bite of Voortman Bakery Key Lime Wafers. These crispy wafers will flood your mouth with the sweet, tart taste of limes. Plus, there's no high-fructose corn syrup, artificial colors, or flavors, so you can feel better about your treat. Break off one (or a few) for yourself, and enjoy your treat morning, noon, or night. Spend time with your family and use Voortman wafers to craft your next sweet creation. Pair them with a glass of milk or whatever your favorite drink may be. Whether you're enjoying them alone or with others, these wafers are sure to transport everyone to a state of pure snack bliss. Nutrition facts and ingredients shown here may differ from what you find in stores. Please refer to the package label prior to every purchase.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Voortman",
+  "SIZE": "",
+  "EAN": "0067312005741",
+  "STATUS": "MATCHED"
+ },
+ "06900014768": {
+  "FULL_NAME_FOUND": "Starbucks Frappuccino Vanilla Coffee Drink, 405 Millilitre",
+  "DESCRIPTION": "Bliss can, indeed, be bottled. Bold delicious taste of Vanilla and real milk, blended together to create pure perfection. Enjoy a little Starbucks wherever you may be. Only 290 Calories!",
+  "CATEGORY": "Coffee",
+  "BRAND": "Starbucks",
+  "SIZE": "405 mL",
+  "EAN": "0069000147689",
+  "STATUS": "MATCHED"
+ },
+ "06958869086": {
+  "FULL_NAME_FOUND": "Wesson Pure Canola Oil, 40 Fl Oz",
+  "DESCRIPTION": "Canola is the most versatile type of all vegetable oils and contains the least amount of saturated fat out of any common edible oils on the market. Its light and delicate taste makes it the ideal oil to be used in any recipe that calls for vegetable oil.",
+  "CATEGORY": "Cooking Oils",
+  "BRAND": "Wesson",
+  "SIZE": "",
+  "EAN": "0069588690867",
+  "STATUS": "MATCHED"
+ },
+ "07007440701": {
+  "FULL_NAME_FOUND": "Ensure Original Nutrition Shake, Milk Chocolate, 6 Pack 8 Fl Oz",
+  "DESCRIPTION": "From the Number 1 doctor recommended brand, Ensure Original Nutrition Shakes provide complete and balanced nutrition to help you stay healthy, active and energetic. Each shake has 9 grams of protein and 27 essential vitamins and minerals. 6 - 8 fluid ounce bottles.",
+  "CATEGORY": "Fitness & Nutrition",
+  "BRAND": "Ensure",
+  "SIZE": "",
+  "EAN": "0070074407012",
+  "STATUS": "MATCHED"
+ },
+ "07007440705": {
+  "FULL_NAME_FOUND": "Ensure Original Nutrition Shake Strawberry Ready To Drink 48 Fl Oz",
+  "DESCRIPTION": "From the Number 1 doctor recommended brand, Ensure Original Nutrition Shakes provide complete and balanced nutrition to help you stay healthy, active and energetic. Each shake has 9 grams of protein and 27 essential vitamins and minerals. 6 - 8 fluid ounce bottles.",
+  "CATEGORY": "Fitness & Nutrition",
+  "BRAND": "Ensure",
+  "SIZE": "",
+  "EAN": "0070074407050",
+  "STATUS": "MATCHED"
  }
 }

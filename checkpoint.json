@@ -22654,5 +22654,95 @@
   "SIZE": "591 mL",
   "EAN": "0052000043549",
   "STATUS": "MATCHED"
+ },
+ "05200004704": {
+  "FULL_NAME_FOUND": "Gatorade Zero Cool Blue 28oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "",
+  "SIZE": "591 mL",
+  "EAN": "0005200004704",
+  "STATUS": "MATCHED"
+ },
+ "05200004790": {
+  "FULL_NAME_FOUND": "Gatorlyte Gatorade Rapid Rehydration Electrolyte Beverage Orange 20 Fl Oz Bottle",
+  "DESCRIPTION": "Gatorlyte Rapid Rehydration Electrolyte Beverage is scientifically formulated for rapid hydration. Made with a specialized blend of 5 electrolytes and no artificial sweeteners or flavors. Made with 60% lower sugar than the leading sports drink, Gatorlyte contains 12g total sugars per 20 fl oz serving, the leading sports drink contains 34g total sugars per 20 fl oz serving. Comes in a variety of flavors.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Gatorlyte",
+  "SIZE": "591 mL",
+  "EAN": "0052000047905",
+  "STATUS": "MATCHED"
+ },
+ "05200004791": {
+  "FULL_NAME_FOUND": "Gatorlyte Rapid Hydration Strawberry Kiwi Electrolyte Beverage 20 Fl Oz",
+  "DESCRIPTION": "Gatorlyte Rapid Rehydration Electrolyte Beverage is scientifically formulated for zero sugar hydration. Made with a specialized blend of 5 electrolytes and no artificial sweeteners or flavors. Made with 60% lower sugar than the leading sports drink, Gatorlyte contains 12g total sugars per 20 fl oz serving, the leading sports drink contains 34g total sugars per 20 fl oz serving. Comes in a variety of flavors.",
+  "CATEGORY": "Kiwis",
+  "BRAND": "Gatorlyte",
+  "SIZE": "",
+  "EAN": "0052000047912",
+  "STATUS": "MATCHED"
+ },
+ "05200004900": {
+  "FULL_NAME_FOUND": "Gatorlyte Gatorade Electrolyte Beverage, Rapid Rehydration, Cherry Lime 20 Fl Oz",
+  "DESCRIPTION": "Gatorlyte Cherry Lime 20oz is a scientifically formulated hydration drink designed to replenish electrolytes efficiently. Its balanced blend supports rapid recovery from dehydration caused by intense physical activity or heat exposure. The cherry lime flavor offers a refreshing taste while delivering essential minerals to maintain optimal fluid balance and performance. Ideal for athletes and active individuals seeking expert-level hydration support.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Gatorlyte",
+  "SIZE": "591 mL",
+  "EAN": "0052000049008",
+  "STATUS": "MATCHED"
+ },
+ "05200005028": {
+  "FULL_NAME_FOUND": "Gatorade Zero Sugar Lime Cucumber Thirst Quencher 28 Fl Oz",
+  "DESCRIPTION": "With a legacy over 50 years in the making, it’s the most scientifically researched and game-tested way to replace electrolytes lost in sweat. Gatorade hydrates better than water, which is why it’s trusted by some of the world’s best athletes.",
+  "CATEGORY": "Cucumbers",
+  "BRAND": "Gatorade",
+  "SIZE": "",
+  "EAN": "0052000050288",
+  "STATUS": "MATCHED"
+ },
+ "05200005062": {
+  "FULL_NAME_FOUND": "Gatorlyte Gatorade Rapid Rehydration Electrolyte Beverage Watermelon 20 Fl Oz",
+  "DESCRIPTION": "Gatorlyte Rapid Rehydration Electrolyte Beverage is scientifically formulated for rapid hydration. Made with a specialized blend of 5 electrolytes and no artificial sweeteners or flavors. Made with 60% lower sugar than the leading sports drink, Gatorlyte contains 12g total sugars per 20 fl oz serving, the leading sports drink contains 34g total sugars per 20 fl oz serving. Comes in a variety of flavors.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Gatorlyte",
+  "SIZE": "591 mL",
+  "EAN": "0052000050622",
+  "STATUS": "MATCHED"
+ },
+ "05200005082": {
+  "FULL_NAME_FOUND": "Gatorlyte Rapid Rehydration Mixed Berry Electrolyte Beverage 20 Fl Oz",
+  "DESCRIPTION": "Specialized blend of 5 electrolytes. Rapid re hydration. Scientifically formulated for rapid rehydration.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Gatorlyte",
+  "SIZE": "591 mL",
+  "EAN": "0052000050820",
+  "STATUS": "MATCHED"
+ },
+ "05200005117": {
+  "FULL_NAME_FOUND": "Muscle Milk Protein Shake, Non Dairy, Chocolate Peanut Butter 14 Fl Oz",
+  "DESCRIPTION": "MUSCLE MILK provides products that amplify your lifestyle and you become STRONGER EVERYDAY. Non DairyChocolate Peanut Butter Flavor1 Gram Sugar16 Vitamins & Minerals6 Grams Fiber40G ProteinKosher.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Muscle Milk",
+  "SIZE": "414 mL",
+  "EAN": "0052000051179",
+  "STATUS": "MATCHED"
+ },
+ "05200005285": {
+  "FULL_NAME_FOUND": "Gatorlyte Zero Sugar Strawberry Kiwi Electrolyte Beverage 20 Fl Oz",
+  "DESCRIPTION": "Gatorlyte Zero Rapid Rehydration Electrolyte Beverage is scientifically formulated for rapid hydration. Made with a specialized blend of 5 electrolytes and no artificial sweeteners or flavors and zero sugar.",
+  "CATEGORY": "Kiwis",
+  "BRAND": "Gatorlyte",
+  "SIZE": "",
+  "EAN": "0052000052855",
+  "STATUS": "MATCHED"
+ },
+ "05200005286": {
+  "FULL_NAME_FOUND": "Gatorlyte Zero Sugar Lemon Lime Electrolyte Beverage 20 Fl Oz",
+  "DESCRIPTION": "Specialized blend of 5 electrolytes. No artificial sweeteners or flavors. Scientifically formulated for zero sugar rehydration.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Gatorlyte",
+  "SIZE": "591 mL",
+  "EAN": "0052000052862",
+  "STATUS": "MATCHED"
  }
 }

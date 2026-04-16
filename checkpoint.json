@@ -25480,5 +25480,95 @@
   "SIZE": "",
   "EAN": "0869036000404",
   "STATUS": "MATCHED"
+ },
+ "87218100006": {
+  "FULL_NAME_FOUND": "Flipz Milk Chocolate Covered Pretzels 5 Ounce - Delicious Snack Treat",
+  "DESCRIPTION": "Sweet‑salty crunch meets playful flavor in a snack made for everyday enjoyment. Each bite delivers lively taste, turning ordinary breaks into flavorful snacking occasions. With the classic appeal of Pretzels, every pack brings dependable satisfaction. The indulgent kick of Chocolate Snacks adds richness to every bite, while the balanced fun of Snacks enhances the experience, creating a treat that feels both exciting and comforting. Crafted to highlight the harmony of flavor and crunch, this pouch keeps cravings in check and enjoyment flowing throughout the day.",
+  "CATEGORY": "Pretzels",
+  "BRAND": "Flipz",
+  "SIZE": "",
+  "EAN": "0872181000069",
+  "STATUS": "MATCHED"
+ },
+ "87218100054": {
+  "FULL_NAME_FOUND": "Flipz White Fudge Covered Pretzels - 5 Ounce",
+  "DESCRIPTION": "Flipz White Fudge Covered Pretzels offer a deliciously sweet and creamy twist on the classic treat. The crunchy pretzels are coated in smooth, velvety white fudge, creating the perfect combination of salty and sweet in every bite. Ideal for snacking, sharing, or treating yourself, Flipz White Fudge Covered Pretzels provide a luxurious, indulgent snack that’s hard to resist.",
+  "CATEGORY": "Pretzels",
+  "BRAND": "Flipz",
+  "SIZE": "",
+  "EAN": "0872181000540",
+  "STATUS": "MATCHED"
+ },
+ "87218100406": {
+  "FULL_NAME_FOUND": "Flips Covered Pretzels, Dark Chocolate, 50% Cacao",
+  "DESCRIPTION": "Fresh slow baked, brick oven pretzels enrobed in tasty premium chocolate coatings. Low in cholesterol and an outstanding source of protein.",
+  "CATEGORY": "Pretzels",
+  "BRAND": "Flips",
+  "SIZE": "",
+  "EAN": "0872181004067",
+  "STATUS": "MATCHED"
+ },
+ "87398300001": {
+  "FULL_NAME_FOUND": "Hi-Chew Fruit Chews Grape Chewy Candy 50g",
+  "DESCRIPTION": "HI-CHEW™ Grape candy is the ultimate juicy, chewy snack. Each candy is individually wrapped, easy to share, and impossible not to love. The bold purple packaging catches the eye, and the fruity grape taste will keep any customer s attention.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Hi-Chew",
+  "SIZE": "",
+  "EAN": "0873983000011",
+  "STATUS": "MATCHED"
+ },
+ "87398300002": {
+  "FULL_NAME_FOUND": "Hi-Chew Strawberry Fruit Chews - 1.76 Ounce",
+  "DESCRIPTION": "Try out a Japanese favourite with Morinaga's strawberry flavoured Hi Chew. Made with real strawberry juice for a developed, sweet, fruity flavour, this slim pack contains ten individually wrapped sweets. Enjoy between meals as a little something to keep you going.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Hi-Chew",
+  "SIZE": "",
+  "EAN": "0873983000028",
+  "STATUS": "MATCHED"
+ },
+ "87398300003": {
+  "FULL_NAME_FOUND": "Hi-Chew Fruit Chews Green Apple Chewy Candy 50g",
+  "DESCRIPTION": "Glucose Syrup, Sugar, Palm Oil, Gelatin, Natural and Artificial Flavouring, DL-Malic Acid, Citric Acid, Concentrated Apple Juice, Colouring (Spirulina Extract, Fruit Juice), Emulsifiers (Sucrose Fatty Acid Esters, Sorbitan Monostearate). May contain traces of Milk, Soy Bean.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Hi-Chew",
+  "SIZE": "",
+  "EAN": "0873983000035",
+  "STATUS": "MATCHED"
+ },
+ "87398300005": {
+  "FULL_NAME_FOUND": "Hi-Chew Fruit Chews Mango Chewy Candy 50g",
+  "DESCRIPTION": "HI-CHEW™ candy is the ultimate juicy, chewy, and fruity snack. HI-CHEW Mango fruity chews are individually wrapped candies that are easy to share and impossible not to love. The striking yellow packaging brings customers closer, and the fruity HI-CHEW flavors will keep them coming back to restock.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Hi-Chew",
+  "SIZE": "",
+  "EAN": "0873983000059",
+  "STATUS": "MATCHED"
+ },
+ "87398300504": {
+  "FULL_NAME_FOUND": "Hi-Chew Morinaga Original Mix Strawberry Grape Green Apple Fruit Chews Candy - 3.53oz",
+  "DESCRIPTION": "HI-CHEW™ offers a variety of exotic and traditional fruit-forward flavors, and a smooth, chewy texture unlike any other candy on the market. From the minute you unwrap your HI-CHEW to the very last bite, the aromas of true-to-life fruit flavors are yours to enjoy! With our unique double-layer, mouthwatering flavor is released as you chew for a long-lasting immensely fruity, intensely chewy experience. The history of Morinaga stretches back over a century when company founder Taichiro Morinaga brought his candy making skills to Japan from America in the 1800s. HI-CHEW™ has long been the best-selling soft candy in Japan and continues to see year-over-year growth throughout other parts of Asia and in the United States.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Hi-Chew",
+  "SIZE": "",
+  "EAN": "0873983005047",
+  "STATUS": "MATCHED"
+ },
+ "87441100043": {
+  "FULL_NAME_FOUND": "Cheyenne Cigars, Full Flavor, 100's, Box",
+  "DESCRIPTION": "These cigars are predominantly natural tobacco with non-tobacco ingredients added. Underage sale prohibited. Made in USA.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Cheyenne",
+  "SIZE": "",
+  "EAN": "0874411000436",
+  "STATUS": "MATCHED"
+ },
+ "87441100062": {
+  "FULL_NAME_FOUND": "Cheyenne Cigars, Menthol, 100's",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Cheyenne",
+  "SIZE": "",
+  "EAN": "0874411000627",
+  "STATUS": "MATCHED"
  }
 }

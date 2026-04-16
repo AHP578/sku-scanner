@@ -23452,5 +23452,89 @@
   "SIZE": "",
   "EAN": "0070137105299",
   "STATUS": "MATCHED"
+ },
+ "07013711121": {
+  "FULL_NAME_FOUND": "Black & Mild Cigar Jazz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Black & Mild",
+  "SIZE": "",
+  "EAN": "0070137111214",
+  "STATUS": "MATCHED"
+ },
+ "07013711122": {
+  "FULL_NAME_FOUND": "Black & Mild Wood Tip Jazz Single Cigar",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Black & Mild",
+  "SIZE": "",
+  "EAN": "0070137111221",
+  "STATUS": "MATCHED"
+ },
+ "07013711489": {
+  "FULL_NAME_FOUND": "Black & Mild Cigars B&m Jazz Pt Cgr 1.19",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Food, Beverages & Tobacco",
+  "BRAND": "Black & Mild Cigars",
+  "SIZE": "",
+  "EAN": "0070137114895",
+  "STATUS": "MATCHED"
+ },
+ "81809400577": {
+  "FULL_NAME_FOUND": "Rockstar Energy Drink, Original, 16 Fl Oz Can",
+  "DESCRIPTION": "Rockstar Energy Drink contains Caffeine, Taurine, guarana, ginseng, and milk thistle. Formulated for those who lead active lifestyles, from athletes to rock stars. Lightly Carbonated, enjoy chilled.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Rockstar",
+  "SIZE": "473 mL",
+  "EAN": "0818094005777",
+  "STATUS": "MATCHED"
+ },
+ "81809400578": {
+  "FULL_NAME_FOUND": "Rockstar Recovery Lemonade Energy Drink 16 Fl Oz",
+  "DESCRIPTION": "Packs a powerful energy boast with a potent herbal blend of guarana, ginkgo, ginseng, milk thistle and electrolytes. 160mg caffeine per serving.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Rockstar",
+  "SIZE": "473 mL",
+  "EAN": "0818094005784",
+  "STATUS": "MATCHED"
+ },
+ "81809400580": {
+  "FULL_NAME_FOUND": "Rockstar Pure Zero Sugar Free Energy Drink Silver Ice 16 Fl Oz",
+  "DESCRIPTION": "Includes 1 can of Rockstar Energy Drink Pure Zero Silver Ice. ROCKSTAR is scientifically formulated to provide an incredible energy boost for those who lead active and exhausting lifestyles-from athletes to rock stars. ROCKSTAR is enhanced with the potent herbal blend of Guarana, Ginkgo, Ginseng and Milk Thistle. Enjoy this fully refreshing lightly carbonated beverage super chilled.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Rockstar",
+  "SIZE": "473 mL",
+  "EAN": "0818094005807",
+  "STATUS": "MATCHED"
+ },
+ "81864501099": {
+  "FULL_NAME_FOUND": "Aloevine Aloe Vera Drink, Refreshing, Watermelon 16.9 Fl Oz",
+  "DESCRIPTION": "Aloevine is a ready to drink delicious, refreshing alternative to sodas and artificial juices. Crafted with 8% fresh Aloe Vera gel pulp and natural and/or artificial fruity flavors, Aloe Vera contains vitamins, minerals, amino acids to promote wellness. Discover the refreshing world of AloeVine with our exquisite range of 13 unique flavors! Immerse yourself in an unparalleled taste experience that will delight your senses and transport you to a oasis of freshness. From the classic Aloe Original to bolder flavors like Strawberry Kiwi and Pineapple Coconut, our AloeVine beverage range is crafted to cater to every palate.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Aloevine",
+  "SIZE": "500 mL",
+  "EAN": "0818645010991",
+  "STATUS": "MATCHED"
+ },
+ "81864501102": {
+  "FULL_NAME_FOUND": "Aloevine Aloe Vera Drink, Refreshing, Pina Colada 16.9 Fl Oz",
+  "DESCRIPTION": "Aloevine is a ready to drink delicious, refreshing alternative to sodas and artificial juices. Crafted with 8% fresh Aloe Vera gel pulp and natural and/or artificial fruity flavors, Aloe Vera contains vitamins, minerals, amino acids to promote wellness. Discover the refreshing world of AloeVine with our exquisite range of 13 unique flavors! Immerse yourself in an unparalleled taste experience that will delight your senses and transport you to a oasis of freshness. From the classic Aloe Original to bolder flavors like Strawberry Kiwi and Pineapple Coconut, our AloeVine beverage range is crafted to cater to every palate.",
+  "CATEGORY": "Juice",
+  "BRAND": "Aloevine",
+  "SIZE": "500 mL",
+  "EAN": "0818645011028",
+  "STATUS": "MATCHED"
+ },
+ "81953401340": {
+  "STATUS": "UNMATCHED"
+ },
+ "81972101028": {
+  "FULL_NAME_FOUND": "Bluntville Palma Wrap",
+  "DESCRIPTION": "2341. Inner Pack. 819721010287. Inner Pack (2). 2341. T CIGAR. BLUNTVILLE.",
+  "CATEGORY": "Cigars",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0819721010287",
+  "STATUS": "MATCHED"
  }
 }

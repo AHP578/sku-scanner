@@ -27028,5 +27028,47 @@
  },
  "780201379709": {
   "STATUS": "UNMATCHED"
+ },
+ "780201379716": {
+  "STATUS": "UNMATCHED"
+ },
+ "780201379723": {
+  "STATUS": "UNMATCHED"
+ },
+ "780201379730": {
+  "STATUS": "UNMATCHED"
+ },
+ "800888221902": {
+  "STATUS": "UNMATCHED"
+ },
+ "801073210363": {
+  "FULL_NAME_FOUND": "Gs-5200 High Pressure Outdoor Patio Stov",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Outdoor Furniture",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "8010732103636",
+  "STATUS": "MATCHED"
+ },
+ "801073211506": {
+  "FULL_NAME_FOUND": "Hot Chicken Carbonara Noodles Bi",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Hot Plates",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "8010732115066",
+  "STATUS": "MATCHED"
+ },
+ "809238342904": {
+  "STATUS": "UNMATCHED"
+ },
+ "809238342928": {
+  "STATUS": "UNMATCHED"
+ },
+ "809238342935": {
+  "STATUS": "UNMATCHED"
+ },
+ "809238342942": {
+  "STATUS": "UNMATCHED"
  }
 }

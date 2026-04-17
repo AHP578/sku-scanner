@@ -26542,5 +26542,89 @@
  },
  "89116400224": {
   "STATUS": "UNMATCHED"
+ },
+ "89116400226": {
+  "FULL_NAME_FOUND": "Salted Cashews",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0891164002265",
+  "STATUS": "MATCHED"
+ },
+ "89116400227": {
+  "STATUS": "UNMATCHED"
+ },
+ "89116400228": {
+  "FULL_NAME_FOUND": "SC Premium Trail Mix",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Trail & Snack Mixes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0891164002289",
+  "STATUS": "MATCHED"
+ },
+ "89116400233": {
+  "FULL_NAME_FOUND": "Stone Creek Unsalted Peanuts 3Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0891164002333",
+  "STATUS": "MATCHED"
+ },
+ "89116400240": {
+  "FULL_NAME_FOUND": "Stone Creek Mixed Fruit & Nuts",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "Stone Creek",
+  "SIZE": "",
+  "EAN": "0891164002401",
+  "STATUS": "MATCHED"
+ },
+ "89116400241": {
+  "FULL_NAME_FOUND": "Sc Honey Roasted Peanuts",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0891164002418",
+  "STATUS": "MATCHED"
+ },
+ "89116400242": {
+  "FULL_NAME_FOUND": "Got Emmm",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0891164002425",
+  "STATUS": "MATCHED"
+ },
+ "89116400243": {
+  "FULL_NAME_FOUND": "Cajun Hot Mix",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0891164002432",
+  "STATUS": "MATCHED"
+ },
+ "89359400205": {
+  "FULL_NAME_FOUND": "PopCorners White Cheddar Popped Corn Chips - 1.1 Oz",
+  "DESCRIPTION": "Popular cheddar popcorn is flattened into a crispy chip that customers will love to snack on. While made with real Wisconsin cheddar, these are baked chips, making them a healthier snacking option. Health call outs like never fried, Non-GMO corn, gluten free and 130 calories per bag will attract attention.",
+  "CATEGORY": "Chips",
+  "BRAND": "PopCorners",
+  "SIZE": "",
+  "EAN": "0893594002051",
+  "STATUS": "MATCHED"
+ },
+ "89359400207": {
+  "FULL_NAME_FOUND": "PopCorners Sweet & Salty Kettle Corn, Popped-Corn Snack",
+  "DESCRIPTION": "PopCorners are the delicious snack that makes it easier than ever to SNACK BETTER! Drizzled in sunflower oil with a pinch of sea salt, our chips are made with non-GMO corn and never fried. No gluten, no nuts. Just simple ingredients for great tasting flavor.",
+  "CATEGORY": "Chips",
+  "BRAND": "PopCorners",
+  "SIZE": "",
+  "EAN": "0893594002075",
+  "STATUS": "MATCHED"
  }
 }

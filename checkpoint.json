@@ -26806,5 +26806,53 @@
   "SIZE": "31 mL",
   "EAN": "0898999012261",
   "STATUS": "MATCHED"
+ },
+ "89899903000": {
+  "FULL_NAME_FOUND": "Vita Coco Pure Coconut Water Pineapple - 16.9 Fl Oz Carton",
+  "DESCRIPTION": "Pineapples have been cool ever since King Charles II posed for a portrait with one in the 1600s. They also happen to be delightfully sweet and a perfect partner for our hydrating coconut water. Wed like to think if King Chuck were still kicking it today, this is the Vita Coco hed like best.",
+  "CATEGORY": "Water",
+  "BRAND": "Vita Coco",
+  "SIZE": "500 mL",
+  "EAN": "0898999030005",
+  "STATUS": "MATCHED"
+ },
+ "89899904000": {
+  "FULL_NAME_FOUND": "Vita Coco Pure Coconut Water, Peach & Mango 16.9 Fl Oz",
+  "DESCRIPTION": "Not so long ago, you had to use a machete if you wanted a sip of pure coconut water. We’ve taken the machete out of the equation, which is good, because those things are dangerous. Now all that’s left is Mother Nature’s most hydrating, refreshing, vitamin- and mineral-rich nectar. Vita Coco is never made from concentrate. That means we pick, crack, and pack fresh young coconuts directly at the source. After the coconuts are cleaned, the delicate water inside is flash pasteurized (and occasionally mixed with all-natural fruit puree) then poured into a shelf-stable Tetra Pak. The entire process from tree to Pak doesn't exceed 72 hours. We hear the end result is a lot like sticking a straw in a coconut.",
+  "CATEGORY": "Water",
+  "BRAND": "Vita Coco",
+  "SIZE": "500 mL",
+  "EAN": "0898999040004",
+  "STATUS": "MATCHED"
+ },
+ "91407085210": {
+  "FULL_NAME_FOUND": "Herbal Supplements: SUP-RHINO-69-GUM",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Vitamins & Supplements",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0914070852103",
+  "STATUS": "MATCHED"
+ },
+ "235645716168": {
+  "STATUS": "UNMATCHED"
+ },
+ "300830087815": {
+  "STATUS": "UNMATCHED"
+ },
+ "311250001871": {
+  "STATUS": "UNMATCHED"
+ },
+ "311250007026": {
+  "STATUS": "UNMATCHED"
+ },
+ "311250007033": {
+  "STATUS": "UNMATCHED"
+ },
+ "311250007040": {
+  "STATUS": "UNMATCHED"
+ },
+ "311250007057": {
+  "STATUS": "UNMATCHED"
  }
 }

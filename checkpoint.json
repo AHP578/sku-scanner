@@ -27625,5 +27625,95 @@
   "SIZE": "",
   "EAN": "0090600000913",
   "STATUS": "MATCHED"
+ },
+ "01200000297": {
+  "FULL_NAME_FOUND": "Mountain Dew Citrus Soda 1l Bottle",
+  "DESCRIPTION": "Mountain Dew Citrus Soda is a vibrant, citrus-flavored soft drink that provides a refreshing burst of energy. Perfect for quenching your thirst any time of the day!",
+  "CATEGORY": "Soda",
+  "BRAND": "Mountain Dew",
+  "SIZE": "1000 mL",
+  "EAN": "0012000002977",
+  "STATUS": "MATCHED"
+ },
+ "02500005200": {
+  "FULL_NAME_FOUND": "Minute Maid Cranberry Grape Juice Drink Bottle, 12 Fl Oz",
+  "DESCRIPTION": "Experience the refreshing taste of Minute Maid Cranberry Grape Fruit Juice! Perfectly blended for a delightful balance of tart cranberry and sweet grape flavors, this juice is a delicious way to hydrate and enjoy a burst of fruity goodness. Each 12 fluid ounce bottle is packed with essential vitamins and nutrients, making it an ideal choice for any time of the day. Whether you are enjoying it at breakfast, as a midday snack, or as a refreshing drink during a gathering, Minute Maid Cranberry Grape Fruit Juice is sure to please.",
+  "CATEGORY": "Juice",
+  "BRAND": "Minute Maid",
+  "SIZE": "355 mL",
+  "EAN": "0025000052002",
+  "STATUS": "MATCHED"
+ },
+ "05200020806": {
+  "FULL_NAME_FOUND": "Gatorade Fruit Punch Thirst Quencher - 8 Pack Bottles",
+  "DESCRIPTION": "The proven classic. With a legacy of over 50 years in the making, it's the most scientifically researched and game-tested way to replace electrolytes lost in sweat. Gatorade Thirst Quencher is specifically made to help keep you hydrated, which is why it's trusted by some of the world's best athletes.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Gatorade",
+  "SIZE": "591 mL",
+  "EAN": "0052000208061",
+  "STATUS": "MATCHED"
+ },
+ "04850000868": {
+  "FULL_NAME_FOUND": "Tropicana Juice Beverage, Pineapple Orange 15.2 Fl Oz",
+  "DESCRIPTION": "Includes 12 bottles of Tropicana Pineapple Orange juice drink. Vitamin C nutrition you need. Delicious, sweet pineapple orange flavor. Enjoy at home, work, or on the go.",
+  "CATEGORY": "Juice",
+  "BRAND": "Tropicana",
+  "SIZE": "450 mL",
+  "EAN": "0048500008683",
+  "STATUS": "MATCHED"
+ },
+ "61300873530": {
+  "FULL_NAME_FOUND": "AriZona Arnold Palmer Half & Half, Iced Tea/Lemonade, Strawberry",
+  "DESCRIPTION": "Experience a refreshing twist on a classic with AriZona's Arnold Palmer Strawberry Half & Half Iced Tea Lemonade! This vibrant blend combines the time-honored pairing of iced tea and lemonade, elevated with a delightful strawberry infusion. Each sip delivers the signature earthiness of iced tea harmoniously balanced by the zesty brightness of lemonade. Then, in slides the sweet surprise – a luscious undertone of ripe strawberries, adding depth and a burst of fruity charm. This invigorating fusion, presented in AriZona's iconic tall can, is the ideal companion for sun-soaked picnics or a laid-back afternoon break. Dive into this fruity refresher and let AriZona whisk you away on a strawberry-kissed summer adventure!",
+  "CATEGORY": "Beverages",
+  "BRAND": "AriZona",
+  "SIZE": "710 mL",
+  "EAN": "0613008735302",
+  "STATUS": "MATCHED"
+ },
+ "67857842145": {
+  "FULL_NAME_FOUND": "Boss Revolution Phone Card",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Phone Cards",
+  "BRAND": "Boss Revolution",
+  "SIZE": "",
+  "EAN": "0678578421451",
+  "STATUS": "MATCHED"
+ },
+ "02468231341": {
+  "FULL_NAME_FOUND": "Hershey's Giant Vanilla Premium Ice Cream Sandwich",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Frozen Desserts & Novelties",
+  "BRAND": "Hershey's",
+  "SIZE": "",
+  "EAN": "0024682313418",
+  "STATUS": "MATCHED"
+ },
+ "02912615044": {
+  "FULL_NAME_FOUND": "Sortz Sour Power Candy Straws",
+  "DESCRIPTION": "Sour power has been the best tasting sour candy since 1985! Sour power items include straws belts and gumballs. A variety of great-tasting flavors are available. Sour power has pucker power!.",
+  "CATEGORY": "Drinking Straws & Stirrers",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0002912615044",
+  "STATUS": "MATCHED"
+ },
+ "07800003061": {
+  "FULL_NAME_FOUND": "Schweppes Raspberry Ginger Ale",
+  "DESCRIPTION": "The Schweppes Ginger Ale flavors Enjoy the refreshing taste of Grape, Peach, Raspberry, and the classic Ginger Ale all in one package. Perfect for those who enjoy a variety of flavors or for sharing with friends and family. Ideal for stocking up your pantry with a selection of non-alcoholic soft drinks for any occasion. Schweppes Ginger Ale - Refreshing, Crisp, Delicious Natural Ginger Flavors - 12, 20oz Bottles With a bold, refreshing taste of ginger ale, its crisp and bubbly flavor makes for the perfect carbonated beverage you can reach for to satisfy your thirst! Enjoy alone or mixed with drinks for the perfectly crisp, all-year-round, drink of choice.",
+  "CATEGORY": "Soda",
+  "BRAND": "Schweppes",
+  "SIZE": "591 mL",
+  "EAN": "0078000030617",
+  "STATUS": "MATCHED"
+ },
+ "02468231280": {
+  "FULL_NAME_FOUND": "Bear Premium Ice Cream Sandwich",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0024682312800",
+  "STATUS": "MATCHED"
  }
 }

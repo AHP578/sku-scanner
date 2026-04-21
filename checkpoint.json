@@ -28957,5 +28957,83 @@
   "SIZE": "",
   "EAN": "0788434115681",
   "STATUS": "MATCHED"
+ },
+ "02840070572": {
+  "FULL_NAME_FOUND": "Chester's Puffcorn Cheese Puffed Corn Snacks - 4.25oz",
+  "DESCRIPTION": "CHEETOS snacks are the much-loved cheesy treats that are fun for everyone! You just can't eat a CHEETOS snack without licking the \"cheetle\" off your fingertips. Made with real cheese and an irresistible light, crispy texture, they’re finger lickin’ good. And wherever the CHEETOS brand and CHESTER CHEETAH go, cheesy smiles are sure to follow.",
+  "CATEGORY": "Cheese",
+  "BRAND": "Chester's",
+  "SIZE": "",
+  "EAN": "0028400705721",
+  "STATUS": "MATCHED"
+ },
+ "02840077065": {
+  "FULL_NAME_FOUND": "Doritos Tortilla Chips Flamin' Hot Limon Flavored",
+  "DESCRIPTION": "The DORITOS® brand is all about boldness. If you’re up to the challenge, grab a bag of DORITOS® tortilla chips and get ready to make some memories you won’t soon forget. It’s a bold experience in snacking and beyond.",
+  "CATEGORY": "Chips",
+  "BRAND": "Doritos",
+  "SIZE": "",
+  "EAN": "0028400770651",
+  "STATUS": "MATCHED"
+ },
+ "61196888757": {
+  "STATUS": "UNMATCHED"
+ },
+ "61196888784": {
+  "STATUS": "UNMATCHED"
+ },
+ "84259512959": {
+  "FULL_NAME_FOUND": "C4 Energy Drink, Berry Powerbomb 16 Fl Oz",
+  "DESCRIPTION": "The unrivalled flavor of C4 Ultimate is made with zero sugar and zero compromise on taste. No-holds-barred energy from 300mg of caffeine alongside clinically studied ingredients for muscular endurance and cellular hydration. With zero sugar, C4 Ultimate is the ultimate energy drink to overdrive performance. Every can of C4® Ultimate Carbonated is loaded with incredible flavors and the perfect amount of carbonation to kick-start your taste buds.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "C4",
+  "SIZE": "473 mL",
+  "EAN": "0842595129595",
+  "STATUS": "MATCHED"
+ },
+ "88884901514": {
+  "FULL_NAME_FOUND": "Quest Hero Protein Bar, Birthday Cake, Crispy 1.83 Oz",
+  "DESCRIPTION": "Discover sweets without all the sugar and enjoy the benefits of feeding your cravings the Quest way. Why do millions of people love Quest Protein Bars? Quest Protein Bars are sweet without all the sugar. Our protein bars use complete, dairy-based proteins and provide 9 essential amino acids to help, support and uplift your nutrition goals without sacrificing taste. Quest Hero Bars look and taste like the candy bars you know and love with a fraction of the sugars and net carbs. Sounds too good to be true? Try one today and find out for yourself. Due to global supply chain issues, Quest recently reformulated some of its products to contain soy lecithin and/or vegetable oil including soybean which is considered an allergen. The small amount contained within the product will not change the quality, flavor or texture of the product. We remain committed to using the high quality dairy-based proteins to help give you the amino acids you need.",
+  "CATEGORY": "Nutrition Bars",
+  "BRAND": "Quest",
+  "SIZE": "",
+  "EAN": "0888849015146",
+  "STATUS": "MATCHED"
+ },
+ "02430086595": {
+  "FULL_NAME_FOUND": "Little Debbie Zebra Snack Cake",
+  "DESCRIPTION": "Fluffy yellow cake, the irresistible creme filling and the smooth mix of white icing and fudge stripes.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Little Debbie",
+  "SIZE": "",
+  "EAN": "0024300865954",
+  "STATUS": "MATCHED"
+ },
+ "75752800504": {
+  "FULL_NAME_FOUND": "Takis Fuego - Hot Chili Pepper Tortilla Chips - 28.4g",
+  "DESCRIPTION": "Takis Fuego chips ignite your taste buds with intense heat and bold flavor. These rolled tortilla chips are dusted with a fiery combination of chili pepper and lime, delivering a spicy and tangy punch in every bite. The crunchy texture adds to the exhilarating snacking experience, making Takis Fuego a popular choice for those who crave spicy snacks. Whether you enjoy them straight from the bag or paired with your favorite dip, Takis Fuego chips are perfect for spice enthusiasts looking to add some heat to their snacking routine. Embrace the fiery intensity of Takis Fuego and enjoy the zesty flavors that make them a standout snack option.",
+  "CATEGORY": "Chips",
+  "BRAND": "Takis",
+  "SIZE": "",
+  "EAN": "0757528005047",
+  "STATUS": "MATCHED"
+ },
+ "88939201002": {
+  "FULL_NAME_FOUND": "Celsius Raspberry Acai Green Tea, Energy Drink",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Food, Beverages & Tobacco",
+  "BRAND": "Celsius",
+  "SIZE": "",
+  "EAN": "0088939201002",
+  "STATUS": "MATCHED"
+ },
+ "04210000910": {
+  "FULL_NAME_FOUND": "Grizzly Snuff, Moist, Long Cut, Premium Mint",
+  "DESCRIPTION": "mygrizzly.com. Sale only allowed in the United States. Coupons & more at mygrizzly.com (website restricted to age 21+ tobacco consumers.). Est. 1900 American Snuff Co.",
+  "CATEGORY": "Food, Beverages & Tobacco",
+  "BRAND": "Grizzly",
+  "SIZE": "",
+  "EAN": "0042100009101",
+  "STATUS": "MATCHED"
  }
 }

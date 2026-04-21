@@ -29629,5 +29629,89 @@
   "SIZE": "",
   "EAN": "0041137000419",
   "STATUS": "MATCHED"
+ },
+ "05200010171": {
+  "FULL_NAME_FOUND": "Gatorade Protein Bar, Whey, Mint Chocolate Crunch",
+  "DESCRIPTION": "Made with 20 gram of high quality whey and milk protein to help rebuild your muscles so you come back strong. The protein bar used by the NFL, NHL, NBA and MLB is now available to you. Scientifically developed for athletes.",
+  "CATEGORY": "Personal Care",
+  "BRAND": "Gatorade",
+  "SIZE": "",
+  "EAN": "0052000101713",
+  "STATUS": "MATCHED"
+ },
+ "07680930050": {
+  "FULL_NAME_FOUND": "Linden's Cookies Chocolate",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cookies",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0076809300504",
+  "STATUS": "MATCHED"
+ },
+ "09175202100": {
+  "FULL_NAME_FOUND": "Otis Spunkmeyer Muffin Wild Blueberry IW",
+  "DESCRIPTION": "Made with real wild blueberries. For more information contact 1-855-4-Aryzta. Product of USA.",
+  "CATEGORY": "Muffins",
+  "BRAND": "Otis Spunkmeyer",
+  "SIZE": "",
+  "EAN": "0091752021009",
+  "STATUS": "MATCHED"
+ },
+ "85001758977": {
+  "FULL_NAME_FOUND": "Hi-Chew Stick Chewy Fruit Candy- Blue Raspberry",
+  "DESCRIPTION": "Experience a burst of bold, fruity flavour with Hi-Chew Stick Chewy Fruit Candy – Blue Raspberry! This iconic Japanese candy delivers a soft, chewy texture combined with the tangy sweetness of blue raspberry. Perfect for long-lasting snacking, sharing with friends, or adding to your candy collection, Hi-Chew offers a playful and satisfying chew with every bite.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Hi-Chew",
+  "SIZE": "",
+  "EAN": "0850017589773",
+  "STATUS": "MATCHED"
+ },
+ "02200029324": {
+  "FULL_NAME_FOUND": "brands Wrigley's Any CategoryGroceryGrocery",
+  "DESCRIPTION": "Wrigley's Juicy Fruit Gum is bursting with delicious flavor! This small sized compact travel size pack can fit in your pocket and is designed to improve your chewing experience on-the-go.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "brands Wrigley's",
+  "SIZE": "",
+  "EAN": "0002200029324",
+  "STATUS": "MATCHED"
+ },
+ "07013711491": {
+  "FULL_NAME_FOUND": "Black & Mild Cigars Sweets Plastic Tip",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Black & Mild Cigars",
+  "SIZE": "",
+  "EAN": "0070137114918",
+  "STATUS": "MATCHED"
+ },
+ "07339005553": {
+  "FULL_NAME_FOUND": "Trident White Sugar Free Spearmint Gum",
+  "DESCRIPTION": "Entice your patrons with the crisp, refreshing taste of spearmint flavored Trident® gum with a whitening power that customers look for. These handy dual-tear packs featuring multiple callouts such as sugar-free are sure to make this chewing gum a big hit on your displays.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Trident",
+  "SIZE": "",
+  "EAN": "0073390055530",
+  "STATUS": "MATCHED"
+ },
+ "07800015540": {
+  "FULL_NAME_FOUND": "Canada Dry Mandarin Orange Sparkling Seltzer Water",
+  "DESCRIPTION": "Canada Dry Mandarin Sparkling Seltzer Water (20 fl oz). Effervescent, vibrant, and naturally flavored with mandarin orange, this sparkling water delivers refreshing zest without any sugar, calories, or caffeine. It’s the perfect light-and-fizzy companion for hydration, those creative cocktail moments, or mocktail magic.",
+  "CATEGORY": "Water",
+  "BRAND": "Canada Dry",
+  "SIZE": "591 mL",
+  "EAN": "0078000155402",
+  "STATUS": "MATCHED"
+ },
+ "08603433008": {
+  "STATUS": "UNMATCHED"
+ },
+ "09050001064": {
+  "FULL_NAME_FOUND": "Kool 100 Box $1 Off",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Kool",
+  "SIZE": "",
+  "EAN": "0090500010647",
+  "STATUS": "MATCHED"
  }
 }

@@ -27271,5 +27271,95 @@
   "SIZE": "",
   "EAN": "0029000022119",
   "STATUS": "MATCHED"
+ },
+ "09060000076": {
+  "FULL_NAME_FOUND": "Sonoma Cigarettes, Class A",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Sonoma",
+  "SIZE": "",
+  "EAN": "0090600000760",
+  "STATUS": "MATCHED"
+ },
+ "71616530135": {
+  "FULL_NAME_FOUND": "RAW Organic Cone - Kingsize - 3pc",
+  "DESCRIPTION": "Koop RAW Bio-Kegel Kingsize - 3 stuks. Geniet van de beste kwaliteit hennep kegels met snelle levering en uitstekende service van Stonedoos.",
+  "CATEGORY": "Filters & Screens",
+  "BRAND": "RAW",
+  "SIZE": "",
+  "EAN": "0716165301356",
+  "STATUS": "MATCHED"
+ },
+ "02900007538": {
+  "FULL_NAME_FOUND": "Planters Cashews Salted Tube",
+  "DESCRIPTION": "The Planters Salted Cashew Tube makes for a quick and healthy snack option. Packed with proteins and nutrients, these salted cashew make a wholesome and yummy evening snack. This bulk pack of Planters Cashew Tube is ideal for stocking up in cafeterias and retail stores.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "Planters",
+  "SIZE": "",
+  "EAN": "0029000075382",
+  "STATUS": "MATCHED"
+ },
+ "01420000256": {
+  "FULL_NAME_FOUND": "Charms Blow Pop, Super, Strawberry",
+  "DESCRIPTION": "Super Blow Pop® lollipops offer two delicious treats in one. Chewy bubble gum centers surrounded by delicious hard candy shells provide your customers with a variety of fruity flavors including watermelon, cherry, Blue Razz Berry®, sour apple, strawberry, and grape.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Charms",
+  "SIZE": "",
+  "EAN": "0014200002566",
+  "STATUS": "MATCHED"
+ },
+ "02900002213": {
+  "FULL_NAME_FOUND": "Planters Peanuts Honey Roasted Pre-Priced",
+  "DESCRIPTION": "Planters Honey Roasted Peanuts are dry roasted with honey and seasoned with sea salt to perfection. It is cholesterol-free and Kosher snack.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "Planters",
+  "SIZE": "",
+  "EAN": "0029000022133",
+  "STATUS": "MATCHED"
+ },
+ "02820000817": {
+  "FULL_NAME_FOUND": "Parliament Menthol Box King 1",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Parliament",
+  "SIZE": "",
+  "EAN": "0028200008176",
+  "STATUS": "MATCHED"
+ },
+ "04900003719": {
+  "FULL_NAME_FOUND": "Sprite Zero Sugar Lemon Lime Diet Soda Pop Soft Drink, 20 Fl Oz",
+  "DESCRIPTION": "Sprite Zero is the iconic great taste of Sprite with zero sugar. It's a delicious zero sugar, caffeine-free take on the iconic flavor of Sprite and never fails to deliver an extremely satisfying taste. With 100% natural flavors, and zero calories to be found, you can enjoy whenever, wherever.",
+  "CATEGORY": "Soda",
+  "BRAND": "Sprite",
+  "SIZE": "591 mL",
+  "EAN": "0049000037197",
+  "STATUS": "MATCHED"
+ },
+ "04330000036": {
+  "FULL_NAME_FOUND": "Carlton Menthol 100`s",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Carlton",
+  "SIZE": "",
+  "EAN": "0043300000363",
+  "STATUS": "MATCHED"
+ },
+ "07641090162": {
+  "FULL_NAME_FOUND": "Toasty Lance Peanut Butter 1.29oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Nut Butters",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0007641090162",
+  "STATUS": "MATCHED"
+ },
+ "02468231305": {
+  "FULL_NAME_FOUND": "Hershey's Reader Rabbit Personalized Math 4-6 Deluxe",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "Hershey's",
+  "SIZE": "",
+  "EAN": "0024682313050",
+  "STATUS": "MATCHED"
  }
 }

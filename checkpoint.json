@@ -28519,5 +28519,95 @@
   "SIZE": "",
   "EAN": "0757528005276",
   "STATUS": "MATCHED"
+ },
+ "02468231207": {
+  "FULL_NAME_FOUND": "Hershey's Chocolate Eclair",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "Hershey's",
+  "SIZE": "",
+  "EAN": "0024682312077",
+  "STATUS": "MATCHED"
+ },
+ "04900007940": {
+  "FULL_NAME_FOUND": "Powerade Grape Electrolyte Sports Drink Bottle, 28 Fl Oz",
+  "DESCRIPTION": "Premium sports drink with vitamins B3, B6, and B12. Advanced formula full of electrolytes for energy and hydration. Sports bottle is great for trips to the gym, sporting events, and more. Grape flavor. Contains 28 ounces per unit. Bulk pack includes 15 units. By Powerade.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Powerade",
+  "SIZE": "828 mL",
+  "EAN": "0049000079401",
+  "STATUS": "MATCHED"
+ },
+ "05200004333": {
+  "FULL_NAME_FOUND": "Gatorade Zero Sugar Thirst Quencher, Glacier Freeze Sports Drinks, 20 Fl Oz, 8 Count Bottles",
+  "DESCRIPTION": "With a legacy over 40 years in the making, Gatorade brings the most scientifically researched and game-tested ways to hydrate, recover, and fuel up, which is why our products are trusted by some of the world's best athletes. Developed for athletes that prefer a performance boost and not a sugar rush. Gatorade Zero has no sugar while maintaining the same proven hydration and fueling benefits of Gatorade Thirst Quencher. with three refreshing flavors to keep you in the game, you won't even miss what's missing.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Gatorade",
+  "SIZE": "591 mL",
+  "EAN": "0052000043334",
+  "STATUS": "MATCHED"
+ },
+ "84259512165": {
+  "FULL_NAME_FOUND": "C4 Energy Drink, Perfomance, Zero Sugar, Fruit Punch 16 Fl Oz",
+  "DESCRIPTION": "No-holds-barred energy from 300mg of caffeine alongside clinically studied ingredients for endurance and hydration. With, zero sugar, carbs, or calories, and no artificial colors or flavors, C4 Ultimate is the ultimate energy drink to overdrive performance.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "C4 Energy",
+  "SIZE": "473 mL",
+  "EAN": "0842595121650",
+  "STATUS": "MATCHED"
+ },
+ "07874212707": {
+  "FULL_NAME_FOUND": "Great Value Large White Eggs",
+  "DESCRIPTION": "Keep a supply of these Great Value Large White Eggs in your refrigerator. They’re a delicious way to get in your daily recommended amount of protein for a healthy lifestyle. These tasty Great Value large eggs are suitable to prepare in a wide variety of ways. Serve them scrambled alongside some rye toast and sliced strawberries, or hard boil a few to take with you for a wholesome snack on the go. There are plenty of nutrients jam-packed into this tiny superstar. Make breakfast time, dinner time or anytime healthier with these USDA Grade A eggs. Crack open a few for your favorite baking recipes. Use them to make some chocolate chip cookies or a tall cake. These Great Value large eggs come in a 24 oz pack of 12.",
+  "CATEGORY": "Eggs",
+  "BRAND": "Great Value",
+  "SIZE": "",
+  "EAN": "0078742127071",
+  "STATUS": "MATCHED"
+ },
+ "04000000110": {
+  "FULL_NAME_FOUND": "Munch Peanut Candy Bar",
+  "DESCRIPTION": "For those who crave peanuts with a sweet and salty taste, MUNCH® Peanut Bars are an irresistible snack. MUNCH® Peanut Bars consists of simple all-natural ingredients that provide plenty of flavor. They are protein packed, so you can merchandise with meal replacements, protein bars, health foods or even alongside your best-selling candy bars.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Munch",
+  "SIZE": "",
+  "EAN": "0040000001102",
+  "STATUS": "MATCHED"
+ },
+ "07800011340": {
+  "FULL_NAME_FOUND": "Sunkist Orange Soda, 20 Fl Oz Bottle",
+  "DESCRIPTION": "Soak up the sunny orange soda taste of Sunkist! Beaming with bold, orange flavor, Sunkist always satisfies your thirst. A favorite since its creation in 1979, it’s the only caffeinated orange soft drink on the market for that little bit of extra kick you won’t find anywhere else. There's only one soda to reach for when you're craving a blast of refreshment with a bright, refreshing taste of orange. Loved by kids and adults alike, Sunkist brightens the day with a burst of citrus flavor whether it’s enjoyed with a meal or as a refreshing stand-alone treat. You can enjoy it all year long but when summer comes, delight in a Sunkist Orange Float. Simply drop in two scoops of vanilla ice cream into a mug followed by Sunkist Orange for the perfect summertime treat. Reach for the cool refreshing orange flavor of a Sunkist to brighten your day. Once that taste reaches your lips, you’ll understand why we call it Sunkist! SUNKIST is a registered trademark of Sunkist Growers, Inc., USA used under license by Dr Pepper/Seven Up, Inc. © 2021 Sunkist Growers, Inc. and Dr Pepper/Seven Up, Inc.",
+  "CATEGORY": "Soda",
+  "BRAND": "Sunkist",
+  "SIZE": "591 mL",
+  "EAN": "0078000113402",
+  "STATUS": "MATCHED"
+ },
+ "71616517144": {
+  "FULL_NAME_FOUND": "RAW Classic King Size Supreme Rolling Papers",
+  "DESCRIPTION": "Experience the ultimate rolling experience with Raw Classic King Size Supreme Rolling Papers. Crafted from high-quality, all-natural materials, these papers offer a slow burn and smooth draw, allowing you to fully enjoy your smoking session. With their king size and supreme width, these rolling papers provide ample space to roll your desired tobacco or herbal blend. Whether you're a seasoned smoker or a beginner, these rolling papers are perfect for achieving an effortless, even burn every time. Elevate your smoking experience with Raw Classic King Size Supreme Rolling Papers.",
+  "CATEGORY": "Paper & Magnetic Dolls",
+  "BRAND": "RAW",
+  "SIZE": "",
+  "EAN": "0716165171447",
+  "STATUS": "MATCHED"
+ },
+ "84259513174": {
+  "FULL_NAME_FOUND": "C4 Energy Drink, Zero Sugar, Atomic Grape 16 Fl Oz",
+  "DESCRIPTION": "Supercharge your energy with the Tri-Stim Experience! C4 Ultimate Energy Atomic Grape is formulated with 300mg of caffeine, Teacrine, and Dynamine for energy that hits like it’s the first time, every time. Made with ZERO sugar or artificial dyes, it's the triple threat you need to go hard and stay alert without the crash.&bull; 300mg caffeine&bull; Formulated with Caffeine, TeaCrine and Dynamine&bull; Clinically studied CarnoSyn Beta-Alanine to help fight muscular fatigue&bull; Zero sugar or artificial dyes.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "C4",
+  "SIZE": "473 mL",
+  "EAN": "0842595131741",
+  "STATUS": "MATCHED"
+ },
+ "02200000112": {
+  "FULL_NAME_FOUND": "Starburst Mini Fruit Chews - Sours",
+  "DESCRIPTION": "Check out these STARBURST Minis Sours. They’re just like the STARBURST candy you know and love only smaller, unwrapped, and sour in a variety of great-tasting fruit flavors like cherry, blue raspberry, watermelon, and strawberry.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Starburst",
+  "SIZE": "",
+  "EAN": "0022000001122",
+  "STATUS": "MATCHED"
  }
 }

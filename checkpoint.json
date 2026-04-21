@@ -29461,5 +29461,89 @@
   "SIZE": "",
   "EAN": "0028400768214",
   "STATUS": "MATCHED"
+ },
+ "04141971475": {
+  "FULL_NAME_FOUND": "Combo's Stuffed Snacks Pizzeria Baked Pretzel 1.8 Oz",
+  "DESCRIPTION": "Combos Pepperoni Pizza snacks offer customers a burst of several great flavors in a single crunchy bite. Pepperoni flavored cheese is oven baked in a salted pretzel outer shell, creating a taste-filled munchie that is satisfying, filling and addictive in the right way. Colorful product packets come in perforated top boxes that can be put on snack shelves and checkout counters.",
+  "CATEGORY": "Pretzels",
+  "BRAND": "Combo's",
+  "SIZE": "",
+  "EAN": "0041419714751",
+  "STATUS": "MATCHED"
+ },
+ "04850000860": {
+  "FULL_NAME_FOUND": "Tropicana 100% Orange Juice 15.2 Fl Oz Bottle",
+  "DESCRIPTION": "Good source of potassium & folic acid. Tropicana Juice combines the taste, quality and variety you love with the convenience and the 100 percent daily value of Vitamin C nutrition you want. Easy to store, pack, and enjoy on the go.",
+  "CATEGORY": "Juice",
+  "BRAND": "Tropicana",
+  "SIZE": "450 mL",
+  "EAN": "0048500008607",
+  "STATUS": "MATCHED"
+ },
+ "07800021440": {
+  "FULL_NAME_FOUND": "Schweppes Original Sparkling Water Beverage - 20 Fl Oz Bottle",
+  "DESCRIPTION": "Since 1783, Schweppes has been known as the original sparkling water. Schweppes Original Sparkling Water Beverage brings out the best in water with the bubbly refreshing effervescence. An ideal alternative to sweetened soft drinks, it contains no sweeteners and is naturally flavored. Experience a crisp twist on the ordinary with Schweppes Original Sparkling Seltzer Water.",
+  "CATEGORY": "Water",
+  "BRAND": "Schweppes",
+  "SIZE": "591 mL",
+  "EAN": "0078000214406",
+  "STATUS": "MATCHED"
+ },
+ "74928900053": {
+  "FULL_NAME_FOUND": "Garlic Platain Chips",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Chips",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0749289000539",
+  "STATUS": "MATCHED"
+ },
+ "03400000225": {
+  "FULL_NAME_FOUND": "Hershey's Special Dark Chocolate Bars, King Size",
+  "DESCRIPTION": "Chock-full of dark chocolate goodness! HERSHEY'S SPECIAL DARK Mildly Sweet Chocolate Bar is a milder chocolate with majorly fulfilling flavor. Perfect for snacking and celebrating. Delicious on its own, or melted for making chocolate-covered treats. A kosher, king size candy bar.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Hershey's",
+  "SIZE": "",
+  "EAN": "0034000002252",
+  "STATUS": "MATCHED"
+ },
+ "05200004318": {
+  "FULL_NAME_FOUND": "Gatorade Zero Sugar Thirst Quencher Sports Drink Orange 20 Fl Oz 8Ct",
+  "DESCRIPTION": "Gatorade Zero is developed for athletes that prefer a performance boost and not a sugar rush. Gatorade Zero has no sugar while maintaining the same proven hydration and fueling benefits of Gatorade Thirst Quencher. with three refreshing flavors to keep you in the game, you won't even miss what's missing.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Gatorade",
+  "SIZE": "591 mL",
+  "EAN": "0052000043181",
+  "STATUS": "MATCHED"
+ },
+ "07613800410": {
+  "FULL_NAME_FOUND": "Hammond's Candies Old Dominion Peanut Brittle",
+  "DESCRIPTION": "Natural Peanut Brittle Grab 'N Go. Enjoy this light and crispy favorite we're famous for. Each piece of our peanut brittle is handmade the old-fashioned way. Hammond's Candies are handmade with the finest locally sourced ingredients for superior quality flavor. That processes egg, milk, mustard, peanuts, sesame, soy, sulfites, tree nuts and wheat.Find the PEANUT BRITTLE 4OZ 1PK at Ace.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Hammond's Candies",
+  "SIZE": "",
+  "EAN": "0076138004104",
+  "STATUS": "MATCHED"
+ },
+ "61196888852": {
+  "STATUS": "UNMATCHED"
+ },
+ "89453700008": {
+  "FULL_NAME_FOUND": "Oven Delights Blueberry Cheese Danish",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cheese",
+  "BRAND": "Oven Delights",
+  "SIZE": "",
+  "EAN": "0894537000080",
+  "STATUS": "MATCHED"
+ },
+ "01708287631": {
+  "FULL_NAME_FOUND": "Jack Link's Original Beef Jerky Snack, 2.85 Ounce Package",
+  "DESCRIPTION": "The Jack Links Original Beef Jerky is a yummy snack sure to be liked by kids and adults alike. Marinated in a blend of herbs and spices, this beef jerky is cooked slowly over hardwood smoke for a distinct flavor. Ideal for school cafeterias, office pantries, and convenience stores, this bulk case contains 8 packs of Jack Links beef jerky.",
+  "CATEGORY": "Meat",
+  "BRAND": "Jack Link's",
+  "SIZE": "",
+  "EAN": "0017082876317",
+  "STATUS": "MATCHED"
  }
 }

@@ -29803,5 +29803,83 @@
   "SIZE": "1000 mL",
   "EAN": "0012000210655",
   "STATUS": "MATCHED"
+ },
+ "02430001401": {
+  "FULL_NAME_FOUND": "Drake's Devil Dogs Cakes",
+  "DESCRIPTION": "Includes 4 boxes of Drake's Devil Dogs. 32 individually wrapped devils food cakes. Two fun-shaped devils food cakes give our Devil Dogs their name. We take those cakes and sandwich them around an abundance of rich Drake's vanilla-flavored creme. With cake so fluffy and creme so sweet, Devil Dogs go down so well with a glass of milk or a cup of coffee!.",
+  "CATEGORY": "Dog Supplies",
+  "BRAND": "Drake's",
+  "SIZE": "",
+  "EAN": "0024300014017",
+  "STATUS": "MATCHED"
+ },
+ "02820000959": {
+  "FULL_NAME_FOUND": "Virginia Slims Cigarettes, Class A, 120's, Menthol Silver Pack",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Virginia Slims",
+  "SIZE": "",
+  "EAN": "0028200009593",
+  "STATUS": "MATCHED"
+ },
+ "04141971473": {
+  "FULL_NAME_FOUND": "Combos Baked Cracker, Pepperoni Pizza, Stuffed Snacks 1.7 Oz",
+  "DESCRIPTION": "Crunchy oven-baked crackers with pepperoni pizza-flavoured fillings create the perfect hunger management snack. Two hearty tastes - one filling snack. Enjoy the delicious taste of COMBOS Baked Snacks. Deliciousness Stuffed with Awesomeness.",
+  "CATEGORY": "Chips",
+  "BRAND": "Combos",
+  "SIZE": "",
+  "EAN": "0041419714737",
+  "STATUS": "MATCHED"
+ },
+ "04178900142": {
+  "FULL_NAME_FOUND": "Maruchan Instant Lunch Hot & Spicy Flavor With Beef Cup Noodle - 2.25oz",
+  "DESCRIPTION": "Ready-to-Cook and eat as a snack or add meat and veggies to make this a complete meal. This is a great item you can cook for a fast and convenient lunch or dinner as well eat on the go. It can be enjoyed as a hot snack or delicious meal anytime and ready to eat in only 3 minutes. Please follow package cooking instructions for best results. Maruchan strives to provide quality that will enhance the lives of our customers with better products and services. With an endless effort in product development and customer service we pursue the health and happiness of our customers and bring Smiles to all around the world.",
+  "CATEGORY": "Soups & Broths",
+  "BRAND": "Maruchan",
+  "SIZE": "",
+  "EAN": "0041789001420",
+  "STATUS": "MATCHED"
+ },
+ "08603450005": {
+  "STATUS": "UNMATCHED"
+ },
+ "85005243793": {
+  "STATUS": "UNMATCHED"
+ },
+ "01200022176": {
+  "FULL_NAME_FOUND": "Starbucks Energy Coffee Beverage, Caramel, Doubleshot 15 Fl Oz",
+  "DESCRIPTION": "Nothing delivers like the unmistakably rich taste of bold Starbucks coffee in this Starbucks Doubleshot Energy drink. Rich, bold Starbucks coffee with our classic caramel flavor makes quite the dynamic duo. Blended with B vitamins, guarana and ginseng, to give you a tasty kick to own the day. Drink up. Cheers to the possibilities. Experience a new burst of flavor. .",
+  "CATEGORY": "Coffee",
+  "BRAND": "Starbucks",
+  "SIZE": "444 mL",
+  "EAN": "0012000221767",
+  "STATUS": "MATCHED"
+ },
+ "04900007238": {
+  "FULL_NAME_FOUND": "Dunkin' Donuts Mocha Iced Coffee Bottle, 13.7 Fl Oz",
+  "DESCRIPTION": "Iced and coffee. Name a more iconic duo. We'll wait. OK, we waited. Iced coffee is the go-to for an on-the-go perk-me-up. And nothing gets you running like Dunkin' Mocha Iced Coffee. This rich, chocolatey mocha iced coffee is just the thing for that quick, cold, and satisfying boost to help keep you going. With 186 mg of caffeine per bottle, you're getting more than one cup 'o joe's worth of pep in your step.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Dunkin'",
+  "SIZE": "405 mL",
+  "EAN": "0049000072389",
+  "STATUS": "MATCHED"
+ },
+ "05200020844": {
+  "FULL_NAME_FOUND": "Gatorade Thirst Quencher Cool Blue Sports Drink",
+  "DESCRIPTION": "The proven classic. With a legacy of over 50 years in the making, it's the most scientifically researched and game-tested way to replace electrolytes lost in sweat. Gatorade Thirst Quencher is specifically made to help keep you hydrated, which is why it's trusted by some of the world's best athletes.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Gatorade",
+  "SIZE": "591 mL",
+  "EAN": "0052000208443",
+  "STATUS": "MATCHED"
+ },
+ "07874212712": {
+  "FULL_NAME_FOUND": "Great Value Extra Large White Grade A Eggs",
+  "DESCRIPTION": "Make breakfast more delicious with Great Value Extra Large White Eggs, 12 Count. Our tasty eggs have received a Grade A rating from the USDA, so you know you're purchasing a high-quality product. Whip up a hearty omelet, make fluffy baked goods, or even crack one into a batch of chicken fried rice. With 7 grams of protein and only 80 calories per serving, these eggs are an excellent, wholesome choice, and make a great addition to any diet. Shoppers, make the smart selection with a 12-pack of Great Value Extra Large White Eggs in a styrofoam carton.",
+  "CATEGORY": "Eggs",
+  "BRAND": "Great Value",
+  "SIZE": "",
+  "EAN": "0078742127125",
+  "STATUS": "MATCHED"
  }
 }

@@ -29293,5 +29293,83 @@
   "SIZE": "",
   "EAN": "0028400770583",
   "STATUS": "MATCHED"
+ },
+ "07339001100": {
+  "FULL_NAME_FOUND": "AirHeads Candy, Paradise Blends, Bites",
+  "DESCRIPTION": "Enjoy the sweet, tangy flavor of Airheads Bites Paradise Blends. Each 57g bag features a blend of unique fruit flavors for a taste that’s out of this world. With a soft texture and a fruity combination, Airheads' snack bites are perfect for on the go indulgence.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "AirHeads",
+  "SIZE": "",
+  "EAN": "0073390011000",
+  "STATUS": "MATCHED"
+ },
+ "08603430010": {
+  "STATUS": "UNMATCHED"
+ },
+ "61196888796": {
+  "STATUS": "UNMATCHED"
+ },
+ "02200029318": {
+  "FULL_NAME_FOUND": "Big Red WRIGLEY'S Chewing Gum, 5 Stick Pack",
+  "DESCRIPTION": "Pre-priced 50 cent packages. Recognizable branding. Point of sale. Since 1975, Big Red cinnamon gum has been helping customers \"Kiss a Little Longer.\" 50 cent pre-priced version featuring recognizable branding will attract attention at your point of sale. Easy for you to display and for customers to enjoy the bold cinnamon flavor.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Big Red",
+  "SIZE": "",
+  "EAN": "0022000293183",
+  "STATUS": "MATCHED"
+ },
+ "85002741012": {
+  "FULL_NAME_FOUND": "Lucy Mint",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Tobacco Products",
+  "BRAND": "Lucy",
+  "SIZE": "",
+  "EAN": "0850027410128",
+  "STATUS": "MATCHED"
+ },
+ "85066800084": {
+  "FULL_NAME_FOUND": "Deep River Snacks Potato Chips, Zesty Jalapeno, Kettle Cooked",
+  "DESCRIPTION": "Jalapeño potato chips. Cooked in small batches. Made with sunflower oil. Heat up snack time with jalapeño potato chips from Deep River. Made in small batches with jalapeno chilis to bring the heat and intense crunch. The bright green bag is a nod to the jalapeno flavors while call outs like Non-GMO and gluten free will attract further attention.",
+  "CATEGORY": "Chips",
+  "BRAND": "Deep River Snacks",
+  "SIZE": "",
+  "EAN": "0850668000849",
+  "STATUS": "MATCHED"
+ },
+ "85066800099": {
+  "FULL_NAME_FOUND": "Deep River Snacks Krinkle Cut Sour Cream & Onion Kettle Cooked Potato Chips",
+  "DESCRIPTION": "Sour cream and onion potato chips. Krinkle cut. Made in small batches. Savory onion and garlic join luscious sour cream in every nook and cranny of Deep River's krinkle cut potato chips. Customers won't be able to get enough of the bold flavors and extra crispy texture. That's because Deep River potato chips are cooked in small batches to seal in that flavor and achieve that perfect crunch. The wavy chips are prominently displayed on a deep blue bag attracting attention.",
+  "CATEGORY": "Chips",
+  "BRAND": "Deep River Snacks",
+  "SIZE": "",
+  "EAN": "0850668000993",
+  "STATUS": "MATCHED"
+ },
+ "01254667609": {
+  "FULL_NAME_FOUND": "Trident White Peppermint Sugar Free Gum - 16ct",
+  "DESCRIPTION": "Trident White Peppermint Sugar Free Gum whitens teeth, prevents stains and gives you fresh breath. This refreshing peppermint flavored gum brings sparkle to your smile by whitening teeth and preventing stains. Each piece of teeth whitening gum is easy to pop in your mouth and contains 35% fewer calories than sugared gum. Chewing two pieces of this peppermint gum at least four times per day after meals helps remove and prevent stains. This mint gum is easy to stash in your bag and take on-the-go, whether you're setting off across the country or running errands around town.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Trident",
+  "SIZE": "",
+  "EAN": "0012546676090",
+  "STATUS": "MATCHED"
+ },
+ "02840076827": {
+  "FULL_NAME_FOUND": "Smartfood Doritos Nacho Cheese, Flavored Popcorn",
+  "DESCRIPTION": "As America’s favorite popcorn brand, our fresh-tasting, light-textured SMARTFOOD varieties always seem to keep the fun popping. In our book, being smart is always in great taste. Nacho Cheese70 Calories Per CupGluten FreeNo Colors From Artificial SourcesNo Artificial Flavors1 7/8 Oz.",
+  "CATEGORY": "Cheese",
+  "BRAND": "Smartfood",
+  "SIZE": "",
+  "EAN": "0028400768276",
+  "STATUS": "MATCHED"
+ },
+ "02840077064": {
+  "FULL_NAME_FOUND": "Doritos Tortilla Chips, Rolled, Chile Limon",
+  "DESCRIPTION": "The DORITOS brand is all about boldness. If you’re up to the challenge, grab a bag of DORITOS tortilla chips and get ready to make some memories you won’t soon forget. It’s a bold experience in snacking and beyond.",
+  "CATEGORY": "Chips",
+  "BRAND": "Doritos",
+  "SIZE": "",
+  "EAN": "0028400770644",
+  "STATUS": "MATCHED"
  }
 }

@@ -18,7 +18,7 @@ export default async function handler(req, res) {
     );
 
     let checkpoint = {};
-    let totalSkus = 3273;
+    let totalSkus = 14104;
 
     if (checkpointRes.ok) {
       const text = await checkpointRes.text();

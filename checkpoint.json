@@ -27805,5 +27805,95 @@
   "SIZE": "437 mL",
   "EAN": "0810169600023",
   "STATUS": "MATCHED"
+ },
+ "01070085962": {
+  "FULL_NAME_FOUND": "Jolly Rancher Sour Gummies - King Size Bag",
+  "DESCRIPTION": "Don’t let their soft texture fool you—JOLLY RANCHER Sour Gummies pack a punch of untamed fruit flavor! Enjoy this sweet and sour treat anytime, anywhere. Each king size pack includes green apple, blue raspberry, cherry, lemon, and watermelon.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Jolly Rancher",
+  "SIZE": "",
+  "EAN": "0010700859624",
+  "STATUS": "MATCHED"
+ },
+ "05200020842": {
+  "FULL_NAME_FOUND": "Gatorade Fierce Thirst Quencher Grape Sports Drink 8-20 Fl. Oz. Bottles",
+  "DESCRIPTION": "Packed with bold grape flavour, Gatorade Cool Fierce Grape helps refuel and rehydrate with essential electrolytes. This 24-pack of 591ml bottles is perfect for athletes, workouts, or keeping refreshed on the go. A powerful burst of hydration when you need it most.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Gatorade",
+  "SIZE": "591 mL",
+  "EAN": "0052000208429",
+  "STATUS": "MATCHED"
+ },
+ "85817600232": {
+  "FULL_NAME_FOUND": "BodyArmor Fruit Punch Electrolyte Sports Drink, 28 Fl Oz Bottle",
+  "DESCRIPTION": "BODYARMOR Sports Drink Fruit Punch isn't just any electrolyte drink; it's made with potassium-packed electrolytes and antioxidants. It's the real hydration you need to face any challenge. No artificial sweeteners, flavors or dyes, just real hydration and a burst of delicious flavor. From pre-workout on, this hydrating sports drink is designed to help you take on your day. It's not just about quenching your thirst - it's about supporting you with every gulp. BODYARMOR Sports Drinks are made with coconut water to boost flavor, making sure you stay refreshed and ready to crush your next challenge. This is the sports drink to help you achieve your goals. If you're serious about your performance and need a sports drink beverage that works as hard as you do, reach for BODYARMOR Sports Drink Fruit Punch. It's the ultimate sports drink for athletes who demand the best from themselves.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "BodyArmor",
+  "SIZE": "828 mL",
+  "EAN": "0858176002324",
+  "STATUS": "MATCHED"
+ },
+ "61300873547": {
+  "FULL_NAME_FOUND": "AriZona Ice Tea With Raspberry Flavor 680 Ml",
+  "DESCRIPTION": "Made with real raspberry juice and 100% premium brewed tea, it's the perfect balance of sweet and brisk. A flavorful twist on ordinary tea. Arizona Raspberry Tea is the product you want to have in the fridge when you're seeking instant refreshment.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "AriZona",
+  "SIZE": "680 mL",
+  "EAN": "0613008735470",
+  "STATUS": "MATCHED"
+ },
+ "19155419000": {
+  "FULL_NAME_FOUND": "Menu Hand Warmer 8 Hrs",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Chemical Hand Warmers",
+  "BRAND": "Menu",
+  "SIZE": "",
+  "EAN": "0191554190009",
+  "STATUS": "MATCHED"
+ },
+ "02820000953": {
+  "FULL_NAME_FOUND": "Marlboro Cigarettes, Black 100's, Special Blend",
+  "DESCRIPTION": "Bold flavor. Class A cigarettes. Nothing about this cigarette, packaging, or color should be interpreted to mean safer. For special offers MarlboroBlack.com. Limited to eligible smokers 21+. Please don't litter.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200009531",
+  "STATUS": "MATCHED"
+ },
+ "74928900052": {
+  "FULL_NAME_FOUND": "Turbana Corporation Plantain Chips",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Chips",
+  "BRAND": "Turbana Corporation",
+  "SIZE": "",
+  "EAN": "0749289000522",
+  "STATUS": "MATCHED"
+ },
+ "07084703191": {
+  "FULL_NAME_FOUND": "Monster Juice Energy Drink, Pacific Punch 16 Fl Oz",
+  "DESCRIPTION": "Hawaiian it’s not! Lighter, less sweet and more complex. A flavor as deep and wide as its name sake the great Pacific. Naturally we added our Monster Energy Blend to help put wind in your Sails and keep you steady and on course no matter how rough the seas. Pacific Punch your adventure awaits arrgh…Unleash the Salty Beast!",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Monster",
+  "SIZE": "473 mL",
+  "EAN": "0070847031918",
+  "STATUS": "MATCHED"
+ },
+ "71616520210": {
+  "FULL_NAME_FOUND": "RAW Organic Hemp Cone King Size 3ct",
+  "DESCRIPTION": "Brown, unrefined 98-mm x 20 mm pre-rolled cones. Available in one-pack and two-packs. All sales are final.",
+  "CATEGORY": "Traffic Cones & Barrels",
+  "BRAND": "RAW",
+  "SIZE": "",
+  "EAN": "0716165202103",
+  "STATUS": "MATCHED"
+ },
+ "02468231334": {
+  "FULL_NAME_FOUND": "Hersheys Hershey Strawberry Sundae Cup",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "Hersheys",
+  "SIZE": "",
+  "EAN": "0024682313340",
+  "STATUS": "MATCHED"
  }
 }

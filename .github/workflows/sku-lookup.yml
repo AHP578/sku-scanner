@@ -59,5 +59,12 @@ jobs:
         if: steps.lock_check.outputs.locked == 'false'
         run: |
           git add checkpoint.json
-          git diff --cached --quiet || git commit -m "Auto: final checkpoint update"
+          git diff --cached --quiet && exit 0
+          git commit -m "Auto: final checkpoint update"
+          # Retry push with rebase if remote has new commits (e.g. concurrent dashboard push)
+          for i in 1 2 3; do
+            git push && exit 0
+            echo "Push rejected, pulling with rebase (attempt $i)..."
+            git pull --rebase --autostash origin master
+          done
           git push

@@ -28075,5 +28075,95 @@
   "SIZE": "",
   "EAN": "0850027410029",
   "STATUS": "MATCHED"
+ },
+ "02610000424": {
+  "FULL_NAME_FOUND": "Kent Deluxe 100's Cigarettes",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Kent",
+  "SIZE": "",
+  "EAN": "0026100004243",
+  "STATUS": "MATCHED"
+ },
+ "02900007539": {
+  "FULL_NAME_FOUND": "Planters Honey Roasted Cashews",
+  "DESCRIPTION": "The Planters Honey Roasted Cashews are a nutritious on-the-go snack suitable for all age groups. Flavored with honey and sea salt, these ready-to-eat cashews are crunchy. Available in 2-ounce bags, this bulk pack of Planters honey-roasted cashews is great for convenience stores, retail stores, and supermarkets.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "Planters",
+  "SIZE": "",
+  "EAN": "0029000075399",
+  "STATUS": "MATCHED"
+ },
+ "04900007937": {
+  "FULL_NAME_FOUND": "Powerade Lemon Lime Electrolyte Sports Drink Bottle, 28 Fl Oz",
+  "DESCRIPTION": "Experience the refreshing taste of POWERADE Lemon Lime Sports Drink! Designed to replenish electrolytes lost during physical activity, this 28 fluid ounce bottle is perfect for athletes and active individuals alike. With its invigorating lemon-lime flavor, it not only quenches your thirst but also provides essential hydration to keep you performing at your best.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Powerade",
+  "SIZE": "828 mL",
+  "EAN": "0049000079371",
+  "STATUS": "MATCHED"
+ },
+ "61300873501": {
+  "FULL_NAME_FOUND": "AriZona Cherry Lime Rickey, Sparkling",
+  "DESCRIPTION": "This original Brooklyn beverage is slightly carbonated with a well-balanced mix of sour and tart from lime plus the sweet taste of cherry. This refreshing drink is bringing a whole new vibe to an old-fashioned favorite.",
+  "CATEGORY": "Beverages",
+  "BRAND": "AriZona",
+  "SIZE": "665 mL",
+  "EAN": "0613008735012",
+  "STATUS": "MATCHED"
+ },
+ "81016960380": {
+  "FULL_NAME_FOUND": "Ghost Zero Sugar Energy Drink, Raspberry Cream, 16 Fl Oz Can",
+  "DESCRIPTION": "Ghost Energy is the fully transparent, no BS, fully loaded energy drink we’ve all been waiting for. Made with authentic flavors, zero sugar and no artificial colors. Match 200mg of natural caffeine with our epic focus support from the nootropics of Carnipure L-Carnitine, Taurine, Alpha-GPC, NeuroFactor Coffee, and AstraGin. Ghost Energy is low in calories, vegan friendly and gluten free.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Ghost",
+  "SIZE": "473 mL",
+  "EAN": "0810169603802",
+  "STATUS": "MATCHED"
+ },
+ "74928900051": {
+  "FULL_NAME_FOUND": "Turbana Corporation Plantain Chips, Lightly Salted",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Chips",
+  "BRAND": "Turbana Corporation",
+  "SIZE": "",
+  "EAN": "0749289000515",
+  "STATUS": "MATCHED"
+ },
+ "07400000080": {
+  "FULL_NAME_FOUND": "Hillman Fasteners 122100 100 Ft. Green Vinyl Jacketed Clothesline Wire",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Home & Garden",
+  "BRAND": "Hillman Fasteners",
+  "SIZE": "",
+  "EAN": "0074000000803",
+  "STATUS": "MATCHED"
+ },
+ "07162160138": {
+  "FULL_NAME_FOUND": "Mag 1 Universal 2-cycle Engine Oil, 8 Ounce Bottle For Small Engines",
+  "DESCRIPTION": "Most Modern Synthetic Motor Oils Are Multi-Grade Or Multi-Viscosity And Are Sorted According To Their Thickness At High And Low Temperatures. Here Are Some Important Details For Mag 1 2-Cycle Engine Oil.",
+  "CATEGORY": "Outdoor Power Equipment",
+  "BRAND": "Mag 1",
+  "SIZE": "",
+  "EAN": "0071621601389",
+  "STATUS": "MATCHED"
+ },
+ "04400003658": {
+  "FULL_NAME_FOUND": "Nutter Butter Peanut King Size! Sandwich Cookies",
+  "DESCRIPTION": "Try something deliciously nutty. Crispy peanut butter sandwich cookies filled with sweet peanut butter cream satisfy both your salty and sweet cravings.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Nutter Butter",
+  "SIZE": "",
+  "EAN": "0044000036584",
+  "STATUS": "MATCHED"
+ },
+ "09060000011": {
+  "FULL_NAME_FOUND": "USA Gold Red 100's",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "USA Gold",
+  "SIZE": "",
+  "EAN": "0090600000111",
+  "STATUS": "MATCHED"
  }
 }

@@ -27535,5 +27535,95 @@
   "SIZE": "700 mL",
   "EAN": "0657227000247",
   "STATUS": "MATCHED"
+ },
+ "02430080886": {
+  "FULL_NAME_FOUND": "Little Debbie Cosmic Brownie With Chocolate Chip Candy 2.3 Oz",
+  "DESCRIPTION": "Have you tried a Little Debbie Cosmic Brownie? It's covered with chocolate chip candies and has a rich and decadent chocolate taste. Add this single serving treat to your cart for a little well-deserved break in the day.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Little Debbie",
+  "SIZE": "",
+  "EAN": "0024300808869",
+  "STATUS": "MATCHED"
+ },
+ "85002741021": {
+  "FULL_NAME_FOUND": "Lucy Pouches Espresso",
+  "DESCRIPTION": "Want a taste of coffee that’s as close as it gets to the real deal? LUCY Espresso 12 mg has what you’re after. Each pouch delivers an immediate flow of delightfully rich, freshly brewed java flavor and an intense 12 mg/pouch kick. The pouches are slim and made of soft materials, making them discreet and comfortable throughout use. They’re also completely tobacco-free, so they won’t stain your teeth or cause bad breath. Moreover, you’ll get a rapid release of nicotine and flavor, thanks to their pre-moistened surfaces and optimal pH level. LUCY is manufactured in the home of the nicotine pouch – Sweden. The brand has become a popular choice among ex-dippers, chewers, and snusers in the states, as it offers an equally satisfying kick to traditional products, without tobacco side effects.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Lucy Pouches",
+  "SIZE": "",
+  "EAN": "0850027410210",
+  "STATUS": "MATCHED"
+ },
+ "02200029321": {
+  "FULL_NAME_FOUND": "Doublemint Wrigley's Gum 5 Sticks",
+  "DESCRIPTION": "Since its 1914 debut, Doublemint gum has dazzled customers with its double minty flavor. In fact, it is one of the worlds most popular gum brands. Prepriced packs make it easy for you to offer this popular gum at your point of sale no elaborate setup required. Great changemaker item.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Doublemint",
+  "SIZE": "",
+  "EAN": "0022000293213",
+  "STATUS": "MATCHED"
+ },
+ "71227615005": {
+  "FULL_NAME_FOUND": "Chevies",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0712276150050",
+  "STATUS": "MATCHED"
+ },
+ "02900007446": {
+  "FULL_NAME_FOUND": "Planter's Trail Mix Nut & Chocolate Snack",
+  "DESCRIPTION": "Sweet and salty mix of roasted peanuts, M & M's milk chocolate candies, raisins and roasted almonds. Handy snack to grab when hungry. Easy to open, tearable bag. Perfect for those keeping Kosher. Product of USA.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "Planter's",
+  "SIZE": "",
+  "EAN": "0029000074460",
+  "STATUS": "MATCHED"
+ },
+ "07310000168": {
+  "FULL_NAME_FOUND": "Skoal X-tra Mint Blend Pouch 0.82 Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Food, Beverages & Tobacco",
+  "BRAND": "Skoal",
+  "SIZE": "",
+  "EAN": "0073100001680",
+  "STATUS": "MATCHED"
+ },
+ "07310000272": {
+  "FULL_NAME_FOUND": "Skoal Smokeless Tobacco, X-tra Mint, Long Cut",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Chewing Tobacco",
+  "BRAND": "Skoal",
+  "SIZE": "",
+  "EAN": "0073100002724",
+  "STATUS": "MATCHED"
+ },
+ "07800003059": {
+  "FULL_NAME_FOUND": "Schweppes Dry Grape",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Dry Boxes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0078000030594",
+  "STATUS": "MATCHED"
+ },
+ "07920000164": {
+  "FULL_NAME_FOUND": "Sweetarts Original Tangy Candy Roll 51g",
+  "DESCRIPTION": "A pioneer in taste innovation, SweeTarts delivers the original flavor combination of delightfully sweet and delicately tart in an array of colorful candy creations. Original SweeTarts unleashes its magic by compressing this one of a kind taste into delicious, bite-sized candies. Sold in its signature roll, Original SweeTarts can be chewed to a yummy crumble or dissolved to savor the tantalizingly tangy sensation that has become a sentimental favorite.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Sweetarts",
+  "SIZE": "",
+  "EAN": "0079200001643",
+  "STATUS": "MATCHED"
+ },
+ "09060000091": {
+  "FULL_NAME_FOUND": "Fortuna Menthol 100",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Household Supplies",
+  "BRAND": "Fortuna",
+  "SIZE": "",
+  "EAN": "0090600000913",
+  "STATUS": "MATCHED"
  }
 }

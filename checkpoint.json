@@ -28609,5 +28609,95 @@
   "SIZE": "",
   "EAN": "0022000001122",
   "STATUS": "MATCHED"
+ },
+ "02430001607": {
+  "FULL_NAME_FOUND": "Drake's Frosted Creme Filled Funny Bones",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Snack Cakes",
+  "BRAND": "Drake's",
+  "SIZE": "",
+  "EAN": "0024300016073",
+  "STATUS": "MATCHED"
+ },
+ "04767737690": {
+  "FULL_NAME_FOUND": "Dove Ice Cream Bar, Vanilla, With Milk Chocolate & Almonds 2.89 Fl Oz",
+  "DESCRIPTION": "Treat yourself to an experience like no other with a DOVE Vanilla Ice Cream With Milk Chocolate Almond Ice Cream Bar. Made with creamy vanilla ice cream and dipped in rich DOVE Milk Chocolate layered with almonds, this ice cream bar is a luxurious treat that doesn't need a special occasion to enjoy. Celebrate everyday moments with the deliciousness of DOVE Ice Cream. For even more decadent DOVE Chocolate moments, also try DOVEBAR Sorbet Ice Cream Bars and DOVEBAR Miniatures.",
+  "CATEGORY": "Frozen Desserts & Novelties",
+  "BRAND": "Dove",
+  "SIZE": "",
+  "EAN": "0047677376908",
+  "STATUS": "MATCHED"
+ },
+ "05200004403": {
+  "FULL_NAME_FOUND": "Gatorade Thirst Quencher, Zero Sugar, Strawberry Kiwi 28 Fl Oz",
+  "DESCRIPTION": "Gatorade Zero has no sugar while maintaining the same proven hydration and fueling benefits of Gatorade Thirst Quencher. With three refreshing flavors to keep you in the game, you won’t even miss what’s missing. The proven classic. With a legacy of over 50 years in the making, it's the most scientifically researched and game-tested way to replace electrolytes lost in sweat.",
+  "CATEGORY": "Kiwis",
+  "BRAND": "Gatorade",
+  "SIZE": "",
+  "EAN": "0052000044034",
+  "STATUS": "MATCHED"
+ },
+ "05200020808": {
+  "FULL_NAME_FOUND": "Gatorade Frost Thirst Quencher Sports Drink, Glacier Freeze, 20 Oz Bottles",
+  "DESCRIPTION": "The one and only. With a legacy over 50 years in the making, it's the most scientifically researched and game-tested way to replace electrolytes lost in sweat. Gatorade Frost has a light, crisp flavor and is made to keep you hydrated, which is why it's trusted by some of the world's best athletes.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Gatorade",
+  "SIZE": "591 mL",
+  "EAN": "0052000208085",
+  "STATUS": "MATCHED"
+ },
+ "07800014740": {
+  "FULL_NAME_FOUND": "Dr Pepper Canada Dry Original Sparkling Seltzer Water 20Fl",
+  "DESCRIPTION": "Canada Dry Original Sparkling Seltzer Water (20 fl oz Bottle). Refreshing, crisp, and delightfully effervescent—this sparkling water delivers light bubbles and subtle flavor without any added sugar or calories. Ideal for sipping solo, pairing with meals, or elevating drinks as a sleek, healthy mixer. A clean, classic refreshment.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Dr Pepper",
+  "SIZE": "591 mL",
+  "EAN": "0078000147407",
+  "STATUS": "MATCHED"
+ },
+ "78656000064": {
+  "FULL_NAME_FOUND": "Dreamtech Metrx Crml Churro Mp",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Screen Protectors",
+  "BRAND": "Dreamtech",
+  "SIZE": "",
+  "EAN": "0078656000064",
+  "STATUS": "MATCHED"
+ },
+ "85002741087": {
+  "FULL_NAME_FOUND": "Lucy Breakers Berry Citrus",
+  "DESCRIPTION": "Unleash a fresh flavor symphony with LUCY Breakers Berry Citrus 8 mg. This blend combines the sweetness of berries with the zesty tang of citrus, resulting in a delicious wave of fruity goodness on your taste buds. With a nicotine content of 8 mg per pouch, you'll experience a balanced effect. The crushable capsules let you release an extra burst of flavor whenever you want to up the intensity. Expertly crafted by Lucy Goods, Inc. in Sweden, these pouches ooze quality and assure an awesome adventure in taste.",
+  "CATEGORY": "Circuit Breaker Panels",
+  "BRAND": "Lucy",
+  "SIZE": "",
+  "EAN": "0850027410876",
+  "STATUS": "MATCHED"
+ },
+ "88939200174": {
+  "FULL_NAME_FOUND": "Celsius Energy Drink, Sparkling, Playa Vibe, Pina Colada 12 Fl Oz",
+  "DESCRIPTION": "CELSIUS® is functional, Essential Energy, a better-for-you, premium alternative to traditional energy drinks. As a global, lifestyle fitness drink, CELSIUS® was created to help people LIVE FIT, exceed their goals and elevate their everyday lives. Made with proven, premium ingredients, 7 Essential Vitamins and zero sugar, no artificial colors, no aspartame, no high fructose corn syrup and non-GMO. CELSIUS® is vegan, gluten-free and Kosher.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Celsius",
+  "SIZE": "355 mL",
+  "EAN": "0889392001747",
+  "STATUS": "MATCHED"
+ },
+ "02410012261": {
+  "FULL_NAME_FOUND": "Cheez-It Cheese Crackers, Original, Single Serve 1.5 Oz",
+  "DESCRIPTION": "Offer employees, students, or family members a fun and quick snack. Made with real cheese for a delicious and authentic flavor. Come in individual bags for easy on-the-go snacking.",
+  "CATEGORY": "Crackers",
+  "BRAND": "Cheez-It",
+  "SIZE": "",
+  "EAN": "0024100122615",
+  "STATUS": "MATCHED"
+ },
+ "03077215708": {
+  "FULL_NAME_FOUND": "Bounty Select-A-Size 1 Double Roll White Paper Towels",
+  "DESCRIPTION": "Experience unparalleled absorbency and convenience with Bounty Select-A-Size Paper Towels. Each pack includes one double roll, which equates to two regular rolls, providing you with more usage while saving space. Renowned for their superior absorbency, these paper towels allow you to use less and reduce waste. The Select-A-Size feature lets you customize the towel size according to the spill, ensuring efficiency in every cleanup. Bounty's advanced technology ensures quicker mess absorption compared to leading ordinary brands. Proudly crafted in the USA, Bounty continues to lead the industry with its award-winning, cloth-like quality.",
+  "CATEGORY": "Paper Towels",
+  "BRAND": "Bounty",
+  "SIZE": "",
+  "EAN": "0030772157084",
+  "STATUS": "MATCHED"
  }
 }

@@ -29371,5 +29371,95 @@
   "SIZE": "",
   "EAN": "0028400770644",
   "STATUS": "MATCHED"
+ },
+ "04900055361": {
+  "FULL_NAME_FOUND": "Dunkin' Caramel Iced Coffee, 13.7 Fl Oz Bottle",
+  "DESCRIPTION": "Dunkin's proprietary iced coffee. Real milk and cane sugar. Sweet and delicious caramel flavor.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Dunkin'",
+  "SIZE": "405 mL",
+  "EAN": "0049000553611",
+  "STATUS": "MATCHED"
+ },
+ "61300875649": {
+  "FULL_NAME_FOUND": "AriZona With Lemon Flavor Iced Tea",
+  "DESCRIPTION": "This is the tea that put Arizona on the map. The secret to our success? We keep it simple. Arizona Lemon Tea is made from real black tea and natural lemon flavor that help to create the slightly sweet, refreshing flavor of sun brewed tea style. When you drink Arizona Lemon Tea, you’ll experience a perfectly balanced blend of tea and lemon. This tasty beverage is stored in a 23 Oz big can that will be more than enough to quench your thirst. Arizona Lemon Tea is the product you want to have in the fridge when you’re seeking instant refreshment.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "AriZona",
+  "SIZE": "680 mL",
+  "EAN": "0613008756499",
+  "STATUS": "MATCHED"
+ },
+ "88939200178": {
+  "FULL_NAME_FOUND": "Celsius Sparkling Mango Lemonade Energy Drink 12 Fl Oz",
+  "DESCRIPTION": "CELSIUS® is functional, Essential Energy, a better-for-you, premium alternative to traditional energy drinks. As a global, lifestyle fitness drink, CELSIUS® was created to help people LIVE FIT, exceed their goals and elevate their everyday lives. Made with proven, premium ingredients, 7 Essential Vitamins and zero sugar, no artificial colors, no aspartame, no high fructose corn syrup and non-GMO. CELSIUS® is vegan, gluten-free and Kosher. Our proprietary MetaPlus blend contains green tea extract with EGCG. It also includes guarana seed extract, ginger root for flavor and digestion, vitamin C to help support your immune system, vitamin B for energy production, and chromium to help control hunger, making it an ideal pre-workout drink. Experience a vibrant mix of mouthwatering mango and squeezed lemonade flavors in the refreshing CELSIUS® Sparkling Mango Lemonade. The tropical sweetness of ripe mango and citrusy hints of lemonade creates a delicious blend of flavors. Made with clinically proven ingredients, this carbonated flavor of CELSIUS® has the perfect balance of flavor and energy that serves as an awesome pick-me-up for active lifestyles. Make CELSIUS® your go to choice for Essential Energy! CELSIUS® is available in 12 Fl Oz slim cans and sold in a 12-pack for convenience.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Celsius",
+  "SIZE": "355 mL",
+  "EAN": "0889392001785",
+  "STATUS": "MATCHED"
+ },
+ "01200000815": {
+  "FULL_NAME_FOUND": "Pepsi Pepsi Diet Soda Cola 12 Fl Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Soda",
+  "BRAND": "Pepsi",
+  "SIZE": "355 mL",
+  "EAN": "0012000008153",
+  "STATUS": "MATCHED"
+ },
+ "02468231269": {
+  "FULL_NAME_FOUND": "Hershey's Midnight Caramel River",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Frozen Desserts & Novelties",
+  "BRAND": "Hershey's",
+  "SIZE": "",
+  "EAN": "0024682312695",
+  "STATUS": "MATCHED"
+ },
+ "02840077057": {
+  "FULL_NAME_FOUND": "Doritos Salsa Verde Flavored, Tortilla Chips",
+  "DESCRIPTION": "Indulge in the bold and tangy flavor of Doritos Salsa Verde chips. Made with real tomatoes and green peppers, these chips pack a punch that will leave your taste buds dancing. Satisfy your cravings with every bite, now in a convenient 74g bag.",
+  "CATEGORY": "Chips",
+  "BRAND": "Doritos",
+  "SIZE": "",
+  "EAN": "0028400770576",
+  "STATUS": "MATCHED"
+ },
+ "78616241186": {
+  "FULL_NAME_FOUND": "Vitaminwater Nutrient Enhanced Water Beverage, Elevate, Blue Raspberry Limeade 20 Fl Oz",
+  "DESCRIPTION": "vitaminwater zero is a great tasting, nutrient enhanced water beverage with electrolytes, antioxidants and vitamins. It provides an excellent source of C, A and key B vitamins plus zinc. 100 calories.",
+  "CATEGORY": "Water",
+  "BRAND": "Vitaminwater",
+  "SIZE": "591 mL",
+  "EAN": "0786162411860",
+  "STATUS": "MATCHED"
+ },
+ "85002741018": {
+  "FULL_NAME_FOUND": "Lucy Nicotine Pouches Mango 12mg Tin",
+  "DESCRIPTION": "LUCY Mango 12 mg takes you on a tropical retreat with its delectable ripe mango flavor. It is bursting with fruity sweetness and dashes of acidity, making it superbly well-balanced and sure to please all fruit fans. To add to the delicious taste is an extra-strong nicotine content of 12 mg/pouch, which delivers an intense, satisfying kick. These pouches are slim and soft, guaranteeing a discreet and comfortable fit under your lip and the ability to enjoy them wherever and whenever you like. Unlike many other pouches on the market in the USA, these are moist and contain non-tobacco-derived nicotine, so they have a rapid release and are incredibly pure. LUCY, manufactured by Lucy Goods, Inc, in Sweden, is one of the top choices for consumers that want a 100% tobacco-free experience. Since the nicotine is lab-made, it contains no tobacco leaf, stem, dust, or sheet traces.",
+  "CATEGORY": "Mangoes",
+  "BRAND": "Lucy",
+  "SIZE": "",
+  "EAN": "0850027410180",
+  "STATUS": "MATCHED"
+ },
+ "02468200510": {
+  "FULL_NAME_FOUND": "Hershey's Strawberry Cheesecake",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "Hershey's",
+  "SIZE": "",
+  "EAN": "0024682005108",
+  "STATUS": "MATCHED"
+ },
+ "02840076821": {
+  "FULL_NAME_FOUND": "Funyuns Flamin' Hot Flavored, Onion Flavored Rings",
+  "DESCRIPTION": "FUNYUNS Flamin' Hot Onion-Flavored Rings are a deliciously different snack that's fun to eat. Next time you're in the mood for a tasty treat that's out of the ordinary, give them a try.",
+  "CATEGORY": "Rings",
+  "BRAND": "Funyuns",
+  "SIZE": "",
+  "EAN": "0028400768214",
+  "STATUS": "MATCHED"
  }
 }

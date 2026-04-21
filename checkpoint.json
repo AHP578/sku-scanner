@@ -29881,5 +29881,89 @@
   "SIZE": "",
   "EAN": "0078742127125",
   "STATUS": "MATCHED"
+ },
+ "85002741084": {
+  "FULL_NAME_FOUND": "Lucy Breakers Apple Cider",
+  "DESCRIPTION": "Discover a crisp and succulent cider flavor with LUCY Breakers Apple Cider 8 mg. Doused in the essence of freshly pressed apples, these pouches offer a delightful balance of sweetness and tanginess. With a nicotine content of 8 mg per pouch, you'll experience a satisfying kick. And, with a unique, crushable capsule inside, you can release an extra wave of appley flavor whenever you please. Crafted to the highest standards by Lucy Goods, Inc. in Sweden, these pouches are designed to deliver unparalleled taste and quality.",
+  "CATEGORY": "Hard Cider",
+  "BRAND": "Lucy Breakers",
+  "SIZE": "",
+  "EAN": "0850027410845",
+  "STATUS": "MATCHED"
+ },
+ "85066800086": {
+  "FULL_NAME_FOUND": "Deep River Snacks Kettle Cooked Mesquite BBQ Potato Chips",
+  "DESCRIPTION": "The perfect blend of mesquite, brown sugar, and paprika, with notes of exotic spices - your taste buds will thank you. Our kettle cooked Mesquite BBQ chips are certified gluten-free, Non-GMO Project Verified, nut-free, kosher, and proudly made in the USA.",
+  "CATEGORY": "Chips",
+  "BRAND": "Deep River Snacks",
+  "SIZE": "",
+  "EAN": "0850668000863",
+  "STATUS": "MATCHED"
+ },
+ "85817600231": {
+  "FULL_NAME_FOUND": "BodyArmor Strawberry Banana Electrolyte Sports Drink 28 Fl Oz",
+  "DESCRIPTION": "BODYARMOR is the premium, better-for-you sports drink hydrating today's athlete. It is made with natural flavors and sweeteners. It contains potassium-packed electrolytes. It also contains Vitamins B3, B5, B6, B9 and B12 and antioxidants A, C and E.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "BodyArmor",
+  "SIZE": "828 mL",
+  "EAN": "0858176002317",
+  "STATUS": "MATCHED"
+ },
+ "02468231285": {
+  "FULL_NAME_FOUND": "Hershey Creamery Sandwich Cookies&Cream Polar Bear",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Ice Cream Novelties",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0024682312855",
+  "STATUS": "MATCHED"
+ },
+ "02541526100": {
+  "FULL_NAME_FOUND": "Hopkins 2610xb Extender 121.9cm Snow Broom. Best",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Gardening Tools",
+  "BRAND": "Hopkins",
+  "SIZE": "",
+  "EAN": "0002541526100",
+  "STATUS": "MATCHED"
+ },
+ "02620014485": {
+  "FULL_NAME_FOUND": "Slim Jim Mild Monster Size Smoked Snack Stick",
+  "DESCRIPTION": "Experience the savory taste of Slim Jim Mild Monster Size Smoked Snack Stick, a satisfying choice for snack enthusiasts. This substantial stick is crafted from seasoned beef and smoked to perfection, offering a mild and smoky flavor profile that appeals to all palates. Whether you’re on the go, at work, or enjoying downtime at home, Slim Jim Mild Monster Size Snack Stick provides a convenient and flavorful protein-packed snack option. With its generous size and satisfying taste, it’s perfect for curbing hunger and satisfying cravings throughout the day. Look for Slim Jim Mild Monster Size Smoked Snack Stick in the snack aisle of your local grocery store or convenience store, and enjoy a delicious snack that’s ready whenever you are.",
+  "CATEGORY": "Jerky",
+  "BRAND": "Slim Jim",
+  "SIZE": "",
+  "EAN": "0026200144856",
+  "STATUS": "MATCHED"
+ },
+ "02800027639": {
+  "FULL_NAME_FOUND": "Nesquik Nestlé Chocolate Protein Plus Enhanced Milk Beverage, 14 Fl Oz",
+  "DESCRIPTION": "Start your day off right with Nesquik Protein Power Chocolate Milk. Get twenty-three grams of protein without compromising taste. Go further with a delicious Nesquik Protein Power. Just chill this shelf-stable Nesquik chocolate milk in the fridge, then shake for a sweet and nostalgic protein drink. It’s the perfect protein milk. Any way or anywhere you sweeten up your day, you can feel good about sipping this great tasting protein drink, with 64% more protein than regular Nesquik. This Nesquik ready-to-drink protein milk is made with one hundred percent real milk.",
+  "CATEGORY": "Milk",
+  "BRAND": "Nesquik",
+  "SIZE": "414 mL",
+  "EAN": "0028000276393",
+  "STATUS": "MATCHED"
+ },
+ "07046200660": {
+  "FULL_NAME_FOUND": "Sour Patch Kids Watermelon Soft & Chewy Candy - 3.6oz",
+  "DESCRIPTION": "Enjoy a sour twist on your favorite summer flavor with SOUR PATCH KIDS Watermelon Soft & Chewy Candy. Intense watermelon flavor fills each SOUR THEN SWEET candy for a summery blast to your taste buds, and they're shaped like watermelon slices to add excitement to your candy snacking experience. A fat free food, this pink and green candy is the perfect sweet end to your day. Keep these sour gummy snacks on hand for a quick sour treat or as party favors for Halloween, Valentine's Day or birthdays. SOUR PATCH KIDS watermelon candy also makes a great movie theater candy to snack on during your favorite flick. This bagged candy is the perfect size for stashing in purses, backpacks and lunchboxes. Each package of green and pink candy is sealed to ensure the sour candies stay soft, chewy and full of watermelon flavor.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Sour Patch Kids",
+  "SIZE": "",
+  "EAN": "0070462006605",
+  "STATUS": "MATCHED"
+ },
+ "08603430009": {
+  "STATUS": "UNMATCHED"
+ },
+ "88939200075": {
+  "FULL_NAME_FOUND": "Celsius Sparkling Lemon Lime Energy Drink 12 Fl Oz",
+  "DESCRIPTION": "CELSIUS® was created to help people LIVE FIT exceed their goals and elevate their everyday lives. Made with proven premium ingredients 7 Essential Vitamins and zero sugar no artificial colors no aspartame no high fructose corn syrup and non-GMO. CELSIUS® is vegan gluten-free and Kosher.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Celsius",
+  "SIZE": "355 mL",
+  "EAN": "0889392000757",
+  "STATUS": "MATCHED"
  }
 }

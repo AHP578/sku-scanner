@@ -28339,5 +28339,95 @@
  },
  "71227655012": {
   "STATUS": "UNMATCHED"
+ },
+ "02430086571": {
+  "FULL_NAME_FOUND": "Little Debbie Swiss Rolls Snack Cakes Twin Pack",
+  "DESCRIPTION": "Little Debbie® original, Swiss Rolls celebrated their 50th anniversary in 2013, but that’s not the only reason these treats are one of the top-selling Little Debbie® snack cakes. Scrumptious chocolate cake rolled around our signature sweet creme and encased in a rich fudge coating, this delectable dessert is sure to please any crowd. And because they’re twin wrapped, they’re perfect for sharing, so pass on the tradition of sweet memories!",
+  "CATEGORY": "Snack Cakes",
+  "BRAND": "Little Debbie",
+  "SIZE": "",
+  "EAN": "0024300865718",
+  "STATUS": "MATCHED"
+ },
+ "02820030092": {
+  "FULL_NAME_FOUND": "Merit Cigarettes, Class A, Gold Pack",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Merit",
+  "SIZE": "",
+  "EAN": "0028200300928",
+  "STATUS": "MATCHED"
+ },
+ "02840076915": {
+  "FULL_NAME_FOUND": "Fritos Chili Cheese Flavored Corn Chips",
+  "DESCRIPTION": "The popularity of FRITOS® corn chips puts this iconic snack in a class of its own. From small towns and family barbecues to parties in the big city, this classic snack is still satisfying fans.",
+  "CATEGORY": "Chips",
+  "BRAND": "Fritos",
+  "SIZE": "",
+  "EAN": "0028400769150",
+  "STATUS": "MATCHED"
+ },
+ "04850020692": {
+  "FULL_NAME_FOUND": "Tropicana 100% Juice, Orange Blend 15.2 Fl Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Juice",
+  "BRAND": "Tropicana",
+  "SIZE": "450 mL",
+  "EAN": "0048500206928",
+  "STATUS": "MATCHED"
+ },
+ "07618332357": {
+  "FULL_NAME_FOUND": "Snapple Zero Sugar Peach Tea, 32 Fl Oz Bottle",
+  "DESCRIPTION": "One 32 fluid ounce bottle. Made from the Best Stuff on Earth. Low in calories. Made from green and black tea leaves.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Snapple",
+  "SIZE": "946 mL",
+  "EAN": "0076183323571",
+  "STATUS": "MATCHED"
+ },
+ "01200000233": {
+  "FULL_NAME_FOUND": "Mountain Dew Soda Citrus 2 Liter Bottle",
+  "DESCRIPTION": "Mountain Dew, the original instigator, refreshes with its one of a kind great taste. The original, the one that started it all. This green magic will quench your thirst every day of the week. With crisp, bold flavor, it is the perfect drink to bring chuggable refreshment to your next party or gathering. Can, bottle, or glass, it is always a good time for a Dew. Mountain Dew's original formula was invented in 1940 by Tennessee beverage bottlers Barney and Ally Hartman. That original recipe has led to dozens of delicious variations, including Baja Blast, Code Red, and more. Keep on doing you with Mtn Dew.",
+  "CATEGORY": "Soda",
+  "BRAND": "Mountain Dew",
+  "SIZE": "2000 mL",
+  "EAN": "0012000002335",
+  "STATUS": "MATCHED"
+ },
+ "01200000410": {
+  "FULL_NAME_FOUND": "Starbucks Chilled Coffee Dink, Vanilla 9.5 Fl Oz",
+  "DESCRIPTION": "Starbucks coffee drinks offer the bold, delicious taste of coffee with the rich flavors you know and love. This indulgence is proof that you can enjoy a little Starbucks wherever you may be.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Starbucks",
+  "SIZE": "281 mL",
+  "EAN": "0012000004100",
+  "STATUS": "MATCHED"
+ },
+ "07432351102": {
+  "FULL_NAME_FOUND": "Bimbo Vanilla Conchas Sabor Fine Pastry",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Pastries & Scones",
+  "BRAND": "Bimbo",
+  "SIZE": "",
+  "EAN": "0074323511024",
+  "STATUS": "MATCHED"
+ },
+ "03400070232": {
+  "FULL_NAME_FOUND": "Reese's Peanut Butter Cups",
+  "DESCRIPTION": "Reese's Peanut Butter Cups sind der Klassiker aus den USA. In einem Törtchen aus zartschmelzender Milchschokolade verbirgt sich eine Füllung, die es in sich hat. Köstliche Erdnussbutter offenbart ihren einmaligen salzig-süßen Geschmack und zergeht nur so auf Ihrer Zunge.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Reese's",
+  "SIZE": "",
+  "EAN": "0034000702329",
+  "STATUS": "MATCHED"
+ },
+ "09050001001": {
+  "FULL_NAME_FOUND": "Kool 100's Menthol 50c Off",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0090500010012",
+  "STATUS": "MATCHED"
  }
 }

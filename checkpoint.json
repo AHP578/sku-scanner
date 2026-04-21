@@ -29209,5 +29209,89 @@
   "SIZE": "",
   "EAN": "0075457558008",
   "STATUS": "MATCHED"
+ },
+ "07800002110": {
+  "FULL_NAME_FOUND": "Canada Dry Triple Berry Seltzer Water - 20 Fl Oz Bottle",
+  "DESCRIPTION": "Canada Dry Triple Berry Sparkling Seltzer Water is a crisp, bubbly sparkling water beverage that provides all of the hydration benefits of regular water with a bright, refreshing sparkle and an all-natural blend of raspberry, blueberry and blackberry flavor. With no sweeteners and zero calories, Canada Dry Sparkling Seltzer Water is water made interesting.",
+  "CATEGORY": "Water",
+  "BRAND": "Canada Dry",
+  "SIZE": "591 mL",
+  "EAN": "0078000021103",
+  "STATUS": "MATCHED"
+ },
+ "02840070568": {
+  "FULL_NAME_FOUND": "Munchos Brand Potato Crisps - 4.25 Ounce",
+  "DESCRIPTION": "offer a uniquely light and crispy texture, crafted from carefully selected potatoes. Their delicate crunch and subtle seasoning make them an ideal snack for those seeking a satisfying yet refined potato crisp experience. Perfect for pairing with dips or enjoying on their own, these crisps deliver consistent quality and flavor in every bite.",
+  "CATEGORY": "Chips",
+  "BRAND": "Munchos",
+  "SIZE": "",
+  "EAN": "0028400705684",
+  "STATUS": "MATCHED"
+ },
+ "05211010430": {
+  "FULL_NAME_FOUND": "Krystal Kleer O'Reilly Windshield Washer Fluid - GAL+32",
+  "DESCRIPTION": "The Krystal Kleer 1 Gal. Summer Formula Windshield Washer Fluid is specially formulated to work in warm weather conditions. The streak-free formula cuts through road film and bugs for improved visibility.",
+  "CATEGORY": "Vehicle Parts & Accessories",
+  "BRAND": "Krystal Kleer",
+  "SIZE": "",
+  "EAN": "0052110104307",
+  "STATUS": "MATCHED"
+ },
+ "79394554653": {
+  "STATUS": "UNMATCHED"
+ },
+ "02410012660": {
+  "FULL_NAME_FOUND": "Cheez-It Cheese Crackers, White Cheddar, Single Serve 1.5 Oz",
+  "DESCRIPTION": "The Cheez-It Sunshine White Cheddar Baked Snack Crackers are a yummy grab-and-go snack sure to be liked by kids and adults alike. Made with enriched flour and white cheddar cheese, these square-shaped crackers have rigid edges and a hole in the middle. Ideal for school cafeterias, office pantries, and convenience stores, this bulk case contains 60 packs of Cheez-It baked crackers.",
+  "CATEGORY": "Crackers",
+  "BRAND": "Cheez-It",
+  "SIZE": "",
+  "EAN": "0024100126606",
+  "STATUS": "MATCHED"
+ },
+ "02900007541": {
+  "FULL_NAME_FOUND": "Planters Smoked Almonds 1.5 Oz. Bag",
+  "DESCRIPTION": "The Planters Smoked Almonds are a nutritious on-the-go snack suitable for all age groups. These crunchy almonds come in convenient tube packs. Ideal for school cafeterias, office pantries, and snack bars, this bulk case contains 1.5-ounce tubes of Planters smoked almonds.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "Planters",
+  "SIZE": "",
+  "EAN": "0029000075412",
+  "STATUS": "MATCHED"
+ },
+ "04160170854": {
+  "FULL_NAME_FOUND": "Chuckles Originals Jelly Candy 2 Oz. Pack",
+  "DESCRIPTION": "Chuckles jelly candy bar is a totally fat free candy. Impulse display contains (24) five candy bars.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Chuckles",
+  "SIZE": "",
+  "EAN": "0041601708544",
+  "STATUS": "MATCHED"
+ },
+ "05200004317": {
+  "FULL_NAME_FOUND": "Gatorade Zero Sugar Thirst Quencher Lemon Lime - 160 Fluid Ounce",
+  "DESCRIPTION": "With a legacy over 50 years in the making, it’s the most scientifically researched and game-tested way to replace electrolytes lost in sweat. Gatorade hydrates better than water, which is why it’s trusted by some of the world’s best athletes.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Gatorade",
+  "SIZE": "591 mL",
+  "EAN": "0052000043174",
+  "STATUS": "MATCHED"
+ },
+ "02200001471": {
+  "FULL_NAME_FOUND": "5 GUM RPM Mint Sugar Free Chewing Gum, 15 Stick Pack",
+  "DESCRIPTION": "The mint flavor that always runs smooth. Grab a stick of relaxing RPM Mint flavor. Life happens in 5.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "5",
+  "SIZE": "",
+  "EAN": "0022000014719",
+  "STATUS": "MATCHED"
+ },
+ "02840077058": {
+  "FULL_NAME_FOUND": "Doritos Flamin' Hot Nacho Flavored, Tortilla Chips",
+  "DESCRIPTION": "The DORITOS brand is all about boldness. If you’re up to the challenge, grab a bag of DORITOS tortilla chips and get ready to make some memories you won’t soon forget. It’s a bold experience in snacking and beyond.",
+  "CATEGORY": "Chips",
+  "BRAND": "Doritos",
+  "SIZE": "",
+  "EAN": "0028400770583",
+  "STATUS": "MATCHED"
  }
 }

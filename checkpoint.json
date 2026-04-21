@@ -27895,5 +27895,95 @@
   "SIZE": "",
   "EAN": "0024682313340",
   "STATUS": "MATCHED"
+ },
+ "02900002215": {
+  "FULL_NAME_FOUND": "Planter's Heat Peanuts, 1.75 Oz Bag",
+  "DESCRIPTION": "Whenever you are struck with extreme hunger at home, office or while travel, Planters Heat Peanuts can help you crunch those cravings. This pack makes an ideal on-the-go-snack that's delicious and healthy. Besides, it comes in convenient and handy tubes that makes storage and use way too easier. Filled with dry roasted and seasoned peanuts, these tubes are perfect snacks for on the go without sacrificing great taste or good nutrition.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "Planter's",
+  "SIZE": "",
+  "EAN": "0029000022157",
+  "STATUS": "MATCHED"
+ },
+ "04900007936": {
+  "FULL_NAME_FOUND": "Powerade Orange Electrolyte Sports Drink, 28 Fl Oz Bottle",
+  "DESCRIPTION": "Powerade Sports Drink in Orange Flavor. is the perfect hydration solution for athletes and active individuals. This refreshing beverage is designed to replenish electrolytes lost during intense physical activity, making it an essential addition to your workout routine. With a convenient 28 fluid ounce single bottle, you can easily take it on the go, ensuring you stay hydrated wherever you are.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Powerade",
+  "SIZE": "828 mL",
+  "EAN": "0049000079364",
+  "STATUS": "MATCHED"
+ },
+ "04900007938": {
+  "FULL_NAME_FOUND": "Powerade Fruit Punch Electrolyte Sports Drink Bottle, 28 Fl Oz",
+  "DESCRIPTION": "Everything a sports drink should be, plus vitamins B3, B6 and B12. Sweat, hydrate, help replenish electrolytes, repeat. A 6% carbohydrate solution gives you the energy to power through. Hydrating your game with the taste of fruit punch.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Powerade",
+  "SIZE": "828 mL",
+  "EAN": "0049000079388",
+  "STATUS": "MATCHED"
+ },
+ "02468231268": {
+  "FULL_NAME_FOUND": "Hersheys Hershey Cotton Candy Cup",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "Hersheys",
+  "SIZE": "",
+  "EAN": "0024682312688",
+  "STATUS": "MATCHED"
+ },
+ "07310000286": {
+  "FULL_NAME_FOUND": "Skoal Smokeless Tobacco, Cherry Tobacco Blend, Long Cut",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Food, Beverages & Tobacco",
+  "BRAND": "Skoal",
+  "SIZE": "",
+  "EAN": "0073100002861",
+  "STATUS": "MATCHED"
+ },
+ "07545717000": {
+  "FULL_NAME_FOUND": "Garelick Farms 1% Lowfat Milk - 1gal",
+  "DESCRIPTION": "Garelick Farms 1% Lowfat Milk continues to deliver the fresh flavor of real dairy from our family dairy farms. With just 1% milk fat, this lowfat milk is a delicious alternative to whole milk and 2% reduced fat milk. Each serving provides 8 grams of protein, 110 calories, and vitamins A and D. Enjoy this Garelick Farms 1% milk in a tall glass on its own, with your favorite cereal, in a smoothie, or use it for baking or cooking delicious recipes. This half gallon of milk comes with 8 servings of fresh, lowfat milk for your convenience. Farmer Owned. Community Loved. Garelick Farms has been providing families with fresh, nutritious dairy since 1931. It’s our honor. It’s our heritage. And nothing makes our farm families happier than nourishing yours.",
+  "CATEGORY": "Milk",
+  "BRAND": "Garelick Farms",
+  "SIZE": "",
+  "EAN": "0075457170002",
+  "STATUS": "MATCHED"
+ },
+ "71616520195": {
+  "FULL_NAME_FOUND": "RAW Organic Hemp 1¼ Cones",
+  "DESCRIPTION": "RAW Organic Hemp Cones are unquestionably the world’s best organic hemp cones! Masterfully crafted from unrefined, pure hemp with no added chalk or dyes! RAW Organic Hemp Paper is made using a special pure water method to maintain certain natural qualities of hemp. Each paper is naturally light tan in color and hand rolled into the perfect cone shape. The tip is hand folded into a W to prevent materials from passing through yet give an unfiltered big draw. RAW Organic Hemp Cones are packed with a naturally unrefined paper straw. Genuine RAW Cones do NOT use plastic straws!",
+  "CATEGORY": "Traffic Cones & Barrels",
+  "BRAND": "RAW",
+  "SIZE": "",
+  "EAN": "0716165201953",
+  "STATUS": "MATCHED"
+ },
+ "71941018600": {
+  "FULL_NAME_FOUND": "5-Hour Energy Transfusion Extra Strength Shots",
+  "DESCRIPTION": "Stay energized without leaving the fairway. Transfusion 5-hour ENERGY® brings the iconic grape, ginger and lime flavor of a golf-course favorite to a non-alcoholic shot. Bold, refreshing and packed with energy, it’s the perfect boost for sinking birdies or battling the rough. It’s a hole-in-one for your energy game!",
+  "CATEGORY": "Lawn & Garden",
+  "BRAND": "5-Hour Energy",
+  "SIZE": "",
+  "EAN": "0719410186005",
+  "STATUS": "MATCHED"
+ },
+ "04850020694": {
+  "FULL_NAME_FOUND": "Tropicana 100% Juice, Orange Blend",
+  "DESCRIPTION": "Keep a bottle of Tropicana Orange Juice around and you'll always be ready to party. Wonderful by itself as a morning pick-up, Tropicana Orange Juice also blends easily with your favorite tequila, rum, or vodka. The smooth, tangy flavor of Tropicana Orange Juice will mix well with almost any liquor to turn your usual drink into something wonderfully new and flavorful.",
+  "CATEGORY": "Juice",
+  "BRAND": "Tropicana",
+  "SIZE": "946 mL",
+  "EAN": "0048500206942",
+  "STATUS": "MATCHED"
+ },
+ "04900002627": {
+  "FULL_NAME_FOUND": "Fanta Grape Soda Fruit Flavored Soft Drink, 20 Fl Oz",
+  "DESCRIPTION": "Premier Cacique formerly Montrachet. A strong fermenter with good alcohol tolerance that is useful in producing dry, full bodied red and white wines. Will leave a wine with intense color and excellent flavor complexity while preserving tannin content. This yeast will produce hydrogen sulfide gas in the presence of excess sulfur compounds and therefore should not be used to ferment grapes that contain residual sulfur dust.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Fanta",
+  "SIZE": "591 mL",
+  "EAN": "0049000026276",
+  "STATUS": "MATCHED"
  }
 }

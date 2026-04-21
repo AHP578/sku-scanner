@@ -29545,5 +29545,89 @@
   "SIZE": "",
   "EAN": "0017082876317",
   "STATUS": "MATCHED"
+ },
+ "02840076911": {
+  "FULL_NAME_FOUND": "Ruffles Potato Chips Flamin' Hot Cheddar & Sour Cream",
+  "DESCRIPTION": "With crunchy ridges made to stand up to even the thickest dips, RUFFLES potato chips bring epic flavor and snack satisfaction to any get-together.",
+  "CATEGORY": "Chips",
+  "BRAND": "Ruffles",
+  "SIZE": "",
+  "EAN": "0028400769112",
+  "STATUS": "MATCHED"
+ },
+ "02840076918": {
+  "FULL_NAME_FOUND": "Fritos Original Corn Chips",
+  "DESCRIPTION": "The popularity of FRITOS corn chips puts this iconic snack in a class of its own. From small towns and family barbecues to parties in the big city, this classic snack is still satisfying fans after more than 80 years.",
+  "CATEGORY": "Chips",
+  "BRAND": "Fritos",
+  "SIZE": "",
+  "EAN": "0028400769181",
+  "STATUS": "MATCHED"
+ },
+ "71616530034": {
+  "FULL_NAME_FOUND": "RAW Organic Cone - 1 1/4 - 6 Cones",
+  "DESCRIPTION": "Productomschrijving Productomschrijving RAW Organic Cone - 1 1/4 - 6 Cones De RAW Organic Cone - 1 1/4 - 6 Cones zijn 6 cones van 1 1/4 formaat in een makkelijk mee te nemen verpakking. De RAW Organic vloei is e?e?n van de meest schone vloeitjes verkrijgbaar. De vloei is gemaakt van 100% hennep met plakrand van natuurlijk gom en is 100% vegan. Voorzien van het standaard RAW watermerk.",
+  "CATEGORY": "Traffic Cones & Barrels",
+  "BRAND": "RAW",
+  "SIZE": "",
+  "EAN": "0716165300342",
+  "STATUS": "MATCHED"
+ },
+ "05200001029": {
+  "FULL_NAME_FOUND": "Gatorade Frost Thirst Quencher Arctic Blitz 28 Fl Oz Bottle",
+  "DESCRIPTION": "The one and only. With a legacy over 40 years in the making, it’s the most scientifically researched and game-tested way to replace electrolytes lost in sweat. Gatorade Frost has a light, crisp flavor that hydrates better than water, which is why it’s trusted by some of the world’s best athletes.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Gatorade",
+  "SIZE": "828 mL",
+  "EAN": "0052000010299",
+  "STATUS": "MATCHED"
+ },
+ "61126900214": {
+  "FULL_NAME_FOUND": "Red Bull Amber Edition Sugar Free Energy Drink, Strawberry Apricot, 114mg Caffeine, 12 Fl Oz Can",
+  "DESCRIPTION": "The original energy drink that gives you wiiings, this lightly carbonated beverage is enjoyed worldwide by fitness enthusiasts, athletes, gamers, students and travelers. A refreshing can of Red Bull makes an excellent partner for busy, active lifestyles. Each 8.4 fl oz can contains 80mg of caffeine per serving and 27g of sugar (comparable to sugar levels found in apple juice). It also includes Taurine and B-group vitamins B6, B12, Niacin (B3) and Pantothenic Acid (B5). Available in 4-packs, 12-packs, 24-packs and Variety Packs. Comes in aluminum cans that can be recycled over and over. Always check can labels for the most updated product nutritional and ingredient information.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Red Bull",
+  "SIZE": "355 mL",
+  "EAN": "0611269002140",
+  "STATUS": "MATCHED"
+ },
+ "71941072500": {
+  "FULL_NAME_FOUND": "5-Hour Energy Gamer Shot Ultimate Citrus Bottles",
+  "DESCRIPTION": "contain an enhanced energy blend with B-vitamins, amino acids, caffeine and zero sugar. Citrus punch flavor. Zero sugar. Packed with B vitamins and amino acids. 12 Units / Display — 18 Displays / Case. MSRP – $4.99.",
+  "CATEGORY": "Incontinence Aids",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0071941072500",
+  "STATUS": "MATCHED"
+ },
+ "81712702289": {
+  "STATUS": "UNMATCHED"
+ },
+ "85005243791": {
+  "FULL_NAME_FOUND": "Plantain Chips Sweet",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Chips",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0850052437916",
+  "STATUS": "MATCHED"
+ },
+ "02840076970": {
+  "FULL_NAME_FOUND": "Lay's Potato Chips Barbecue",
+  "DESCRIPTION": "Wherever celebrations and good times happen, the Lay's brand will be there just as it has been for more than 75 years. With flavors almost as rich as our history, we have a potato chip or crisp flavor guaranteed to bring a smile on your face.",
+  "CATEGORY": "Chips",
+  "BRAND": "Lay's",
+  "SIZE": "",
+  "EAN": "0028400769709",
+  "STATUS": "MATCHED"
+ },
+ "04113700041": {
+  "FULL_NAME_FOUND": "Duraflame Firestart Indoor & Outdoor Wood Firelighters",
+  "DESCRIPTION": "Duraflame firestart indoor & outdoor firelighters are the fast, sure way to start a wood fire at home or on-the-go. They're compact & individually paper-wrapped for portability, clean handling & easy lighting.",
+  "CATEGORY": "Firewood & Fuel",
+  "BRAND": "Duraflame",
+  "SIZE": "",
+  "EAN": "0041137000419",
+  "STATUS": "MATCHED"
  }
 }

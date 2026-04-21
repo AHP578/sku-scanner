@@ -28879,5 +28879,83 @@
   "SIZE": "",
   "EAN": "0028400769105",
   "STATUS": "MATCHED"
+ },
+ "61126900260": {
+  "FULL_NAME_FOUND": "Red Bull Energy Drink, Sugarfree, Grapefruit & Blossom 8.4 Fl Oz",
+  "DESCRIPTION": "This Red Bull Spring Edition Sugarfree features a burst of Citrus and Blossom with a refreshing hint of Green, Herbal Notes and Pink Grapefruit finish. A refreshing can of Red Bull makes an excellent partner for busy, active lifestyles. Each 8.4 fl oz can contains 80mg of caffeine per serving and 0g of sugar. It also includes Taurine, an amino acid naturally occurring in the human body, and B-group vitamins B6, B12, Niacin (B3) and Pantothenic Acid (B5). Always check can labels for the most updated product nutritional and ingredient information. Calcium and sugars values declared on labels may vary slightly depending on production locations. Enjoy a burst of Citrus with a refreshing hint of Pink Grapefruit finish in the Red Bull Spring Edition;.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Red Bull",
+  "SIZE": "250 mL",
+  "EAN": "0611269002607",
+  "STATUS": "MATCHED"
+ },
+ "61300877171": {
+  "FULL_NAME_FOUND": "Arizona Frost ChillZicle - 650ml [USA]",
+  "DESCRIPTION": "A frosty fusion of tart and sweet berries, the beloved ChillZicle juice adds a hint of vanilla flavor for a cool and refreshing contrast.",
+  "CATEGORY": "Juice",
+  "BRAND": "Arizona",
+  "SIZE": "651 mL",
+  "EAN": "0613008771713",
+  "STATUS": "MATCHED"
+ },
+ "03400000521": {
+  "FULL_NAME_FOUND": "Mounds Dark Chocolate & Coconut, King Size Candy Bar",
+  "DESCRIPTION": "Delicious taste of the tropics. Dark chocolate and coconut. King size package offers plenty to share. Offer your patrons a refreshing taste of the tropics in favorite retro Mounds,® candy bars that deliver big on coconut and dark chocolate. The instantly-recognizable red packaging of these iconic candy bars draws consumers in to purchase, and the deliciously decadent taste and soft, coconutty chew keep them returning for another.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Mounds",
+  "SIZE": "",
+  "EAN": "0034000005215",
+  "STATUS": "MATCHED"
+ },
+ "09050000091": {
+  "FULL_NAME_FOUND": "Oxford 090594 Esselte Pendaflex Polypropylene Ruled View Front Design Spiral Ind",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Watercraft Parts & Accessories",
+  "BRAND": "Oxford",
+  "SIZE": "",
+  "EAN": "0009050000091",
+  "STATUS": "MATCHED"
+ },
+ "71227615205": {
+  "STATUS": "UNMATCHED"
+ },
+ "71227655051": {
+  "STATUS": "UNMATCHED"
+ },
+ "07800000274": {
+  "FULL_NAME_FOUND": "Sunkist Orange Soda, 12 Fl Oz Cans",
+  "DESCRIPTION": "Relax and soak up the taste of the sun with Sunkist Soda. Sunkist Soda beams with bold, sweet orange flavor and refreshes the moment you taste it. Enjoy Sunkist Soda anytime or mix with ice cream for delicious orange floats. Gear up for good times with the bright taste of Sunkist Soda.",
+  "CATEGORY": "Soda",
+  "BRAND": "Sunkist",
+  "SIZE": "355 mL",
+  "EAN": "0078000002744",
+  "STATUS": "MATCHED"
+ },
+ "05200010430": {
+  "FULL_NAME_FOUND": "Gatorade Recover Cookies And Cream Whey Protein Bar 80g",
+  "DESCRIPTION": "Recover Whey Protein Bars contain high-quality whey and milk protein. When eaten right after a game or practice, they give your muscles essential amino acids needed to help rebuild and recover.",
+  "CATEGORY": "Nutrition Bars",
+  "BRAND": "Gatorade",
+  "SIZE": "",
+  "EAN": "0052000104301",
+  "STATUS": "MATCHED"
+ },
+ "71751901141": {
+  "FULL_NAME_FOUND": "Al Capone Cigarillos, Filter, Cognac Dipped, Sweets",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Al Capone",
+  "SIZE": "",
+  "EAN": "0717519011419",
+  "STATUS": "MATCHED"
+ },
+ "78843411568": {
+  "FULL_NAME_FOUND": "One Protein Bar, Reese's Peanut Butter Lovers, 2.12 Ounce",
+  "DESCRIPTION": "When it comes to snacking, we all deserve something dreamy to dig in to. With 18 grams of protein, 3 grams of sugar, and the delicious Reese's Peanut Butter Lovers flavor you know and love, you'll officially fall head over heels. Congratulations, You've Found the ONE.",
+  "CATEGORY": "Vitamins & Supplements",
+  "BRAND": "One",
+  "SIZE": "",
+  "EAN": "0788434115681",
+  "STATUS": "MATCHED"
  }
 }

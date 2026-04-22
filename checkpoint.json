@@ -31438,5 +31438,95 @@
   "SIZE": "",
   "EAN": "0887969011786",
   "STATUS": "MATCHED"
+ },
+ "89453700004": {
+  "FULL_NAME_FOUND": "Oven Delights Cherry Cheese Danish",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Bakery",
+  "BRAND": "Oven Delights",
+  "SIZE": "",
+  "EAN": "0894537000042",
+  "STATUS": "MATCHED"
+ },
+ "89453700046": {
+  "FULL_NAME_FOUND": "Oven Delights Guava Cheese Danish",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Ovens",
+  "BRAND": "Oven Delights",
+  "SIZE": "",
+  "EAN": "0894537000462",
+  "STATUS": "MATCHED"
+ },
+ "02430001507": {
+  "FULL_NAME_FOUND": "Drake's Funnybones",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "Drake's",
+  "SIZE": "",
+  "EAN": "0024300015076",
+  "STATUS": "MATCHED"
+ },
+ "02468200520": {
+  "FULL_NAME_FOUND": "Hersheys Coconut Chocolate Almond Ice Cream 16oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "Hersheys",
+  "SIZE": "",
+  "EAN": "0024682005207",
+  "STATUS": "MATCHED"
+ },
+ "02820000887": {
+  "FULL_NAME_FOUND": "Marlboro Cigarettes, Class A, Black, Gold Pack",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200008879",
+  "STATUS": "MATCHED"
+ },
+ "02840025989": {
+  "FULL_NAME_FOUND": "Grandma's Oatmeal Raisin Cookies",
+  "DESCRIPTION": "GRANDMA'S cookies offer a delicious variety of homemade memories. With flavors like chocolate and peanut butter, every GRANDMA'S treat is baked with love to transport you to your happy place with every bite.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Grandma's",
+  "SIZE": "",
+  "EAN": "0028400259897",
+  "STATUS": "MATCHED"
+ },
+ "02840033160": {
+  "FULL_NAME_FOUND": "Funyuns Flamin' Hot Flavored, Onion Flavored Rings",
+  "DESCRIPTION": "FUNYUNS Onion Flavored Rings are a deliciously different snack that's fun to eat, with a crisp texture and zesty onion flavor. Next time you're in the mood for a tasty treat that's out of the ordinary, try FUNYUNS Onion Flavored Rings. Enjoy and share these FLAMIN' HOT snacks anytime! At Frito-Lay, we are always thinking about how we can delight our consumers and keep them top-of-mind in every decision we make. When you look at all of our Frito-Lay snacks, they have one thing in common … great taste.",
+  "CATEGORY": "Rings",
+  "BRAND": "Funyuns",
+  "SIZE": "",
+  "EAN": "0028400331609",
+  "STATUS": "MATCHED"
+ },
+ "02840076698": {
+  "FULL_NAME_FOUND": "Doritos Tortilla Chips, Golden Sriracha",
+  "DESCRIPTION": "The DORITOS brand is all about boldness. If you’re up to the challenge, grab a bag of DORITOS tortilla chips and get ready to make some memories you won’t soon forget. It’s a bold experience in snacking and beyond.",
+  "CATEGORY": "Chips",
+  "BRAND": "Doritos",
+  "SIZE": "",
+  "EAN": "0028400766982",
+  "STATUS": "MATCHED"
+ },
+ "03170005993": {
+  "FULL_NAME_FOUND": "Game Wht Russ Pp2.19",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Games",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0031700059937",
+  "STATUS": "MATCHED"
+ },
+ "04142006577": {
+  "FULL_NAME_FOUND": "Trolli Sour Bursting Crawlers Candy, 4.25 Ounce Package",
+  "DESCRIPTION": "Chewy Gummy Worms deliver bold bursts of tangy sweetness with a liquid sour surprise inside. Playful bites of Assorted Fruit Candy bring juicy layers of flavor, while vibrant Assorted Colors Candy makes every handful eye‑catching and fun. Packed with zesty notes, this mix captures the thrill of sour‑then‑sweet Candy that stands out from ordinary treats.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Trolli",
+  "SIZE": "",
+  "EAN": "0041420065774",
+  "STATUS": "MATCHED"
  }
 }

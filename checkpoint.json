@@ -30655,5 +30655,89 @@
  },
  "79394554572": {
   "STATUS": "UNMATCHED"
+ },
+ "01200018420": {
+  "FULL_NAME_FOUND": "Pepsi Soda, Mango, 12 Fl Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Soda",
+  "BRAND": "",
+  "SIZE": "355 mL",
+  "EAN": "0001200018420",
+  "STATUS": "MATCHED"
+ },
+ "01708287735": {
+  "FULL_NAME_FOUND": "Jack Link's Teriyaki Beef Steak Tender Bites, 2.85 Ounce",
+  "DESCRIPTION": "Don't let appearances fool you. Jack Link's® Teriyaki Beef Tender Bites are super strong contenders when you need help fighting those 2 o'clock hunger pains. Slow cooked for tenderness and seasoned to perfection, these bite-sized nuggets may be small, but they're big-time delicious. A meat snack that punches above it's weight = Winner!",
+  "CATEGORY": "Meat",
+  "BRAND": "Jack Link's",
+  "SIZE": "",
+  "EAN": "0017082877352",
+  "STATUS": "MATCHED"
+ },
+ "02468240001": {
+  "FULL_NAME_FOUND": "DLPS Food Service Hershey Monster Push Pop",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Push & Pull Toys",
+  "BRAND": "DLPS Food Service",
+  "SIZE": "",
+  "EAN": "0024682400019",
+  "STATUS": "MATCHED"
+ },
+ "05100001292": {
+  "FULL_NAME_FOUND": "V8 Original 100% Vegetable Juice",
+  "DESCRIPTION": "Meet the vegetable juices in v8 tomato carrot celery beet parsley lettuce watercress and spinach. This delicious blend of 8 vegetable juices has a zesty one-of- a-kind taste in a nutritious and refreshing beverage. V8 100% vegetable juice is the nation’s #1 vegetable.",
+  "CATEGORY": "Juice",
+  "BRAND": "V8",
+  "SIZE": "340 mL",
+  "EAN": "0005100001292",
+  "STATUS": "MATCHED"
+ },
+ "05200004706": {
+  "FULL_NAME_FOUND": "Gatorade Thirst Quencher, Zero Sugar, Cool Blue",
+  "DESCRIPTION": "The proven classic. With a legacy over 50 years in the making, it's the most scientifically researched and game-tested way to replace electrolytes lost in sweat. Gatorade Thirst Quencher is specifically made to help keep you hydrated, which is why it's trusted by some of the world's best athletes. Gatorade is the official sports drink provider of the NFL, NBA, NHL and MLB.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Gatorade",
+  "SIZE": "591 mL",
+  "EAN": "0052000047066",
+  "STATUS": "MATCHED"
+ },
+ "07046200659": {
+  "FULL_NAME_FOUND": "Sour Patch Kids Original Soft & Chewy Candy, 3.6 Oz Bag",
+  "DESCRIPTION": "SOUR PATCH KIDS Original Soft & Chewy Candy packs all the classic assorted fruit flavors into a mischief-filled soft candy that satisfies your taste buds. Enjoy this bag of candy whenever you want a SOUR THEN SWEET treat by keeping a package on-hand for a quick snack, as holiday candy or as a movie theater candy. Bulk candy pack includes twelve bags, each candy bag is sealed to maintain softness and flavor.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Sour Patch Kids",
+  "SIZE": "",
+  "EAN": "0070462006599",
+  "STATUS": "MATCHED"
+ },
+ "07800000402": {
+  "FULL_NAME_FOUND": "Hawaiian Punch Juice Drink, Fruit Juicy Red 20 Fl Oz",
+  "DESCRIPTION": "When it comes to fruit juice drinks, nothing compares to Hawaiian Punch. Bursting with the bold taste of tropical fruit flavors, Hawaiian Punch has a fun and delicious taste kids and the whole family can enjoy anytime and anywhere. Convenient and delicious, Hawaiian Punch is the perfect fruit drink when you want a blast of tropical fruit flavor! Hawaiian Punch goes great with snacks or a meal, is perfect for on-the-go, can easily be packed into a lunch box, and can be enjoyed all by itself. Hawaiian Punch is available in flavors Fruit Juicy Red, Polar Blast, Lemon Berry Squeeze, Orange Ocean, Green Berry Rush, Berry Blue Typhoon, Watermelon Berry Boom, Lemonade, Surfin’ Strawberry Citrus, Citrus Splash, and many more. There is a Hawaiian Punch fruit juice drink flavor for everyone! Hawaiian Punch is caffeine-free, carbonation-free, gluten-free and is an excellent source of Vitamin C. Created in California, Hawaiian Punch has been an American favorite since 1934. Hawaiian Punch was originally developed from ingredients shipped from Hawaii. In fact, that’s how we came up with the name. Treat your family to the delicious and refreshing taste of Hawaiian Punch. Enjoy the wave of flavor with every sip of Hawaiian Punch!",
+  "CATEGORY": "Beverages",
+  "BRAND": "Hawaiian Punch",
+  "SIZE": "591 mL",
+  "EAN": "0078000004021",
+  "STATUS": "MATCHED"
+ },
+ "07800003178": {
+  "FULL_NAME_FOUND": "Sunkist Strawberry Lemonade Soda, 20 Fl Oz Bottle",
+  "DESCRIPTION": "Experience the bold and refreshing taste of Sunkist Soda! Perfect for quenching your thirst, this 20-ounce bottle of Sunkist Soda is packed with vibrant citrus flavor that will invigorate your senses. Whether you are enjoying a sunny day outdoors, hosting a gathering, or simply relaxing at home, Sunkist Soda is the ideal companion for any occasion.",
+  "CATEGORY": "Soda",
+  "BRAND": "Sunkist",
+  "SIZE": "591 mL",
+  "EAN": "0078000031782",
+  "STATUS": "MATCHED"
+ },
+ "08603430007": {
+  "STATUS": "UNMATCHED"
+ },
+ "09810010042": {
+  "FULL_NAME_FOUND": "Starbucks Coffee Beverage, Energy, Rich Vanilla, Triple Blend 11 Fl Oz",
+  "DESCRIPTION": "Savor the bold, irresistible flavor of Starbucks coffee drinks—each sip a testament to the rich, familiar tastes you love. Whether it's the classic brew or a specialty blend, this indulgence brings the Starbucks experience to you, wherever you are. Elevate your moment with the unmistakable taste of Starbucks, proving that a touch of coffee perfection is always within reach.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Starbucks",
+  "SIZE": "325 mL",
+  "EAN": "0098100100423",
+  "STATUS": "MATCHED"
  }
 }

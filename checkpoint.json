@@ -32830,5 +32830,89 @@
   "SIZE": "",
   "EAN": "0070662130025",
   "STATUS": "MATCHED"
+ },
+ "07115900134": {
+  "FULL_NAME_FOUND": "Corn Nuts BBQ Crunchy Kernels 1.7 Oz. Bag",
+  "DESCRIPTION": "Taste the real roasted corn kernels. Hear the ultimate crunch! Enjoy a true corn snack experience.",
+  "CATEGORY": "Pretzels",
+  "BRAND": "Corn Nuts",
+  "SIZE": "",
+  "EAN": "0071159001347",
+  "STATUS": "MATCHED"
+ },
+ "07160346900": {
+  "FULL_NAME_FOUND": "TRIM Deluxe Toenail Clippers With File",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Nail Clippers",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0007160346900",
+  "STATUS": "MATCHED"
+ },
+ "07192420002": {
+  "FULL_NAME_FOUND": "Mobil Full Synthetic Motor Oil",
+  "DESCRIPTION": "Mobil 1 full synthetic motor oil is formulated for vehicles that are upgrading from conventional motor oil or synthetic blend motor oil, and vehicles that require full synthetic motor oil. It outperforms conventional oil, helps extend engine life, and provides guaranteed protection that is 1.5 times longer (up to 7,500 miles between oil changes) than the conventional and synthetic blend oil. Mobil Full Synthetic helps prevent sludge, deposit formation and to help reduce engine wear with a balanced additive system formulation. It has excellent resistance to oil breakdown, providing proven long-lasting protection, and maintaining oil viscosity at high operating temperatures. Mobil Full Synthetic motor oil is recommended for all types of gasoline-powered vehicles, including those with turbocharged engines found in passenger cars, SUVs, and light-duty vans and trucks.",
+  "CATEGORY": "Vehicle Motor Oil",
+  "BRAND": "Mobil",
+  "SIZE": "",
+  "EAN": "0071924200029",
+  "STATUS": "MATCHED"
+ },
+ "07618300333": {
+  "FULL_NAME_FOUND": "Snapple Go Bananas, 16 Fl Oz Plastic Bottle",
+  "DESCRIPTION": "When we started as a small New York brand, we made our name by not being afraid to monkey around with flavors. Sometimes we go a little bananas,Lally. A sip of Go Bananas is just like biting into a freshly peeled banana. How’d we do it? All you need to know is it’s made with the Best Stuff on Earth and the taste is simply bananas.",
+  "CATEGORY": "Bananas",
+  "BRAND": "Snapple",
+  "SIZE": "",
+  "EAN": "0076183003336",
+  "STATUS": "MATCHED"
+ },
+ "08523928405": {
+  "FULL_NAME_FOUND": "Good & Gather Vitamin D Whole Milk 1gal",
+  "DESCRIPTION": "This 1% Low Fat Milk from Good & Gather™ is a must-have in your fridge for making all your favorite recipes or enjoying with homemade cookies. This grade A 1% low fat milk is pasteurized and homogenized, along with having vitamins A and D added. Coming from cows that are not treated with rBST, this milk can be added to your favorite recipes so you and your family can enjoy them while getting protein and calcium. Simply use this 1% low fat milk to make all your favorites — from mac and cheese to scrambled eggs to homemade buttercream frosting. Packaging may vary.Our farmers pledge not to treat their cows with rBST. No significant difference has been shown between milk derived from rBST treated cows and non-rBST treated cows. Every product that carries the Good & Gather™ name starts with quality ingredients that deliver great taste, making it easier for you and your family to eat well, every day. We promise you’ll love each bite, or your money back. All Good & Gather products are made without artificial flavors, synthetic colors, artificial sweeteners, and high-fructose corn syrup. Some are specially formulated while others never contained these ingredients.",
+  "CATEGORY": "Milk",
+  "BRAND": "Good & Gather",
+  "SIZE": "3780 mL",
+  "EAN": "0085239284056",
+  "STATUS": "MATCHED"
+ },
+ "08526422160": {
+  "FULL_NAME_FOUND": "Cloverleaf Bakery Cheese Danish",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Bakery",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0008526422160",
+  "STATUS": "MATCHED"
+ },
+ "61196888803": {
+  "STATUS": "UNMATCHED"
+ },
+ "69441100165": {
+  "FULL_NAME_FOUND": "Daisys Coffee Cake Muffin",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Coffee Cakes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0694411001659",
+  "STATUS": "MATCHED"
+ },
+ "71616517417": {
+  "FULL_NAME_FOUND": "RAW Organic Hemp 1.25 Rolling Papers",
+  "DESCRIPTION": "RAW is truly unbleached and unrefined. RAW Rolling Papers contain no chalk, no dyes and no burn additives. RAW lets you truly taste the natural flavors of your smoke. RAW paper is made from natural plants.",
+  "CATEGORY": "Paper & Magnetic Dolls",
+  "BRAND": "RAW",
+  "SIZE": "",
+  "EAN": "0716165174172",
+  "STATUS": "MATCHED"
+ },
+ "73194601480": {
+  "FULL_NAME_FOUND": "Ziq Booster Cable 12 Ft 8 Gauges 300 Amp",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cables",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0731946014805",
+  "STATUS": "MATCHED"
  }
 }

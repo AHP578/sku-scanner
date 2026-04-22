@@ -32476,5 +32476,89 @@
   "SIZE": "",
   "EAN": "0037900991442",
   "STATUS": "MATCHED"
+ },
+ "03800028258": {
+  "FULL_NAME_FOUND": "Pringles Mingles Cheddar & Sour Cream Puffed Snacks 56g",
+  "DESCRIPTION": "30 years on. Shams has become synonymous with quality, providing a selection to spoil any customer. Today we are one of Islamabad’s most loved destinations for candies, chocolates, skin care & cigars among other things.",
+  "CATEGORY": "Sour Cream",
+  "BRAND": "Pringles",
+  "SIZE": "",
+  "EAN": "0038000282584",
+  "STATUS": "MATCHED"
+ },
+ "05200004319": {
+  "FULL_NAME_FOUND": "Gatorade Zero Sugar Thirst Quencher Glacier Cherry 20 Fl Oz",
+  "DESCRIPTION": "Developed for athletes that prefer a performance boost and not a sugar rush. Gatorade Zero has no sugar while maintaining the same proven hydration and fueling benefits of Gatorade Thirst Quencher. with three refreshing flavors to keep you in the game, you won't even miss what's missing.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Gatorade",
+  "SIZE": "591 mL",
+  "EAN": "0052000043198",
+  "STATUS": "MATCHED"
+ },
+ "07084789199": {
+  "FULL_NAME_FOUND": "Monster Energy Drink, Coffee + Energy, Cafe Latte 15 Fl Oz",
+  "DESCRIPTION": "Gingerbread, cinnamon dolce, peppermint white mocha - your mobile app would even laugh at you for ordering that! For those of us who love their coffee the classic way comes Java Monster Cafe Latte. Coffee forward with the right amount of cream and sugar, then supercharged with the Monster energy blend. Coffee done the Monster way, wide open, with a take no prisoners attitude and the experience and know-how to back it up.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Monster",
+  "SIZE": "444 mL",
+  "EAN": "0070847891994",
+  "STATUS": "MATCHED"
+ },
+ "07194890102": {
+  "FULL_NAME_FOUND": "Gumout Regane Complete Fuel System Cleaner, 6 Ounce Bottle, Double Strength Formula",
+  "DESCRIPTION": "Removes deposits from port/indirect fuel injectors, intake valves and ports, piston tops, cylinder heads, combustion chamber. Prevents future carbon buildup. Conditions fuel to fight ethanol and water corrosion. Maximizes performance and fuel economy. Reduces emissions.",
+  "CATEGORY": "Fuel",
+  "BRAND": "Gumout",
+  "SIZE": "",
+  "EAN": "0071948901025",
+  "STATUS": "MATCHED"
+ },
+ "07617110435": {
+  "FULL_NAME_FOUND": "Little Trees Tree Air Freshener Lavender 24ct",
+  "DESCRIPTION": "Little Tree Air Freshener Lavender 24ct air fresheners are made from ingredients carefully selected to produce exquisite fragrance blends. Little trees air fresheners are unique in their quick, powerful and long-lasting effectiveness. Add a little fragrance to your life with the world-famous little tree air fresheners. Usage : please follow the direction mentioned back side of the product for better usage.",
+  "CATEGORY": "Air Fresheners",
+  "BRAND": "Little Trees",
+  "SIZE": "",
+  "EAN": "0076171104359",
+  "STATUS": "MATCHED"
+ },
+ "07617117343": {
+  "FULL_NAME_FOUND": "Little Trees Blackberry Clove Single Air Fresheners",
+  "DESCRIPTION": "Little Trees is known for it’s high quality, strong, and long-lasting fragrances. Blackberry Clove Car Air Freshener is a combination of plump, juicy blackberries fused with clove for a distinctive sweet and spicy blend.",
+  "CATEGORY": "Air Fresheners",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0007617117343",
+  "STATUS": "MATCHED"
+ },
+ "07682804863": {
+  "FULL_NAME_FOUND": "Wet Ones Sensitive Skin Extra Gentle Hand And Face Fragrance Free Wipes",
+  "DESCRIPTION": "Wet Ones Sensitive Skin Hand Wipes deliver effective cleansing without compromising skin integrity. This dermatologist-tested formulation eliminates dirt and germs while remaining gentle enough for reactive or compromised skin barriers. The fragrance-free composition excludes drying alcohols and irritating additives, instead incorporating aloe vera and witch hazel to provide antimicrobial benefits alongside skin conditioning. The enriched moisturizer blend prevents the tightness and irritation commonly associated with sanitizing products. Each resealable 20-count pack offers convenient portability for travel, vehicles, diaper bags, and workplace use. Ideal for individuals with eczema, rosacea, or other dermatological sensitivities requiring non-irritating hygiene solutions.",
+  "CATEGORY": "Hand Sanitizers & Wipes",
+  "BRAND": "Wet Ones",
+  "SIZE": "",
+  "EAN": "0076828048630",
+  "STATUS": "MATCHED"
+ },
+ "07800000400": {
+  "FULL_NAME_FOUND": "Hawaiian Punch Fruit Juicy Red Juice Drink",
+  "DESCRIPTION": "When it comes to fruit juice drinks, nothing compares to Hawaiian Punch. Bursting with the bold taste of tropical fruit flavors, Hawaiian Punch has a fun and delicious taste kids and the whole family can enjoy anytime and anywhere. Convenient and delicious, Hawaiian Punch is the perfect fruit drink when you want a blast of tropical fruit flavor! Hawaiian Punch goes great with snacks or a meal, is perfect for on-the-go, can easily be packed into a lunch box, and can be enjoyed all by itself. Hawaiian Punch is available in flavors Fruit Juicy Red, Polar Blast, Lemon Berry Squeeze, Orange Ocean, Green Berry Rush, Berry Blue Typhoon, Watermelon Berry Boom, Lemonade, Surfin’ Strawberry Citrus, Citrus Splash, and many more. There is a Hawaiian Punch fruit juice drink flavor for everyone! Hawaiian Punch is caffeine-free, carbonation-free, gluten-free and is an excellent source of Vitamin C. Created in California, Hawaiian Punch has been an American favorite since 1934. Hawaiian Punch was originally developed from ingredients shipped from Hawaii. In fact, that’s how we came up with the name. Treat your family to the delicious and refreshing taste of Hawaiian Punch. Enjoy the wave of flavor with every sip of Hawaiian Punch!",
+  "CATEGORY": "Beverages",
+  "BRAND": "Hawaiian Punch",
+  "SIZE": "2129 mL",
+  "EAN": "0078000004007",
+  "STATUS": "MATCHED"
+ },
+ "09103717212": {
+  "STATUS": "UNMATCHED"
+ },
+ "30573016020": {
+  "FULL_NAME_FOUND": "Advil Ibuprofen, 200 Mg, Coated Tablets",
+  "DESCRIPTION": "Experience fast and effective relief from pain and fever with Advil Ibuprofen Pain Reliever. Each coated caplet contains 200 milligrams of ibuprofen, a trusted nonsteroidal anti-inflammatory drug (NSAID) that helps alleviate discomfort caused by headaches, muscle aches, menstrual cramps, toothaches, and minor arthritis pain. This product is perfect for those seeking a reliable solution for everyday aches and pains.",
+  "CATEGORY": "Health & Beauty",
+  "BRAND": "Advil",
+  "SIZE": "",
+  "EAN": "0305730160209",
+  "STATUS": "MATCHED"
  }
 }

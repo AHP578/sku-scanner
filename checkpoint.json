@@ -31354,5 +31354,89 @@
   "SIZE": "",
   "EAN": "0041789001253",
   "STATUS": "MATCHED"
+ },
+ "07800000118": {
+  "FULL_NAME_FOUND": "Canada Dry Zero Sugar Ginger Ale Soda, 12 Fl Oz Cans",
+  "DESCRIPTION": "Canada Dry offers a crisp, clean and light taste with a subtle fresh snap of ginger. Without caffeine.",
+  "CATEGORY": "Soda",
+  "BRAND": "Canada Dry",
+  "SIZE": "355 mL",
+  "EAN": "0078000001181",
+  "STATUS": "MATCHED"
+ },
+ "07800004066": {
+  "FULL_NAME_FOUND": "Keurig Dr Pepper BlackBerry Zero Sugar",
+  "DESCRIPTION": "Love the rich, fruity twist of Dr Pepper Blackberry but want to skip the sugar? Dr Pepper Blackberry Zero Sugar delivers the same bold blend of classic Dr Pepper with juicy blackberry notes, all with zero sugar and full-on flavor. Every sip is refreshingly smooth, perfectly balanced, and packed with deep, fruity richness—without the extra calories. Perfect for those who crave big taste without the sugar, this soda is best enjoyed ice-cold for maximum refreshment. Zero sugar, all flavor—what’s not to love?",
+  "CATEGORY": "Pepper",
+  "BRAND": "Keurig Dr Pepper",
+  "SIZE": "",
+  "EAN": "0078000040661",
+  "STATUS": "MATCHED"
+ },
+ "07874235186": {
+  "FULL_NAME_FOUND": "Great Value Whole Vitamin D Milk, Gallon, Plastic, Jug",
+  "DESCRIPTION": "Pasteurized, homogenized. Our farmers have pledged to not treat any of their cows with any artificial growth hormones. According to the FDA, no significant difference has been shown between milk derived from rBST treated and no rBST treated cows.",
+  "CATEGORY": "Milk",
+  "BRAND": "Great Value",
+  "SIZE": "3785 mL",
+  "EAN": "0078742351865",
+  "STATUS": "MATCHED"
+ },
+ "09050001063": {
+  "FULL_NAME_FOUND": "Kool Green Menthol Kings Box $1 Off",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0090500010630",
+  "STATUS": "MATCHED"
+ },
+ "68014904559": {
+  "STATUS": "UNMATCHED"
+ },
+ "78476207106": {
+  "FULL_NAME_FOUND": "Zig Zag Cigar Wraps, Premium, Mango",
+  "DESCRIPTION": "Zig Zag wraps feature a unique process of interleaving papers in a zig-zag manner. Choose your preferred tobacco blend and wrap them in Zig Zag blunts for a smooth, rich flavor.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Zig Zag",
+  "SIZE": "",
+  "EAN": "0784762071064",
+  "STATUS": "MATCHED"
+ },
+ "81016162001": {
+  "FULL_NAME_FOUND": "Más+ by Messi Mas+ Orange D'or Hydration Beverage 16.9 Fl Oz",
+  "DESCRIPTION": "You wake up feeling dehydrated. Through daily activity—whether you're on the field, at work, or running errands—staying properly hydrated is essential. That’s where Más+ by Messi comes in, helping to replenish the electrolytes lost throughout the day. Más+ by Messi is hydration for every waking hour. With a balanced blend of hydrating electrolytes, an excellent source of vitamins, minerals, and antioxidants, plus amazingly refreshing taste, you’ll want to drink even more—más. We call it Positive Hydration. We made Más+ with the world’s greatest soccer player, Lionel Messi, because no one better understands the importance of hydration on and off the field. He couldn’t find a drink with the hydration he needed and great taste he loved, so he went to work on one of his own. Without compromise on ingredients, almost unbelievable taste. With natural flavors, just 10 calories and 1g of sugar per 16.9oz bottle, and no artificial sweeteners or colors.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Más+ by Messi",
+  "SIZE": "500 mL",
+  "EAN": "0810161620012",
+  "STATUS": "MATCHED"
+ },
+ "81135300098": {
+  "FULL_NAME_FOUND": "Old Time F Back Pepp",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Camera Digital Backs",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0811353000988",
+  "STATUS": "MATCHED"
+ },
+ "85754501251": {
+  "FULL_NAME_FOUND": "Bob Marley 50ct Torch Lighter Display B",
+  "DESCRIPTION": "The Bob Marley Torch Lighter Display – 50CT features officially licensed Bob Marley artwork on 50 refillable jet torch lighters, each pre-filled with butane fuel. These lighters offer a powerful, wind-resistant flame and come with a child-resistant safety cap for added security. Display B includes a mix of bold, reggae-inspired designs celebrating Bob Marley's legacy. Compact, lightweight, and built for daily use, they’re ideal for both personal and retail use. The display box makes it easy to showcase at counters or register areas. Each lighter is refillable for long-term value and sustainability. Perfect for fans, collectors, and casual users alike. Eye-catching visuals and consistent flame performance make them a top seller. Add a touch of culture and reliability to your lighter selection with this vibrant 50-count display.",
+  "CATEGORY": "Lighters & Matches",
+  "BRAND": "Bob Marley",
+  "SIZE": "",
+  "EAN": "0857545012513",
+  "STATUS": "MATCHED"
+ },
+ "88796901178": {
+  "FULL_NAME_FOUND": "Zone Nicotine Pouches, Tobacco, 9 Mg",
+  "DESCRIPTION": "Zone Tobacco Nicotine Pouches come with 9mg of nicotine and are sold in a 5-count box. These tobacco-free pouches provide strong nicotine strength, crafted for users seeking robust, traditional experiences. This tobacco-free tobacco flavor delivers bold, earthy notes with a smooth finish, enhanced by a slim, ultra-soft pouch for rapid nicotine absorption and lasting taste. Ideal for those favoring potent, tobacco-inspired nicotine options.",
+  "CATEGORY": "Tobacco Products",
+  "BRAND": "Zone",
+  "SIZE": "",
+  "EAN": "0887969011786",
+  "STATUS": "MATCHED"
  }
 }

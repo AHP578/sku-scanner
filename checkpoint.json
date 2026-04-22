@@ -30823,5 +30823,89 @@
   "SIZE": "",
   "EAN": "0049200045756",
   "STATUS": "MATCHED"
+ },
+ "05200020409": {
+  "FULL_NAME_FOUND": "Gatorade Thirst Quencher, Lemon Lime",
+  "DESCRIPTION": "Four 20 ounces bottles Hydrates better than water. Replaces electrolytes lost in sweat, like sodium and potassium 130 calories per bottle Lemon Lime flavor Trusted by some of the world's best athletes.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Gatorade",
+  "SIZE": "591 mL",
+  "EAN": "0052000204094",
+  "STATUS": "MATCHED"
+ },
+ "08603430005": {
+  "STATUS": "UNMATCHED"
+ },
+ "09060000016": {
+  "FULL_NAME_FOUND": "USA Gold Cigarettes",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "USA Gold",
+  "SIZE": "",
+  "EAN": "0090600000166",
+  "STATUS": "MATCHED"
+ },
+ "30573070551": {
+  "FULL_NAME_FOUND": "ChapStick 5 Classic Cherry Flavored Lip Balm Skin Protectant",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Lip Balms & Treatments",
+  "BRAND": "ChapStick",
+  "SIZE": "",
+  "EAN": "0030573070551",
+  "STATUS": "MATCHED"
+ },
+ "61300876673": {
+  "FULL_NAME_FOUND": "Arizona 680 mL Green Tea With Ginseng & Honey",
+  "DESCRIPTION": "Arizona Green Tea with Ginseng and Honey (680mL) is a harmonious blend of green tea, revitalizing ginseng, and sweet honey. This iconic beverage offers a refreshing and energizing experience with every sip, combining the natural benefits of green tea and ginseng with the delightful sweetness of honey. Perfectly balanced in a generous 680mL size, it’s an invigorating choice for any occasion, whether you’re relaxing at home or on the move.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Arizona",
+  "SIZE": "680 mL",
+  "EAN": "0613008766733",
+  "STATUS": "MATCHED"
+ },
+ "81515402677": {
+  "FULL_NAME_FOUND": "Reign Body Fuel, White Knight 16 Fl Oz",
+  "DESCRIPTION": "The ultimate fitness focused beverage. Blended with BCAA’s, 300mg, of Natural Caffeine, CoQ10 & electrolytes, REIGN® Total Body Fuel is designed for your active lifestyle. Offering zero artificial flavors & colors. Reign® is the ultimate fitness-focused beverage to support your high-performance needs. Reign® White Knight relies on citrus favors including orange, lemon, lime and grapefruitReign® Total Body Fuel provides multiple benefits to help you power through a tough workoutFor those who rule in the gym and beyond REIGN® has the fuel for you.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Reign",
+  "SIZE": "473 mL",
+  "EAN": "0815154026772",
+  "STATUS": "MATCHED"
+ },
+ "85657700630": {
+  "FULL_NAME_FOUND": "Share Premium Party Cups Red 16Oz 16Ct (C48)",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Specimen Cups",
+  "BRAND": "Share",
+  "SIZE": "",
+  "EAN": "0856577006309",
+  "STATUS": "MATCHED"
+ },
+ "88939200134": {
+  "FULL_NAME_FOUND": "Celsius Sparkling Astro Vibe, Functional Energy Drink 12 Fl Oz Single Can",
+  "DESCRIPTION": "CELSIUS® is functional, Essential Energy, a better-for-you, premium alternative to traditional energy drinks. As a global, lifestyle fitness drink, CELSIUS® was created to help people LIVE FIT, exceed their goals and elevate their everyday lives. Our CELSIUS® VIBE Essential Energy Drinks feature bold flavor combinations that transport you beyond the can to amazing global destinations that inspire us all. From sunny, tropical beaches, to snowy mountainscapes. What’s your vibe? Made with proven, premium ingredients, 7 Essential Vitamins and zero sugar, no artificial colors, no aspartame, no high fructose corn syrup and non-GMO. CELSIUS® is vegan, gluten-free and Kosher. Our proprietary MetaPlus blend contains green tea extract with EGCG. It also includes guarana seed extract, ginger root for flavor and digestion, vitamin C to help support your immune system, vitamin B for energy production, and chromium to help control hunger, making it an ideal pre-workout drink. The new CELSIUS® Astro Vibe is an undoubtedly crowd favorite flavor profile. The Blue Razz indulgent sweetness of blue raspberries flavors and electrifying hues will bring you back to childhood memories of blue-hued tongues during the summer. Inspired by the infinite adventure of space travel, this vibrant can design and successful flavor journey delivers the ultimate refreshing experience. New CELSIUS® Astro Vibe is a fascinating explosion of flavors, it is out of this world! Made with clinically proven ingredients, this carbonated flavor of CELSIUS® has the perfect balance of flavor and energy that serves as an awesome pick-me-up for active lifestyles. Make CELSIUS® your go to choice for Essential Energy! CELSIUS® is available in 12 Fl Oz slim cans and sold in a 12-pack for convenience.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Celsius",
+  "SIZE": "355 mL",
+  "EAN": "0889392001341",
+  "STATUS": "MATCHED"
+ },
+ "02430001705": {
+  "FULL_NAME_FOUND": "Drake's Apple Fruit Pie",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Pastries & Scones",
+  "BRAND": "Drake's",
+  "SIZE": "",
+  "EAN": "0024300017056",
+  "STATUS": "MATCHED"
+ },
+ "02430083728": {
+  "FULL_NAME_FOUND": "Little Debbie Snacks Be My Valentine Cake",
+  "DESCRIPTION": "Show that special someone how you feel with a bouquet of Little Debbie® Be My Valentine Cakes! Delicious white cake is filled with creme and covered in a light, sweet layer of pink icing and decorated with a lovely drizzle of white frosting. Simply add a few stickers or a heartfelt card to each snack cake and hand out these special Valentines at school or work.",
+  "CATEGORY": "Snack Cakes",
+  "BRAND": "Little Debbie",
+  "SIZE": "",
+  "EAN": "0024300837289",
+  "STATUS": "MATCHED"
  }
 }

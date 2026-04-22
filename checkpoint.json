@@ -31264,5 +31264,95 @@
   "SIZE": "",
   "EAN": "0012300510295",
   "STATUS": "MATCHED"
+ },
+ "01708287633": {
+  "FULL_NAME_FOUND": "Jack Link's Sweet And Hot Beef Jerky Snack, 2.85 Ounce Package",
+  "DESCRIPTION": "Swipe right! The perfect date = sweet AND hot. You get the sweet, you get the hot, you get the meat. Jack Link's Sweet & Hot Beef Jerky delivers the best of both worlds.",
+  "CATEGORY": "Meat",
+  "BRAND": "Jack Link's",
+  "SIZE": "",
+  "EAN": "0017082876331",
+  "STATUS": "MATCHED"
+ },
+ "02468231301": {
+  "FULL_NAME_FOUND": "Hershey's Super Cookies & Cream Cone 4 Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Ice Cream Cones",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0024682313012",
+  "STATUS": "MATCHED"
+ },
+ "02500005807": {
+  "FULL_NAME_FOUND": "Minute Maid Lemonade Made W/ Real Lemons, 12 Fl Oz",
+  "DESCRIPTION": "Classics never go out of style. Made with the goodness of real lemons, Minute Maid Lemonade is the quintessential refreshing beverage with the great taste of a simpler time.",
+  "CATEGORY": "Juice",
+  "BRAND": "Minute Maid",
+  "SIZE": "355 mL",
+  "EAN": "0025000058073",
+  "STATUS": "MATCHED"
+ },
+ "02840003599": {
+  "FULL_NAME_FOUND": "Lay's Chesapeake Bay Crab Spice Potato Chips",
+  "DESCRIPTION": "Wherever celebrations and good times happen, the Lay's brand will be there just as it has been for more than 75 years. With flavors almost as rich as our history, we have a potato chip or crisp flavor guaranteed to bring a smile on your face.",
+  "CATEGORY": "Chips",
+  "BRAND": "Lay's",
+  "SIZE": "",
+  "EAN": "0028400035996",
+  "STATUS": "MATCHED"
+ },
+ "02840076719": {
+  "FULL_NAME_FOUND": "Cheetos Puff Cheese Pizza Flavored",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Prepared Foods",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0002840076719",
+  "STATUS": "MATCHED"
+ },
+ "02840076805": {
+  "FULL_NAME_FOUND": "Fritos Corn Snacks, Queso Flavored 3.375 Oz",
+  "DESCRIPTION": "The popularity of Fritos® corn chips puts this iconic snack in a class of its own. From small towns and family barbecues to parties in the big city, this classic snack is still satisfying fans after more than 80 years.",
+  "CATEGORY": "Snack Foods",
+  "BRAND": "Fritos",
+  "SIZE": "",
+  "EAN": "0028400768054",
+  "STATUS": "MATCHED"
+ },
+ "02853412001": {
+  "FULL_NAME_FOUND": "Herbs Pickled Red Hot",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Meat",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0028534120018",
+  "STATUS": "MATCHED"
+ },
+ "03400070205": {
+  "FULL_NAME_FOUND": "Ice Breakers Gum, Sugar Free, Flavor Changing, Wintergreen To Coolmint",
+  "DESCRIPTION": "Get ready to experience ICE BREAKERS sugar free gum like never before! Featured in a convenient 40 piece bottle, ICE BREAKERS FLAVOR SHIFTERS wintergreen to coolmint flavored chewing gum offers a sugar free burst of two invigorating flavors. Take this convenient cube bottle of flavor changing gum anywhere you need a boost of minty freshness. This sugar free chewing gum is a quick and delicious treat that'll be your best friend during all the important moments in your life. Wherever the day takes you, these ADA accepted ICE BREAKERS FLAVOR SHIFTERS gum pieces are made with xylitol and keep your taste buds busy during meetings, after lunch, throughout movie nights and in the car.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Ice Breakers",
+  "SIZE": "",
+  "EAN": "0034000702053",
+  "STATUS": "MATCHED"
+ },
+ "03800030250": {
+  "FULL_NAME_FOUND": "WK Kellogg Co Rice Krispies Treats Mega Size Salted Caramel Bar 60 G",
+  "DESCRIPTION": "Indulge in our delicious Rice Krispies Treats Mega Size Salted Caramel Bars. Each bar is made with crispy rice cereal and topped with a rich salted caramel layer. These bars are the perfect mix of sweet and salty.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "WK Kellogg Co",
+  "SIZE": "",
+  "EAN": "0038000302503",
+  "STATUS": "MATCHED"
+ },
+ "04178900125": {
+  "FULL_NAME_FOUND": "Maruchan Instant Lunch Shrimp Ramen Noodle Soup Cup 2.25oz",
+  "DESCRIPTION": "Maruchan Instant Lunch is fast and tasty as a hot snack or delicious meal anytime. Ready in 3 Minutes. Fast and Tasty as a Hot Snack or Delicious Meal - Anytime.",
+  "CATEGORY": "Pasta & Noodles",
+  "BRAND": "Maruchan",
+  "SIZE": "",
+  "EAN": "0041789001253",
+  "STATUS": "MATCHED"
  }
 }

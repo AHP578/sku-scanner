@@ -93,12 +93,12 @@ export default async function handler(req, res) {
       debug.errors.push(`commits: ${commitsRes.status} ${commitsRes.statusText}`);
     }
 
-    // Calculate next scheduled run (every hour from cron)
+    // Calculate next scheduled run (hourly at :17)
     let nextScheduledRun = null;
     if (!isRunning) {
       const now = new Date();
       const next = new Date(now);
-      next.setUTCHours(now.getUTCHours() + 1, 0, 0, 0);
+      next.setUTCMinutes(17, 0, 0);
       if (next <= now) next.setUTCHours(next.getUTCHours() + 1);
       nextScheduledRun = next.toISOString();
     }

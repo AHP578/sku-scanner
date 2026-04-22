@@ -31954,5 +31954,95 @@
   "SIZE": "",
   "EAN": "0027200008650",
   "STATUS": "MATCHED"
+ },
+ "02840031400": {
+  "FULL_NAME_FOUND": "Smartfood Popcorn, Kettle Corn, Sweet & Salty",
+  "DESCRIPTION": "As America’s favorite popcorn brand, our fresh-tasting, light-textured SMARTFOOD varieties always seem to keep the fun popping. In our book, being smart is always in great taste.",
+  "CATEGORY": "Popcorn",
+  "BRAND": "Smartfood",
+  "SIZE": "",
+  "EAN": "0028400314008",
+  "STATUS": "MATCHED"
+ },
+ "02840075908": {
+  "FULL_NAME_FOUND": "Cheetos Puffs Cheese Pizza Flavored Snacks",
+  "DESCRIPTION": "Bold, cheesy flavor with a light and airy texture. CHEETOS® Puffs Cheese Flavored Snacks are full of flavor and made with real cheese! Now in your favorite Cheese Pizza flavor! Cheese Pizza Flavored PuffsYour Favorite Cheese Flavored SnackPerfect size bag for stocking up your pantry.",
+  "CATEGORY": "Chips",
+  "BRAND": "Cheetos",
+  "SIZE": "",
+  "EAN": "0028400759083",
+  "STATUS": "MATCHED"
+ },
+ "02840076390": {
+  "FULL_NAME_FOUND": "Funyuns Sour Cream & Onion Flavored Rings",
+  "DESCRIPTION": "Frito Lay Sour Cream & Onion Funyons combine the classic crispy onion ring texture with a creamy sour cream and onion seasoning. This snack delivers a balanced blend of tangy and savory flavors, offering a satisfying crunch and rich taste. Ideal for those seeking a flavorful twist on a beloved snack.",
+  "CATEGORY": "Sour Cream",
+  "BRAND": "Funyuns",
+  "SIZE": "",
+  "EAN": "0028400763905",
+  "STATUS": "MATCHED"
+ },
+ "03170004918": {
+  "FULL_NAME_FOUND": "Game Natural Silver 2pk .99",
+  "DESCRIPTION": "Resealable pouch. Since 1882. Garcia y Vega, fine cigar makers since 1882, brings you Game - the cigar blend born from heritage with a passion for today. Aged aromatic tobacco combined with our natural leaf wrapper make a winning pair - slow, smooth, and sweet for a sophisticated smoking experience. - Garcia y Vega. Garcia y Vega guarantees every cigar. If you are not totally satisfied, return the pouch and cigars with the date and place of purchase for a replacement coupon. Two natural leaf cigarillos. Made in the Dominican Republic.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Game",
+  "SIZE": "",
+  "EAN": "0031700049181",
+  "STATUS": "MATCHED"
+ },
+ "03170005951": {
+  "FULL_NAME_FOUND": "Game MVP White Russian 1.29",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Game",
+  "SIZE": "",
+  "EAN": "0031700059517",
+  "STATUS": "MATCHED"
+ },
+ "03600054277": {
+  "FULL_NAME_FOUND": "Kleenex Ultra Soft Facial Tissues Cube Box 3 Ply",
+  "DESCRIPTION": "Soft, strong, fragrance-free, three-ply tissues that contain no lotion, but have dependable strength combined with ultimate softness. Tissue boxes feature a variety of colors, designs and sizes that complement your home decor.",
+  "CATEGORY": "Facial Tissues",
+  "BRAND": "Kleenex",
+  "SIZE": "",
+  "EAN": "0036000542776",
+  "STATUS": "MATCHED"
+ },
+ "04142002370": {
+  "FULL_NAME_FOUND": "Trolli Sour Brite Tropical Llamas Gummi Candy 4.25 Oz. Bag",
+  "DESCRIPTION": "Llamas are a popular theme for apparel, accessories and toys. Now that love of llamas is spilling over into snack time. Trolli Sour Brites llamas gummies in passion fruit, pineapple, mango, berry punch, strawberry and blueberry make for a chewy and tart snacking experience. A brightly colored llama is prominently displayed right on the package, attracting attention and making a great gift presentation. 1/12ct 12 pcs/case.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Trolli",
+  "SIZE": "",
+  "EAN": "0041420023705",
+  "STATUS": "MATCHED"
+ },
+ "04400008171": {
+  "FULL_NAME_FOUND": "Oreo Selena's Gomez Chocolate & Cinnamon Creme Sandwich Cookies",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Oreo",
+  "SIZE": "",
+  "EAN": "0044000081713",
+  "STATUS": "MATCHED"
+ },
+ "05000010368": {
+  "FULL_NAME_FOUND": "Friskies Wet Cat Food, Shreds With Ocean Whitefish & Tuna In Sauce, 5.5 Ounce",
+  "DESCRIPTION": "Friskies, 5.5 OZ, Savory Shreds Ocean Whitefish & Tuna Cat Food, Complete & Balanced Nutrition For Kitten Growth & Adult Cat Maintenance. With a taste guaranteed to satisfy, this nutritious, wholesome diet is designed to increase the health and well-being of your cat.",
+  "CATEGORY": "Cat Food",
+  "BRAND": "Friskies",
+  "SIZE": "",
+  "EAN": "0050000103683",
+  "STATUS": "MATCHED"
+ },
+ "05000042334": {
+  "FULL_NAME_FOUND": "Friskies Wet Cat Food Purina Classic Pate Salmon Dinner 5.5 Oz. Can",
+  "DESCRIPTION": "A delicious recipe that provides complete and balanced nutrition for kittens and adult cats, including taurine. Super palatable so your cat will go crazy for the taste and texture of this smooth pate with salmon. Convenient, easy to open pull-tab can makes meal time quick and easy.",
+  "CATEGORY": "Cat Food",
+  "BRAND": "Friskies Wet Cat Food",
+  "SIZE": "",
+  "EAN": "0050000423347",
+  "STATUS": "MATCHED"
  }
 }

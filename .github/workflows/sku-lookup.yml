@@ -2,8 +2,8 @@ name: SKU Lookup
 
 on:
   schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+    # Runs every hour at :17 (offset from top-of-hour to avoid scheduler congestion)
+    - cron: '17 * * * *'
   workflow_dispatch:  # Allow manual trigger from GitHub website
 
 concurrency:

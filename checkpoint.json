@@ -33088,5 +33088,95 @@
   "SIZE": "",
   "EAN": "0028400516686",
   "STATUS": "MATCHED"
+ },
+ "02840051685": {
+  "FULL_NAME_FOUND": "Ruffles Brand Sour Cream & Onion Flavored Potato Chips - 8 Ounce",
+  "DESCRIPTION": "Indulge in the savory and irresistible taste of Ruffles Sour Cream & Onion Ridged Potato Chips. These chips are perfect for snacking, entertaining, and adding to any meal as a delicious side. The unique ridged texture adds extra crunch and flavor to every bite. Made from premium ingredients and carefully crafted, these chips are a must-try for any snack lover. With the delightful blend of onion and sour cream, they offer a perfect balance of flavor that will leave you craving for more. Grab a pack of these one 8 oz packages now and enjoy the ultimate snacking experience.",
+  "CATEGORY": "Chips",
+  "BRAND": "Ruffles",
+  "SIZE": "",
+  "EAN": "0028400516853",
+  "STATUS": "MATCHED"
+ },
+ "02840061971": {
+  "FULL_NAME_FOUND": "Doritos Tortilla Chips, Taco Flavor - 9.25 Ounce",
+  "DESCRIPTION": "The DORITOS brand is all about boldness. If you’re up to the challenge, grab a bag of DORITOS tortilla chips and get ready to make some memories you won’t soon forget. It’s a bold experience in snacking and beyond.",
+  "CATEGORY": "Chips",
+  "BRAND": "Doritos",
+  "SIZE": "",
+  "EAN": "0028400619714",
+  "STATUS": "MATCHED"
+ },
+ "02840074131": {
+  "FULL_NAME_FOUND": "Nut Harvest Peanuts, Honey Roasted, Whole",
+  "DESCRIPTION": "Nut Harvest Honey Roasted Whole Peanuts offer a perfect balance of natural peanut flavor enhanced by a sweet honey glaze. Each 3.325oz pack delivers crunchy, whole peanuts roasted to bring out rich, nutty notes with a subtle sweetness. This snack provides a satisfying texture and taste, ideal for a nutritious boost or a flavorful treat anytime.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "Nut Harvest",
+  "SIZE": "",
+  "EAN": "0028400741316",
+  "STATUS": "MATCHED"
+ },
+ "02840075144": {
+  "FULL_NAME_FOUND": "Funyuns Onion Flavored Rings, Steakhouse 6 Oz",
+  "DESCRIPTION": "FUNYUNS Onion Flavored Rings are a deliciously different snack that’s fun to eat, with a crisp texture and zesty onion flavor. Next time you're in the mood for a tasty treat that's out of the ordinary, try FUNYUNS Onion Flavored Rings.",
+  "CATEGORY": "Rings",
+  "BRAND": "Funyuns",
+  "SIZE": "",
+  "EAN": "0028400751445",
+  "STATUS": "MATCHED"
+ },
+ "02840076853": {
+  "FULL_NAME_FOUND": "Funyuns Flamin' Hot Onion Flavored Rings - 5.25oz",
+  "DESCRIPTION": "FUNYUNS Onion Flavored Rings are a deliciously different snack that's fun to eat, with a crisp texture and zesty onion flavor. Next time you're in the mood for a tasty treat that's out of the ordinary, try FUNYUNS Onion Flavored Rings. Enjoy and share these FLAMIN' HOT snacks anytime! At Frito-Lay, we are always thinking about how we can delight our consumers and keep them top-of-mind in every decision we make. When you look at all of our Frito-Lay snacks, they have one thing in common … great taste.",
+  "CATEGORY": "Rings",
+  "BRAND": "Funyuns",
+  "SIZE": "",
+  "EAN": "0028400768535",
+  "STATUS": "MATCHED"
+ },
+ "02900002209": {
+  "FULL_NAME_FOUND": "Planters Peanuts, Dry Roasted, Salted 1.75 Oz",
+  "DESCRIPTION": "PLANTERS Dry Roasted Peanuts make for delicious on-the-go snacks. These crunchy dry-roasted peanuts come seasoned with salt for enhanced taste.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "Planters",
+  "SIZE": "",
+  "EAN": "0029000022096",
+  "STATUS": "MATCHED"
+ },
+ "03170005775": {
+  "FULL_NAME_FOUND": "Game Leaf Cigarillos, Mango",
+  "DESCRIPTION": "Limited edition. Natural rolled leaf. Two natural rolled leaf cigars sale only allowed in the United States 79% imported tobacco. Also available in 5-cigar resealable pouches. Made in the Dominican Republic.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Game Leaf",
+  "SIZE": "",
+  "EAN": "0031700057759",
+  "STATUS": "MATCHED"
+ },
+ "03500051085": {
+  "FULL_NAME_FOUND": "Colgate Cavity Protection Great Regular Flavor Toothpaste, 8.0 Oz",
+  "DESCRIPTION": "Colgate Cavity Protection Toothpaste with Fluoride provides trusted cavity protection for the entire family. Formulated with active fluoride, this toothpaste is clinically proven to help strengthen teeth and leave your mouth feeling fresh and clean. This Colgate toothpaste is ADA (American Dental Association) accepted. It has been trusted by dentists and parents globally for over 45 years.",
+  "CATEGORY": "Toothpaste",
+  "BRAND": "Colgate",
+  "SIZE": "",
+  "EAN": "0035000510853",
+  "STATUS": "MATCHED"
+ },
+ "03500051110": {
+  "FULL_NAME_FOUND": "Colgate Triple Action Toothpaste, Mint - 2.5 Ounce",
+  "DESCRIPTION": "A trusted and effective oral care solution for maintaining a healthy and bright smile. This toothpaste is specially formulated with a unique blend of ingredients that work together to provide comprehensive oral hygiene benefits. With its active fluoride formula, this toothpaste helps to strengthen tooth enamel, prevent cavities, and protect against tooth decay. It also promotes gum health by fighting bacteria that can cause gum problems, leaving your mouth feeling fresh and clean.",
+  "CATEGORY": "Toothpaste",
+  "BRAND": "Colgate",
+  "SIZE": "",
+  "EAN": "0035000511102",
+  "STATUS": "MATCHED"
+ },
+ "03500099064": {
+  "FULL_NAME_FOUND": "Palmolive Essential Clean Original Dish Liquid 12.6oz",
+  "DESCRIPTION": "Palmolive Essential Clean Original Dish Soap cuts through grease and tough food residue while being gentle on your hands. Its powerful formula removes stubborn stains, leaving dishes sparkling clean with a fresh, classic scent. Perfect for everyday dishwashing, Palmolive provides a reliable clean you can trust.",
+  "CATEGORY": "Dish Detergent & Soap",
+  "BRAND": "Palmolive",
+  "SIZE": "",
+  "EAN": "0035000990648",
+  "STATUS": "MATCHED"
  }
 }

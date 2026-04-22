@@ -32740,5 +32740,95 @@
   "SIZE": "",
   "EAN": "0031146250301",
   "STATUS": "MATCHED"
+ },
+ "03114626274": {
+  "FULL_NAME_FOUND": "Nongshim Nong Shim Spicy Shrimp Flavor Noodle Soup Bowl 3.03 Oz",
+  "DESCRIPTION": "The Spicy Shrimp Bowl is made with real shrimp that gives the broth a rich flavor. Flakes of shrimp and crab are added with some spices.",
+  "CATEGORY": "Pasta & Noodles",
+  "BRAND": "Nongshim",
+  "SIZE": "",
+  "EAN": "0031146262748",
+  "STATUS": "MATCHED"
+ },
+ "03114626325": {
+  "FULL_NAME_FOUND": "Nongshim Bowl Noodle Soup, Spicy Lobster Flavor",
+  "DESCRIPTION": "We started with only the choicest lobster and farm-fresh vegetables. Uniquely blended with our gourmet spices, bringing you the best tasting lobster noodle you can ever enjoy. Conveniently, packaged ready to be served anytime. Product of Korea.",
+  "CATEGORY": "Pasta & Noodles",
+  "BRAND": "Nongshim",
+  "SIZE": "",
+  "EAN": "0031146263257",
+  "STATUS": "MATCHED"
+ },
+ "03170005809": {
+  "FULL_NAME_FOUND": "Game White Peach Cigarillos",
+  "DESCRIPTION": "Game White Peach cigarillos deliver a sweet and aromatic smoking experience with a prominent white peach flavor. They feature a smooth, juicy taste with subtle floral and fruity notes, mimicking the flavor of ripe white peaches. The quality tobacco complements the peach infusion, creating a balanced and flavorful smoke. This edition is popular for its refreshing and indulgent peachy sweetness.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Game",
+  "SIZE": "",
+  "EAN": "0031700058091",
+  "STATUS": "MATCHED"
+ },
+ "03800076541": {
+  "FULL_NAME_FOUND": "Kellogg's Rice Krispies Treats 37g",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Rice",
+  "BRAND": "Kellogg's",
+  "SIZE": "",
+  "EAN": "0003800076541",
+  "STATUS": "MATCHED"
+ },
+ "04126228206": {
+  "FULL_NAME_FOUND": "Wise French Onion Dip",
+  "DESCRIPTION": "Delicious right from the can, Wise® French Onion Dip is a natural for snacks and parties when enjoyed with all your favorite wise snacks.",
+  "CATEGORY": "Dips & Spreads",
+  "BRAND": "Wise",
+  "SIZE": "",
+  "EAN": "0041262282063",
+  "STATUS": "MATCHED"
+ },
+ "04400003338": {
+  "FULL_NAME_FOUND": "Chips Ahoy! Original Chocolate Chip Cookies Family Size, 18.2 Ounce",
+  "DESCRIPTION": "CHIPS AHOY! Chewy Chocolate Chip Cookies are the CHIPS AHOY! classic cookies you know and love, but baked to be perfectly soft and chewy. These soft cookies are baked to perfection for maximum chewy goodness. Enjoy the comforting taste of these cookies that are sure to become a household favorite treat. Make lunches at school or work more exciting by including CHIPS AHOY! chocolate chip cookies, or serve these chewy cookies as birthday cookies or ice cream toppers at your next party. Regardless of the occasion, these cookies make a simply delicious treat or dessert when a sweet craving strikes. The lift tab makes this package of soft baked cookies easy to open and close for convenient storage.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Chips Ahoy!",
+  "SIZE": "",
+  "EAN": "0044000033385",
+  "STATUS": "MATCHED"
+ },
+ "04920004550": {
+  "FULL_NAME_FOUND": "Domino Premium Pure Cane Granulated Sugar 4 Lb",
+  "DESCRIPTION": "Add the sweet taste of Domino® Granulated Sugar to your next delicious creation. This delightful sugar is perfect for baking, preserving and sweetening beverages. So go ahead and stir it, sprinkle it, or mix it with your favorite recipes. It is the perfect fine, free-flowing sugar for cookies, sauces, teas and more!",
+  "CATEGORY": "Sugar & Sweeteners",
+  "BRAND": "Domino",
+  "SIZE": "",
+  "EAN": "0049200045503",
+  "STATUS": "MATCHED"
+ },
+ "05550001726": {
+  "FULL_NAME_FOUND": "Clorox 01726 Original Concentrated Bleach, 1.27 L, Liquid, Bleach",
+  "DESCRIPTION": "Clorox® Original Concentrated Bleach, the bleach you’ve known and trusted for generations with the power to clean, whiten, and deodorize. Clorox® Original Concentrated Bleach makes stain removal easier. The easy to handle bottle allows you to grip the handle and pour without the mess of spillage. Clorox® Regular-Bleach works with both traditional and high-efficiency washing machines. For a healthy home and to keep whites at their whitest use Clorox® Bleach. Use as directed.",
+  "CATEGORY": "Bleach",
+  "BRAND": "Clorox",
+  "SIZE": "",
+  "EAN": "0055500017263",
+  "STATUS": "MATCHED"
+ },
+ "07046200663": {
+  "FULL_NAME_FOUND": "Swedish Fish Red Peg Bag, 3.6oz, 12ct",
+  "DESCRIPTION": "Chewy bursts of Gummy Candy deliver soft texture with every bite. Playful pops of Red Candy bring iconic sweetness, while juicy notes of Strawberry Candy add fruity delight. Sweet hints of Candy round out the mix, creating a fun snacking adventure that stands apart from ordinary treats.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Swedish Fish",
+  "SIZE": "",
+  "EAN": "0070462006636",
+  "STATUS": "MATCHED"
+ },
+ "07066213002": {
+  "FULL_NAME_FOUND": "Nissin Cup Noodles Shrimp",
+  "DESCRIPTION": "Pack de 24 pocillos de sopa de fideos ramen con camarones marca Nissin. Sin MSG añadida. Se echa agua caliente en el pocillo y se prepara en un par de minutos.",
+  "CATEGORY": "Pasta & Noodles",
+  "BRAND": "Nissin",
+  "SIZE": "",
+  "EAN": "0070662130025",
+  "STATUS": "MATCHED"
  }
 }

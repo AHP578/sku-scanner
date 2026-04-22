@@ -32650,5 +32650,95 @@
   "SIZE": "",
   "EAN": "0012547433654",
   "STATUS": "MATCHED"
+ },
+ "01258779209": {
+  "FULL_NAME_FOUND": "The Clorox Company Glad ForceFlex MaxStrength Tall Kitchen Drawstring Trash Bags 13 Gallon Gain Original",
+  "DESCRIPTION": "Glad ForceFlex MaxStrength Drawstring Tall Kitchen Trash Bags provide maximum strength and help you fight kitchen odors with the steady release of Gain Original scent with Febreze freshness. These 13 gallon tall kitchen trash bags have a 2X reinforced top* and are 25% more durable* with an outer leak protection layer and an inner layer that stretches to prevent rips and tears. Each of these scented trash bags features a strong grips-the-can drawstring that ensures the bag won t slide down and makes it simple to close with a quick cinch. Once closed the drawstring keeps the trash securely inside the bag. The sturdy handle makes it easy to lift carry and toss these Glad kitchen trash bags. Each bag measures 1 foot 11 21/32 inches by 2 feet 1 1/8 inches so it s just the right size for most kitchen garbage cans. These drawstring trash bags are great for a variety of other uses around your home or office whether you re tackling seasonal cleaning tasks or cleaning out your desk. It s better than all good. It s all Glad. *vs. Glad 13 gallon ForceFlex bag.",
+  "CATEGORY": "Garbage Bags",
+  "BRAND": "The Clorox Company",
+  "SIZE": "",
+  "EAN": "0012587792094",
+  "STATUS": "MATCHED"
+ },
+ "01600027526": {
+  "FULL_NAME_FOUND": "Cheerios General Mills Toasted Whole Grain Oat Cereal",
+  "DESCRIPTION": "Cheerios is a wholesome, gluten-free breakfast cereal made from 100% whole grain oats. Its signature toasted \"O\" shape and mild, lightly nutty flavor make it a favorite for all ages. With a simple ingredient list and no artificial flavors or colors, Cheerios offers a heart-healthy option that fits into a balanced diet. Each serving is low in sugar and rich in essential nutrients like iron, fiber, and B vitamins, making it a smart choice for those looking to start their day with energy and nutrition. Whether enjoyed with milk, topped with fresh fruit, or eaten straight from the box as a snack, Cheerios delivers a satisfying crunch in every bite.",
+  "CATEGORY": "Cereal & Granola",
+  "BRAND": "Cheerios",
+  "SIZE": "",
+  "EAN": "0016000275263",
+  "STATUS": "MATCHED"
+ },
+ "01900008503": {
+  "FULL_NAME_FOUND": "Life Savers Pep O Mint Breath Mints Hard Candy Bag, 6.25-Ounce",
+  "DESCRIPTION": "Why go to great lengths for fresh breath when just one LIFE SAVERS Pep-O-Mint provides the fresh, peppermint taste you need to refresh your day? This iconic blue bag of peppermint-flavored hard-candy mints is ideal for freshening your breath after morning coffee or as a sweet refreshing treat in the afternoon. Stash a few at your desk or, better yet, become the office champion and share individually wrapped LIFE SAVERS Mints with those in need. So why wait? Add LIFE SAVERS Pep-O-Mint to your cart and let freshness follow!",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Life Savers",
+  "SIZE": "",
+  "EAN": "0019000085030",
+  "STATUS": "MATCHED"
+ },
+ "01910010996": {
+  "FULL_NAME_FOUND": "Jergens Moisturizer, Extra Dry Skin, Ultra Healing 1 Fl Oz",
+  "DESCRIPTION": "Repair dryness at the source with Jergens Ultra Healing Moisturizer for Extra Dry Skin. The nourishing formula penetrates through five layers of skin to heal extra dry skin, improve tone and texture, and leave it smooth and visibly healthier. The formula absorbs to soften areas that tend to need the most moisture like heels, elbows, and knees. This body moisturizer, with a unique HYDRALUCENCE blend of ingredients plus Vitamins C, E, and B5, leaves your skin luminous and moisturized for up to 48 hours.",
+  "CATEGORY": "Lotion & Moisturizer",
+  "BRAND": "Jergens",
+  "SIZE": "",
+  "EAN": "0019100109964",
+  "STATUS": "MATCHED"
+ },
+ "02430084189": {
+  "FULL_NAME_FOUND": "Little Debbie Pumpkin Pie",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Pies & Tarts",
+  "BRAND": "Little Debbie",
+  "SIZE": "",
+  "EAN": "0024300841897",
+  "STATUS": "MATCHED"
+ },
+ "02468200581": {
+  "FULL_NAME_FOUND": "Cookie Butter Premium Ice Cream",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cookies",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0024682005818",
+  "STATUS": "MATCHED"
+ },
+ "02820017432": {
+  "FULL_NAME_FOUND": "Marlboro Black $1 Off",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200174321",
+  "STATUS": "MATCHED"
+ },
+ "02840070860": {
+  "FULL_NAME_FOUND": "Nut Harvest Mixed Nuts, Salted, Deluxe - 2.25 Ounce",
+  "DESCRIPTION": "Whether you're going for a run or heading out to run errands, on the go shouldn't mean going without the snacks that keep you going. Our nuts, trail mix and seeds are a tasty way to stay satisfied while you're out and about. Grab a bag today.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "Nut Harvest",
+  "SIZE": "",
+  "EAN": "0028400708609",
+  "STATUS": "MATCHED"
+ },
+ "02840076909": {
+  "FULL_NAME_FOUND": "Ruffles Potato Chips Flamin' Hot",
+  "DESCRIPTION": "With crunchy ridges made to stand up to even the thickest dips, RUFFLES potato chips bring epic flavor and snack satisfaction to any get-together.",
+  "CATEGORY": "Chips",
+  "BRAND": "Ruffles",
+  "SIZE": "",
+  "EAN": "0028400769099",
+  "STATUS": "MATCHED"
+ },
+ "03114625030": {
+  "FULL_NAME_FOUND": "Nongshim Spicy Kimchi Flavor Bowl Noodle Soup - 3.03 Ounce",
+  "DESCRIPTION": "A mixture of fresh vegetables with the fresh taste of sauteed, spicy kimchi sauce makes this convenient bowl an instant classic. The Nong Shim Noodle Bowl Soup is made with fresh noodles and robust flavor. Simple, convenient and quick — just add hot water and this tasty dish is ready in 3 minutes!",
+  "CATEGORY": "Soups & Broths",
+  "BRAND": "Nongshim",
+  "SIZE": "",
+  "EAN": "0031146250301",
+  "STATUS": "MATCHED"
  }
 }

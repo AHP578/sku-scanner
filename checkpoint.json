@@ -30049,5 +30049,89 @@
  },
  "08603430003": {
   "STATUS": "UNMATCHED"
+ },
+ "81008581220": {
+  "FULL_NAME_FOUND": "Ghost Zero Sugar Warheads Sour Green Apple Energy Drink 16 Fl Oz",
+  "DESCRIPTION": "Experience an explosive burst of flavor with Ghost Energy Zero Sugar Warheads Sour Green Apple. This 16oz energy drink is bursting with the mouth-puckering taste of tart green apples, and contains no sugar for a guilt-free boost. Energize your day with Ghost Energy Zero Sugar.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Ghost",
+  "SIZE": "473 mL",
+  "EAN": "0810085812203",
+  "STATUS": "MATCHED"
+ },
+ "02820000744": {
+  "FULL_NAME_FOUND": "Virginia Slims Cigarettes, Menthol, Silver Pack",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Virginia Slims",
+  "SIZE": "",
+  "EAN": "0028200007445",
+  "STATUS": "MATCHED"
+ },
+ "02840006338": {
+  "FULL_NAME_FOUND": "Lay's Potato Chips Classic",
+  "DESCRIPTION": "From the everyday to the instant get-together, enjoy the moment with LAY’S Classic potato chips. Deliciously fresh-tasting and crispy, they have been a family favorite snack for nearly 75 years. These big bags are great for sharing some delicious fun at home.",
+  "CATEGORY": "Chips",
+  "BRAND": "Lay's",
+  "SIZE": "",
+  "EAN": "0028400063388",
+  "STATUS": "MATCHED"
+ },
+ "03800030316": {
+  "FULL_NAME_FOUND": "Rice Krispies Treats Crispy Squares, Chocolatey Peanut Butter 1.5 Oz",
+  "DESCRIPTION": "Enjoy the fun of everyday moments with the irresistible taste of Chocolatey Peanut Butter Rice Krispies Treats crispy rice squares. Create memorable moments with each and every delectable square that pulls apart to reveal chocolatey peanut butter goodness. Each bite starts with crispy rice blended with real, creamy peanut butter and finishes with a melt-in-your-mouth milk chocolatey flavor; With a mix of sweet and salty, each bar is a satisfying, ready-to-eat treat wherever you go. A classically delicious snack, these individually wrapped crispy rice squares are perfect for sharing with friends and family. Keep at home or take a few with you for traveling, lunchtime, at the game, or pack for school snacks. Make someone's day by adding a few to goodie bags, gift baskets, and care packages. Satisfy your sweet craving with the goodness and on-the-go convenience of these chocolatey peanut butter crispy bars.",
+  "CATEGORY": "Cereal & Granola",
+  "BRAND": "Rice Krispies Treats",
+  "SIZE": "",
+  "EAN": "0038000303166",
+  "STATUS": "MATCHED"
+ },
+ "04000000144": {
+  "FULL_NAME_FOUND": "M&M's Peanut Butter Chocolate Candies 1.63 Oz Bag",
+  "DESCRIPTION": "Enjoy the classic thats loved around the world! M&M'S have been one of the most famous candy treats in the world since 1941. The bite-sized pieces of chocolate in a colorful candy shell are instantly recognizable all over the globe. Perfect for Parties, Celebrations, Baking, Traveling. If you can name it, its better with M&MS Chocolate Candies!",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "M&M's",
+  "SIZE": "",
+  "EAN": "0040000001447",
+  "STATUS": "MATCHED"
+ },
+ "04126228735": {
+  "FULL_NAME_FOUND": "Cheez Doodles Corn Snacks, Extra Crunchy, Cheddar 3.75 Oz",
+  "DESCRIPTION": "For imaginations that aren't easily satisfied, the Extra Crunchy Cheez Doodle offers a compressed and nostalgic texture that focuses beams of cheesy energy straight into the tastebuds. Cut your creative teeth on these each one is enough to inspire a new movement.",
+  "CATEGORY": "Chips",
+  "BRAND": "Cheez Doodles",
+  "SIZE": "",
+  "EAN": "0041262287358",
+  "STATUS": "MATCHED"
+ },
+ "04142002918": {
+  "FULL_NAME_FOUND": "Now & Later CHEWY Original Mix Fruit Chews 2.44 Oz. Pack",
+  "DESCRIPTION": "3 flavors per bar Popular chewy squares Great for counter displays. Chewy Now & Later bars present three original orchard fruit flavors in a chewy square including: cherry, grape, and apple. Nostalgic chewy taffy-like candies boast bright colors, intense flavors, and a very long lasting chew. Brightly colored open top boxes for checkout counter displays.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Now & Later",
+  "SIZE": "",
+  "EAN": "0041420029189",
+  "STATUS": "MATCHED"
+ },
+ "07618320200": {
+  "FULL_NAME_FOUND": "Snapple Lemon Tea, 20 Fl Oz Recycled Plastic Bottle",
+  "DESCRIPTION": "All natural. Natural lemon flavor with other natural flavors. Made from green & black tea leaves. Made from the best stuff on Earth. Snapple is made from the Best Stuff on Earth (we're not tooting our own horn; it's right on the bottle). We use green and black tea leaves with natural antioxidants (Contains 71 mg per 1 cup serving/175 mg per bottle of natural antioxidants [as tea polyphenols]) and filtered water. Put it all together and you've got a taste worth bragging about.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Snapple",
+  "SIZE": "591 mL",
+  "EAN": "0076183202005",
+  "STATUS": "MATCHED"
+ },
+ "08603430006": {
+  "STATUS": "UNMATCHED"
+ },
+ "61300875642": {
+  "FULL_NAME_FOUND": "AriZona Green Tea, With Ginseng And Honey, Real Brewed 23 Fl Oz",
+  "DESCRIPTION": "Refreshing Arizona Iced Tea is \"All Natural\" with no preservatives added. Blended with natural flavors and ingredients. Perfect anytime and anywhere in convenient 23oz cans featuring the all time favorite flavors like Arnold Palmer and Sweet Tea.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "AriZona",
+  "SIZE": "680 mL",
+  "EAN": "0613008756420",
+  "STATUS": "MATCHED"
  }
 }

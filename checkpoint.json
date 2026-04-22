@@ -31606,5 +31606,95 @@
   "SIZE": "",
   "EAN": "0793945548453",
   "STATUS": "MATCHED"
+ },
+ "81011612548": {
+  "FULL_NAME_FOUND": "Prime Ice Hydration Red Chill Sports Drink - 16.9 Fl Oz Bottle",
+  "DESCRIPTION": "Keep your cool with Prime Ice —the crisp hydration drink that chills out your toughest days. With 700+ mg of electrolytes, 10% coconut water, and zero added sugar, it’s a light, 20-calorie recovery boost for athletes and gamers alike. Smooth flavors like Orange, Blue Chill, and Red Chill offer a refreshing, less-sweet twist, all in a gluten-free, caffeine-free formula. Stay sharp and hydrated, no matter the grind!",
+  "CATEGORY": "Beverages",
+  "BRAND": "Prime",
+  "SIZE": "500 mL",
+  "EAN": "0810116125487",
+  "STATUS": "MATCHED"
+ },
+ "81162002087": {
+  "FULL_NAME_FOUND": "Fairlife 2% Reduced Fat Ultra Filtered Milk 14 Fl Oz",
+  "DESCRIPTION": "Proper nourishment allows us all to grow and thrive. At fairlife, we provide the health and vitality people need by starting with the wholesome simplicity of real cow’s milk. All our milk flows through soft filters to concentrate its goodness like protein and calcium while filtering out some of the natural sugars. Our delicious and satisfying fairlife 2% Ultra-Filtered Milk has 50% less sugar and 50% more protein than regular milk. Plus, there’s no artificial growth hormones used and it’s lactose free. So sip, drink and chug as you enjoy our delicious ultra-filtered milk.",
+  "CATEGORY": "Milk",
+  "BRAND": "Fairlife",
+  "SIZE": "414 mL",
+  "EAN": "0811620020879",
+  "STATUS": "MATCHED"
+ },
+ "81515402018": {
+  "FULL_NAME_FOUND": "Full Throttle Energy Drink, Original Citrus 16 Fl Oz",
+  "DESCRIPTION": "Experience the refreshing burst of energy with Full Throttle Citrus Energy Drink! Designed for those who lead an active lifestyle, this 16 fluid ounce can of Full Throttle Citrus delivers a powerful energy boost with a zesty citrus flavor that invigorates your senses. Perfect for a pre-workout pick-me-up or an afternoon refreshment, this energy drink is formulated to help you stay alert and focused throughout your day.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Full Throttle",
+  "SIZE": "473 mL",
+  "EAN": "0815154020183",
+  "STATUS": "MATCHED"
+ },
+ "88796901168": {
+  "FULL_NAME_FOUND": "Zone Citrus 9mg Nicotine Pouches",
+  "DESCRIPTION": "Bold orange flavor meets 9mg of nicotine for a tasty citrus pouch experience. Each can includes 20 smooth pouches made for comfort and consistent flavor from start to finish.",
+  "CATEGORY": "Tobacco Products",
+  "BRAND": "Zone",
+  "SIZE": "",
+  "EAN": "0887969011687",
+  "STATUS": "MATCHED"
+ },
+ "02220094021": {
+  "FULL_NAME_FOUND": "Speed Stick 51g Deodorant Active Fresh",
+  "DESCRIPTION": "It’s time to be your own man in a world where the old patterns, rules and stages of progression are being redefined. Achieving your dreams takes courage when it counts. Feel clean, masculine and confident with Speed Stick Deodorant for Men, Active Fresh scent. Odor fighting formula that provides 24 hour freshness for maximum confidence. Includes comfort guard applicator for comfort and control.",
+  "CATEGORY": "Deodorant",
+  "BRAND": "Speed Stick",
+  "SIZE": "",
+  "EAN": "0022200940214",
+  "STATUS": "MATCHED"
+ },
+ "02468200502": {
+  "FULL_NAME_FOUND": "Hershey's Butter Pecan Ice Cream",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "Hershey's",
+  "SIZE": "",
+  "EAN": "0024682005023",
+  "STATUS": "MATCHED"
+ },
+ "02590020627": {
+  "FULL_NAME_FOUND": "Swisher Sweets Grape 2pk",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Sweet Potatoes",
+  "BRAND": "Swisher",
+  "SIZE": "",
+  "EAN": "0025900206277",
+  "STATUS": "MATCHED"
+ },
+ "02620047190": {
+  "FULL_NAME_FOUND": "Andy Capp's Corn & Oat Snack, Beer Battered Onion Rings Flavored, Hot - 2 Ounce",
+  "DESCRIPTION": "Snack time heats up with bold Onion flavor colliding with fry‑shaped Chips that bring a spicy kick. These crave‑worthy Snacks deliver fiery fun and crunch, making them a go‑to choice for anyone who loves lively, flavorful enjoyment.",
+  "CATEGORY": "Chips",
+  "BRAND": "Andy Capp's",
+  "SIZE": "",
+  "EAN": "0026200471907",
+  "STATUS": "MATCHED"
+ },
+ "02800023175": {
+  "FULL_NAME_FOUND": "Nesquik Nestle Protein Milk Beverage, Strawberry 14 Fl Oz",
+  "DESCRIPTION": "Start your day off right with Nesquik Protein Power Strawberry Milk. Get twenty-three grams of protein without compromising taste. Just chill this shelf-stable Nesquik strawberry flavored milk in the fridge, then shake for a sweet and nostalgic protein drink. It’s the perfect protein milk beverage. Any way or anywhere you sweeten up your day, you can feel good about sipping this great tasting protein drink, with 64% more protein than regular Nesquik. This Nesquik ready-to-drink protein milk beverage is made with one hundred percent real milk.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Nesquik",
+  "SIZE": "414 mL",
+  "EAN": "0028000231750",
+  "STATUS": "MATCHED"
+ },
+ "02840032420": {
+  "FULL_NAME_FOUND": "Lay's Barbecue Potato Chips",
+  "DESCRIPTION": "Wherever celebrations and good times happen, the LAY'S brand will be there just as it has been for more than 75 years. With flavors almost as rich as our history, we have a potato chip or crisp flavor guaranteed to bring a smile on your face. Made with farm grown potatoes. Cooked & Seasoned to Perfection. Spicy Sweetness of BBQ Sauce.",
+  "CATEGORY": "Chips",
+  "BRAND": "Lay's",
+  "SIZE": "",
+  "EAN": "0028400324205",
+  "STATUS": "MATCHED"
  }
 }

@@ -30397,5 +30397,89 @@
   "SIZE": "",
   "EAN": "0031700050262",
   "STATUS": "MATCHED"
+ },
+ "04920004350": {
+  "FULL_NAME_FOUND": "Domino Premium Pure Cane Granulated Sugar",
+  "DESCRIPTION": "Domino Granulated Sugar is a classic, versatile sweetener made from pure, refined sugar crystals. Perfect for baking, cooking, and sweetening beverages, it dissolves easily and adds a clean, sweet flavor to any recipe. Whether you’re making cookies, cakes, sauces, or just stirring into your morning coffee, Domino Granulated Sugar delivers consistent quality and sweetness every time.",
+  "CATEGORY": "Sugar & Sweeteners",
+  "BRAND": "Domino",
+  "SIZE": "",
+  "EAN": "0049200043509",
+  "STATUS": "MATCHED"
+ },
+ "08307811314": {
+  "FULL_NAME_FOUND": "Carmex Classic Medicated Lip Balm Tube, Original, 0.35 Oz",
+  "DESCRIPTION": "Formulas with camphor and menthol soothe severely dry lips and pain from cold sores. Petrolatum creates a long-lasting water barrier, acting like a bandage while healing takes place. Includes lanolin, which replicates the way the lipid bilayer in your skin retains moisture. Product Benefits.",
+  "CATEGORY": "Lip Balms & Treatments",
+  "BRAND": "Carmex",
+  "SIZE": "",
+  "EAN": "0083078113148",
+  "STATUS": "MATCHED"
+ },
+ "60924993306": {
+  "FULL_NAME_FOUND": "ZYN Espresso Martini 6mg",
+  "DESCRIPTION": "Pouch Highlights Espresso martini cocktail-inspired Limited-time series Leading nicotine pouch brand in the U.S. All-white pouchesDiscover ZYN Espresso Martini 6mgZYN Espresso Martini 6mg nicotine pouches are a espresso martini cocktail-inspired option for those seeking a tobacco leaf-free and smoke-free nicotine experience. These pouches provide an alternative to traditional oral tobacco products. Each can contains 15 all-white pouches.",
+  "CATEGORY": "Tobacco Products",
+  "BRAND": "ZYN",
+  "SIZE": "",
+  "EAN": "0609249933065",
+  "STATUS": "MATCHED"
+ },
+ "79394554575": {
+  "STATUS": "UNMATCHED"
+ },
+ "79974528304": {
+  "FULL_NAME_FOUND": "Royal King Red Panax Ginseng 10ml Bottle",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Vitamins & Supplements",
+  "BRAND": "Royal King",
+  "SIZE": "",
+  "EAN": "0799745283044",
+  "STATUS": "MATCHED"
+ },
+ "02620017130": {
+  "FULL_NAME_FOUND": "Slim Jim Meat Stick, Beef 'N Cheese, Mild, Big Boss Size 3 Oz",
+  "DESCRIPTION": "Slim Jim Beef and Cheese Stick is the power couple that's here to rescue you from the boredom of snacking on bland single flavors. This tasty combination of meat and cheese is the perfect way to satisfy that roaring in your belly. This duo comes with 10 grams of protein in each serving, a great way to match that midday hunger. Snap into Slim Jim Beef and Cheese Stick, recharge your energy, and feel satisfied with this meaty, cheesy (not cheese), one-of-a-kind combo. Because bread always got in the way of the deliciousness, anyways.",
+  "CATEGORY": "Meat",
+  "BRAND": "Slim Jim",
+  "SIZE": "",
+  "EAN": "0026200171302",
+  "STATUS": "MATCHED"
+ },
+ "03114626362": {
+  "FULL_NAME_FOUND": "Nongshim Beef Flavor Savory Bowl Noodle Soup - 3.03 Ounce",
+  "DESCRIPTION": "Nong Shim’s Savory Beef Ramyun in a convenient, BPA free, microwaveable bowl! Enjoy the savory beef broth that is highlighted by aromatic onion flavors. The broth flavor is mild and not overpowering - it can be enjoyed by everyone. Nong Shim Beef Flavored Bowl Noodles include the seasoning mix and is ready in just 3 minutes.",
+  "CATEGORY": "Soups & Broths",
+  "BRAND": "Nongshim",
+  "SIZE": "",
+  "EAN": "0031146263622",
+  "STATUS": "MATCHED"
+ },
+ "04142004253": {
+  "FULL_NAME_FOUND": "Now and Later Morphs Mixed Fruit Chews, Assorted",
+  "DESCRIPTION": "Now and Later is known as the long-lasting chewy candy with fruity flavor. With Now and Later Morphs, customers experience a unique change of flavors during that long chew. Each piece of this morphing Now and Later candy starts off as one flavor, and changes into another as the customer chews. Combinations like cherry to mango, lemon lime to strawberry, grape to watermelon, and blue raspberry to lemon offer hours of enjoyment. Brilliant colors and fruit shapes let customers know of the bold flavors, while iconic Now and Later branding attracts attention.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Now and Later",
+  "SIZE": "",
+  "EAN": "0041420042539",
+  "STATUS": "MATCHED"
+ },
+ "05200006520": {
+  "FULL_NAME_FOUND": "Gatorade Thirst Quencher Stranger Things Citrus Cooler Sports Drink",
+  "DESCRIPTION": "The proven classic. With a legacy of over 50 years in the making, it's the most scientifically researched and game-tested way to replace electrolytes lost in sweat. Gatorade Thirst Quencher is specifically made to help keep you hydrated, which is why it's trusted by some of the world's best athletes. .",
+  "CATEGORY": "Coolers",
+  "BRAND": "Gatorade",
+  "SIZE": "",
+  "EAN": "0052000065206",
+  "STATUS": "MATCHED"
+ },
+ "07033061802": {
+  "FULL_NAME_FOUND": "BIC York Jets NFL Officially Licensed Cigarette Lighters",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Sports Fan Accessories",
+  "BRAND": "BIC",
+  "SIZE": "",
+  "EAN": "0070330618022",
+  "STATUS": "MATCHED"
  }
 }

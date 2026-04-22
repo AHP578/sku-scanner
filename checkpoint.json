@@ -30223,5 +30223,95 @@
   "SIZE": "",
   "EAN": "0040000581376",
   "STATUS": "MATCHED"
+ },
+ "04900007239": {
+  "FULL_NAME_FOUND": "Dunkin' Donuts French Vanilla Iced Coffee Bottle, 13.7 Fl Oz",
+  "DESCRIPTION": "Iced and coffee. Name a more iconic duo. We'll wait. OK, we waited. Iced coffee is the go-to for an on-the-go pick-me-up. And nothing gets you running like Dunkin' French Vanilla Iced Coffee. This smooth and flavorful French vanilla iced coffee is just the thing for that quick, cold, and satisfying boost to help keep you going. With 184 mg of caffeine per bottle, you're getting more than one cup 'o joe's worth of pep in your step.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Dunkin'",
+  "SIZE": "405 mL",
+  "EAN": "0049000072396",
+  "STATUS": "MATCHED"
+ },
+ "07192427731": {
+  "FULL_NAME_FOUND": "Mobil Super Synthetic Motor Oil 0W-20, 1 Quart",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Vehicle Motor Oil",
+  "BRAND": "Mobil Super Synthetic",
+  "SIZE": "",
+  "EAN": "0071924277311",
+  "STATUS": "MATCHED"
+ },
+ "07339005554": {
+  "FULL_NAME_FOUND": "Trident Sugar Free Wintergreen Gum",
+  "DESCRIPTION": "Les meilleures offres pour 4x Packs Trident White Wintergreen Flavor Chewing Gum, 16 Pieces Per Pack sont sur eBay ✓ Comparez les prix et les spécificités des produits neufs et d'occasion ✓ Pleins d'articles en livraison gratuite!",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Trident",
+  "SIZE": "",
+  "EAN": "0073390055547",
+  "STATUS": "MATCHED"
+ },
+ "07618320208": {
+  "FULL_NAME_FOUND": "Snapple Juice Drink, Apple",
+  "DESCRIPTION": "The crisp fruit flavor of a ripe red apple begs to be bottled up. We're happy to oblige. You can't spell Snapple without apple.This juice drink combines sweet apple juice concentrate with pear juice concentrate and natural flavors for a taste that's just so juicy!",
+  "CATEGORY": "Juice",
+  "BRAND": "Snapple",
+  "SIZE": "591 mL",
+  "EAN": "0076183202081",
+  "STATUS": "MATCHED"
+ },
+ "07800003520": {
+  "FULL_NAME_FOUND": "Sunkist Berry Lemonade Soda, 20 Fl Oz Bottle",
+  "DESCRIPTION": "Sunkist Berry Lemonade is a vibrant, caffeine-free soda that combines the tartness of lemonade with the sweetness of mixed berries. This refreshing beverage is available in bottles.",
+  "CATEGORY": "Soda",
+  "BRAND": "Sunkist",
+  "SIZE": "591 mL",
+  "EAN": "0078000035209",
+  "STATUS": "MATCHED"
+ },
+ "67455411307": {
+  "FULL_NAME_FOUND": "Pride Antifreeze XL 50",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Vehicles",
+  "BRAND": "Pride",
+  "SIZE": "",
+  "EAN": "0674554113075",
+  "STATUS": "MATCHED"
+ },
+ "85066800083": {
+  "FULL_NAME_FOUND": "Deep River Snacks Kettle Cooked Sea Salt & Vinegar Potato Chips",
+  "DESCRIPTION": "Contains 12 - 5 Ounce Bags of Sea Salt & Vinegar Kettle Cooked Potato Chips. A New England classic potato chip! The tart and tangy taste of vinegar paired with the perfect amount of sea salt is sure to make your mouth pucker. No artificial flavors, colors, or preservatives, certified Gluten-Free; Non-GMO.",
+  "CATEGORY": "Chips",
+  "BRAND": "Deep River Snacks",
+  "SIZE": "",
+  "EAN": "0850668000832",
+  "STATUS": "MATCHED"
+ },
+ "01420053310": {
+  "FULL_NAME_FOUND": "Sugar Babies Milk Caramels, Candy Coated",
+  "DESCRIPTION": "A blast from the past - Sugar Babies! That sweet, buttery flavor of soft caramel wrapped in a thin candy shell will be even better than you remember, with each bite bringing you back to carefree days gone by of special trips to the corner store. Get yourself and your friends some of these little packets chock full of memories and share in the nostalgia.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Sugar Babies",
+  "SIZE": "",
+  "EAN": "0014200533107",
+  "STATUS": "MATCHED"
+ },
+ "02430084105": {
+  "FULL_NAME_FOUND": "Little Debbie Pecan Pie",
+  "DESCRIPTION": "A oven baked pie in a traditional aluminum tin pan filled with a sweet pecan topping and flakey crust on the bottom and sides.",
+  "CATEGORY": "Pies & Tarts",
+  "BRAND": "Little Debbie",
+  "SIZE": "",
+  "EAN": "0024300841057",
+  "STATUS": "MATCHED"
+ },
+ "02590020746": {
+  "FULL_NAME_FOUND": "Swisher Sweets Blunt Cigarillos Classic",
+  "DESCRIPTION": "Save on 2 cigars. 2 pack resealable foil pouch. www.Swishersweets.com. Made in Dominican Republic.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Swisher Sweets",
+  "SIZE": "",
+  "EAN": "0025900207465",
+  "STATUS": "MATCHED"
  }
 }

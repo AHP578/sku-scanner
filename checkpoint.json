@@ -31081,5 +31081,14 @@
   "SIZE": "",
   "EAN": "0001708287632",
   "STATUS": "MATCHED"
+ },
+ "02620011740": {
+  "FULL_NAME_FOUND": "Slim Jim Giant Smoked Snack Stick Nacho Flavored",
+  "DESCRIPTION": "The Slim Jim Giant Nacho Meat Stick is a delicious snack option that is rich in protein. It is excellent for enjoying on the go. The bulk case with 6 packs of Slim Jim Meat Sticks is ideal for cafeterias, pantries, and retail stores.",
+  "CATEGORY": "Jerky",
+  "BRAND": "Slim Jim",
+  "SIZE": "",
+  "EAN": "0026200117409",
+  "STATUS": "MATCHED"
  }
 }

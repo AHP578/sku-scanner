@@ -33004,5 +33004,89 @@
   "SIZE": "",
   "EAN": "0894537000035",
   "STATUS": "MATCHED"
+ },
+ "89899901270": {
+  "FULL_NAME_FOUND": "Vita Coco Coconut Juice Drink, With Mango 16.9 Fl Oz",
+  "DESCRIPTION": "The Vita Coco Coconut Juice With Mango is sweet and refreshing, making for a delicious beverage. It helps hydrate the body and also replenishes it with nutrients. The bulk case with 12 packs of Vita Coco Coconut Juice is ideal for cafeterias, pantries,..",
+  "CATEGORY": "Beverages",
+  "BRAND": "Vita Coco",
+  "SIZE": "500 mL",
+  "EAN": "0898999012704",
+  "STATUS": "MATCHED"
+ },
+ "91037172907": {
+  "STATUS": "UNMATCHED"
+ },
+ "01100000406": {
+  "FULL_NAME_FOUND": "Pyramid Cigarettes, Blue, 100s, Box",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Pyramid",
+  "SIZE": "",
+  "EAN": "0011000004066",
+  "STATUS": "MATCHED"
+ },
+ "01200020495": {
+  "FULL_NAME_FOUND": "Mtn Dew Soda, Major Melon 20 Fl Oz",
+  "DESCRIPTION": "Mtn Dew is original, the one that started it all. This green magic will quench your thirst every day of the week. Can, bottle, or glass, it is always a good time for a DEW. Try new Mtn Dew Major Melon, Dew charged with life changing Watermelon flavor. Do the Dew.",
+  "CATEGORY": "Soda",
+  "BRAND": "Mtn Dew",
+  "SIZE": "591 mL",
+  "EAN": "0012000204951",
+  "STATUS": "MATCHED"
+ },
+ "01254600153": {
+  "FULL_NAME_FOUND": "Trident Layers Sugar Free Watermelon + Tropical Fruit Gum",
+  "DESCRIPTION": "Trident Layers Sugar Free gum is the easy way to freshen breath and help protect against tooth decay. It combines two delicious flavors to create a unique, long lasting chewing experience.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Trident",
+  "SIZE": "",
+  "EAN": "0012546001533",
+  "STATUS": "MATCHED"
+ },
+ "01258722530": {
+  "FULL_NAME_FOUND": "Glad ForceFlex MaxStrength Tall Kitchen Drawstring Trash Bags",
+  "DESCRIPTION": "Glad ForceFlex MaxStrength Tall Kitchen Trash Bags provide maximum strength and help fight kitchen odors with the steady release of Febreze freshness. Featuring double-sided seals and a reinforced bottom, these 13 gallon tall kitchen trash bags are 25% more durable* with dual-layer leak protection. A strong grips-the-can drawstring ensures these scented garbage bags won't slide down and makes them simple to close with a quick cinch. Once closed, the drawstring keeps the trash securely inside the bag to avoid messy trash disasters. The sturdy handle makes it easy to lift, carry and toss these Glad kitchen trash bags.",
+  "CATEGORY": "Garbage Bags",
+  "BRAND": "Glad",
+  "SIZE": "",
+  "EAN": "0012587225301",
+  "STATUS": "MATCHED"
+ },
+ "02468200508": {
+  "FULL_NAME_FOUND": "Hersheys Choc Chip Cook Dough",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "Hersheys",
+  "SIZE": "",
+  "EAN": "0024682005085",
+  "STATUS": "MATCHED"
+ },
+ "02720000859": {
+  "FULL_NAME_FOUND": "Pall Mall Cigarettes, Menthol, Green Filter Kings",
+  "DESCRIPTION": "Class A cigarettes. Est 1899. FSC. PEFC. www.RJRT.com. Please don't litter.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Pall Mall",
+  "SIZE": "",
+  "EAN": "0027200008599",
+  "STATUS": "MATCHED"
+ },
+ "02840024019": {
+  "FULL_NAME_FOUND": "Funyuns Onion Flavored Rings Flamin' Hot Flavor 6 Oz",
+  "DESCRIPTION": "Flamin' Hot flavor you love. Bag size great for sharing with friends. Needed addition at any party or gathering. Crispy texture that will set your mouth on fire. Shaped like an onion ring.",
+  "CATEGORY": "Rings",
+  "BRAND": "Funyuns",
+  "SIZE": "",
+  "EAN": "0028400240192",
+  "STATUS": "MATCHED"
+ },
+ "02840051668": {
+  "FULL_NAME_FOUND": "Ruffles Brand Original Potato Chips - 8.5 Ounce",
+  "DESCRIPTION": "in the day chips were flat and that was boring. So we made a chip that zigged and zagged and shared it with the world.",
+  "CATEGORY": "Chips",
+  "BRAND": "Ruffles",
+  "SIZE": "",
+  "EAN": "0028400516686",
+  "STATUS": "MATCHED"
  }
 }

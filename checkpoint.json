@@ -29965,5 +29965,89 @@
   "SIZE": "355 mL",
   "EAN": "0889392000757",
   "STATUS": "MATCHED"
+ },
+ "02468200506": {
+  "FULL_NAME_FOUND": "Hershey's Ice Cream Moose Tracks",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "Hershey's",
+  "SIZE": "",
+  "EAN": "0024682005061",
+  "STATUS": "MATCHED"
+ },
+ "02468231211": {
+  "FULL_NAME_FOUND": "Hersheys Banana Pudding Bar",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0024682312114",
+  "STATUS": "MATCHED"
+ },
+ "02468231231": {
+  "FULL_NAME_FOUND": "Tropi-kool Coconut Cream",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Frozen Desserts & Novelties",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0024682312312",
+  "STATUS": "MATCHED"
+ },
+ "03800035821": {
+  "FULL_NAME_FOUND": "Nutri-Grain Soft Baked Breakfast Bars Raspberry",
+  "DESCRIPTION": "Combine deliciousness with calcium, with yummy calcium-enriched fruit snack bars. Soft and delicious bars provide the perfect sweet complement to your day. Convenient, individually wrapped bars are great for pockets and pursesperfect on the go. Food Type Cereal Bar; Flavor Raspberry; Capacity Weight 1.3 oz; Packing Type Bar.",
+  "CATEGORY": "Prepared Appetizers & Side Dishes",
+  "BRAND": "Nutri-Grain",
+  "SIZE": "",
+  "EAN": "0038000358210",
+  "STATUS": "MATCHED"
+ },
+ "04178900143": {
+  "FULL_NAME_FOUND": "Maruchan Instant Lunch Hot & Spicy Chicken Flavor Ramen Noodle Soup Cup",
+  "DESCRIPTION": "Maruchan Instant Lunch is fast and tasty as a hot snack or delicious meal anytime. Ready in 3 Minutes. Fast and Tasty as a Hot Snack or Delicious Meal - Anytime.",
+  "CATEGORY": "Soups & Broths",
+  "BRAND": "Maruchan",
+  "SIZE": "",
+  "EAN": "0041789001437",
+  "STATUS": "MATCHED"
+ },
+ "07013721559": {
+  "FULL_NAME_FOUND": "Black & Mild Jazz Pt",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0070137215592",
+  "STATUS": "MATCHED"
+ },
+ "07339005519": {
+  "FULL_NAME_FOUND": "Trident Gum, Sugar Free, Perfect Peppermint",
+  "DESCRIPTION": "Trident Perfect Peppermint Sugar Free Gum is like a burst of minty perfection on your tastebuds. With 30% fewer calories than sugared gum, Trident gum is sweetened with xylitol. Chewing Trident peppermint gum for 20 minutes after eating freshens breath and stimulates saliva flow to help prevent cavities and strengthen teeth. Each pack of chewing gum holds 14 individually wrapped sticks. One pack with 14 pieces of Trident Perfect Peppermint Sugar Free GumPeppermint flavored sugar free chewing gumHelps clean and protect teeth while providing fresh breathMade with xylitolChewing Trident after eating and drinking cleans and protect teeth.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Trident",
+  "SIZE": "",
+  "EAN": "0073390055196",
+  "STATUS": "MATCHED"
+ },
+ "07800001336": {
+  "FULL_NAME_FOUND": "HOB - Pepsico Crush Orange Soda, 2 L",
+  "DESCRIPTION": "When it comes to creating playful memories with bold and exciting fruit flavor, no soft drink satisfies quite like a Crush. The leader of the Crush family, Crush Orange shocks your senses with a sweet and tangy citrus flavor.",
+  "CATEGORY": "Soda",
+  "BRAND": "HOB - Pepsico",
+  "SIZE": "2000 mL",
+  "EAN": "0007800001336",
+  "STATUS": "MATCHED"
+ },
+ "08526434100": {
+  "FULL_NAME_FOUND": "Cloverhill Bakery Bear Claw Danish Dutch Apple 4.25oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Bakery",
+  "BRAND": "Cloverhill Bakery",
+  "SIZE": "",
+  "EAN": "0085264341007",
+  "STATUS": "MATCHED"
+ },
+ "08603430003": {
+  "STATUS": "UNMATCHED"
  }
 }

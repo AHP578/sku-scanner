@@ -30313,5 +30313,89 @@
   "SIZE": "",
   "EAN": "0025900207465",
   "STATUS": "MATCHED"
+ },
+ "03170004996": {
+  "FULL_NAME_FOUND": "Game Cigarillos Pineapple",
+  "DESCRIPTION": "are perfect for beachgoing or smoking. Enjoy the exotic flavors and silky aroma of Game Cigarillos Pineapple to enhance your smoking experience.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Game",
+  "SIZE": "",
+  "EAN": "0031700049969",
+  "STATUS": "MATCHED"
+ },
+ "03800059095": {
+  "FULL_NAME_FOUND": "Rice Krispies Treats Marshmallow Snack Bars, Double Chocolatey Chunk 3.0 Oz",
+  "DESCRIPTION": "Indulge in the delightful combination of crispy rice and rich chocolate chunks with this satisfying 3oz bar. Perfect for a midday snack or a sweet treat on the go, each bite offers a harmonious blend of textures and flavors. Conveniently packaged, it’s an ideal choice for both kids and adults who crave a deliciously sweet experience.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Rice Krispies Treats",
+  "SIZE": "",
+  "EAN": "0038000590955",
+  "STATUS": "MATCHED"
+ },
+ "03890000914": {
+  "FULL_NAME_FOUND": "Pineapple Juice Pull Top 6 Ounce Size - 48 Per Case",
+  "DESCRIPTION": "100 % juice dole 100% juices offer a variety of products for people looking for a juice packed with real fruit taste from bold blends to classic favorites. Whether you’re looking for something chilled or the convenience of single serving and frozen juices. Dole 100% juice has the flavor adventure you’ve been craving.",
+  "CATEGORY": "Juice",
+  "BRAND": "",
+  "SIZE": "177 mL",
+  "EAN": "0003890000914",
+  "STATUS": "MATCHED"
+ },
+ "07192427733": {
+  "FULL_NAME_FOUND": "Mobil Super Synthetic Motor Oil 5W-20, 1 Qt",
+  "DESCRIPTION": "Mobil 1 5W-20 Advanced Full Synthetic Motor Oil Helps extend engine life for vehicles of all ages. Mobil 1 Advanced Synthetic Motor Oil is designed to provide excellent engine protection against the five factors that can damage engines over time and protect critical engine parts for up to 10,000 miles between oil changes*. Its uniform synthetic oil molecules reduce friction, which helps prevent the build-up of deposits and sludge. This technologically advanced motor oil formulation provides excellent internal engine heat protection (up to 500 degrees Fahrenheit) and low temperature protection (down to -30 degrees Fahrenheit), allowing for quick cold weather starts and ultra-fast protection. Mobil 1 Advanced Full Synthetic Motor Oil meets ILSAC GF-6 standards to help provide protection against timing chain wear and Low Speed ??Pre-Ignition (LSPI) while keeping your engine clean and helping improve fuel economy. made out of fuel. Available in 1-qt. and 5qt. bottles, Mobil 1 5W-20 Advanced Full Synthetic Motor Oil also helps control oxidation to prevent oil breakdown and is recommended for all types of modern vehicles, including multi-valve fuel injected and turbocharged diesel and gasoline engines. High performance supercharged. It is found in passenger cars, SUVs, light vans, and light trucks. Mobil 1 is America's leading retail brand of synthetic motor oil, recommended by experienced auto builders and mechanics, and is the Official Motor Oil of NASCAR. (Protects up to 10,000 miles or 1 year, whichever comes first.",
+  "CATEGORY": "Vehicle Parts & Accessories",
+  "BRAND": "Mobil Super Synthetic",
+  "SIZE": "",
+  "EAN": "0071924277335",
+  "STATUS": "MATCHED"
+ },
+ "09060000049": {
+  "FULL_NAME_FOUND": "Port Authority C908 Watch Cap, Navy - One Size",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Shoe Accessories",
+  "BRAND": "Port Authority",
+  "SIZE": "",
+  "EAN": "0090600000494",
+  "STATUS": "MATCHED"
+ },
+ "09060039170": {
+  "FULL_NAME_FOUND": "Crowns Green Box",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Crowns",
+  "SIZE": "",
+  "EAN": "0090600391707",
+  "STATUS": "MATCHED"
+ },
+ "79394554650": {
+  "STATUS": "UNMATCHED"
+ },
+ "01070070299": {
+  "FULL_NAME_FOUND": "Jolly Rancher Hard Candy All Blue Raspberry Peg Bag 12×6.5oz",
+  "DESCRIPTION": "Enjoy the bold and impossibly fruity flavors of JOLLY RANCHER Hard Candy Original Flavors in green apple, cherry, watermelon, grape and blue raspberry flavors. Perfect for the candy dish, road trips, or your office sweet treat stash. Nothing beats these originals.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Jolly Rancher",
+  "SIZE": "",
+  "EAN": "0010700702999",
+  "STATUS": "MATCHED"
+ },
+ "01254667611": {
+  "FULL_NAME_FOUND": "Trident White Spearmint Sugar Free Gum, 16 Piece Pack",
+  "DESCRIPTION": "Experience the refreshing taste of Trident White Spearmint Sugar Free Gum! Perfect for those who enjoy a burst of minty flavor without the sugar, this gum is ideal for freshening breath anytime, anywhere. Each box contains 16 pieces of delicious gum.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Trident",
+  "SIZE": "",
+  "EAN": "0012546676113",
+  "STATUS": "MATCHED"
+ },
+ "03170005026": {
+  "FULL_NAME_FOUND": "Game Leaf So2 Wild Berry Cigars",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Game Leaf",
+  "SIZE": "",
+  "EAN": "0031700050262",
+  "STATUS": "MATCHED"
  }
 }

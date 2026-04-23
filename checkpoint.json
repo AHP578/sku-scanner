@@ -36022,5 +36022,95 @@
   "SIZE": "",
   "EAN": "0010900080316",
   "STATUS": "MATCHED"
+ },
+ "010900374798": {
+  "FULL_NAME_FOUND": "Reynolds Reynol;ds Wrap 15 Sq Ft",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Foil",
+  "BRAND": "Reynolds",
+  "SIZE": "",
+  "EAN": "0010900374798",
+  "STATUS": "MATCHED"
+ },
+ "011000001737": {
+  "FULL_NAME_FOUND": "Eagle 20S Gold Mkg Bx",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0011000001737",
+  "STATUS": "MATCHED"
+ },
+ "011000002833": {
+  "FULL_NAME_FOUND": "Eagle 20s Red King Class A Cigarettes",
+  "DESCRIPTION": "Shop Eagle Cigarettes 20s Red King Box - Pack from tomthumb. Browse our wide selection of Cigarettes for Delivery or Drive Up & Go to pick up at the store!",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Eagle 20s",
+  "SIZE": "",
+  "EAN": "0011000002833",
+  "STATUS": "MATCHED"
+ },
+ "011000002888": {
+  "FULL_NAME_FOUND": "Eagle 20's Cigarettes, Red, 100s",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Eagle",
+  "SIZE": "",
+  "EAN": "0011000002888",
+  "STATUS": "MATCHED"
+ },
+ "011000002932": {
+  "FULL_NAME_FOUND": "Eagle Cigarettes, 100s, Menthol Gold",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Eagle",
+  "SIZE": "",
+  "EAN": "0011000002932",
+  "STATUS": "MATCHED"
+ },
+ "011000004073": {
+  "FULL_NAME_FOUND": "Pyramid Cigarettes, Menthol Silver, 100s, Box",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Pyramid",
+  "SIZE": "",
+  "EAN": "0011000004073",
+  "STATUS": "MATCHED"
+ },
+ "011000004080": {
+  "FULL_NAME_FOUND": "Pyramid Cigarettes, Red, 100s, Box",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Pyramid",
+  "SIZE": "",
+  "EAN": "0011000004080",
+  "STATUS": "MATCHED"
+ },
+ "011000004097": {
+  "FULL_NAME_FOUND": "Eagle 20s Cigarettes, Menthol, Gold, Class A",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Eagle 20s",
+  "SIZE": "",
+  "EAN": "0011000004097",
+  "STATUS": "MATCHED"
+ },
+ "011000004134": {
+  "FULL_NAME_FOUND": "Pyramid Cigarettes, Orange, 100s, Box",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Pyramid",
+  "SIZE": "",
+  "EAN": "0011000004134",
+  "STATUS": "MATCHED"
+ },
+ "011000004929": {
+  "FULL_NAME_FOUND": "Pyramid Cigarettes, Red, Kings, Box",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Pyramid",
+  "SIZE": "",
+  "EAN": "0011000004929",
+  "STATUS": "MATCHED"
  }
 }

@@ -34738,5 +34738,83 @@
  },
  "000262000022": {
   "STATUS": "UNMATCHED"
+ },
+ "000262001012": {
+  "STATUS": "UNMATCHED"
+ },
+ "000280000042": {
+  "FULL_NAME_FOUND": "Hohlwand Schalterdose X Mm",
+  "DESCRIPTION": "No description found",
+  "CATEGORY": "",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0000280000042",
+  "STATUS": "MATCHED"
+ },
+ "000030058569": {
+  "FULL_NAME_FOUND": "OCB Slim Premium",
+  "DESCRIPTION": "OCB Premium Kingsize Slim Rolling Papers have the silver holographic labeling with the distinctive black packaging, which sets the Premium Range out from the rest of the OCB ranges. Each paper is ultra thin, lightweight, easy to roll and burns slowly. These high quality rolling papers are close to transparency and burn down evenly. Each single leaf is made of a watermarked pure flax paper for quality assurance and Arabic Natural Gum that has been extracted from East Africa which is 100% Vegetarian Organic. A paper slip folded in with the leaves reminds you when you're running low. One single pack contains 32 rolling papers.",
+  "CATEGORY": "Printer & Copier Paper",
+  "BRAND": "OCB",
+  "SIZE": "",
+  "EAN": "30058569",
+  "STATUS": "MATCHED"
+ },
+ "000040004440": {
+  "FULL_NAME_FOUND": "Shoshone Dr, Canon City, CO",
+  "DESCRIPTION": "No description found",
+  "CATEGORY": "",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "40004440",
+  "STATUS": "MATCHED"
+ },
+ "000040084176": {
+  "FULL_NAME_FOUND": "Kinder Country Chocolate Bar 24g",
+  "DESCRIPTION": "The perfect combination of fine milk chocolate and five crunchy cereals. Enjoy a delicious bar that combines the energy of barley, rice, wheat, spelt and buckwheat with the unmistakable Kinder taste. Every bite is a crunchy pleasure.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Kinder",
+  "SIZE": "",
+  "EAN": "40084176",
+  "STATUS": "MATCHED"
+ },
+ "000040084701": {
+  "FULL_NAME_FOUND": "Kinder Chocolate, 8 Bars, 100g",
+  "DESCRIPTION": "The unique taste of Kinder Chocolate Thanks to its formula with a delicious creamy milk filling, Kinder Chocolate is the perfect little treat - specially created for children and satisfied mothers. Kinder Chocolate contains no artificial colors or solidified fats. Each child-sized bar is individually wrapped.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Kinder",
+  "SIZE": "",
+  "EAN": "40084701",
+  "STATUS": "MATCHED"
+ },
+ "000040883007": {
+  "FULL_NAME_FOUND": "Dove Silky Body Cream 300ml",
+  "DESCRIPTION": "Radiantly beautiful skin is not only something for special occasions. With a luxurious combination of moisturising elements and special nutrients, the Dove Body Silky Pampering Body Cream 300ml gives you an unforgettable feeling.",
+  "CATEGORY": "Bath & Body",
+  "BRAND": "Dove",
+  "SIZE": "",
+  "EAN": "40883007",
+  "STATUS": "MATCHED"
+ },
+ "000042163145": {
+  "FULL_NAME_FOUND": "Nivea Creme Authentic Moisturizing And Softness All Skin Types 150ml",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Lotion & Moisturizer",
+  "BRAND": "Nivea",
+  "SIZE": "",
+  "EAN": "42163145",
+  "STATUS": "MATCHED"
+ },
+ "000042246800": {
+  "FULL_NAME_FOUND": "Nivea Creme",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cosmetics",
+  "BRAND": "Nivea",
+  "SIZE": "",
+  "EAN": "42246800",
+  "STATUS": "MATCHED"
+ },
+ "000436950719": {
+  "STATUS": "UNMATCHED"
  }
 }

@@ -34444,5 +34444,83 @@
   "SIZE": "",
   "EAN": "0088168200647",
   "STATUS": "MATCHED"
+ },
+ "09050001030": {
+  "FULL_NAME_FOUND": "Winston Red 100 B $1 Off",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Household Supplies",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0090500010302",
+  "STATUS": "MATCHED"
+ },
+ "09060000090": {
+  "FULL_NAME_FOUND": "Fortuna Blue 100 Box Pack",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Fortuna",
+  "SIZE": "",
+  "EAN": "0090600000906",
+  "STATUS": "MATCHED"
+ },
+ "19871546846": {
+  "FULL_NAME_FOUND": "7OHMZ Advanced Kratom Alkaloids 7 Hydroxy Rapid Formula Tablets (21MG) LIME GREEN",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Baby Formula",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0198715468465",
+  "STATUS": "MATCHED"
+ },
+ "31254730668": {
+  "FULL_NAME_FOUND": "Listerine Total Care Anticavity Fluoride Zero Alcohol Mouthwash, Fresh Mint, 3.2 OZ",
+  "DESCRIPTION": "Listerine Cuidado Total Cero Enjuague bucal limpia toda la boca. Mata el mal aliento gérmenes, ayuda a prevenir las caries, restaura y fortalece el esmalte de los dientes.",
+  "CATEGORY": "Mouthwash",
+  "BRAND": "Listerine",
+  "SIZE": "",
+  "EAN": "0312547306683",
+  "STATUS": "MATCHED"
+ },
+ "32390001425": {
+  "FULL_NAME_FOUND": "Vicks NyQuil Cold & Flu Nighttime Relief Cherry Flavor Liquid 8 Fl Oz",
+  "DESCRIPTION": "Temporarily relieves common cold and flu symptoms including cough due to minor throat and bronchial irritation, sore throat, headache, minor aches and pains, fever, runny nose and sneezing. Nyquil liquid is available in three flavors original, cherry and vanilla cherry swirl. When using Dayquil or Nyquil products, carefully read each label to insure correct dosing use as directed keep out of reach of children.",
+  "CATEGORY": "Wine",
+  "BRAND": "Vicks",
+  "SIZE": "237 mL",
+  "EAN": "0323900014251",
+  "STATUS": "MATCHED"
+ },
+ "60020983818": {
+  "FULL_NAME_FOUND": "Beemer Hemp Wraps",
+  "DESCRIPTION": "Beamer blunt vegan son hojas de hemp para rolar, hechos de cañamo, 100% libres de tabaco, tamaño 1/4. Paquete con 4 pz.",
+  "CATEGORY": "Tortillas & Wraps",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0600209838185",
+  "STATUS": "MATCHED"
+ },
+ "60536900234": {
+  "FULL_NAME_FOUND": "Handi Flame Refillable Lighter",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Lighters & Matches",
+  "BRAND": "Handi Flame",
+  "SIZE": "",
+  "EAN": "0605369002346",
+  "STATUS": "MATCHED"
+ },
+ "60924993206": {
+  "FULL_NAME_FOUND": "ZYN Spiced Cider 6MG Nicotine Pouches",
+  "DESCRIPTION": "Pouch Highlights Spiced cider cocktail-inspired Limited-time series Leading nicotine pouch brand in the U.S. All-white pouchesDiscover ZYN Spiced Cider 6mgZYN Spiced Cider 6mg nicotine pouches are a spiced cider cocktail-inspired option for those seeking a tobacco leaf-free and smoke-free nicotine experience. These pouches provide an alternative to traditional oral tobacco products. Each can contains 15 all-white pouches.",
+  "CATEGORY": "Cigars",
+  "BRAND": "ZYN",
+  "SIZE": "",
+  "EAN": "0609249932068",
+  "STATUS": "MATCHED"
+ },
+ "61737591995": {
+  "STATUS": "UNMATCHED"
+ },
+ "63357768513": {
+  "STATUS": "UNMATCHED"
  }
 }

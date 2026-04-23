@@ -33916,5 +33916,89 @@
  },
  "84018026511": {
   "STATUS": "UNMATCHED"
+ },
+ "84259512509": {
+  "FULL_NAME_FOUND": "C4 Energy Drink, Zero Sugar, Watermelon Burst, Sparkling 12 Fl Oz",
+  "DESCRIPTION": "C4 Smart Energy Carbonated Drink in Sparkling Watermelon Burst offers a refreshing and energizing experience. This pack contains twelve 12oz cans, providing a delicious watermelon flavor. Perfect for boosting mental focus and energy, it offers a tasty and convenient way to stay alert and hydrated.",
+  "CATEGORY": "Beverages",
+  "BRAND": "C4 Energy",
+  "SIZE": "355 mL",
+  "EAN": "0842595125092",
+  "STATUS": "MATCHED"
+ },
+ "84259512763": {
+  "FULL_NAME_FOUND": "C4 Energy Drink, Performance, Zero Sugar, Freedom Ice 16 Fl Oz",
+  "DESCRIPTION": "Next level experience. Supercharged energy. The ultimate energy experience fueled with 300 mg of hard-hitting caffeine. Superbrain performance. Formulated with brainberry and clinically studied cognitive support ingredient cognizin. Nutrabolt wil donate $500,000 to Wounded Warrior Project regardless of sales.",
+  "CATEGORY": "Beverages",
+  "BRAND": "C4 Energy",
+  "SIZE": "473 mL",
+  "EAN": "0842595127638",
+  "STATUS": "MATCHED"
+ },
+ "85657700670": {
+  "STATUS": "UNMATCHED"
+ },
+ "85657700678": {
+  "FULL_NAME_FOUND": "Premium Nail Clippers",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Nail Clippers",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0856577006781",
+  "STATUS": "MATCHED"
+ },
+ "87884885553": {
+  "FULL_NAME_FOUND": "Menu Lint Roller (60 Sheets)",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Lint Rollers",
+  "BRAND": "Menu",
+  "SIZE": "",
+  "EAN": "0878848855539",
+  "STATUS": "MATCHED"
+ },
+ "88867013405": {
+  "FULL_NAME_FOUND": "Berkley Jensen Non Scratch Cellulose Scrub Sponges 27 Ct",
+  "DESCRIPTION": "These Berkley Jensen Non Scratch Cellulose Scrub Sponges pair perfectly with your favorite dish soap and are an essential cleaning accessory in every kitchen. The dual sided scour sponge scrubs baked-on messes without scratching. Ideal for non-stick pans glassware countertops and more while the soft cellulose sponge washes and wipe away dirt and grime clean. Suitable for use with most household cleaners and perfect for tough jobs all around the house including bathroom sinks tubs showers and more.",
+  "CATEGORY": "Sponges & Scouring Pads",
+  "BRAND": "Berkley Jensen",
+  "SIZE": "",
+  "EAN": "0888670134054",
+  "STATUS": "MATCHED"
+ },
+ "01200014094": {
+  "FULL_NAME_FOUND": "Mountain Dew Citrus Soda - 1.25L Bottle",
+  "DESCRIPTION": "The original, the one that started it all. This green magic will quench your thirst every day of the week. Can, bottle, or glass, it is always a good time for a DEW®.",
+  "CATEGORY": "Soda",
+  "BRAND": "Mountain Dew",
+  "SIZE": "1250 mL",
+  "EAN": "0012000140945",
+  "STATUS": "MATCHED"
+ },
+ "01200017252": {
+  "FULL_NAME_FOUND": "Pepsi Diet Soda Classic 2 L Bottle",
+  "DESCRIPTION": "Diet Pepsi (2 Liter Bottle). Treat yourself to the refreshing, crisp taste of Diet Pepsi—now in a generous 2-liter bottle, perfect for sharing. With zero sugar and zero calories, Diet Pepsi delivers the classic cola flavor you love, without the guilt. It’s a smooth, satisfying beverage choice for those looking to enjoy a sugar-free lifestyle without sacrificing taste. Ideal for family meals, parties, or keeping stocked in the fridge, this resealable 2-liter bottle ensures you always have refreshment on hand. Light, bubbly, and delicious—Diet Pepsi is the smarter cola option for any occasion.",
+  "CATEGORY": "Soda",
+  "BRAND": "Pepsi",
+  "SIZE": "2000 mL",
+  "EAN": "0012000172526",
+  "STATUS": "MATCHED"
+ },
+ "01200022092": {
+  "FULL_NAME_FOUND": "Rockstar Punched Strawberry Peach Energy Drink - 16 Fl Oz Can",
+  "DESCRIPTION": "NEW Rockstar Punched Energy Drink in a Strawberry Peach flavor. This KNOCKOUT FLAVOR is a blend of B-vitamins, guarana extract, and 240mg caffeine. Grab a can today to taste the new bold, unapologetic flavor for your daily caffeine boost. Perfect for grab and go energy whenever your body needs it.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Rockstar",
+  "SIZE": "473 mL",
+  "EAN": "0012000220920",
+  "STATUS": "MATCHED"
+ },
+ "01230020059": {
+  "FULL_NAME_FOUND": "ماجيستي لوشن بالمسك لليد و الجسم 355 مل",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0001230020059",
+  "STATUS": "MATCHED"
  }
 }

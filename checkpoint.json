@@ -33784,5 +33784,65 @@
   "SIZE": "",
   "EAN": "0076828138515",
   "STATUS": "MATCHED"
+ },
+ "07874235202": {
+  "FULL_NAME_FOUND": "Great Value Milk 1% Lowfat Half Gallon Plastic Jug",
+  "DESCRIPTION": "Pasteurized, homogenized. Our farmers have pledged to not treat any of their cows with any artificial growth hormones. According to the FDA, or significant difference has been shown between milk derived from rBST treated and non-rBST treated cows.",
+  "CATEGORY": "Milk",
+  "BRAND": "Great Value",
+  "SIZE": "",
+  "EAN": "0078742352022",
+  "STATUS": "MATCHED"
+ },
+ "19434641527": {
+  "STATUS": "UNMATCHED"
+ },
+ "30045040920": {
+  "FULL_NAME_FOUND": "Motrin IB Liquid Gels Ibuprofen 200 Mg Pain & Fever Relief Capsules 20ct",
+  "DESCRIPTION": "With 200 mg of ibuprofen in each liquid gel, Motrin IB liquid gels reduce fever & stop pain at its source. For muscle aches & pains, headache, back pain, & minor aches & pains due to the common cold.",
+  "CATEGORY": "Health & Beauty",
+  "BRAND": "Motrin",
+  "SIZE": "",
+  "EAN": "0300450409201",
+  "STATUS": "MATCHED"
+ },
+ "30045048126": {
+  "FULL_NAME_FOUND": "Motrin IB, Ibuprofen 200mg Tablets For Pain & Fever Relief",
+  "DESCRIPTION": "Motrin Pain Reliever and Fever Reducer Caplets provide fast and effective relief from minor aches, pains, and fever. Each pack contains 24 caplets, and this case includes 48 packs. Formulated to alleviate headaches, muscle pain, and reduce fever, these ca.",
+  "CATEGORY": "Health & Beauty",
+  "BRAND": "Motrin",
+  "SIZE": "",
+  "EAN": "0300450481269",
+  "STATUS": "MATCHED"
+ },
+ "35287365168": {
+  "STATUS": "UNMATCHED"
+ },
+ "60853907957": {
+  "STATUS": "UNMATCHED"
+ },
+ "61196888801": {
+  "STATUS": "UNMATCHED"
+ },
+ "61235296269": {
+  "STATUS": "UNMATCHED"
+ },
+ "61664149655": {
+  "FULL_NAME_FOUND": "O.p.m.s. Silver Capsules 30ct 18g - Green Vein Maeng Da",
+  "DESCRIPTION": "OPMS Silver is the oldest best selling product of the entire OPMS product catalog. The process used to make OPMS Silver does differ compared to OPMS Gold. OPMS Silver has a 1x extract of the dried, crushed Kratom leaf which is the same as many other Kratom strains’ alkaloid content. Maintaining this consistent level of alkaloids is a science and an art. OPMS Silver is not too overpowering and is a great way for beginners to familiarize themselves with Kratom before trying something a little more potent. OPMS blends its Silver Kratom in small batches to preserve the alkaloid profile and boost overall product quality. The standard of quality and proprietary production methods are what separate OPMS Silver from the rest of the Kratom industry.",
+  "CATEGORY": "Vitamins & Supplements",
+  "BRAND": "O.p.m.s.",
+  "SIZE": "",
+  "EAN": "0616641496555",
+  "STATUS": "MATCHED"
+ },
+ "64518983504": {
+  "FULL_NAME_FOUND": "Fronto Leaf Master Cigar Tobacco Sweet",
+  "DESCRIPTION": "A Fronto Leaf is an all-natural cured tobacco leaf that originates from the Caribbean. It’s their traditional way of smoking as it offers a distinctly high-quality flavor when you’re smoking it with your favorite herbs or tobacco. Getting a Fronto Leaf can give you that premium quality taste and the smoothness of what you can get on a top-shelf tobacco wrapper which can give you the best experience in smoking. Each packaging contains a single leaf that you have to rip off a portion to use as a rolling paper.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Fronto Leaf Master Cigar",
+  "SIZE": "",
+  "EAN": "0645189835045",
+  "STATUS": "MATCHED"
  }
 }

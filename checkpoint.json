@@ -33430,5 +33430,95 @@
   "SIZE": "207 mL",
   "EAN": "0028000466312",
   "STATUS": "MATCHED"
+ },
+ "02840024018": {
+  "FULL_NAME_FOUND": "Funyuns Onion Flavored Rings Regular Flavor 6 Oz",
+  "DESCRIPTION": "Funyuns Onion Flavored Rings are a delicious and unique snack that combines the crunch of a chip with the flavor of an onion. Made with real onions and a special blend of seasonings, these rings provide a satisfying and flavorful experience unlike any other. Perfect for snacking on-the-go or enjoying at home, Funyuns are sure to please any taste buds.",
+  "CATEGORY": "Chips",
+  "BRAND": "Funyuns",
+  "SIZE": "",
+  "EAN": "0028400240185",
+  "STATUS": "MATCHED"
+ },
+ "02840051632": {
+  "FULL_NAME_FOUND": "Doritos Salsa Verde Tortilla Chips - 9.25oz",
+  "DESCRIPTION": "Doritos Salsa Verde offers a tangy, mildly spicy take on the classic tortilla chip. Inspired by Mexican green salsa (“salsa verde”), it blends zesty jalapeño and tomato notes with a touch of citrus, delivering a refreshing and flavorful crunch experience. 🧾.",
+  "CATEGORY": "Chips",
+  "BRAND": "Doritos",
+  "SIZE": "",
+  "EAN": "0028400516327",
+  "STATUS": "MATCHED"
+ },
+ "02840051798": {
+  "FULL_NAME_FOUND": "Tostitos Original Crispy Rounds Tortilla Chips - 12 Ounce",
+  "DESCRIPTION": "TOSTITOS are more than tortilla chips and dips—they're an invitation to catch up with friends, so Get Together Already! TOSTITOS Tortilla Chips come in a variety of shapes, sizes and flavors, but they all have two things in common - they're completely dippable and totally delicious. Tostitos salsas are made with real chunks of garden vegetables, and Tostitos dips are so creamy, you can't resist either! Nothing pairs better with TOSTITOS Tortilla Chips, except maybe a group of friends.",
+  "CATEGORY": "Chips",
+  "BRAND": "Tostitos",
+  "SIZE": "",
+  "EAN": "0028400517980",
+  "STATUS": "MATCHED"
+ },
+ "02840068373": {
+  "FULL_NAME_FOUND": "Ruffles Smokehouse Barbecue Potato Chips",
+  "DESCRIPTION": "With crunchy ridges made to stand up to even the thickest dips, RUFFLES potato chips bring epic flavor and snack satisfaction to any get-together.",
+  "CATEGORY": "Chips",
+  "BRAND": "Ruffles",
+  "SIZE": "",
+  "EAN": "0028400683739",
+  "STATUS": "MATCHED"
+ },
+ "02840068890": {
+  "FULL_NAME_FOUND": "Ruffles Flamin' Hot Cheddar Sour Cream Potato Chips - 8oz",
+  "DESCRIPTION": "Includes 1 bag of Ruffles Potato Chips, Flamin' Hot Cheddar & Sour Cream flavor. A blend of rich, velvety cheddar with smooth, creamy sour cream flavor meets the classic hot & spicy Flamin' Hot flavor. A thicker, sturdier potato chip with Ruffles trademarked ridges. Back in the day chips were flat and that was boring. So we made a chip that zigged and zagged and shared it with the world. When you have ridges, the crunches are crunchier and the dipping strength multiplies, and your chips become Ruffles.",
+  "CATEGORY": "Chips",
+  "BRAND": "Ruffles",
+  "SIZE": "",
+  "EAN": "0028400688901",
+  "STATUS": "MATCHED"
+ },
+ "02840076303": {
+  "FULL_NAME_FOUND": "Tostitos Organic Blue Corn Tortilla Chips - 10oz",
+  "DESCRIPTION": "Tostitos tortilla chips and dips are the life of the party. Whether you’re watching the game with friends or throwing a giant backyard barbecue, Tostitos has the must-have chips and dips to pump up the fun!",
+  "CATEGORY": "Chips",
+  "BRAND": "Tostitos",
+  "SIZE": "",
+  "EAN": "0028400763035",
+  "STATUS": "MATCHED"
+ },
+ "02840076312": {
+  "FULL_NAME_FOUND": "Chester's Chili Cheese Fries Corn Snacks",
+  "DESCRIPTION": "When CHESTER CHEETAH puts his name on a snack, you can count on a bold and cheesy flavor like you’ve never tasted. CHESTER’S snacks are made with a special blend of real cheese seasoning to give each bite the perfect pop and zing. CHESTER’S snacks are Convenient size for on-the-go snacking.",
+  "CATEGORY": "Cheese",
+  "BRAND": "Chester's",
+  "SIZE": "",
+  "EAN": "0028400763127",
+  "STATUS": "MATCHED"
+ },
+ "02840076380": {
+  "FULL_NAME_FOUND": "Smartfood Frito-Lay Cheetos Flamin’ Hot Popcorn - 6.5oz",
+  "DESCRIPTION": "As America’s favorite popcorn brand, our fresh-tasting, light-textured SMARTFOOD varieties always seem to keep the fun popping. In our book, being smart is always in great taste. If you think Cheetos® Flamin’ Hot® is boldly delicious, wait till you try it popcorn-form. We promise the ultimate pop of spicy cheesiness. Allergen Statement: Contains Milk.",
+  "CATEGORY": "Popcorn",
+  "BRAND": "Smartfood",
+  "SIZE": "",
+  "EAN": "0028400763806",
+  "STATUS": "MATCHED"
+ },
+ "02840076855": {
+  "FULL_NAME_FOUND": "Funyuns Spicy Queso Onion Flavored Rings",
+  "DESCRIPTION": "FUNYUNS® Onion Flavored Rings are a deliciously different snack that’s fun to eat, with a crisp texture and zesty onion flavor. Next time you're in the mood for a tasty treat that's out of the ordinary, try FUNYUNS® Onion flavored Rings. Funyuns Spicy Queso onion rings flavor, a deliciously different snack that's spicy fun!",
+  "CATEGORY": "Rings",
+  "BRAND": "Funyuns",
+  "SIZE": "",
+  "EAN": "0028400768559",
+  "STATUS": "MATCHED"
+ },
+ "02840076856": {
+  "FULL_NAME_FOUND": "Funyuns Hot & Spicy Chicken Ramen Onion Flavored Rings 5.25 Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Rings",
+  "BRAND": "Funyuns",
+  "SIZE": "",
+  "EAN": "0028400768566",
+  "STATUS": "MATCHED"
  }
 }

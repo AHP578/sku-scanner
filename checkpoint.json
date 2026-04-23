@@ -34090,5 +34090,89 @@
   "SIZE": "",
   "EAN": "0020400000356",
   "STATUS": "MATCHED"
+ },
+ "02430001706": {
+  "FULL_NAME_FOUND": "Drake's Cherry Fruit Pie",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Pies & Tarts",
+  "BRAND": "Drake's",
+  "SIZE": "",
+  "EAN": "0024300017063",
+  "STATUS": "MATCHED"
+ },
+ "02430086590": {
+  "FULL_NAME_FOUND": "Little Debbie Snack Chocolate Cupcakes - 2ct",
+  "DESCRIPTION": "Craving chocolate? Not many desserts can top the genius simplicity of chocolate cake. That’s why Little Debbie® Chocolate Cupcakes are satisfyingly uncomplicated. Reward your sweet tooth with moist chocolate cake subtly topped with a layer of smooth fudge icing, a decorative swirl and filled with a delicately light creme center. These delightful cakes are an enjoyable guilty pleasure that is easy to understand!",
+  "CATEGORY": "Cupcakes",
+  "BRAND": "Little Debbie",
+  "SIZE": "",
+  "EAN": "0024300865909",
+  "STATUS": "MATCHED"
+ },
+ "02468200515": {
+  "FULL_NAME_FOUND": "Hershey's Birthday Cake",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "Hershey's",
+  "SIZE": "",
+  "EAN": "0024682005153",
+  "STATUS": "MATCHED"
+ },
+ "02468200593": {
+  "STATUS": "UNMATCHED"
+ },
+ "02785408025": {
+  "FULL_NAME_FOUND": "Power Service Diesel 911 Additive 32 Oz",
+  "DESCRIPTION": "De-ices frozen fuel filters and re-liquifies gelled fuel. Prevents fuel filter icing and removes water from fuel system. Extends life of fuel filters, fuel-injection pumps and fuel injectors. Contains Slickdiesel Lubricator for maximum fuel lubrication which protects pumps and injectors from accelerated wear. Effective in all diesel fuels, including ULSD (Ultra Low Sulfur Diesel) and biodiesel blends containing up to 20% biodiesel (B-20).",
+  "CATEGORY": "Fuel",
+  "BRAND": "Power Service",
+  "SIZE": "",
+  "EAN": "0027854080255",
+  "STATUS": "MATCHED"
+ },
+ "02800071456": {
+  "FULL_NAME_FOUND": "Nescafe Coffee Beverage, Instant, Cinnamon, Cafe De Olla - 6.7 Ounce",
+  "DESCRIPTION": "Nescafe Cafe de Olla Instant Coffee Beverage delivers the authentic Mexican flavor of a traditional blend of coffee and a touch of cinnamon flavor. Indulge in an aromatic spice-flavored coffee in seconds. It all starts with a Nescafe.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Nescafe",
+  "SIZE": "198 mL",
+  "EAN": "0028000714567",
+  "STATUS": "MATCHED"
+ },
+ "02800091960": {
+  "FULL_NAME_FOUND": "Nescafe Clasico Brazil Instant Coffee 7 Oz. Jar",
+  "DESCRIPTION": "Growing in between the massive granite rocks of the Brazilian Natural Monument, Pontões Capixabas, our NESCAFÉ CLÁSICO Brazil coffee beans bear the strong, rich and delicious taste of Espirito Santo unique flora and fauna, representing the journey of an enriching coffee experience. Crafted with 100% real coffee, NESCAFÉ CLÁSICO Brazil delivers robust, earthy flavor in every cup. We use only the highest quality, responsibly sourced arabica and robusta coffee beans and carefully roast them to capture each blend’s full flavor and aroma. Savor a fresh cup of coffee, instantly with the world’s best-selling coffee brand, NESCAFE. Based on 2019 global retail sales data reported by independent research company comparing brands of coffee.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Nescafe",
+  "SIZE": "207 mL",
+  "EAN": "0028000919603",
+  "STATUS": "MATCHED"
+ },
+ "02820017702": {
+  "FULL_NAME_FOUND": "Marlboro Rich Blue 100 Bx .50 Off",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Tobacco Products",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0028200177025",
+  "STATUS": "MATCHED"
+ },
+ "02840020132": {
+  "FULL_NAME_FOUND": "Lay's Chile Limon Flavored Potato Chips",
+  "DESCRIPTION": "Wherever celebrations and good times happen, Lay's® will be there. We have a flavor guaranteed to bring a smile on your face.",
+  "CATEGORY": "Chips",
+  "BRAND": "Lay's",
+  "SIZE": "",
+  "EAN": "0002840020132",
+  "STATUS": "MATCHED"
+ },
+ "02840031044": {
+  "FULL_NAME_FOUND": "Lay's Sour Cream & Onion Flavored Party Size Potato Chips - 12.50oz",
+  "DESCRIPTION": "Tempt your taste buds with a flavorful sensation found in Lay's Sour Cream & Onion flavored potato chips. These chips offer smooth flavor that will delight your taste buds, making them perfect for sharing. The aromatic onion flavor contrasts with the creaminess of the sour cream and gives you a delicious flavor combination in your mouth. Loved for years, it's the creamy and tangy chip flavor that never goes out of style.",
+  "CATEGORY": "Chips",
+  "BRAND": "Lay's",
+  "SIZE": "",
+  "EAN": "0028400310444",
+  "STATUS": "MATCHED"
  }
 }

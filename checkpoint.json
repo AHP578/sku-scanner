@@ -33268,5 +33268,83 @@
   "SIZE": "296 mL",
   "EAN": "0074471017201",
   "STATUS": "MATCHED"
+ },
+ "07615023249": {
+  "FULL_NAME_FOUND": "Act II Microwave Popcorn, Light Butter",
+  "DESCRIPTION": "ACT II has long been known as the best value in microwave popcorn. Americans are snacking more than ever, and popcorn adds whole grain and fiber to a diet vs other snacks like chips and candy.",
+  "CATEGORY": "Popcorn",
+  "BRAND": "Act II",
+  "SIZE": "",
+  "EAN": "0076150232493",
+  "STATUS": "MATCHED"
+ },
+ "07618320204": {
+  "FULL_NAME_FOUND": "Snapple Juice Drink, Mango Madness 20 Oz",
+  "DESCRIPTION": "You're probably wondering why our mangos are mad. Well, we'll tell you. They were living the good life as an under-the-radar fruit, until Snapple started bottling up their flavor to make this delicious fruit drink blend.",
+  "CATEGORY": "Juice",
+  "BRAND": "Snapple",
+  "SIZE": "591 mL",
+  "EAN": "0076183202043",
+  "STATUS": "MATCHED"
+ },
+ "07717051000": {
+  "FULL_NAME_FOUND": "Top Fine Gummed Cigarette Papers",
+  "DESCRIPTION": "Top 1 Paper offers a classic and reliable smoking experience. These papers are made from high-quality materials, providing a smooth and enjoyable smoke. Each pack contains top-notch papers that burn evenly, preserving the natural flavors of your smoking blend. Elevate your smoking ritual with these user-friendly and versatile rolling papers.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Top",
+  "SIZE": "",
+  "EAN": "0077170510004",
+  "STATUS": "MATCHED"
+ },
+ "07920005171": {
+  "FULL_NAME_FOUND": "Sweetarts Chewy Fusions Fruit Punch Medley Candy 5 Oz",
+  "DESCRIPTION": "Sweetarts chewy fusions are a sweet and sour candy pack that packs fruity fun and flavor into each candy bag. A perfect addition to goody bags or to add a variety of flavor to movie night, it doesn't get much better than SweeTARTS.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Sweetarts",
+  "SIZE": "",
+  "EAN": "0079200051716",
+  "STATUS": "MATCHED"
+ },
+ "09060000010": {
+  "FULL_NAME_FOUND": "USA Gold 100’s Cigarettes, Box",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "USA Gold",
+  "SIZE": "",
+  "EAN": "0090600000104",
+  "STATUS": "MATCHED"
+ },
+ "31254730695": {
+  "FULL_NAME_FOUND": "Listerine Total Care Anticavity Fluoride Mouthwash - Fresh Mint, 3.2 Fl Oz",
+  "DESCRIPTION": "Strengthen enamel and help make teeth 50% stronger than brushing alone with this anticavity mouthwash. The fluoride-rich formula kills bad breath germs while the fresh mint flavor leaves a clean feeling you can taste.",
+  "CATEGORY": "Mouthwash",
+  "BRAND": "Listerine",
+  "SIZE": "",
+  "EAN": "0312547306959",
+  "STATUS": "MATCHED"
+ },
+ "74475099800": {
+  "FULL_NAME_FOUND": "Leopard Miracle Honey",
+  "DESCRIPTION": "Secret Miracle Honey is a natural honey blend known for its potential health benefits and energy-boosting properties. Enjoy it as a sweet addition to tea, smoothies, or simply on its own.",
+  "CATEGORY": "Honey",
+  "BRAND": "Leopard",
+  "SIZE": "",
+  "EAN": "0744750998001",
+  "STATUS": "MATCHED"
+ },
+ "76362551175": {
+  "STATUS": "UNMATCHED"
+ },
+ "79394554546": {
+  "STATUS": "UNMATCHED"
+ },
+ "81016428086": {
+  "FULL_NAME_FOUND": "Geek Bar Sour Strawberry Pulse 15000 Disposable",
+  "DESCRIPTION": "offers an exceptional vaping experience with its bold and refreshing blend of sweet and sour strawberry flavors. Designed for convenience and longevity, this disposable vape delivers up to 15,000 puffs, making it ideal for vapers seeking a long-lasting, flavorful device. Enjoy the natural sweetness of ripe strawberries combined with a tangy sour twist that invigorates your palate with every puff. The sleek, portable design ensures easy use on the go, while the salt nicotine formula provides a smooth throat hit.",
+  "CATEGORY": "Nutrition Bars",
+  "BRAND": "Geek Bar",
+  "SIZE": "",
+  "EAN": "0810164280862",
+  "STATUS": "MATCHED"
  }
 }

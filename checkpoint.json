@@ -36292,5 +36292,95 @@
   "SIZE": "",
   "EAN": "0011233077226",
   "STATUS": "MATCHED"
+ },
+ "011233077295": {
+  "FULL_NAME_FOUND": "Table Talk Pies Old Fashioned Pumpkin Pie",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Pies & Tarts",
+  "BRAND": "Table Talk Pies",
+  "SIZE": "",
+  "EAN": "0011233077295",
+  "STATUS": "MATCHED"
+ },
+ "011642032014": {
+  "FULL_NAME_FOUND": "Choward's C Howards Lemon Mints",
+  "DESCRIPTION": "Still sporting their original 1930's label, Choward's Lemon mints will give your point of sale a vintage vibe. This hard-to-find crunchy mint packs an intense punch of lemon thanks to its all-natural lemon flavoring. A perfect puckering pick-me-up.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Choward's",
+  "SIZE": "",
+  "EAN": "0011642032014",
+  "STATUS": "MATCHED"
+ },
+ "011642037019": {
+  "FULL_NAME_FOUND": "C. Howard Co. Choward's Guava Candy 25 G",
+  "DESCRIPTION": "Guava tropical gum flavor. Bright counter display box. New flavor from a retro brand. Choward's candies have been a family favorite since the 1930s, when they were sold on the street corners of Manhattan. Today, they come in mouth-watering tropical fruit flavors like guava, but they still retain their old-fashioned charm.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "C. Howard Co.",
+  "SIZE": "",
+  "EAN": "0011642037019",
+  "STATUS": "MATCHED"
+ },
+ "012000001307": {
+  "FULL_NAME_FOUND": "Pepsi Diet Cola 20 Fl. Oz. Plastic Bottle",
+  "DESCRIPTION": "Now aspartame free. Sugar free. Very low sodium, 35 mg or less per 240 ml (8 fl oz).",
+  "CATEGORY": "Beverages",
+  "BRAND": "Pepsi",
+  "SIZE": "591 mL",
+  "EAN": "0012000001307",
+  "STATUS": "MATCHED"
+ },
+ "012000001321": {
+  "FULL_NAME_FOUND": "Diet Pepsi Cola 2 L Plastic Bottle",
+  "DESCRIPTION": "Diet Pepsi - 2 L. Diet Pepsi. Now aspartame free. 0 calories per 12 fl oz serving.",
+  "CATEGORY": "Soda",
+  "BRAND": "Diet Pepsi",
+  "SIZE": "2000 mL",
+  "EAN": "0012000001321",
+  "STATUS": "MATCHED"
+ },
+ "012000001345": {
+  "FULL_NAME_FOUND": "Diet Mountain Dew Citrus Soda - 20 Fl Oz Bottle",
+  "DESCRIPTION": "The original, the one that started it all. This green magic drink will quench your thirst every day of the week. Enjoy from the can, bottle, or glass, it is always a good time for a DEW. All the great, exhilarating taste of Mtn Dew, without the calories. The Only Diet With Dew In It.",
+  "CATEGORY": "Soda",
+  "BRAND": "Diet Mountain Dew",
+  "SIZE": "591 mL",
+  "EAN": "0012000001345",
+  "STATUS": "MATCHED"
+ },
+ "012000001406": {
+  "FULL_NAME_FOUND": "Mug Zero Sugar Soda Root Beer 20 Fl Oz",
+  "DESCRIPTION": "Cowboy tested, cowboy approved, our Pro Series jeans can handle hard work and hard wear. Twice as durable as traditional denim and reinforced in key areas, they have classic Western styling and a simple back pocket. The straight-leg M7 is slim and modern without being tight or restrictive.",
+  "CATEGORY": "Soda",
+  "BRAND": "Mug",
+  "SIZE": "591 mL",
+  "EAN": "0012000001406",
+  "STATUS": "MATCHED"
+ },
+ "012000001574": {
+  "FULL_NAME_FOUND": "Aquafina Packaged Water, Unflavored 33.8 Fl Oz",
+  "DESCRIPTION": "What’s the secret for perfectly pure tasting water? Our rigorous purification system. It takes out the stuff other bottled waters leave in.",
+  "CATEGORY": "Water",
+  "BRAND": "Aquafina",
+  "SIZE": "1000 mL",
+  "EAN": "0012000001574",
+  "STATUS": "MATCHED"
+ },
+ "012000001598": {
+  "FULL_NAME_FOUND": "Aquafina Purified Drinking Water 20 Fl Oz Plastic Bottle",
+  "DESCRIPTION": "Stay hydrated, healthy & active with Aquafina's Pure Unflavored Water. With a\\ncapacity of 20 fl oz, this bottle stores exactly the right amount of drinking\\nwater to stay hydrated even when on-the-go. Healthy bodies are happy bodies;\\npurified & put through a series of rigorous tests before each bottle of water\\nis sealed. Aquafina even puts your water through an intensive reverse osmosis\\npurification process & various other purification & filtration methods, so you\\nknow you're getting nothing but pure water and on-point taste consistency.\\nAquafine Bottled Water, it's pure & perfect packaged drinking water for you.",
+  "CATEGORY": "Water",
+  "BRAND": "Aquafina",
+  "SIZE": "591 mL",
+  "EAN": "0012000001598",
+  "STATUS": "MATCHED"
+ },
+ "012000002717": {
+  "FULL_NAME_FOUND": "Starbucks Chilled Coffee Drink, Caramel 9.5 Fl Oz",
+  "DESCRIPTION": "Café Frappuccino sabor caramelo de Starbucks, pack de 24 botellas de 9.5 oz. Refrescante y con el toque dulce del caramelo.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Starbucks",
+  "SIZE": "281 mL",
+  "EAN": "0012000002717",
+  "STATUS": "MATCHED"
  }
 }

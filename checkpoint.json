@@ -34174,5 +34174,95 @@
   "SIZE": "",
   "EAN": "0028400310444",
   "STATUS": "MATCHED"
+ },
+ "02840068684": {
+  "FULL_NAME_FOUND": "Doritos Tortilla Chips Tangy Pickle",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Chips",
+  "BRAND": "Doritos",
+  "SIZE": "",
+  "EAN": "0002840068684",
+  "STATUS": "MATCHED"
+ },
+ "02840069564": {
+  "FULL_NAME_FOUND": "Smartfood XXVL Doritos Nacho Cheese Flavored Popcorn - 2oz",
+  "DESCRIPTION": "There are people out there who would keep you and your beloved popcorn totally separate from Doritos. We are not those people. A new snack that will have you cheesin’. Grab a bag of the limited flavor Smartfood Doritos Nacho Cheese flavored popcorn today. Who comes up with these flavors? Geniuses, that’s who. After all, smart is in our name.",
+  "CATEGORY": "Popcorn",
+  "BRAND": "Smartfood",
+  "SIZE": "",
+  "EAN": "0028400695640",
+  "STATUS": "MATCHED"
+ },
+ "02840074130": {
+  "FULL_NAME_FOUND": "Nut Harvest Peanuts, Salted, Whole - 3.75 Ounce",
+  "DESCRIPTION": "Whether you’re going for a run or heading out to run errands, \"on the go\" shouldn’t mean going without the snacks that keep you going! Our nuts and trail mixes are a tasty way to stay satisfied while you’re out and about. Kosher7g protein per servingSee nutrition info for total fat content.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "Nut Harvest",
+  "SIZE": "",
+  "EAN": "0028400741309",
+  "STATUS": "MATCHED"
+ },
+ "02840076212": {
+  "FULL_NAME_FOUND": "Chester's Fries Corn Snacks Carolina Style BBQ Flavored",
+  "DESCRIPTION": "offers a crunchy, flavorful experience inspired by the tangy and smoky notes of Carolina-style barbecue. These corn snacks deliver a balanced blend of sweet, vinegar, and spice flavors, making them an excellent choice for those seeking a distinctive, savory snack. Ideal for casual snacking or sharing.",
+  "CATEGORY": "Chips",
+  "BRAND": "Chester's",
+  "SIZE": "",
+  "EAN": "0028400762120",
+  "STATUS": "MATCHED"
+ },
+ "03077212120": {
+  "FULL_NAME_FOUND": "Tide Liquid Laundry Detergent, Original, 25 Loads",
+  "DESCRIPTION": "Limpia y cuida tu ropa con este detergente líquido, que ofrece limpieza profunda y frescura duradera. Ideal para mantener tus prendas limpias, suaves y con aroma agradable.",
+  "CATEGORY": "Laundry Detergent",
+  "BRAND": "Tide",
+  "SIZE": "",
+  "EAN": "0030772121207",
+  "STATUS": "MATCHED"
+ },
+ "03077212275": {
+  "FULL_NAME_FOUND": "Tide + Detergent, A Touch Of Downy, April Fresh 1.06 Qt",
+  "DESCRIPTION": "El detergente líquido Tide April Fresh ofrece la limpieza increíble de Tide con el aroma único y encantador de Downy. Pruébalo y disfruta de tu ropa blanca y de color limpia, sin daños y con un aroma limpio y fresco. Además, su presentación líquida no deja residuos visibles en la tela y actúa profundamente para no dañar las fibras. ¡Para la limpieza increíble que conoces y te encanta, existe solo un Tide!",
+  "CATEGORY": "Laundry Detergent",
+  "BRAND": "Tide +",
+  "SIZE": "",
+  "EAN": "0030772122754",
+  "STATUS": "MATCHED"
+ },
+ "03170005882": {
+  "FULL_NAME_FOUND": "Game Leaf Tropical Reserve",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Games",
+  "BRAND": "Game",
+  "SIZE": "",
+  "EAN": "0031700058824",
+  "STATUS": "MATCHED"
+ },
+ "03333612812": {
+  "FULL_NAME_FOUND": "Gas Line Antifreeze 12 Floz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Vehicle Antifreeze",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0033336128124",
+  "STATUS": "MATCHED"
+ },
+ "03400094086": {
+  "FULL_NAME_FOUND": "Hershey's Kisses Milk Choc Grinch In Candy Cane 58g",
+  "DESCRIPTION": "With candy this good, no wonder the Grinch tried to steal some! Get your family into the holiday spirit with HERSHEY'S KISSES Milk Chocolates with Grinch® Foils. Your heart will grow three sizes with these festive sweets. Merry Grinchmas!",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Hershey's",
+  "SIZE": "",
+  "EAN": "0034000940868",
+  "STATUS": "MATCHED"
+ },
+ "03600054266": {
+  "FULL_NAME_FOUND": "Kleenex Trusted Care 2-ply Facial Tissues, Flat Boxes (160 Tissue/Box, 12 Boxes)",
+  "DESCRIPTION": "America’s favorite tissue, Kleenex Trusted Care is perfect for everyday sniffles, sneezes and even little drips or spills! Whether you’re looking for a box for your home or office, with Kleenex Trusted Care Facial Tissues, you get 1 flat box of 160 tissues, so you have plenty of single tissues for any occasion. Designed for runny noses and watery eyes, our dye-free, soft and strong tissue is thick and absorbent to keep hands clean. Plus, you can find tissue boxes that fit your home because each tissue box is available in various colors and designs. Got the sniffles? Soothe that runny nose with a box of Kleenex Soothing Lotion or Kleenex Ultra Soft facial tissues.",
+  "CATEGORY": "Facial Tissues",
+  "BRAND": "Kleenex",
+  "SIZE": "",
+  "EAN": "0036000542660",
+  "STATUS": "MATCHED"
  }
 }

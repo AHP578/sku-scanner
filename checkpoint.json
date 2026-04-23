@@ -36382,5 +36382,95 @@
   "SIZE": "281 mL",
   "EAN": "0012000002717",
   "STATUS": "MATCHED"
+ },
+ "012000002731": {
+  "FULL_NAME_FOUND": "Brisk Juice Drink, Lemonade 20 Fl Oz",
+  "DESCRIPTION": "Brisk has become the badge of creative hustlers everywhere. By bringing in-your-face flavors and vibrant colors to the juice drink and iced tea game we help you make your mark on the world.",
+  "CATEGORY": "Juice",
+  "BRAND": "Brisk",
+  "SIZE": "591 mL",
+  "EAN": "0012000002731",
+  "STATUS": "MATCHED"
+ },
+ "012000002953": {
+  "FULL_NAME_FOUND": "Pepsi Diet Cola 1 L Bottle",
+  "DESCRIPTION": "Light and crisp in flavour, Pepsi Diet is a delicious sparkling soda that will refresh you like nothing else. This exhilarating cola drink offers the classic, one-of-a-kind Pepsi taste with fewer calories – and in this case less actually means more. A true must-have during any celebration, Pepsi.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Pepsi",
+  "SIZE": "1000 mL",
+  "EAN": "0012000002953",
+  "STATUS": "MATCHED"
+ },
+ "012000003554": {
+  "FULL_NAME_FOUND": "Starbucks Coffee Drink, Chilled - 9.5 Fl Oz",
+  "DESCRIPTION": "Roost has designed the perfect lightweight performance shirt with Anglers & Hunters in mind. Made of 90% nylon and 10% spandex, the shirt has the perfect amount of weight and stretch to make it your favorite shirt.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Starbucks",
+  "SIZE": "281 mL",
+  "EAN": "0012000003554",
+  "STATUS": "MATCHED"
+ },
+ "012000003691": {
+  "FULL_NAME_FOUND": "Brisk Lemon Flavored Iced Tea - 20 Fl Oz Bottle",
+  "DESCRIPTION": "Brisk has become the badge of creative hustlers everywhere, and we're damn proud of it. By bringing in-your-face flavors, vibrant colors, and dynamic packaging to the juice drink and iced tea game, we attract anyone pushing themselves to make their mark on the world. Fuel your creativity with Brisk drinks.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Brisk",
+  "SIZE": "591 mL",
+  "EAN": "0012000003691",
+  "STATUS": "MATCHED"
+ },
+ "012000005312": {
+  "FULL_NAME_FOUND": "Pepsi Cola Soda, 20 Fl Oz",
+  "DESCRIPTION": "Pepsi - the bold, refreshing, robust cola. 20oz bottle. LIVE FOR NOW.",
+  "CATEGORY": "Soda",
+  "BRAND": "Pepsi",
+  "SIZE": "591 mL",
+  "EAN": "0012000005312",
+  "STATUS": "MATCHED"
+ },
+ "012000005336": {
+  "FULL_NAME_FOUND": "Pepsi Diet Cola 20 Fl Oz",
+  "DESCRIPTION": "Now aspartame free. 0 calories per bottle. Please recycle. Sugar free. Very low sodium, 35 mg or less per 240 ml (8 fl oz).",
+  "CATEGORY": "Soda",
+  "BRAND": "Pepsi",
+  "SIZE": "591 mL",
+  "EAN": "0012000005336",
+  "STATUS": "MATCHED"
+ },
+ "012000005695": {
+  "FULL_NAME_FOUND": "Pepsi Diet Cola 12 Fl. Oz. Can",
+  "DESCRIPTION": "With its light, crisp taste, Diet Pepsi gives you all the refreshment you need - with zero sugar, zero calories and zero carbs. Light. Crisp. Refreshing. Diet Pepsi. Nothing refreshes like a Diet Pepsi.",
+  "CATEGORY": "Soda",
+  "BRAND": "Pepsi",
+  "SIZE": "2129 mL",
+  "EAN": "0012000005695",
+  "STATUS": "MATCHED"
+ },
+ "012000006890": {
+  "FULL_NAME_FOUND": "Pure Leaf Organic Black Tea Valencia Orange Peel",
+  "DESCRIPTION": "Organic black tea with hints of Valencia Orange Peel flavors, crafted by our tea masters for an exquisite iced tea experience.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Pure Leaf",
+  "SIZE": "414 mL",
+  "EAN": "0012000006890",
+  "STATUS": "MATCHED"
+ },
+ "012000007163": {
+  "FULL_NAME_FOUND": "Pure Leaf Organic Black Tea Wild Blackberry & Sage 14 Fl Oz Bottle",
+  "DESCRIPTION": "Black tea with a hint of wild blackberry & sage. Flavor with other natural flavors. 90 calories per bottle. USDA Organic. Certified Organic by OTCO.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Pure Leaf",
+  "SIZE": "414 mL",
+  "EAN": "0012000007163",
+  "STATUS": "MATCHED"
+ },
+ "012000007170": {
+  "FULL_NAME_FOUND": "Pure Leaf Teahouse Collection Organic Green Tea Fuji Apple & Ginger Flavor 14 Fl Oz Bottle",
+  "DESCRIPTION": "Fuji Apple & Ginger flavor USDA organic and only 90 calories per serving Brewed from REAL tea leaves picked at their freshest, never from powder or concentrate (like some other teas). No artificial sweeteners or added color 14 ounce glass bottles, 8 count.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Pure Leaf",
+  "SIZE": "414 mL",
+  "EAN": "0012000007170",
+  "STATUS": "MATCHED"
  }
 }

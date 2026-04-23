@@ -35146,5 +35146,77 @@
   "SIZE": "",
   "EAN": "89601990",
   "STATUS": "MATCHED"
+ },
+ "000089602003": {
+  "FULL_NAME_FOUND": "ZYN Cool Watermelon Strong Nicotine Pouches 11mg",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "ZYN",
+  "SIZE": "",
+  "EAN": "89602003",
+  "STATUS": "MATCHED"
+ },
+ "000092000490": {
+  "FULL_NAME_FOUND": "Gatta Satti Matti 50 Den Punčochové Kalhoty",
+  "DESCRIPTION": "Punčocháče jsou vyrobené z moderní příze Lycra 3D. Model je měkký a na dotyk působí jako samet.",
+  "CATEGORY": "",
+  "BRAND": "Gatta",
+  "SIZE": "",
+  "EAN": "92000490",
+  "STATUS": "MATCHED"
+ },
+ "000096040928": {
+  "FULL_NAME_FOUND": "Dove Men + Care Silver Control Antiperspirant Stick 50ml",
+  "DESCRIPTION": "Introducing Dove Men Silver Control, the ultimate grooming solution designed specifically for the modern man who values both efficacy and sophistication in his daily routine. This advanced deodorant is not just a product; it's an essential part of your lifestyle that combines powerful protection with a touch of luxury. Experience long-lasting freshness and confidence with our unique formula that provides 48-hour odor protection. The Dove Men Silver Control is crafted to combat the challenges of daily life, ensuring that you feel and smell your best, no matter what the day throws your way. Whether you're tackling an intense workout, navigating a busy workday, or enjoying a night out with friends, this deodorant has got you covered. Each application glides on smoothly, delivering a refreshing burst of invigorating scent that leaves you feeling revitalized and ready to conquer. The subtle yet captivating fragrance is designed for the discerning gentleman, balancing strength with a refined finish. With Dove Men Silver Control, you will not only smell great but also embody the confidence that comes with knowing you are well-prepared. What sets Dove apart is our commitment to quality and skin care. This deodorant is enriched with moisturizing ingredients that help to soothe and nourish your skin, reducing irritation and discomfort that can come from daily grooming. Unlike many traditional deodorants that can leave you feeling dry or sticky, Dove Men Silver Control offers a comfortable, non-greasy application that keeps you feeling fresh and energized throughout the day. Furthermore, our product is crafted with a thoughtful approach to personal care, ensuring that you express your individuality while also prioritizing skin health. Suitable for all skin types, Dove Men Silver Control is dermatologically tested and free from common irritants that can lead to discomfort. Elevate your grooming routine and embrace the power of sophistication with Dove Men Silver Control. It’s more than just deodorant—it’s your partner in a lifestyle of confidence and style. Transform your daily rituals and experience the difference that quality grooming can make. Say goodbye to ordinary and embrace extraordinary freshness that lasts all day. Level up your self-care game and get ready to take on the world with Dove Men Silver Control—where protection meets elegance.",
+  "CATEGORY": "Cosmetics",
+  "BRAND": "Dove",
+  "SIZE": "",
+  "EAN": "96040928",
+  "STATUS": "MATCHED"
+ },
+ "001700057257": {
+  "STATUS": "UNMATCHED"
+ },
+ "002620047137": {
+  "STATUS": "UNMATCHED"
+ },
+ "002620047151": {
+  "STATUS": "UNMATCHED"
+ },
+ "005730154894": {
+  "FULL_NAME_FOUND": "Advil Tablets Pain Reliever Refill,200 Mg, 50 Two-Packs Per Box",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Medicine & Drugs",
+  "BRAND": "Advil",
+  "SIZE": "",
+  "EAN": "0005730154894",
+  "STATUS": "MATCHED"
+ },
+ "005926102852": {
+  "FULL_NAME_FOUND": "Tire Repair Kit Tubeless",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Plumbing Repair Kits",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0005926102852",
+  "STATUS": "MATCHED"
+ },
+ "008119810312": {
+  "FULL_NAME_FOUND": "Krave Kratom Cbd Capsules 75ct",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Health Care",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0008119810312",
+  "STATUS": "MATCHED"
+ },
+ "008346874507": {
+  "FULL_NAME_FOUND": "Slimfast Keto Meal Bar, Whipped Peanut Butter Chocolate",
+  "DESCRIPTION": "Gluten Free. No Artificial Sweeteners. No Artificial Flavors or Colors. Slim Fast Keto Meal Bars are meal replacement bars made with whey protein and coconut oil MCTs. Satisfy your hunger with low carb ketogenic nutrition from Slim Fast Keto Meal Bars.",
+  "CATEGORY": "Nutrition Bars",
+  "BRAND": "Slimfast",
+  "SIZE": "",
+  "EAN": "0008346874507",
+  "STATUS": "MATCHED"
  }
 }

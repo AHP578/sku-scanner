@@ -33520,5 +33520,95 @@
   "SIZE": "",
   "EAN": "0028400768566",
   "STATUS": "MATCHED"
+ },
+ "02840077205": {
+  "FULL_NAME_FOUND": "Doritos Tortilla Chips, Guacamole",
+  "DESCRIPTION": "The Doritos® brand is all about boldness. If you’re up to the challenge, grab a bag of Doritos® tortilla chips and get ready to make some memories you won’t soon forget. It’s a bold experience in snacking and beyond.",
+  "CATEGORY": "Chips",
+  "BRAND": "Doritos",
+  "SIZE": "",
+  "EAN": "0028400772051",
+  "STATUS": "MATCHED"
+ },
+ "03077212117": {
+  "FULL_NAME_FOUND": "Tide Original Scent Liquid Laundry Detergent 42 Oz 32 Loads",
+  "DESCRIPTION": "For an amazing clean you know and love, there's only one original. Tide original scent laundry detergent. Its revitalizing scent is infused with aloe and floral notes to help keep your family's clothes smelling as great as they look.",
+  "CATEGORY": "Laundry Detergent",
+  "BRAND": "Tide",
+  "SIZE": "",
+  "EAN": "0030772121177",
+  "STATUS": "MATCHED"
+ },
+ "03170005544": {
+  "FULL_NAME_FOUND": "Game Diamond 2 For 99c",
+  "DESCRIPTION": "Natural. Since 1882. Garcia y Vega, Fine Cigar makers since 1882. Bring you Game, the cigar blend born from heritage with a passion for today. Diamond. Garcia y Vega guarantees every cigar. If you are not totally satisfied, return the pouch and cigars with the date and place of purchase for a replacement coupon. Made in the Dominican Republic.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Game",
+  "SIZE": "",
+  "EAN": "0031700055441",
+  "STATUS": "MATCHED"
+ },
+ "03170005845": {
+  "FULL_NAME_FOUND": "Game Leaf Dark Rum 2pk 1.29",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Rum",
+  "BRAND": "Game",
+  "SIZE": "",
+  "EAN": "0031700058459",
+  "STATUS": "MATCHED"
+ },
+ "03400024522": {
+  "FULL_NAME_FOUND": "Kit Kat Big Milk Chocolate Wafer King Size, Candy Bar",
+  "DESCRIPTION": "This snack packs five crisp wafers layered with smooth milk chocolate to provide a satisfying crunch with every bite. Keep some for yourself, and share the rest with a friend!",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Kit Kat",
+  "SIZE": "",
+  "EAN": "0034000245222",
+  "STATUS": "MATCHED"
+ },
+ "03700034967": {
+  "FULL_NAME_FOUND": "Always Maxi Pads Size 1 Regular Super Absorbency Unscented With Wings",
+  "DESCRIPTION": "These pads have a flexible design to protect comfortably and move with you. Soft cover absorbs quickly and gives you a long-lasting clean and dry feeling. LeakGuard™ Core absorbs in seconds for up to eight hours of protection.",
+  "CATEGORY": "Personal Care",
+  "BRAND": "Always",
+  "SIZE": "",
+  "EAN": "0037000349679",
+  "STATUS": "MATCHED"
+ },
+ "03800023221": {
+  "FULL_NAME_FOUND": "Kellogg's Rice Krispies Treats Marshmallow Snack Bars, Chocolatey 3.1 Oz",
+  "DESCRIPTION": "Kellogg's Rice Krispies Treats Dunk'd Chocolatey Bars are the well-known Rice Krispies cereal pressed into a bar with melted marshmallows and coated in chocolate. A wonderful sweet treat for a good start to the day.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Kellogg's",
+  "SIZE": "",
+  "EAN": "0038000232213",
+  "STATUS": "MATCHED"
+ },
+ "04142005218": {
+  "FULL_NAME_FOUND": "Trolli Sour Gummy Candy Creations Martian Mix 4.25 Ounce Bag",
+  "DESCRIPTION": "A new revolutionary candy! This is the first gummy that you can stack, build, into tasty creations. Connectable sour gummy pieces come in a variety of alien-themed shapes for an unforgettably fun experience. Taste the fruity flavours of Trolli and pucker up for a kick of sourness. Create your own flavour combinations when you combine gummies together!",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Trolli",
+  "SIZE": "",
+  "EAN": "0041420052187",
+  "STATUS": "MATCHED"
+ },
+ "04150080502": {
+  "FULL_NAME_FOUND": "Frank's RedHot Red Hot Original Cayenne Pepper Sauce - 12 Ounce",
+  "DESCRIPTION": "The perfect blend of flavor and heat, this zero calorie sauce features a delectable mixture of aged cayenne pepper s. Fat free sauce has no preservatives or calories and is a product of the USA. Kosher certified and gluten free sauce. Add cup to your favorite Buffalo Chicken Dip recipe for a kick of heat and robust flavor. This cayenne pepper hot sauce was the secret ingredient used in the original Buffalo Wings created in Buffalo, NY in 1964.",
+  "CATEGORY": "Condiments & Sauces",
+  "BRAND": "Frank's RedHot",
+  "SIZE": "",
+  "EAN": "0041500805023",
+  "STATUS": "MATCHED"
+ },
+ "04150096780": {
+  "FULL_NAME_FOUND": "Frank's S Red Hot Original Cayenne Pepper Sauce 25 Oz",
+  "DESCRIPTION": "No. 1 buffalo wings flavor and the No.1 hot sauce in the USMade with a premium blend of aged cayenne peppersPerfect with chicken wings chili pizza burgers dips sandwichesThe perfect blend of flavor and heat.",
+  "CATEGORY": "Condiments & Sauces",
+  "BRAND": "Frank's",
+  "SIZE": "",
+  "EAN": "0041500967806",
+  "STATUS": "MATCHED"
  }
 }

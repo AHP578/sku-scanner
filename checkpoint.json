@@ -38716,5 +38716,89 @@
   "SIZE": "",
   "EAN": "0012300911719",
   "STATUS": "MATCHED"
+ },
+ "012345001109": {
+  "STATUS": "UNMATCHED"
+ },
+ "012345678905": {
+  "FULL_NAME_FOUND": "Castrol Full Service",
+  "DESCRIPTION": "Bluefin Cruise Carbon Fiber Paddle Board. Looking for the most reliable, flexible, all-inclusive Carbon Stand Up Inflatable Paddle Board Reliable on the market? Only Bluefin uses 1000 Denier Exo Laminate PVC & Pro Woven Drop Thread. These materials make our SUP boards so durable that they can bear up to 28 PSIs.",
+  "CATEGORY": "Beer",
+  "BRAND": "Castrol",
+  "SIZE": "104 mL",
+  "EAN": "0012345678905",
+  "STATUS": "MATCHED"
+ },
+ "012546001915": {
+  "FULL_NAME_FOUND": "Trident Island Berry Lime Sugar Free Gum - 18ct",
+  "DESCRIPTION": "Artificially flavored. Cleans & protects teeth (chewing Trident after eating and drinking cleans and protects teeth. Chewing Trident may help reduce the risk of cavities). 30% fewer calories than sugared gum. Calorie content of this size stick has been reduced from 5 to 3-1/2 calories. Facebook.com/tridentgum. Comments? Call 1-800-524-2854. Dispose of properly.",
+  "CATEGORY": "Chips",
+  "BRAND": "Trident",
+  "SIZE": "",
+  "EAN": "0012546001915",
+  "STATUS": "MATCHED"
+ },
+ "012546001939": {
+  "FULL_NAME_FOUND": "Trident Gum, Sugar Free, Mint Bliss",
+  "DESCRIPTION": "Helps fight cavities. Cleans and protects teeth. Long lasting flavor. 30% fewer calories than sugared gum. Calorie content of this size stick has been reduced from 5 to 3.5 calories.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Trident",
+  "SIZE": "",
+  "EAN": "0012546001939",
+  "STATUS": "MATCHED"
+ },
+ "012546002295": {
+  "FULL_NAME_FOUND": "Stride Gum Fearless Fruit 1x14 Pc",
+  "DESCRIPTION": "Calorie content of this size piece has been reduced from 5 to 3-1/2 Calories.",
+  "CATEGORY": "Fruits & Vegetables",
+  "BRAND": "Stride",
+  "SIZE": "",
+  "EAN": "0012546002295",
+  "STATUS": "MATCHED"
+ },
+ "012546002417": {
+  "FULL_NAME_FOUND": "Stride Id Tropical Fruit 14 Pc",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Mangoes",
+  "BRAND": "Stride",
+  "SIZE": "",
+  "EAN": "0012546002417",
+  "STATUS": "MATCHED"
+ },
+ "012546002455": {
+  "FULL_NAME_FOUND": "Stride Id Wintergreen 14 Pc",
+  "DESCRIPTION": "30% fewer calories than sugared gum. Calorie content of this size piece has been reduced from 5 to 3 1/2 calories.",
+  "CATEGORY": "Chips",
+  "BRAND": "Stride",
+  "SIZE": "",
+  "EAN": "0012546002455",
+  "STATUS": "MATCHED"
+ },
+ "012546003490": {
+  "FULL_NAME_FOUND": "Stride Golden Fruit 14 Pc",
+  "DESCRIPTION": "Shaun White Sugar Free Gum Stride Shaun White Gold Fruit flavor. Product of United Stated.",
+  "CATEGORY": "Gum Stimulators",
+  "BRAND": "Stride",
+  "SIZE": "",
+  "EAN": "0012546003490",
+  "STATUS": "MATCHED"
+ },
+ "012546004701": {
+  "FULL_NAME_FOUND": "Trident Perfect Peppermint Sugar Free Gum 18 Ct Pack",
+  "DESCRIPTION": "Naturally & artificially flavored. Cleans & protects teeth (Chewing Trident after eating and drinking cleans and protects teeth.). 30% fewer calories than sugared gum. Calorie content of this size stick has been reduced from 5 to 3-1/2 calories. Chewing Trident may help reduce the risk of cavities. facebook.com/tridentgum. Comments? Call 1-800-524-2854. Dispose of properly.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Trident",
+  "SIZE": "",
+  "EAN": "0012546004701",
+  "STATUS": "MATCHED"
+ },
+ "012546005234": {
+  "FULL_NAME_FOUND": "Stride Sour Patch Kids Redberry Sugar Free Gum 14 Piece Pack",
+  "DESCRIPTION": "Indulge in the delightful taste of Stride Sour Patch Kids Redberry Sugar Free Gum! This gum combines the iconic sour and sweet flavor of Sour Patch Kids with the refreshing taste of redberry, making it a perfect treat for gum lovers of all ages. Each piece is sugar-free, allowing you to enjoy the delicious flavor without the guilt. Ideal for freshening your breath or simply enjoying a sweet snack, this gum is a must-have for your pantry or on-the-go snacking.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Stride",
+  "SIZE": "",
+  "EAN": "0012546005234",
+  "STATUS": "MATCHED"
  }
 }

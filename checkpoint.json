@@ -37462,5 +37462,95 @@
   "SIZE": "591 mL",
   "EAN": "0012000183652",
   "STATUS": "MATCHED"
+ },
+ "012000183751": {
+  "FULL_NAME_FOUND": "Pepsi Soda Vanilla Cola 20 Fl Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Soda",
+  "BRAND": "Pepsi",
+  "SIZE": "591 mL",
+  "EAN": "0012000183751",
+  "STATUS": "MATCHED"
+ },
+ "012000184925": {
+  "FULL_NAME_FOUND": "Mtn Dew Voo Soda Mystery Flavor 20 Fl Oz",
+  "DESCRIPTION": "Mtn Dew exhilarates and quenches with its one of a kind, bold taste. Enjoy its chuggable intense refreshment. Crack open a cold Mtn Dew and refresh your taste buds.",
+  "CATEGORY": "Soda",
+  "BRAND": "Mtn Dew",
+  "SIZE": "591 mL",
+  "EAN": "0012000184925",
+  "STATUS": "MATCHED"
+ },
+ "012000190216": {
+  "FULL_NAME_FOUND": "Starbucks Coffee Drink, Chilled, Brown Butter Caramel 13.7 Fl Oz",
+  "DESCRIPTION": "Starbucks coffee drinks offer the bold, delicious taste of coffee with the rich flavors you know and love. This indulgence is proof that you can enjoy a little Starbucks wherever you may be.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Starbucks",
+  "SIZE": "405 mL",
+  "EAN": "0012000190216",
+  "STATUS": "MATCHED"
+ },
+ "012000190865": {
+  "FULL_NAME_FOUND": "Bubly Strawberry Sparkling Water - 16 Fl Oz Can",
+  "DESCRIPTION": "Oh hi! bubly sparkling water combines refreshing, crisp sparkling water with great tasting, natural flavors perfect for any occasion. bubly sparkling water has 0 calories, 0 sweeteners, and is sure to put a smile on your face. Try mixing with a twist of your favorite fresh fruit and serving over ice for a refreshing, low calorie treat.",
+  "CATEGORY": "Water",
+  "BRAND": "Bubly",
+  "SIZE": "473 mL",
+  "EAN": "0012000190865",
+  "STATUS": "MATCHED"
+ },
+ "012000190896": {
+  "FULL_NAME_FOUND": "Bubly Cherry Sparkling Water - 16 Fl Oz Can",
+  "DESCRIPTION": "Oh hi! bubly sparkling water combines refreshing, crisp sparkling water with great tasting, natural flavors perfect for any occasion. bubly sparkling water has 0 calories, 0 sweeteners, and is sure to put a smile on your face. Try mixing with a twist of your favorite fresh fruit and serving over ice for a refreshing, low calorie treat.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Bubly",
+  "SIZE": "473 mL",
+  "EAN": "0012000190896",
+  "STATUS": "MATCHED"
+ },
+ "012000191435": {
+  "FULL_NAME_FOUND": "Mountain Dew Mtn Zero Sugar Soda, Citrus, 20 Fl Oz",
+  "DESCRIPTION": "Charged for anything. Keep on doing you with Mtn Dew. Mtn Dew will quench your thirst every day of the week. Mtn Dew doesn't have to be green. Our broad flavor collection has something for everyone. Can, bottle, or glass, it is always a good time for a DEW. Chill hard, refresh harder. Do the dew.",
+  "CATEGORY": "Soda",
+  "BRAND": "Mountain Dew",
+  "SIZE": "591 mL",
+  "EAN": "0012000191435",
+  "STATUS": "MATCHED"
+ },
+ "012000191862": {
+  "FULL_NAME_FOUND": "Pure Leaf Peach Hibiscus Flavor, Brewed Herbal Tea",
+  "DESCRIPTION": "View Pure Leaf- Pure Leaf, Peach Hibiscus Flavor, Brewed Herbal Tea- 012000191862- product information via SmartLabel™!",
+  "CATEGORY": "Cactus Leaves",
+  "BRAND": "Pure Leaf",
+  "SIZE": "",
+  "EAN": "0012000191862",
+  "STATUS": "MATCHED"
+ },
+ "012000192883": {
+  "FULL_NAME_FOUND": "Starbucks Nitro Cold Brew Premium Coffee Drink Dark Caramel Flavored 9.6 Fl Oz Can",
+  "DESCRIPTION": "Starbucks coffee drinks offer the bold, delicious taste of coffee with the rich flavors you know and love. This indulgence is proof that you can enjoy a little Starbucks wherever you may be.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Starbucks",
+  "SIZE": "284 mL",
+  "EAN": "0012000192883",
+  "STATUS": "MATCHED"
+ },
+ "012000193095": {
+  "FULL_NAME_FOUND": "Pure Leaf Slightly Sweet Black Cold Brew Tea 14 Fl Oz",
+  "DESCRIPTION": "Includes 1 bottle of Pure Leaf Cold Brew Lightly Sweet Black Tea At pure leaf, we believe the best things in life are real and simple. Rainforest alliance certified 60 calories per bottle.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Pure Leaf",
+  "SIZE": "414 mL",
+  "EAN": "0012000193095",
+  "STATUS": "MATCHED"
+ },
+ "012000193118": {
+  "FULL_NAME_FOUND": "Pure Leaf Cold Brew Tea, Tropical Mango 14 Fl Oz",
+  "DESCRIPTION": "At pure leaf, we believe the best things in life are real and simple. But sometimes, simplicity takes a little more work. Before each pure leaf brew is freshly bottled and sealed, our tea leaves are given a lot of love and attention, resulting in refreshing, leaf brewed tea (not from powder or concentrate).",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Pure Leaf",
+  "SIZE": "414 mL",
+  "EAN": "0012000193118",
+  "STATUS": "MATCHED"
  }
 }

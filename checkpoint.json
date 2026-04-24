@@ -37012,5 +37012,95 @@
   "SIZE": "1000 mL",
   "EAN": "0012000161230",
   "STATUS": "MATCHED"
+ },
+ "012000161476": {
+  "FULL_NAME_FOUND": "Brisk Half & Half, Iced Tea + Watermelon Lemonade 1 L",
+  "DESCRIPTION": "Brisk has become the badge of creative hustlers everywhere. By bringing in-your-face flavors and vibrant colors to the juice drink and iced tea game we help you make your mark on the world.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Brisk",
+  "SIZE": "1000 mL",
+  "EAN": "0012000161476",
+  "STATUS": "MATCHED"
+ },
+ "012000161940": {
+  "FULL_NAME_FOUND": "Mtn Dew Soda, Green Apple Kiwi, Crafted 16 Oz",
+  "DESCRIPTION": "Mtn Dew exhilarates and quenches with its one of a kind, bold taste. Enjoy its chuggable intense refreshment. Crack open a cold Mtn Dew and refresh your taste buds.",
+  "CATEGORY": "Soda",
+  "BRAND": "Mtn Dew",
+  "SIZE": "473 mL",
+  "EAN": "0012000161940",
+  "STATUS": "MATCHED"
+ },
+ "012000162152": {
+  "FULL_NAME_FOUND": "Mountain Dew Mtn Kickstart Sparkling Juice Beverage Blend Energizing Mango Lime 16 Fl Oz",
+  "DESCRIPTION": "Naturally and artificially flavored sparkling juice beverage blend from concentrate. 80 calories per can.",
+  "CATEGORY": "Juice",
+  "BRAND": "Mountain Dew",
+  "SIZE": "473 mL",
+  "EAN": "0012000162152",
+  "STATUS": "MATCHED"
+ },
+ "012000162183": {
+  "FULL_NAME_FOUND": "Mountain Dew White Label Soda, With Crafted Tropical Citrus",
+  "DESCRIPTION": "Flavor with other natural flavors. Mysteriously exotic Dew. Product questions? 1-800-433-2652. 140 calories per can. Low sodium.",
+  "CATEGORY": "Soda",
+  "BRAND": "Mountain Dew",
+  "SIZE": "473 mL",
+  "EAN": "0012000162183",
+  "STATUS": "MATCHED"
+ },
+ "012000162473": {
+  "FULL_NAME_FOUND": "Mountain Dew Juice Beverage Blend, Energizing Raspberry Citrus 12 Oz",
+  "DESCRIPTION": "Enjoy the delicious Mtn Dew Kickstart taste you love, now with coconut water and vitamins for an even more refreshing charge. With Dew and real fruit juice, Mtn Dew Kickstart is the delicious-tasting boost you've been looking for.",
+  "CATEGORY": "Juice",
+  "BRAND": "Mountain Dew",
+  "SIZE": "355 mL",
+  "EAN": "0012000162473",
+  "STATUS": "MATCHED"
+ },
+ "012000162527": {
+  "FULL_NAME_FOUND": "Starbucks Coffee Drink, Black, Unsweet, Cold Brew, Premium 11 Fl Oz",
+  "DESCRIPTION": "Delight yourself with the rich taste of black coffee with the Unsweetened Cold Brew Black Coffee from Starbucks™. This Starbucks indulgence lets you enjoy your favorite brew right in the comfort of your home, so you can skip the lines and get to work on time. Since it's unsweetened, you can enjoy it as is or with a splash of your favorite creamer for added depth and flavor.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Starbucks",
+  "SIZE": "325 mL",
+  "EAN": "0012000162527",
+  "STATUS": "MATCHED"
+ },
+ "012000162541": {
+  "FULL_NAME_FOUND": "Starbucks Cold Brew Premium Coffee Drink Cocoa & Honey Flavored 11 Fl Oz Bottle",
+  "DESCRIPTION": "Starbucks coffee drinks offer the bold, delicious taste of coffee with the rich flavors you know and love. This indulgence is proof that you can enjoy a little Starbucks wherever you may be.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Starbucks",
+  "SIZE": "325 mL",
+  "EAN": "0012000162541",
+  "STATUS": "MATCHED"
+ },
+ "012000162565": {
+  "FULL_NAME_FOUND": "Izze Fusions Orange Mango Sparkling Beverage 12 Fluid Ounce Aluminum Can",
+  "DESCRIPTION": "IZZE FUSIONS is a sorta soda, a sorta juice, a sorta sparkling water. It's a fizzy collision of fruit flavors and bubbles. Lighter than soda, more delicious than sparkling water, and more refreshing than juice. IZZE FUSIONS is the magic in-between.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Izze",
+  "SIZE": "355 mL",
+  "EAN": "0012000162565",
+  "STATUS": "MATCHED"
+ },
+ "012000162589": {
+  "FULL_NAME_FOUND": "Izze Fusions Strawberry Melon Sparkling Beverage 12 Fl. Oz. Can",
+  "DESCRIPTION": "IZZE FUSIONS is a sorta soda, a sorta juice, a sorta sparkling water. It's a fizzy collision of fruit flavors and bubbles. Lighter than soda, more delicious than sparkling water, and more refreshing than juice. IZZE FUSIONS is the magic in-between.",
+  "CATEGORY": "Melons",
+  "BRAND": "Izze",
+  "SIZE": "",
+  "EAN": "0012000162589",
+  "STATUS": "MATCHED"
+ },
+ "012000162688": {
+  "FULL_NAME_FOUND": "Lemon Lemon Sparkling Lemonade, Original Flavor",
+  "DESCRIPTION": "Lemon Lemon is sparkling lemonade with lemon goodness in every sip. 6% lemon juice, sparkling water, and a touch of sweetness. It's a bubbly reminder to get back to your most real. Very Very Lemon Lemon.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Lemon Lemon",
+  "SIZE": "355 mL",
+  "EAN": "0012000162688",
+  "STATUS": "MATCHED"
  }
 }

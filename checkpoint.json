@@ -36562,5 +36562,95 @@
   "SIZE": "473 mL",
   "EAN": "0012000021183",
   "STATUS": "MATCHED"
+ },
+ "012000021381": {
+  "FULL_NAME_FOUND": "Ocean Spray Juice Drink Grape Cranberry 15.2 Fl Oz Bottle",
+  "DESCRIPTION": "Refreshingly healthy beverage combines the crisp taste of cranberries with the juiciness of grapes to offer a good-for-you juice drink that's fat-free and low in sodium. Juice provides 100 percent of the daily amount of Vitamin C your body needs to stay healthy. Convenient bottle features a screw-on cap that's excellent while you're on-the-go.",
+  "CATEGORY": "Juice",
+  "BRAND": "Ocean Spray",
+  "SIZE": "450 mL",
+  "EAN": "0012000021381",
+  "STATUS": "MATCHED"
+ },
+ "012000027666": {
+  "FULL_NAME_FOUND": "AMP Energy Active Orange 16 Fluid Ounce Can",
+  "DESCRIPTION": "Be smart about managing your energy. A one-size fits all jolt of energy isn't what your body needs. AMP has a range of energy products to make sure the energy level matches the occasion, to keep life as productive as it needs to be.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "AMP",
+  "SIZE": "473 mL",
+  "EAN": "0012000027666",
+  "STATUS": "MATCHED"
+ },
+ "012000030307": {
+  "FULL_NAME_FOUND": "Pepsi Diet Slam Can",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Pepsi",
+  "SIZE": "473 mL",
+  "EAN": "0012000030307",
+  "STATUS": "MATCHED"
+ },
+ "012000031960": {
+  "FULL_NAME_FOUND": "Pepsi Zero Sugar Soda Cola 16.9 Fl Oz 6 Count Bottles",
+  "DESCRIPTION": "Pepsi Cola Soda Pop is the bold, refreshing cola born in New Bern, NC in 1898 and still bottled in the USA. Pepsi Cola Soda Pop is the official soft drink of the National Football League, Major League Baseball, and cola lovers everywhere. Perfect for parties, meals, and celebrations big and small.",
+  "CATEGORY": "Soda",
+  "BRAND": "Pepsi",
+  "SIZE": "2999 mL",
+  "EAN": "0012000031960",
+  "STATUS": "MATCHED"
+ },
+ "012000034022": {
+  "FULL_NAME_FOUND": "Brisk Peach Flavor, Iced Tea",
+  "DESCRIPTION": "Brisk has become the badge of creative hustlers everywhere. By bringing in-your-face flavors and vibrant colors to the juice drink and iced tea game we help you make your mark on the world.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Brisk",
+  "SIZE": "1000 mL",
+  "EAN": "0012000034022",
+  "STATUS": "MATCHED"
+ },
+ "012000038488": {
+  "FULL_NAME_FOUND": "Starbucks White Chocolate Energy Coffee Beverage 15 Fl Oz",
+  "DESCRIPTION": "Few things in life are black and white, but the combination of rich, bold Starbucks coffee and sweet, creamy white chocolate with a hint of rich dark chocolate flavors? Undeniably, indulgently delicious.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Starbucks",
+  "SIZE": "443 mL",
+  "EAN": "0012000038488",
+  "STATUS": "MATCHED"
+ },
+ "012000039218": {
+  "FULL_NAME_FOUND": "Brisk Lipton Sweet Tea With Lemon 24 Fl. Oz. Can",
+  "DESCRIPTION": "The original iced tea with tons of attitude. The one with the bold lemon flavor that kicked iced tea off the back porch and gave it some street cred. Now that's Brisk, baby!",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Brisk",
+  "SIZE": "710 mL",
+  "EAN": "0012000039218",
+  "STATUS": "MATCHED"
+ },
+ "012000039232": {
+  "FULL_NAME_FOUND": "Brisk Half & Half, Iced Tea Lemonade 24 Oz",
+  "DESCRIPTION": "From concentrate with other natural flavors. 40 calories per 8 fl oz serving.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Brisk",
+  "SIZE": "710 mL",
+  "EAN": "0012000039232",
+  "STATUS": "MATCHED"
+ },
+ "012000039331": {
+  "FULL_NAME_FOUND": "Brisk Iced Tea Sweet 24 Fl Oz",
+  "DESCRIPTION": "OK, we admit it. We scoured the South for the boldest Sweet Tea Recipe we could find. Then we stole it. Once you taste our Brisk Sweet Tea, we think you'll agree - the buckshot in our fenders was worth it.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Brisk",
+  "SIZE": "710 mL",
+  "EAN": "0012000039331",
+  "STATUS": "MATCHED"
+ },
+ "012000041174": {
+  "FULL_NAME_FOUND": "Pure Leaf Honey Green Tea Real Brewed 18.50 Fl Oz",
+  "DESCRIPTION": "Iced Tea is brewed from real leaves. We start with fresh picked leaves and combine themwith the delicious taste of real honey for a delicious beverage at 100 calories per bottle.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Pure Leaf",
+  "SIZE": "547 mL",
+  "EAN": "0012000041174",
+  "STATUS": "MATCHED"
  }
 }

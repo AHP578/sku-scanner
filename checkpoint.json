@@ -36922,5 +36922,95 @@
   "SIZE": "591 mL",
   "EAN": "0012000151262",
   "STATUS": "MATCHED"
+ },
+ "012000151484": {
+  "FULL_NAME_FOUND": "Amp Boosted Mandarin Orange Energy Drink 16 Fluid Ounce Can",
+  "DESCRIPTION": "AMP ENERGY with an intense burst of wild berry cherry flavor and 2x Vitamin C. Now in a new, conveniently resealable bottle!",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Amp",
+  "SIZE": "473 mL",
+  "EAN": "0012000151484",
+  "STATUS": "MATCHED"
+ },
+ "012000151897": {
+  "FULL_NAME_FOUND": "1893 Pepsi Original Cola 12 Fl. Oz. Sleek Single Can",
+  "DESCRIPTION": "A bold spin on an original cola. Boldly blended cola made with Kola nut extract, dark brown malt flavor, a touch of aromatic bitters, sparkling water, and real sugar.",
+  "CATEGORY": "Beverages",
+  "BRAND": "1893",
+  "SIZE": "355 mL",
+  "EAN": "0012000151897",
+  "STATUS": "MATCHED"
+ },
+ "012000151903": {
+  "FULL_NAME_FOUND": "1893 Pepsi Original Ginger Cola 12oz Can",
+  "DESCRIPTION": "A premium cola spiced with real ginger. Boldly blended cola made with Kola nut extract, real ginger, sparkling water, and real sugar.",
+  "CATEGORY": "Beverages",
+  "BRAND": "1893",
+  "SIZE": "355 mL",
+  "EAN": "0012000151903",
+  "STATUS": "MATCHED"
+ },
+ "012000160677": {
+  "FULL_NAME_FOUND": "Pure Leaf Real Brewed Tea Mint 18.5 Fl Oz Bottle",
+  "DESCRIPTION": "At pure leaf, we believe the best things in life are real and simple. But sometimes, simplicity takes a little more work. Before each pure leaf brew is freshly bottled and sealed, our tea leaves are given a lot of love and attention, resulting in refreshing, leaf brewed tea (not from powder or concentrate).",
+  "CATEGORY": "Beverages",
+  "BRAND": "Pure Leaf",
+  "SIZE": "547 mL",
+  "EAN": "0012000160677",
+  "STATUS": "MATCHED"
+ },
+ "012000161056": {
+  "FULL_NAME_FOUND": "Diet Pepsi, Classic Sweetener Blend",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Sugar & Sweeteners",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0012000161056",
+  "STATUS": "MATCHED"
+ },
+ "012000161063": {
+  "FULL_NAME_FOUND": "Pepsi Soda, Diet",
+  "DESCRIPTION": "With its light, crisp taste, Diet Pepsi gives you all the refreshment you need - with zero sugar, zero calories and zero carbs. Light. Crisp. Refreshing. Diet Pepsi. Nothing refreshes like a Diet Pepsi.",
+  "CATEGORY": "Soda",
+  "BRAND": "Pepsi",
+  "SIZE": "355 mL",
+  "EAN": "0012000161063",
+  "STATUS": "MATCHED"
+ },
+ "012000161162": {
+  "FULL_NAME_FOUND": "LifeWtr Triple Filtered Purified Water 23.7 Fl Oz",
+  "DESCRIPTION": "A premium bottled water that fuses creativity and design to serve as a source of inspiration as well as hydration. Lifewtr is a purified water, pH balanced with electrolytes added for taste.",
+  "CATEGORY": "Water",
+  "BRAND": "LifeWtr",
+  "SIZE": "701 mL",
+  "EAN": "0012000161162",
+  "STATUS": "MATCHED"
+ },
+ "012000161193": {
+  "FULL_NAME_FOUND": "1893 Pepsi Soda Citrus Cola 12 Fl Oz",
+  "DESCRIPTION": "Premium cola infused with grapefruit essence. Flavor with other natural flavors. 150 Calories per can. Low sodium.",
+  "CATEGORY": "Beverages",
+  "BRAND": "1893",
+  "SIZE": "355 mL",
+  "EAN": "0012000161193",
+  "STATUS": "MATCHED"
+ },
+ "012000161209": {
+  "FULL_NAME_FOUND": "1893 Pepsi Soda Black Currant Cola 12 Fl Oz",
+  "DESCRIPTION": "Premium cola infused with a bold berry finish. Flavor with other natural flavors. 150 calories per can. Low sodium.",
+  "CATEGORY": "Beverages",
+  "BRAND": "1893",
+  "SIZE": "355 mL",
+  "EAN": "0012000161209",
+  "STATUS": "MATCHED"
+ },
+ "012000161230": {
+  "FULL_NAME_FOUND": "Brisk Strawberry Melon Iced Tea 1 Liter Bottle",
+  "DESCRIPTION": "Brisk has become the badge of creative hustlers everywhere. By bringing in-your-face flavors and vibrant colors to the juice drink and iced tea game we help you make your mark on the world.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Brisk",
+  "SIZE": "1000 mL",
+  "EAN": "0012000161230",
+  "STATUS": "MATCHED"
  }
 }

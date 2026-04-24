@@ -36652,5 +36652,95 @@
   "SIZE": "547 mL",
   "EAN": "0012000041174",
   "STATUS": "MATCHED"
+ },
+ "012000041419": {
+  "FULL_NAME_FOUND": "Starbucks Light Medium Roast Iced Coffee 11 Fl. Oz. Bottle",
+  "DESCRIPTION": "Premium coffee beverage. Some coffee beans were born to be chilled. These beans and just the right touch of sweetness create a crisp, refreshing taste. It's the perfect way to stay cool all year long without the guilt.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Starbucks",
+  "SIZE": "325 mL",
+  "EAN": "0012000041419",
+  "STATUS": "MATCHED"
+ },
+ "012000041495": {
+  "FULL_NAME_FOUND": "Starbucks Iced Coffee, Caramel",
+  "DESCRIPTION": "With other natural flavors. 2% milk. Lightly sweetened. Premium coffee beverage. 110 calories per bottle. Some coffee beans were born to be chilled. These beans plus lusciously rich caramel flavor create a refreshing, pick-me-up taste. It's the perfect way to stay cool all year long. For comments or questions, call 1-800-211-8307. Please recycle. starbucks.com/icedcoffee.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Starbucks",
+  "SIZE": "325 mL",
+  "EAN": "0012000041495",
+  "STATUS": "MATCHED"
+ },
+ "012000042461": {
+  "FULL_NAME_FOUND": "Starbucks Coffee Beverage, Energy, Hazelnut 15 Fl Oz",
+  "DESCRIPTION": "A powerful does of rich, bold Starbucks coffee. Toasty hazelnut flavors in a refreshing wave of B vitamins, guarana and ginseng. Mix it all together and you've got a powerful rush of flavor. Drink up. Then rule the world.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Starbucks",
+  "SIZE": "444 mL",
+  "EAN": "0012000042461",
+  "STATUS": "MATCHED"
+ },
+ "012000042669": {
+  "FULL_NAME_FOUND": "Brisk Half & Half, Iced Tea + Cherry Limeade 1 L",
+  "DESCRIPTION": "Brisk has become the badge of creative hustlers everywhere. By bringing in-your-face flavors and vibrant colors to the juice drink and iced tea game we help you make your mark on the world.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Brisk",
+  "SIZE": "1000 mL",
+  "EAN": "0012000042669",
+  "STATUS": "MATCHED"
+ },
+ "012000042737": {
+  "FULL_NAME_FOUND": "Brisk Half & Half, Iced Tea + Tropical Lemonade 1.05 Qt",
+  "DESCRIPTION": "Brisk has become the badge of creative hustlers everywhere. By bringing in-your-face flavors and vibrant colors to the juice drink and iced tea game we help you make your mark on the world.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Brisk",
+  "SIZE": "1000 mL",
+  "EAN": "0012000042737",
+  "STATUS": "MATCHED"
+ },
+ "012000043000": {
+  "FULL_NAME_FOUND": "Mountain Dew Kickstart, Energizing Black Cherry Flavored, Juice Drink",
+  "DESCRIPTION": "Black cherry flavored juice drink from concentrate with other natural flavors. 80 calories per can. Caffeine.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Mountain Dew",
+  "SIZE": "473 mL",
+  "EAN": "0012000043000",
+  "STATUS": "MATCHED"
+ },
+ "012000044304": {
+  "FULL_NAME_FOUND": "Pure Leaf Real Brewed Tea Pomegranate 18.5 Fl Oz",
+  "DESCRIPTION": "At pure leaf, we believe the best things in life are real and simple. But sometimes, simplicity takes a little more work. Before each pure leaf brew is freshly bottled and sealed, our tea leaves are given a lot of love and attention, resulting in refreshing, leaf brewed tea (not from powder or concentrate).",
+  "CATEGORY": "Beverages",
+  "BRAND": "Pure Leaf",
+  "SIZE": "547 mL",
+  "EAN": "0012000044304",
+  "STATUS": "MATCHED"
+ },
+ "012000064500": {
+  "FULL_NAME_FOUND": "Dole Strawberry Lemonade 20 Fl Oz Bottle",
+  "DESCRIPTION": "Now you can enjoy the sweet taste of our sun-ripened fruits in a tall, refreshing glass. Dole juices are ready to drink right out of your refrigerator.",
+  "CATEGORY": "Juice",
+  "BRAND": "Dole",
+  "SIZE": "591 mL",
+  "EAN": "0012000064500",
+  "STATUS": "MATCHED"
+ },
+ "012000071744": {
+  "FULL_NAME_FOUND": "Ocean Spray Dole 100% Juice, Orange 15.2 Fl Oz",
+  "DESCRIPTION": "Now you can enjoy the sweet taste of our sun-ripened fruits in a tall, refreshing glass. Dole juices are ready to drink right out of your refrigerator ' 100% juice and no added sugar.",
+  "CATEGORY": "Juice",
+  "BRAND": "Ocean Spray",
+  "SIZE": "450 mL",
+  "EAN": "0012000071744",
+  "STATUS": "MATCHED"
+ },
+ "012000071768": {
+  "FULL_NAME_FOUND": "Ocean Spray Juice Cocktail, Strawberry Kiwi - 15.2 Fl Oz",
+  "DESCRIPTION": "Now you can enjoy the sweet taste of our sun-ripened fruits in a tall, refreshing glass. Dole juices are ready to drink right out of your refrigerator - 100% juice and no added sugar.",
+  "CATEGORY": "Juice",
+  "BRAND": "Ocean Spray",
+  "SIZE": "450 mL",
+  "EAN": "0012000071768",
+  "STATUS": "MATCHED"
  }
 }

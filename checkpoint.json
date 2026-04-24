@@ -37282,5 +37282,95 @@
   "SIZE": "500 mL",
   "EAN": "0012000173219",
   "STATUS": "MATCHED"
+ },
+ "012000173301": {
+  "FULL_NAME_FOUND": "Brisk Dual Force, Guava Ginger + Limeade Flavor, Iced Tea",
+  "DESCRIPTION": "Brisk has become the badge of creative hustlers everywhere. By bringing in-your-face flavors and vibrant colors to the juice drink and iced tea game we help you make your mark on the world.",
+  "CATEGORY": "Guavas",
+  "BRAND": "Brisk",
+  "SIZE": "",
+  "EAN": "0012000173301",
+  "STATUS": "MATCHED"
+ },
+ "012000180323": {
+  "FULL_NAME_FOUND": "Mtn Dew Mountain Juice Drink, Pineapple Orange Mango 16 Oz",
+  "DESCRIPTION": "Mtn Dew exhilarates and quenches with its one of a kind, bold taste. Enjoy its chuggable intense refreshment. Crack open a cold Mtn Dew and refresh your taste buds.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Mtn Dew",
+  "SIZE": "473 mL",
+  "EAN": "0012000180323",
+  "STATUS": "MATCHED"
+ },
+ "012000180583": {
+  "FULL_NAME_FOUND": "Mtn Dew Game Fuel Energy Drink Charged Cherry Burst Naturally & Artificially Flavored 16 Fl Oz",
+  "DESCRIPTION": "Charged berry burst naturally & artificially cherry flavored energy drink. 90 Calories per can.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Mtn Dew",
+  "SIZE": "473 mL",
+  "EAN": "0012000180583",
+  "STATUS": "MATCHED"
+ },
+ "012000180590": {
+  "FULL_NAME_FOUND": "Mtn Dew Game Fuel Energy Drink Charged Berry Blast Flavored 16 Fl Oz",
+  "DESCRIPTION": "Mtn Dew exhilarates and quenches with its one of a kind, bold taste. Enjoy its chuggable intense refreshment. Crack open a cold Mtn Dew and refresh your taste buds.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Mtn Dew",
+  "SIZE": "473 mL",
+  "EAN": "0012000180590",
+  "STATUS": "MATCHED"
+ },
+ "012000180606": {
+  "FULL_NAME_FOUND": "Mtn Dew Energy Drink, Charged Tropical Strike 16 Fl Oz",
+  "DESCRIPTION": "Includes 1 can of MTN DEW AMP GAME FUEL, Tropical Strike flavor. LVL UP THE GAME with MTN DEW AMP GAME FUEL. Specially crafted with theanine and caffeine, which in combination have been shown to improve accuracy and alertness. Resealable tech helps keep your MTN DEW AMP GAME FUEL fresh and your hardware dry so you can focus on grinding. Tactile grip - specially textured ink provides a superior grip. Made with real fruit juice. Available in four flavors - Charged Cherry Burst, Charged Berry Blast, Charged Tropical Strike, and Charged Original Dew.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Mtn Dew",
+  "SIZE": "473 mL",
+  "EAN": "0012000180606",
+  "STATUS": "MATCHED"
+ },
+ "012000180613": {
+  "FULL_NAME_FOUND": "Mtn Dew Game Fuel Energy Drink Charged Original Flavored 16 Fl Oz",
+  "DESCRIPTION": "Mtn Dew exhilarates and quenches with its one of a kind, bold taste. Enjoy its chuggable intense refreshment. Crack open a cold Mtn Dew and refresh your taste buds.",
+  "CATEGORY": "Soda",
+  "BRAND": "Mtn Dew",
+  "SIZE": "473 mL",
+  "EAN": "0012000180613",
+  "STATUS": "MATCHED"
+ },
+ "012000180941": {
+  "FULL_NAME_FOUND": "Pure Leaf Brewed Herbal Tea Cherry Hibiscus 18.5 Fl Oz Bottle",
+  "DESCRIPTION": "At pure leaf, we believe the best things in life are real and simple. But sometimes, simplicity takes a little more work. Before each pure leaf brew is freshly bottled and sealed, our tea leaves are given a lot of love and attention, resulting in refreshing, leaf brewed tea (not from powder or concentrate).",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Pure Leaf",
+  "SIZE": "547 mL",
+  "EAN": "0012000180941",
+  "STATUS": "MATCHED"
+ },
+ "012000181030": {
+  "FULL_NAME_FOUND": "Pure Leaf Herbal Tea, Brewed, Mango Hibiscus 18.5 Fl Oz",
+  "DESCRIPTION": "At pure leaf, we believe the best things in life are real and simple. But sometimes, simplicity takes a little more work. Before each pure leaf brew is freshly bottled and sealed, our tea leaves are given a lot of love and attention, resulting in refreshing, leaf brewed tea (not from powder or concentrate).",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Pure Leaf",
+  "SIZE": "547 mL",
+  "EAN": "0012000181030",
+  "STATUS": "MATCHED"
+ },
+ "012000181054": {
+  "FULL_NAME_FOUND": "Pure Leaf Brewed Herbal Tea Peach Hibiscus 18.5 Fl Oz",
+  "DESCRIPTION": "At pure leaf, we believe the best things in life are real and simple. But sometimes, simplicity takes a little more work. Before each pure leaf brew is freshly bottled and sealed, our tea leaves are given a lot of love and attention, resulting in refreshing, leaf brewed tea (not from powder or concentrate).",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Pure Leaf",
+  "SIZE": "547 mL",
+  "EAN": "0012000181054",
+  "STATUS": "MATCHED"
+ },
+ "012000181085": {
+  "FULL_NAME_FOUND": "Mountain Dew Merry Mash Up Cranberry Pomegranate Soda",
+  "DESCRIPTION": "Mtn Dew exhilarates and quenches with its one of a kind, bold taste. Enjoy its chuggable intense refreshment. Crack open a cold Mtn Dew and refresh your taste buds.",
+  "CATEGORY": "Soda",
+  "BRAND": "Mountain Dew",
+  "SIZE": "591 mL",
+  "EAN": "0012000181085",
+  "STATUS": "MATCHED"
  }
 }

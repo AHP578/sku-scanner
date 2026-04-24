@@ -37372,5 +37372,95 @@
   "SIZE": "591 mL",
   "EAN": "0012000181085",
   "STATUS": "MATCHED"
+ },
+ "012000181290": {
+  "FULL_NAME_FOUND": "Starbucks Triple Shot Energy Coffee Beverage Caffe Mocha - 15 Fluid Ounce Can",
+  "DESCRIPTION": "Enjoy your favorite chilled coffee drink on the go thanks to Starbucks bottled coffee drinks. All made with real Starbucks coffee, you can enjoy the flavor of your favorite café drinks at home and on the go. The perfect late afternoon pick-me-up, this delicious cold coffee treat is great straight from the bottle or enjoyed over ice.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Starbucks",
+  "SIZE": "444 mL",
+  "EAN": "0012000181290",
+  "STATUS": "MATCHED"
+ },
+ "012000181313": {
+  "FULL_NAME_FOUND": "Starbucks Coffee Beverage, Energy, Extra Strength, French Vanilla 15 Fl Oz",
+  "DESCRIPTION": "Enjoy your favorite chilled coffee drink on the go thanks to Starbucks bottled coffee drinks. All made with real Starbucks coffee, you can enjoy the flavor of your favorite café drinks at home and on the go. The perfect late afternoon pick-me-up, this delicious cold coffee treat is great straight from the bottle or enjoyed over ice.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Starbucks",
+  "SIZE": "444 mL",
+  "EAN": "0012000181313",
+  "STATUS": "MATCHED"
+ },
+ "012000181337": {
+  "FULL_NAME_FOUND": "Starbucks Triple Shot Energy Coffee Caramel - 15 Fl Oz Can",
+  "DESCRIPTION": "Enjoy your favorite chilled coffee drink on the go thanks to Starbucks bottled coffee drinks. All made with real Starbucks coffee, you can enjoy the flavor of your favorite café drinks at home and on the go. The perfect late afternoon pick-me-up, this delicious cold coffee treat is great straight from the bottle or enjoyed over ice.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Starbucks",
+  "SIZE": "444 mL",
+  "EAN": "0012000181337",
+  "STATUS": "MATCHED"
+ },
+ "012000181467": {
+  "FULL_NAME_FOUND": "Starbucks Toasted White Chocolate Coffee Drink",
+  "DESCRIPTION": "Enjoy your favorite chilled coffee drink on the go thanks to Starbucks bottled coffee drinks. All made with real Starbucks coffee, you can enjoy the flavor of your favorite café drinks at home and on the go. The perfect late afternoon pick-me-up, this delicious cold coffee treat is great straight from the bottle or enjoyed over ice.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Starbucks",
+  "SIZE": "405 mL",
+  "EAN": "0012000181467",
+  "STATUS": "MATCHED"
+ },
+ "012000181481": {
+  "FULL_NAME_FOUND": "Pure Leaf Mango Hibiscus Brewed Herbal Tea",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Pure Leaf",
+  "SIZE": "500 mL",
+  "EAN": "0012000181481",
+  "STATUS": "MATCHED"
+ },
+ "012000181627": {
+  "FULL_NAME_FOUND": "Pure Leaf Brewed Tea, Real, Extra Sweet 16.9 Fl Oz",
+  "DESCRIPTION": "At pure leaf, we believe the best things in life are real and simple. But sometimes, simplicity takes a little more work. Before each pure leaf brew is freshly bottled and sealed, our tea leaves are given a lot of love and attention, resulting in refreshing, leaf brewed tea (not from powder or concentrate).",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Pure Leaf",
+  "SIZE": "500 mL",
+  "EAN": "0012000181627",
+  "STATUS": "MATCHED"
+ },
+ "012000181658": {
+  "FULL_NAME_FOUND": "Pure Leaf Brewed Tea, Real, Lemon 16.9 Fl Oz",
+  "DESCRIPTION": "The deliciously tart flavor of lemon is the perfect companion for fresh-brewed tea. Authentically brewed using real tea leaves and water and sweetened with real sugar, for an iced tea that’s, well, exactly how you’d make it.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Pure Leaf",
+  "SIZE": "500 mL",
+  "EAN": "0012000181658",
+  "STATUS": "MATCHED"
+ },
+ "012000181689": {
+  "FULL_NAME_FOUND": "Pure Leaf Real Raspberry Brewed Tea 16.9 Fl Oz",
+  "DESCRIPTION": "Raspberry, with its balance of sweet and tangy flavor, perfectly complements our classic iced tea. Always brewed using real tea leaves and sweetened with real sugar, it's raspberry flavored iced just the way you like it.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Pure Leaf",
+  "SIZE": "500 mL",
+  "EAN": "0012000181689",
+  "STATUS": "MATCHED"
+ },
+ "012000183386": {
+  "FULL_NAME_FOUND": "Mountain Dew Mtn Baja Blast Zero Sugar Tropical Lime Flavor 20 Fl Oz Bottle",
+  "DESCRIPTION": "Charged for anything. Keep on doing you with Mtn Dew. Mtn Dew will quench your thirst every day of the week. Mtn Dew doesn't have to be green. Our broad flavor collection has something for everyone. Can, bottle, or glass, it is always a good time for a DEW. Chill hard, refresh harder. Do the dew.",
+  "CATEGORY": "Soda",
+  "BRAND": "Mountain Dew",
+  "SIZE": "591 mL",
+  "EAN": "0012000183386",
+  "STATUS": "MATCHED"
+ },
+ "012000183652": {
+  "FULL_NAME_FOUND": "Mtn Dew Mountain Soda, Liberty Brew",
+  "DESCRIPTION": "Experience the refreshing taste of Mountain Dew Liberty Brew! Indulge in the unique flavor of Mountain Dew Liberty Brew, a limited-edition soda that combines a variety of bold flavors for a truly exhilarating experience. This 20 fluid ounce bottle is perfect for quenching your thirst on a hot day or energizing your next adventure. Whether you are at a picnic, a party, or just relaxing at home, Liberty Brew is the ideal companion to keep you refreshed and energized.",
+  "CATEGORY": "Soda",
+  "BRAND": "Mtn Dew",
+  "SIZE": "591 mL",
+  "EAN": "0012000183652",
+  "STATUS": "MATCHED"
  }
 }

@@ -38002,5 +38002,95 @@
   "SIZE": "591 mL",
   "EAN": "0012000213687",
   "STATUS": "MATCHED"
+ },
+ "012000220104": {
+  "FULL_NAME_FOUND": "Starbucks Premium Coffee Drink, Pumpkin Cream, Cold Brew 9.6 Fl Oz",
+  "DESCRIPTION": "Bold Starbucks Cold Brew Coffee infused with nitrogen microbubbles to create a rush of creamy texture and a velvety smooth taste for a more enjoyable coffee experience now in a delicious, limited edition flavor- Nitro Cold Brew Pumpkin Cream. Gently shake can once, pop open and pour hard into a cold glass for maximum enjoyment.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Starbucks",
+  "SIZE": "284 mL",
+  "EAN": "0012000220104",
+  "STATUS": "MATCHED"
+ },
+ "012000220166": {
+  "FULL_NAME_FOUND": "Mtn Dew Soda Voo Mystery Flavor 20 Fl Oz Bottle",
+  "DESCRIPTION": "Mtn Dew exhilarates and quenches with its one of a kind, bold taste. Enjoy its chuggable intense refreshment. Crack open a cold Mtn Dew and refresh your taste buds.",
+  "CATEGORY": "Soda",
+  "BRAND": "Mtn Dew",
+  "SIZE": "591 mL",
+  "EAN": "0012000220166",
+  "STATUS": "MATCHED"
+ },
+ "012000220296": {
+  "FULL_NAME_FOUND": "Mtn Dew Energy Drink, Baja Blast 16 Fl Oz",
+  "DESCRIPTION": "Mtn Dew exhilarates and quenches with its one of a kind, bold taste. Enjoy its chuggable intense refreshment. Crack open a cold Mtn Dew and refresh your taste buds.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Mtn Dew",
+  "SIZE": "473 mL",
+  "EAN": "0012000220296",
+  "STATUS": "MATCHED"
+ },
+ "012000220623": {
+  "FULL_NAME_FOUND": "Mtn Dew Energy Drink Code Red Cherry 16 Fl Oz Can",
+  "DESCRIPTION": "Mtn Dew Energy Code Red energy drink is a cherry flavor with 180mg caffeine, caffeine equivalent to approximately 2 cups of coffee. Mtn Dew Energy, energy to conquer the morning. With 5% juice, 0g of added sugar and zinc to help support immune function this is a great drink choice to give you an energy boost in the morning or afternoon. Citicoline and caffeine in combination have been shown to improve attention.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Mtn Dew",
+  "SIZE": "473 mL",
+  "EAN": "0012000220623",
+  "STATUS": "MATCHED"
+ },
+ "012000220654": {
+  "FULL_NAME_FOUND": "Mtn Dew Soda, Fruit Quake 20 Fl Oz",
+  "DESCRIPTION": "MTN DEW doesn't have to be green. Our broad flavor collection has something for everyone. Try the limited time only MTN DEW Fruit Quake flavored soda. Dew with a blast of artificial fruitcake flavor. Your mind and your taste buds will be put in Holiday mode, what could be better!",
+  "CATEGORY": "Soda",
+  "BRAND": "Mtn Dew",
+  "SIZE": "591 mL",
+  "EAN": "0012000220654",
+  "STATUS": "MATCHED"
+ },
+ "012000221415": {
+  "FULL_NAME_FOUND": "Mtn Dew Energy Drink, Pitch Black 16 Fl Oz",
+  "DESCRIPTION": "Mtn Dew exhilarates and quenches with its one of a kind, bold taste. Enjoy its chuggable intense refreshment. Crack open a cold Mtn Dew and refresh your taste buds.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Mtn Dew",
+  "SIZE": "473 mL",
+  "EAN": "0012000221415",
+  "STATUS": "MATCHED"
+ },
+ "012000221514": {
+  "FULL_NAME_FOUND": "Starry Soda, Caffeine Free, Lemon Lime 20 Fl Oz",
+  "DESCRIPTION": "Try the NEW Starry Lemon Lime soda with a crisp, clear burst of lemon lime flavor. This caffeine-free soda is the perfect addition to your everyday routine, whether you have it with a meal or on its own. Grab a can or bottle today and try the New Starry Lemon Lime soda.",
+  "CATEGORY": "Soda",
+  "BRAND": "Starry",
+  "SIZE": "591 mL",
+  "EAN": "0012000221514",
+  "STATUS": "MATCHED"
+ },
+ "012000221521": {
+  "FULL_NAME_FOUND": "Starry Zero Sugar Lemon Lime Caffeine Free Soda Bottle",
+  "DESCRIPTION": "Try the NEW Starry Zero Sugar Lemon Lime soda with a crisp, clear burst of lemon lime flavor. This caffeine-free soda is the perfect addition to your everyday routine, whether you have it with a meal or on its own. Grab a can or bottle today and try the New Starry Zero Sugar Lemon Lime soda.",
+  "CATEGORY": "Soda",
+  "BRAND": "Starry",
+  "SIZE": "591 mL",
+  "EAN": "0012000221521",
+  "STATUS": "MATCHED"
+ },
+ "012000223303": {
+  "FULL_NAME_FOUND": "Mtn Dew Baja Passionfruit Punch Soda - 20 Fl Oz Bottle",
+  "DESCRIPTION": "Mtn Dew exhilarates and quenches with its one of a kind, bold taste. Enjoy this chuggable intense refreshment. Open a cold bottle or can of Mtn Dew and refresh your taste buds. Mountain Dew, the original instigator that refreshes with its great taste. Experience DEW with a blast of natural & artificial Passionfruit flavor.",
+  "CATEGORY": "Soda",
+  "BRAND": "Mtn Dew",
+  "SIZE": "591 mL",
+  "EAN": "0012000223303",
+  "STATUS": "MATCHED"
+ },
+ "012000223341": {
+  "FULL_NAME_FOUND": "Mtn Dew Baja Caribbean Splash Soda - 20 Fl Oz Bottle",
+  "DESCRIPTION": "Mtn Dew exhilarates and quenches with its one of a kind, bold taste. Enjoy this chuggable intense refreshment. Open a cold bottle or can of Mtn Dew and refresh your taste buds. Mountain Dew, the original instigator that refreshes with its great taste. Experience DEW with a blast of natural & artificial Guava flavor.",
+  "CATEGORY": "Soda",
+  "BRAND": "Mtn Dew",
+  "SIZE": "591 mL",
+  "EAN": "0012000223341",
+  "STATUS": "MATCHED"
  }
 }

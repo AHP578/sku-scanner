@@ -37552,5 +37552,95 @@
   "SIZE": "414 mL",
   "EAN": "0012000193118",
   "STATUS": "MATCHED"
+ },
+ "012000193132": {
+  "FULL_NAME_FOUND": "Pure Leaf Black Tea, Unsweetened, Cold Brew",
+  "DESCRIPTION": "At pure leaf, we believe the best things in life are real and simple. But sometimes, simplicity takes a little more work. Before each pure leaf brew is freshly bottled and sealed, our tea leaves are given a lot of love and attention, resulting in refreshing, leaf brewed tea (not from powder or concentrate).",
+  "CATEGORY": "Coffee",
+  "BRAND": "Pure Leaf",
+  "SIZE": "414 mL",
+  "EAN": "0012000193132",
+  "STATUS": "MATCHED"
+ },
+ "012000193156": {
+  "FULL_NAME_FOUND": "Pure Leaf Brewed Herbal Tea Unsweetened Mango Hibiscus 18.5 Fl Oz",
+  "DESCRIPTION": "At pure leaf, we believe the best things in life are real and simple. But sometimes, simplicity takes a little more work. Before each pure leaf brew is freshly bottled and sealed, our tea leaves are given a lot of love and attention, resulting in refreshing, leaf brewed tea (not from powder or concentrate).",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Pure Leaf",
+  "SIZE": "547 mL",
+  "EAN": "0012000193156",
+  "STATUS": "MATCHED"
+ },
+ "012000193736": {
+  "FULL_NAME_FOUND": "Brisk Iced Tea Blackberry Smash 1 Liter",
+  "DESCRIPTION": "With a refreshing blend of blackberry flavors, Brisk Blackberry Smash offers a rich taste experience. Made with real fruit extracts, this 1L beverage is a delicious choice for any occasion. With no added sugars and only 10 calories per serving, it's a guilt-free way to quench your thirst.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Brisk",
+  "SIZE": "1000 mL",
+  "EAN": "0012000193736",
+  "STATUS": "MATCHED"
+ },
+ "012000194153": {
+  "FULL_NAME_FOUND": "Sierra Mist Soda, Cranberry Splash",
+  "DESCRIPTION": "Lemon-lime & cranberry flavored soda with other natural flavors. Caffeine free. 210 calories per bottle. No artificial sweeteners. Please recycle. Contains 0% juice. Very low sodium, 35 mg or less per 240 ml (8 fl oz). Product questions? 1-800-433-2652. sierramist.com.",
+  "CATEGORY": "Soda",
+  "BRAND": "Sierra Mist",
+  "SIZE": "591 mL",
+  "EAN": "0012000194153",
+  "STATUS": "MATCHED"
+ },
+ "012000194207": {
+  "FULL_NAME_FOUND": "Mtn Dew Soda, Frost Bite 20 Fl Oz",
+  "DESCRIPTION": "Mtn Dew exhilarates and quenches with its one of a kind, bold taste. Enjoy its chuggable intense refreshment. Crack open a cold Mtn Dew and refresh your taste buds.",
+  "CATEGORY": "Soda",
+  "BRAND": "Mtn Dew",
+  "SIZE": "591 mL",
+  "EAN": "0012000194207",
+  "STATUS": "MATCHED"
+ },
+ "012000200298": {
+  "FULL_NAME_FOUND": "Bubly Bounce Mango Passion Fruit Sparkling Water - 16 Fl Oz Can",
+  "DESCRIPTION": "bubly sparkling water combines refreshing, crisp sparkling water with great tasting, natural flavors perfect for any occasion. With 0 calories and 0 sweeteners, bubly sparkling water is sure to put a smile on your face.",
+  "CATEGORY": "Water",
+  "BRAND": "Bubly",
+  "SIZE": "473 mL",
+  "EAN": "0012000200298",
+  "STATUS": "MATCHED"
+ },
+ "012000201271": {
+  "FULL_NAME_FOUND": "Mtn Dew Mountain Soda 20 Fl Oz",
+  "DESCRIPTION": "Mountain Dew exhilarates and quenches with its one of a kind, bold taste. Enjoy its chuggable intense refreshment. Crack open a cold Mtn Dew and refresh your taste buds.",
+  "CATEGORY": "Soda",
+  "BRAND": "Mtn Dew",
+  "SIZE": "591 mL",
+  "EAN": "0012000201271",
+  "STATUS": "MATCHED"
+ },
+ "012000202926": {
+  "FULL_NAME_FOUND": "Pepsi Blue Berry Flavored Cola",
+  "DESCRIPTION": "Enjoy an ice cold Pepsi, the bold, refreshing cola. Pepsi is the official soft drink of the National Football League, Major League Baseball, and cola lovers everywhere. Pepsi was born in New Bern, NC in 1898 and is still bottled in the USA today. Perfect for parties, meals, and anywhere you need to make a big impression. These mini cans are perfect for portion control and great to take on the go for refreshing Pepsi anytime, anywhere. Enjoy the refreshing cola taste right out of the can, over ice, or with a twist of lemon or lime. For a classic treat, try serving with a scoop of vanilla ice cream!",
+  "CATEGORY": "Beverages",
+  "BRAND": "Pepsi",
+  "SIZE": "591 mL",
+  "EAN": "0012000202926",
+  "STATUS": "MATCHED"
+ },
+ "012000204784": {
+  "FULL_NAME_FOUND": "Starbucks Coffee Drink, Premium, Dark Cocoa Sweet Cream, Nitro Cold Brew 9.6 Fl Oz",
+  "DESCRIPTION": "Enjoy your favorite chilled coffee drink on the go thanks to Starbucks bottled coffee drinks. All made with real Starbucks coffee, you can enjoy the flavor of your favorite café drinks at home and on the go. The perfect late afternoon pick-me-up, this delicious cold coffee treat is great straight from the bottle or enjoyed over ice.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Starbucks",
+  "SIZE": "284 mL",
+  "EAN": "0012000204784",
+  "STATUS": "MATCHED"
+ },
+ "012000204807": {
+  "FULL_NAME_FOUND": "Starbucks Nitro Cold Brew Premium Coffee Drink Sweet Cream 9.6 Fl Oz Can",
+  "DESCRIPTION": "Bold Starbucks Cold Brew Coffee infused with nitrogen micro-bubbles to create a rush of creamy texture and a velvety smooth taste for a more enjoyable coffee experience now in delicious new flavor- Nitro Cold Brew with a Splash of Sweet Cream. Gently tilt the can once, pop open, and pour into a cold glass for maximum enjoyment. Enjoy cold.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Starbucks",
+  "SIZE": "284 mL",
+  "EAN": "0012000204807",
+  "STATUS": "MATCHED"
  }
 }

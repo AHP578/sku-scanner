@@ -36742,5 +36742,95 @@
   "SIZE": "450 mL",
   "EAN": "0012000071768",
   "STATUS": "MATCHED"
+ },
+ "012000071782": {
+  "FULL_NAME_FOUND": "Ocean Spray Ruby Red Juice Drink Grapefruit 15.2 Fl Oz Bottle",
+  "DESCRIPTION": "Ocean spray 100% juice is made with the crisp, clean taste of real cranberries straight from the bog. Plus, it has no added sugar, a daily dose of vitamin c, and two full servings (1 cup) of fruit, so it tastes good and is good for you, too.",
+  "CATEGORY": "Grapefruits",
+  "BRAND": "Ocean Spray",
+  "SIZE": "",
+  "EAN": "0012000071782",
+  "STATUS": "MATCHED"
+ },
+ "012000110221": {
+  "FULL_NAME_FOUND": "Brisk Mango Iced Tea 24 Fluid Ounce Can",
+  "DESCRIPTION": "Treat your tastebuds to a delicious blast of Brisk Mango Tea. One sip and bam! It's a fiesta in your mouth.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Brisk",
+  "SIZE": "710 mL",
+  "EAN": "0012000110221",
+  "STATUS": "MATCHED"
+ },
+ "012000110443": {
+  "FULL_NAME_FOUND": "Mtn Dew Mountain Kickstart Flavored Juice Drink Energizing Orange Citrus 16 Fl Oz Can",
+  "DESCRIPTION": "Experience the refreshing burst of energy with Mountain Dew Kickstart! Indulge in the invigorating taste of Orange Citrus with this energizing sparkling juice beverage. Perfect for a quick pick-me-up, Mountain Dew Kickstart combines the classic flavor of Mountain Dew with the refreshing qualities of juice, making it an ideal choice for any time of day. Whether you are gearing up for a workout, need a boost during your busy day, or simply want to enjoy a delicious drink, this 16 fluid ounce can is your go-to option.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Mtn Dew",
+  "SIZE": "473 mL",
+  "EAN": "0012000110443",
+  "STATUS": "MATCHED"
+ },
+ "012000110467": {
+  "FULL_NAME_FOUND": "Mtn Dew Mountain Juice Drink, Fruit Punch Flavored, Energizing",
+  "DESCRIPTION": "Experience the perfect blend of bold citrus flavor and sweet fruity punch with Mountain Dew Kickstart! Refreshing and energizing, this 473ML can delivers a burst of energy with every sip. Get ready to kickstart your day with Mountain Dew!",
+  "CATEGORY": "Beverages",
+  "BRAND": "Mtn Dew",
+  "SIZE": "473 mL",
+  "EAN": "0012000110467",
+  "STATUS": "MATCHED"
+ },
+ "012000112102": {
+  "FULL_NAME_FOUND": "Aquafina Water Beverage, Sparkling, Color Me Kiwi 16.9 Oz",
+  "DESCRIPTION": "Kiwi strawberry flavor with other natural flavors. Sparkling nutrient enhanced flavored water beverage. 0 calories per bottle. Great tasting water + delicious flavor + B vitamins. Contains 0% juice, sugar free, low sodium. This is how we make a splash. How about you? Find out more, tell us more www.facebook.com/flavorsplash. aquafina.com. Please recycle.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Aquafina",
+  "SIZE": "500 mL",
+  "EAN": "0012000112102",
+  "STATUS": "MATCHED"
+ },
+ "012000112119": {
+  "FULL_NAME_FOUND": "Aquafina Water Beverage, Sparkling, Peelin' Good 16.9 Oz",
+  "DESCRIPTION": "Orange citrus flavor with other natural flavor. Sparkling nutrient enhanced flavored water beverage. 0 calories per bottle. Great tasting water. Delicious flavor. B vitamins. Contains 0% juice, sugar free, low sodium. This is how we make a splash. How about you? Find out more, tell us more www.facebook.com/flavorsplash. aquafina.com. Please recycle.",
+  "CATEGORY": "Water",
+  "BRAND": "Aquafina",
+  "SIZE": "500 mL",
+  "EAN": "0012000112119",
+  "STATUS": "MATCHED"
+ },
+ "012000126338": {
+  "FULL_NAME_FOUND": "Amp Energy Focus Mixed Berry 16 Fluid Ounce Can",
+  "DESCRIPTION": "Be smart about managing your energy. A one-size fits all jolt of energy isn't what your body needs. AMP has a range of energy products to make sure the energy level matches the occasion, to keep life as productive as it needs to be.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Amp",
+  "SIZE": "473 mL",
+  "EAN": "0012000126338",
+  "STATUS": "MATCHED"
+ },
+ "012000126352": {
+  "FULL_NAME_FOUND": "Mountain Dew Mtn Amp Energy Drink Cherry Blast 16 Fl Oz",
+  "DESCRIPTION": "Cherry flavored energy drink with other natural flavors. 120 calories per can.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Mountain Dew",
+  "SIZE": "473 mL",
+  "EAN": "0012000126352",
+  "STATUS": "MATCHED"
+ },
+ "012000130311": {
+  "FULL_NAME_FOUND": "Mountain Dew Baja Blast Soda",
+  "DESCRIPTION": "Mountain Dew Baja Blast, with its refreshingly bold Tropical Lime taste, has been a fan favorite for years. Perfect taste to quench your thirst.",
+  "CATEGORY": "Soda",
+  "BRAND": "Mountain Dew",
+  "SIZE": "355 mL",
+  "EAN": "0012000130311",
+  "STATUS": "MATCHED"
+ },
+ "012000140921": {
+  "FULL_NAME_FOUND": "Pepsi Cola Soda Bottle",
+  "DESCRIPTION": "Pepsi is the bold, refreshing cola perfect for parties, meals, and anywhere you need to make a big impression.",
+  "CATEGORY": "Soda",
+  "BRAND": "Pepsi",
+  "SIZE": "1250 mL",
+  "EAN": "0012000140921",
+  "STATUS": "MATCHED"
  }
 }

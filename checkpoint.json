@@ -37102,5 +37102,95 @@
   "SIZE": "355 mL",
   "EAN": "0012000162688",
   "STATUS": "MATCHED"
+ },
+ "012000162916": {
+  "FULL_NAME_FOUND": "Mtn Dew Spiked Soda, Lemonade, Non Alcoholic",
+  "DESCRIPTION": "Spied with prickly pear cactus juice. Lemonade flavored from concentrate with other natural flavors. 140 calories per can. No artificial sweeteners.",
+  "CATEGORY": "Soda",
+  "BRAND": "Mtn Dew",
+  "SIZE": "473 mL",
+  "EAN": "0012000162916",
+  "STATUS": "MATCHED"
+ },
+ "012000162947": {
+  "FULL_NAME_FOUND": "Mtn Dew Spiked Soda, Raspberry Lemonade, Non Alcoholic",
+  "DESCRIPTION": "Spiked with prickly pear cactus juice. Raspberry lemonade flavored dew from concentrate with other natural flavors. 140 calories per can. No artificial sweeteners.",
+  "CATEGORY": "Soda",
+  "BRAND": "Mtn Dew",
+  "SIZE": "473 mL",
+  "EAN": "0012000162947",
+  "STATUS": "MATCHED"
+ },
+ "012000163203": {
+  "FULL_NAME_FOUND": "Starbucks DoubleShot Energy Coffee Beverage Mocha Flavor 11 Fl Oz Can",
+  "DESCRIPTION": "Starbucks coffee drinks offer the bold, delicious taste of coffee with the rich flavors you know and love. This indulgence is proof that you can enjoy a little Starbucks wherever you may be.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Starbucks",
+  "SIZE": "325 mL",
+  "EAN": "0012000163203",
+  "STATUS": "MATCHED"
+ },
+ "012000170232": {
+  "FULL_NAME_FOUND": "Amp Mountain Dew Organic Pineapple & Coconut Energy Drink Can",
+  "DESCRIPTION": "AMP ENERGY Organic is an organic energy drink that gives you energy for everything life throws at you. And then some. It's made with just 5 simple ingredients and is USDA Certified Organic.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Amp",
+  "SIZE": "355 mL",
+  "EAN": "0012000170232",
+  "STATUS": "MATCHED"
+ },
+ "012000170751": {
+  "FULL_NAME_FOUND": "Pepsi Cola, Zero Sugar, Wild Cherry 20 Fl Oz",
+  "DESCRIPTION": "Wild cherry flavor with other natural flavors. 0 calories per bottle.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Pepsi",
+  "SIZE": "591 mL",
+  "EAN": "0012000170751",
+  "STATUS": "MATCHED"
+ },
+ "012000170799": {
+  "FULL_NAME_FOUND": "Mountain Dew Mnt Kickstart Sparkling Juice Beverage Energizing Original 16 Fl Oz Can",
+  "DESCRIPTION": "Mtn Dew exhilarates and quenches with its one of a kind, bold taste. Enjoy its chuggable intense refreshment. Crack open a cold Mtn Dew and refresh your taste buds.",
+  "CATEGORY": "Juice",
+  "BRAND": "Mountain Dew",
+  "SIZE": "473 mL",
+  "EAN": "0012000170799",
+  "STATUS": "MATCHED"
+ },
+ "012000170829": {
+  "FULL_NAME_FOUND": "Mountain Dew Mtn Soda Kickstart Energizing Original Ultra - 16 Fl. Oz",
+  "DESCRIPTION": "Mtn Dew exhilarates and quenches with its one of a kind, bold taste. Enjoy its chuggable intense refreshment. Crack open a cold Mtn Dew and refresh your taste buds.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Mountain Dew",
+  "SIZE": "473 mL",
+  "EAN": "0012000170829",
+  "STATUS": "MATCHED"
+ },
+ "012000170850": {
+  "FULL_NAME_FOUND": "Mtn Dew Mountain Ice Lemon Lime Soda - Single Bottle 20.00 Fl Oz",
+  "DESCRIPTION": "Mtn Dew exhilarates and quenches with its one of a kind, bold taste. Enjoy its chuggable intense refreshment. Crack open a cold Mtn Dew and refresh your taste buds.",
+  "CATEGORY": "Soda",
+  "BRAND": "Mtn Dew",
+  "SIZE": "591 mL",
+  "EAN": "0012000170850",
+  "STATUS": "MATCHED"
+ },
+ "012000171093": {
+  "FULL_NAME_FOUND": "Starbucks Frappuccino Chilled Coffee Drink Almondmilk Vanilla Flavored 13.7 Fl Oz Bottle",
+  "DESCRIPTION": "Starbucks coffee drinks offer the bold, delicious taste of coffee with the rich flavors you know and love. This indulgence is proof that you can enjoy a little Starbucks wherever you may be.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Starbucks",
+  "SIZE": "405 mL",
+  "EAN": "0012000171093",
+  "STATUS": "MATCHED"
+ },
+ "012000171116": {
+  "FULL_NAME_FOUND": "Starbucks Frappuccino Chilled Coffee Drink Almondmilk Mocha Flavored 13.7 Fl Oz Bottle",
+  "DESCRIPTION": "Starbucks coffee drinks offer the bold, delicious taste of coffee with the rich flavors you know and love. This indulgence is proof that you can enjoy a little Starbucks wherever you may be.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Starbucks",
+  "SIZE": "405 mL",
+  "EAN": "0012000171116",
+  "STATUS": "MATCHED"
  }
 }

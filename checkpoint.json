@@ -37642,5 +37642,95 @@
   "SIZE": "284 mL",
   "EAN": "0012000204807",
   "STATUS": "MATCHED"
+ },
+ "012000205057": {
+  "FULL_NAME_FOUND": "Mtn Dew Soda, Zero Sugar, Major Melon 20 Fl Oz",
+  "DESCRIPTION": "Mtn Dew is the original, the one that started it all. This green magic will quench your thirst every day of the week. Can, bottle, or glass, it is always a good time for a DEW. Try new Mtn Dew Major Melon, Dew charged with life changing Watermelon flavor. Do the Dew.",
+  "CATEGORY": "Soda",
+  "BRAND": "Mtn Dew",
+  "SIZE": "591 mL",
+  "EAN": "0012000205057",
+  "STATUS": "MATCHED"
+ },
+ "012000205200": {
+  "FULL_NAME_FOUND": "Starbucks Cold Brew Premium Coffee Drink Vanilla Sweet Cream",
+  "DESCRIPTION": "Enjoy your favorite chilled coffee drink on the go thanks to Starbucks bottled coffee drinks. All made with real Starbucks coffee, you can enjoy the flavor of your favorite café drinks at home and on the go. The perfect late afternoon pick-me-up, this delicious cold coffee treat is great straight from the bottle or enjoyed over ice.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Starbucks",
+  "SIZE": "325 mL",
+  "EAN": "0012000205200",
+  "STATUS": "MATCHED"
+ },
+ "012000205224": {
+  "FULL_NAME_FOUND": "Starbucks Cold & Crafted Splash Of Milk & Vanilla Coffee Drink 11 Fl Oz",
+  "DESCRIPTION": "Enjoy your favorite chilled coffee drink on the go thanks to Starbucks bottled coffee drinks. All made with real Starbucks coffee, you can enjoy the flavor of your favorite café drinks at home and on the go. The perfect late afternoon pick-me-up, this delicious cold coffee treat is great straight from the bottle or enjoyed over ice.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Starbucks",
+  "SIZE": "325 mL",
+  "EAN": "0012000205224",
+  "STATUS": "MATCHED"
+ },
+ "012000205248": {
+  "FULL_NAME_FOUND": "Starbucks Cold & Crafted Splash Of Milk & Mocha Coffee Drink 11 Fl Oz",
+  "DESCRIPTION": "Enjoy your favorite chilled coffee drink on the go thanks to Starbucks bottled coffee drinks. All made with real Starbucks coffee, you can enjoy the flavor of your favorite café drinks at home and on the go. The perfect late afternoon pick-me-up, this delicious cold coffee treat is great straight from the bottle or enjoyed over ice.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Starbucks",
+  "SIZE": "325 mL",
+  "EAN": "0012000205248",
+  "STATUS": "MATCHED"
+ },
+ "012000205286": {
+  "FULL_NAME_FOUND": "Starbucks Cold & Crafted, Sweetened Black, Premium Coffee Drink",
+  "DESCRIPTION": "Starbucks coffee drinks offer the bold, delicious taste of coffee with the rich flavors you know and love. This indulgence is proof that you can enjoy a little Starbucks wherever you may be.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Starbucks",
+  "SIZE": "325 mL",
+  "EAN": "0012000205286",
+  "STATUS": "MATCHED"
+ },
+ "012000205620": {
+  "FULL_NAME_FOUND": "Lifewtr Purified Water, Immune Support 33.8 Fl Oz",
+  "DESCRIPTION": "LIFEWTR is a premium bottled water that fuses creativity and design to serve as a source of inspiration as well as hydration. LIFEWTR is a purified water, pH balanced with electrolytes added for taste.",
+  "CATEGORY": "Water",
+  "BRAND": "Lifewtr",
+  "SIZE": "1000 mL",
+  "EAN": "0012000205620",
+  "STATUS": "MATCHED"
+ },
+ "012000205927": {
+  "FULL_NAME_FOUND": "Starbucks Coffee Drink, Chocolate Churro, Chilled 13.7 Fl Oz",
+  "DESCRIPTION": "Enjoy your favorite chilled coffee drink on the go thanks to Starbucks bottled coffee drinks. All made with real Starbucks coffee, you can enjoy the flavor of your favorite café drinks at home and on the go. The perfect late afternoon pick-me-up, this delicious cold coffee treat is great straight from the bottle or enjoyed over ice.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Starbucks",
+  "SIZE": "405 mL",
+  "EAN": "0012000205927",
+  "STATUS": "MATCHED"
+ },
+ "012000206290": {
+  "FULL_NAME_FOUND": "Mtn Dew Mountain Rise Pomegranate Blue Burst Energy Drink - 16 Fl Oz Can",
+  "DESCRIPTION": "Conquer the morning with Mtn Dew Energy. 25 calories and 180mg caffeine per can gives this energy drink the same caffeine equal to approximately two cups of coffee. With only 5% juice and 0g sugar and enriched with Vitamin A & C Antioxidants and Zinc to help support immune function, this is the perfect energy drink for clean energy.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Mtn Dew",
+  "SIZE": "473 mL",
+  "EAN": "0012000206290",
+  "STATUS": "MATCHED"
+ },
+ "012000206320": {
+  "FULL_NAME_FOUND": "Mtn Dew Mountain Rise Orange Breeze Energy Drink - 16 Fl Oz Can",
+  "DESCRIPTION": "Conquer the morning with Mtn Dew Energy. 25 calories and 180mg caffeine per can gives this energy drink the same caffeine equal to approximately two cups of coffee. With only 5% juice and 0g sugar and enriched with Vitamin A & C Antioxidants and Zinc to help support immune function, this is the perfect energy drink for clean energy.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Mtn Dew",
+  "SIZE": "473 mL",
+  "EAN": "0012000206320",
+  "STATUS": "MATCHED"
+ },
+ "012000206351": {
+  "FULL_NAME_FOUND": "Mtn Dew Mountain Rise Tropical Sunrise Energy Drink - 16 Fl Oz Can",
+  "DESCRIPTION": "Conquer the morning with Mtn Dew Energy. 25 calories and 180mg caffeine per can gives this energy drink the same caffeine equal to approximately two cups of coffee. With only 5% juice and 0g sugar and enriched with Vitamin A & C Antioxidants and Zinc to help support immune function, this is the perfect energy drink for clean energy.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Mtn Dew",
+  "SIZE": "473 mL",
+  "EAN": "0012000206351",
+  "STATUS": "MATCHED"
  }
 }

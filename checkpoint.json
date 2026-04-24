@@ -37822,5 +37822,95 @@
   "SIZE": "591 mL",
   "EAN": "0012000207679",
   "STATUS": "MATCHED"
+ },
+ "012000210501": {
+  "FULL_NAME_FOUND": "Starbucks Energy Coffee Beverage, Milk Chocolate, Zero Sugar 15 Fl Oz",
+  "DESCRIPTION": "Enjoy your favorite chilled coffee drink on the go thanks to Starbucks bottled coffee drinks. All made with real Starbucks coffee, you can enjoy the flavor of your favorite café drinks at home and on the go. The perfect late afternoon pick-me-up, Starbucks bottled coffee drinks are great straight from the bottle or enjoyed over ice. A kick of caffeine from Starbucks coffee with a hint of flavor and a touch of cream that'll spark motivation you didn't even know you had. Let's do this.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Starbucks",
+  "SIZE": "444 mL",
+  "EAN": "0012000210501",
+  "STATUS": "MATCHED"
+ },
+ "012000210808": {
+  "FULL_NAME_FOUND": "Starbucks Frappuccino Oatmilk Caramel Waffle Cookie Coffee Drink - 13.7 Fl Oz Bottle",
+  "DESCRIPTION": "Everything you love about Starbucks Frappuccino, now made with on trend alternative-dairy Oatmilk in unique and delicious Caramel Waffle Cookie and Dark Chocolate Brownie flavors. Delicious flavors with alternative-dairy Oatmilk. Inspired by a longtime favorite that brings coffee lovers to our cafes everyday. Made with the finest arabica coffee beans.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Starbucks",
+  "SIZE": "405 mL",
+  "EAN": "0012000210808",
+  "STATUS": "MATCHED"
+ },
+ "012000210822": {
+  "FULL_NAME_FOUND": "Starbucks Oatmilk Dark Chocolate Brownie Coffee Drink 13.7 Fl Oz",
+  "DESCRIPTION": "Enjoy the creamy, delicious combination of oatmilk and dark chocolate flavor. Chill, shake and serve.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Starbucks",
+  "SIZE": "405 mL",
+  "EAN": "0012000210822",
+  "STATUS": "MATCHED"
+ },
+ "012000211645": {
+  "FULL_NAME_FOUND": "Mtn Dew Flaming Hot Soda - 20 Fl Oz Bottle",
+  "DESCRIPTION": "For a limited time only, Spicy Meet Sweet - Dew flavor with bursts of heat and lime flavoring. A must-try flavor for all MTN DEW and Flamin' Hot fans! Experience a bold citrus Dew with a kick of heat! Are your taste buds ready to taste this new flavor mix?",
+  "CATEGORY": "Soda",
+  "BRAND": "Mtn Dew",
+  "SIZE": "591 mL",
+  "EAN": "0012000211645",
+  "STATUS": "MATCHED"
+ },
+ "012000211706": {
+  "FULL_NAME_FOUND": "Mtn Dew Mountain Spark Soda - 20 Fl Oz Bottle",
+  "DESCRIPTION": "Make 2022 your boldest year yet with MTN DEW Spark, our bold and exciting take on the classic Raspberry Lemonade flavor you love. The perfect balance of tart and sweet, the twist only MTN DEW can deliver. Experience the boldest flavors on earth. Keep on doing you with the DEW.",
+  "CATEGORY": "Soda",
+  "BRAND": "Mtn Dew",
+  "SIZE": "591 mL",
+  "EAN": "0012000211706",
+  "STATUS": "MATCHED"
+ },
+ "012000211799": {
+  "FULL_NAME_FOUND": "Mtn Dew Soda, Raspberry Lemonade, Zero Sugar, Spark 20 Fl Oz",
+  "DESCRIPTION": "Make 2022 your boldest year yet with MTN DEW Spark Zero Sugar, our bold and exciting take on the classic Raspberry Lemonade flavor you love. The perfect balance of tart and sweet, the twist only MTN DEW can deliver. Experience the boldest flavors on earth. Keep on doing you with the DEW.",
+  "CATEGORY": "Soda",
+  "BRAND": "Mtn Dew",
+  "SIZE": "591 mL",
+  "EAN": "0012000211799",
+  "STATUS": "MATCHED"
+ },
+ "012000211980": {
+  "FULL_NAME_FOUND": "Pepsi Cola Nitro Original Draft Soda Pop 13.65 Fl Oz Can",
+  "DESCRIPTION": "Pepsi Nitro Draft Cola is a nitrogen-infused cola with smaller bubbles and a smoother taste. This is a smooth, creamy and easy to drink beverage. Three easy steps to enjoy, first you have to chill the can, pour hard then admire and enjoy. Pour hard and drink easy, Pepsi Nitrol Draft Cola.",
+  "CATEGORY": "Soda",
+  "BRAND": "Pepsi",
+  "SIZE": "404 mL",
+  "EAN": "0012000211980",
+  "STATUS": "MATCHED"
+ },
+ "012000211997": {
+  "FULL_NAME_FOUND": "Pepsi Nitro Vanilla Draft Cola 13.65 Fl Oz Can",
+  "DESCRIPTION": "Pepsi Nitro Draft Cola is a nitrogen-infused cola with smaller bubbles and a smoother taste. This is a smooth, creamy and easy to drink beverage. Three easy steps to enjoy, first you have to chill the can, pour hard then admire and enjoy. Pour hard and drink easy, Pepsi Nitrol Draft Cola.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Pepsi",
+  "SIZE": "404 mL",
+  "EAN": "0012000211997",
+  "STATUS": "MATCHED"
+ },
+ "012000212024": {
+  "FULL_NAME_FOUND": "Starbucks Baya Raspberry Lime Sparkling Energy Drink 12 Fl Oz",
+  "DESCRIPTION": "Starbucks BAYA Energy has 160mg of caffeine naturally found in coffee fruit, antioxidant Vitamin C for immune support. Vitamin C helps contribute to the normal function of the immune system. Delightfully refreshing, packed with fruity flavors and bubbles, without any coffee flavor.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Starbucks",
+  "SIZE": "355 mL",
+  "EAN": "0012000212024",
+  "STATUS": "MATCHED"
+ },
+ "012000212048": {
+  "FULL_NAME_FOUND": "Starbucks Baya Mango Guava Sparkling Energy Drink 12 Fl Oz",
+  "DESCRIPTION": "Starbucks BAYA Energy has 160mg of caffeine naturally found in coffee fruit, antioxidant Vitamin C for immune support. Vitamin C helps contribute to the normal function of the immune system. Delightfully refreshing, packed with fruity flavors and bubbles, without any coffee flavor.",
+  "CATEGORY": "Guavas",
+  "BRAND": "Starbucks",
+  "SIZE": "",
+  "EAN": "0012000212048",
+  "STATUS": "MATCHED"
  }
 }

@@ -38182,5 +38182,89 @@
   "SIZE": "591 mL",
   "EAN": "0012000240010",
   "STATUS": "MATCHED"
+ },
+ "012000286162": {
+  "FULL_NAME_FOUND": "Pure Leaf Grn Tea/Honey 18.5 Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Pure Leaf",
+  "SIZE": "547 mL",
+  "EAN": "0012000286162",
+  "STATUS": "MATCHED"
+ },
+ "012000286230": {
+  "FULL_NAME_FOUND": "Pure Leaf Zero Sugar Real Brewed Tea Lemon 18.5 Fl Oz",
+  "DESCRIPTION": "Iced tea brewed from real leaves. Starting from fresh picked leaves and complemented by the natural flavor of lemon for a delicious fresh brewed taste.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Pure Leaf",
+  "SIZE": "547 mL",
+  "EAN": "0012000286230",
+  "STATUS": "MATCHED"
+ },
+ "012000382505": {
+  "FULL_NAME_FOUND": "AMP Energy Drink, Boost, Grape",
+  "DESCRIPTION": "Be smart about managing your energy. A one-size fits all jolt of energy isn't what your body needs. AMP has a range of energy products to make sure the energy level matches the occasion, to keep life as productive as it needs to be.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "AMP",
+  "SIZE": "473 mL",
+  "EAN": "0012000382505",
+  "STATUS": "MATCHED"
+ },
+ "012000384257": {
+  "FULL_NAME_FOUND": "Brisk Juice Drink Pink Lemonade 20 Fl Oz",
+  "DESCRIPTION": "Brisk has become the badge of creative hustlers everywhere. By bringing in-your-face flavors and vibrant colors to the juice drink and iced tea game we help you make your mark on the world.",
+  "CATEGORY": "Juice",
+  "BRAND": "Brisk",
+  "SIZE": "591 mL",
+  "EAN": "0012000384257",
+  "STATUS": "MATCHED"
+ },
+ "012000507144": {
+  "STATUS": "UNMATCHED"
+ },
+ "012000684524": {
+  "FULL_NAME_FOUND": "Mtn Dew Pitch Black Soda Citrus Grape 20 Fl Oz",
+  "DESCRIPTION": "Experience the bold and unique flavor of Mountain Dew Pitch Black! Indulge in the refreshing taste of this iconic soda that combines the classic citrus flavor of Mountain Dew with a mysterious dark twist. Perfect for quenching your thirst on a hot day or as a delightful treat during any occasion, this 20 fluid ounce bottle is ideal for on-the-go enjoyment or sharing with friends.",
+  "CATEGORY": "Soda",
+  "BRAND": "Mtn Dew",
+  "SIZE": "591 mL",
+  "EAN": "0012000684524",
+  "STATUS": "MATCHED"
+ },
+ "012000809965": {
+  "FULL_NAME_FOUND": "Mountain Dew Citrus Soda - 12pk/12 Fl Oz Cans",
+  "DESCRIPTION": "Taste the extreme. The bold and delicious, sweet citrus flavor of Mountain Dew® has made it one of America's most popular soft drinks. And with more caffeine than average, it's perfect for active individuals who might need an energy boost at a crucial moment.",
+  "CATEGORY": "Soda",
+  "BRAND": "Mountain Dew",
+  "SIZE": "355 mL",
+  "EAN": "0012000809965",
+  "STATUS": "MATCHED"
+ },
+ "012000811197": {
+  "FULL_NAME_FOUND": "Pepsi Wild Cherry Cola - 6 Pack Bottles 101.40 Fl Oz",
+  "DESCRIPTION": "Only Pepsi Wild Cherry delivers the thrilling burst of cherry flavor with the crisp, refreshing taste of Pepsi. This carbonated favorite offers a smooth, satisfying balance of sweetness and fizz, making every sip an irresistible experience. With its signature Pepsi taste and a bold cherry twist, it’s perfect for pairing with meals, enjoying at gatherings, or sipping on the go. Take your refreshment to the next level with Pepsi Wild Cherry—because more flavor means more fun!",
+  "CATEGORY": "Beverages",
+  "BRAND": "Pepsi",
+  "SIZE": "2999 mL",
+  "EAN": "0012000811197",
+  "STATUS": "MATCHED"
+ },
+ "012000811319": {
+  "FULL_NAME_FOUND": "Mountain Dew Mtn Live Wire Soda Sparked With Natural & Artificial Orange Flavor 20 Fl Oz Bottle",
+  "DESCRIPTION": "Experience the bold and electrifying taste of Mountain Dew Live Wire! Perfect for quenching your thirst, this 20 fluid ounce bottle is packed with a vibrant citrus flavor that will energize your day. Whether you are enjoying a picnic, a party, or just need a refreshing drink on the go, Mountain Dew Live Wire is the ideal choice.",
+  "CATEGORY": "Soda",
+  "BRAND": "Mountain Dew",
+  "SIZE": "591 mL",
+  "EAN": "0012000811319",
+  "STATUS": "MATCHED"
+ },
+ "012000813320": {
+  "FULL_NAME_FOUND": "Pepsi Soda Cola 16 Fl Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Soda",
+  "BRAND": "Pepsi",
+  "SIZE": "473 mL",
+  "EAN": "0012000813320",
+  "STATUS": "MATCHED"
  }
 }

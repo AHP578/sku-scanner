@@ -38266,5 +38266,95 @@
   "SIZE": "473 mL",
   "EAN": "0012000813320",
   "STATUS": "MATCHED"
+ },
+ "012000813337": {
+  "FULL_NAME_FOUND": "Pepsi Soda Diet Plastic Bottle",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Soda",
+  "BRAND": "Pepsi",
+  "SIZE": "473 mL",
+  "EAN": "0012000813337",
+  "STATUS": "MATCHED"
+ },
+ "012000813344": {
+  "FULL_NAME_FOUND": "Mtn Dew Mountain Soda 16 Fl Oz",
+  "DESCRIPTION": "Mtn Dew exhilarates and quenches with its one of a kind, bold taste. The original, the one that started it all'Mtn Dew.",
+  "CATEGORY": "Soda",
+  "BRAND": "Mtn Dew",
+  "SIZE": "473 mL",
+  "EAN": "0012000813344",
+  "STATUS": "MATCHED"
+ },
+ "012044038840": {
+  "FULL_NAME_FOUND": "Old Spice High Endurance Long Lasting Stick Men S Deodorant Fresh Scent 3 0 Oz",
+  "DESCRIPTION": "Old Spice High Endurance brings superior protection power to a higher level with a new formula for generating greatness. High Endurance Deodorant for men confidently delivers 48 proven hours of odor protection. Because it goes on clear, it reduces those annoying white marks on clothes. High Endurance is formulated to keep you smelling great longer with a long-lasting scent. So when you stand out in a crowd, it's because of how good you smell. Old Spice is a good offense without smelling offensive. Grab Old Spice today, because anything less than Old Spice isn't Old Spice.",
+  "CATEGORY": "Deodorant",
+  "BRAND": "Old Spice",
+  "SIZE": "",
+  "EAN": "0012044038840",
+  "STATUS": "MATCHED"
+ },
+ "012044045145": {
+  "FULL_NAME_FOUND": "Old Spice Aluminum Free Body Spray For Men, Krakengard",
+  "DESCRIPTION": "Old Spice Krakengard Body Spray keeps you smelling great all day. Old Spice aluminum-free body spray fights odor causing bacteria the moment you spray it on. Formulated with Re-Fresh Technology, this fierce odor-fighter leaves you with a fresh lasting scent that is sure to please even the wildest of sides. The Deep Ocean Scent features a classic masculine fragrance with modern embellishments, including a blend of citrus fruit, fresh herb, and precious wood notes. Krakengard Body Spray has cologne quality scents and is easy to take on the go, so you can always be ready to smell your best. Check out the entire Old Spice Wild Collection and smell sniffworthy.",
+  "CATEGORY": "Deodorant",
+  "BRAND": "Old Spice",
+  "SIZE": "",
+  "EAN": "0012044045145",
+  "STATUS": "MATCHED"
+ },
+ "012044342404": {
+  "FULL_NAME_FOUND": "Old Spice High Endurance Deodorant Long Lasting Stick Original Scent 2.25 Oz",
+  "DESCRIPTION": "Launched by the design house of Old Spice. This fresh masculine fragrance contains odor fighting ingredients which deliver a fresh clean scent and long lasting odor protection.",
+  "CATEGORY": "Deodorant",
+  "BRAND": "Old Spice",
+  "SIZE": "",
+  "EAN": "0012044342404",
+  "STATUS": "MATCHED"
+ },
+ "012044343104": {
+  "FULL_NAME_FOUND": "Old Spice Classic Original Scent Deodorant 2.25 Oz. Stick",
+  "DESCRIPTION": "Old Spice Classic Original Deodorant reduces underarm odor for 24 hours. It is easy to use and increases your ability to sense other dimensions. Ideal for daily use.",
+  "CATEGORY": "Deodorant",
+  "BRAND": "Old Spice",
+  "SIZE": "",
+  "EAN": "0012044343104",
+  "STATUS": "MATCHED"
+ },
+ "012044389706": {
+  "FULL_NAME_FOUND": "Old Spice Classic Deodorant Stick, Original Scent For Men, 3.25 Oz",
+  "DESCRIPTION": "Experience the clean, masculine scent of Old Spice Classic Deodorant. Original round stick formula.",
+  "CATEGORY": "Deodorant",
+  "BRAND": "Old Spice",
+  "SIZE": "",
+  "EAN": "0012044389706",
+  "STATUS": "MATCHED"
+ },
+ "012276200305": {
+  "FULL_NAME_FOUND": "Dalifresh Potato Stix",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Potatoes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0012276200305",
+  "STATUS": "MATCHED"
+ },
+ "012300000123": {
+  "FULL_NAME_FOUND": "Winston Cigarettes, Red, Box",
+  "DESCRIPTION": "Naturally smooth. 2-way box. Open like a box or a soft pack. 20 class A cigarettes. www.RJRT.com. Please don't litter. Questions? Comments? Call 1-800-862-2226 or visit insidewinston.com.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Winston",
+  "SIZE": "",
+  "EAN": "0012300000123",
+  "STATUS": "MATCHED"
+ },
+ "012300000192": {
+  "FULL_NAME_FOUND": "Winston Gold - Box 1",
+  "DESCRIPTION": "Naturally smooth. 2-way box. Open like a box or a soft pack. 20 class A cigarettes. www.RJRT.com. Please don't litter. Questions? Comments? Call 1-800-862-2226 or visit insidewinston.com.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Winston",
+  "SIZE": "",
+  "EAN": "0012300000192",
+  "STATUS": "MATCHED"
  }
 }

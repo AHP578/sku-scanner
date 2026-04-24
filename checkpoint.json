@@ -37912,5 +37912,95 @@
   "SIZE": "",
   "EAN": "0012000212048",
   "STATUS": "MATCHED"
+ },
+ "012000212062": {
+  "FULL_NAME_FOUND": "Starbucks Baya Pineapple Passionfruit Sparkling Energy Drink 12 Fl Oz",
+  "DESCRIPTION": "Starbucks BAYA Energy has 160mg of caffeine naturally found in coffee fruit, antioxidant Vitamin C for immune support. Vitamin C helps contribute to the normal function of the immune system. Delightfully refreshing, packed with fruity flavors and bubbles, without any coffee flavor.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Starbucks",
+  "SIZE": "355 mL",
+  "EAN": "0012000212062",
+  "STATUS": "MATCHED"
+ },
+ "012000212529": {
+  "FULL_NAME_FOUND": "Mtn Dew Mountain Energy Drink, Cherry Lime Lift 16 Fl Oz",
+  "DESCRIPTION": "Conquer the morning with Mtn Dew Energy. 25 calories and 180mg caffeine per can gives this energy drink the same caffeine equal to approximately two cups of coffee. With only 5% juice and 0g sugar and enriched with Vitamin A & C Antioxidants and Zinc to help support immune function, this is the perfect energy drink for clean energy.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Mtn Dew",
+  "SIZE": "473 mL",
+  "EAN": "0012000212529",
+  "STATUS": "MATCHED"
+ },
+ "012000212888": {
+  "FULL_NAME_FOUND": "Mtn Dew Maui Burst Soda Pineapple 20 Fl Oz",
+  "DESCRIPTION": "Mtn Dew exhilarates and quenches with its one of a kind, bold taste. Enjoy its chuggable intense refreshment. Crack open a cold Mtn Dew and refresh your taste buds.",
+  "CATEGORY": "Soda",
+  "BRAND": "Mtn Dew",
+  "SIZE": "591 mL",
+  "EAN": "0012000212888",
+  "STATUS": "MATCHED"
+ },
+ "012000213465": {
+  "FULL_NAME_FOUND": "Pure Leaf Real Brewed Tea, Lower Sugar, Subtly Sweet Tea 18.5 Fl Oz",
+  "DESCRIPTION": "At Pure Leaf, we are committed to bringing you the highest quality tea. Our Lower Sugar iced teas are expertly brewed using quality ingredients and 85% less sugar than our Sweet Tea, so every sip is subtly sweet and simply refreshing. No wonder every bottle of Pure Leaf tastes so good.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Pure Leaf",
+  "SIZE": "547 mL",
+  "EAN": "0012000213465",
+  "STATUS": "MATCHED"
+ },
+ "012000213489": {
+  "FULL_NAME_FOUND": "Pure Leaf Brewed Tea, Lower Sugar, Real, Subtly Sweet Lemon 18.5 Fl Oz",
+  "DESCRIPTION": "At pure leaf, we believe the best things in life are real and simple. But sometimes, simplicity takes a little more work. Before each pure leaf brew is freshly bottled and sealed, our tea leaves are given a lot of love and attention, resulting in refreshing, leaf brewed tea (not from powder or concentrate).",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Pure Leaf",
+  "SIZE": "547 mL",
+  "EAN": "0012000213489",
+  "STATUS": "MATCHED"
+ },
+ "012000213519": {
+  "FULL_NAME_FOUND": "Pure Leaf Brewed Tea, Lower Sugar, Real, Subtly Sweet Peach 18.5 Fl Oz",
+  "DESCRIPTION": "At Pure Leaf, we are committed to bringing you the highest quality tea. Our Lower Sugar iced teas are expertly brewed using quality ingredients and 85% less sugar than our Sweet Tea, so every sip is subtly sweet and simply refreshing. No wonder every bottle of Pure Leaf tastes so good.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Pure Leaf",
+  "SIZE": "547 mL",
+  "EAN": "0012000213519",
+  "STATUS": "MATCHED"
+ },
+ "012000213564": {
+  "FULL_NAME_FOUND": "Lipton Subtly Sweet Peach",
+  "DESCRIPTION": "View Pure Leaf- Pure Leaf, Lower Sugar, Subtly Sweet Peach Flavor, Real Brewed Tea- 012000213564- product information via SmartLabel™!",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Lipton",
+  "SIZE": "",
+  "EAN": "0012000213564",
+  "STATUS": "MATCHED"
+ },
+ "012000213601": {
+  "FULL_NAME_FOUND": "Mtn Dew Soda, Baja Mango Gem 20 Fl Oz",
+  "DESCRIPTION": "Mtn Dew exhilarates and quenches with its one of a kind, bold taste. Enjoy its chuggable intense refreshment. Crack open a cold Mtn Dew and refresh your taste buds.",
+  "CATEGORY": "Soda",
+  "BRAND": "Mtn Dew",
+  "SIZE": "591 mL",
+  "EAN": "0012000213601",
+  "STATUS": "MATCHED"
+ },
+ "012000213649": {
+  "FULL_NAME_FOUND": "Mtn Dew Baja Gold Soda 20 Fl Oz",
+  "DESCRIPTION": "Mtn Dew exhilarates and quenches with its one of a kind, bold taste. Enjoy its chuggable intense refreshment. Crack open a cold Mtn Dew and refresh your taste buds.",
+  "CATEGORY": "Soda",
+  "BRAND": "Mtn Dew",
+  "SIZE": "591 mL",
+  "EAN": "0012000213649",
+  "STATUS": "MATCHED"
+ },
+ "012000213687": {
+  "FULL_NAME_FOUND": "Mountain Dew Purple Thunder Soda 20 Fl Oz",
+  "DESCRIPTION": "Mtn Dew exhilarates and quenches with its one of a kind, bold taste. Enjoy its chuggable intense refreshment. Crack open a cold Mtn Dew and refresh your taste buds.",
+  "CATEGORY": "Soda",
+  "BRAND": "Mountain Dew",
+  "SIZE": "591 mL",
+  "EAN": "0012000213687",
+  "STATUS": "MATCHED"
  }
 }

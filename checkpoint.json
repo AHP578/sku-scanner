@@ -36832,5 +36832,95 @@
   "SIZE": "1250 mL",
   "EAN": "0012000140921",
   "STATUS": "MATCHED"
+ },
+ "012000141027": {
+  "FULL_NAME_FOUND": "Brisk Iced Tea Lemon 1.25 L Bottle",
+  "DESCRIPTION": "Brisk has become the badge of creative hustlers everywhere. By bringing in-your-face flavors and vibrant colors to the juice drink and iced tea game we help you make your mark on the world.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Brisk",
+  "SIZE": "1250 mL",
+  "EAN": "0012000141027",
+  "STATUS": "MATCHED"
+ },
+ "012000141423": {
+  "FULL_NAME_FOUND": "Mtn Dew Kickstart Hydrating Boost Sparkling Juice Beverage Energizing Strawberry Kiwi Naturally And Artificially Flavored 12 Fl Oz Can",
+  "DESCRIPTION": "With coconut water. With just the right amount of kick. Naturally and artificially flavored sparkling juice beverage blend from concentrate. 60 calories per can. Low sodium.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Mtn Dew",
+  "SIZE": "355 mL",
+  "EAN": "0012000141423",
+  "STATUS": "MATCHED"
+ },
+ "012000141430": {
+  "FULL_NAME_FOUND": "Mtn Dew Mountain Kickstart, Energizing Pineapple Orange Mango Flavored, Juice Drink",
+  "DESCRIPTION": "Pineapple orange mango flavored juice drink from concentrate with other natural flavors. 60 calories per can. Caffeine.",
+  "CATEGORY": "Juice",
+  "BRAND": "Mtn Dew",
+  "SIZE": "355 mL",
+  "EAN": "0012000141430",
+  "STATUS": "MATCHED"
+ },
+ "012000142321": {
+  "FULL_NAME_FOUND": "Mtn Dew Mountain Black Label Dark Berry Soda",
+  "DESCRIPTION": "A unique mysterious Dew with an exhilarating flavor that excites your taste buds. This has a blend of pineapple and grapefruit flavors, with refreshing bitters. Sure to be the new favorite of Dew Drinkers.",
+  "CATEGORY": "Soda",
+  "BRAND": "Mtn Dew",
+  "SIZE": "473 mL",
+  "EAN": "0012000142321",
+  "STATUS": "MATCHED"
+ },
+ "012000150098": {
+  "FULL_NAME_FOUND": "Sierra Mist Soda, Lemon Lime Flavor, Caffeine Free",
+  "DESCRIPTION": "MIST TWST is a crisp & refreshing Lemon-Lime soda with a twist of real juice . Choose this light, caffeine free citrus refreshment the next time you reach for something to drink.",
+  "CATEGORY": "Soda",
+  "BRAND": "Sierra Mist",
+  "SIZE": "591 mL",
+  "EAN": "0012000150098",
+  "STATUS": "MATCHED"
+ },
+ "012000151163": {
+  "FULL_NAME_FOUND": "Mtn Dew Sparkling Juice, Energizing, Midnight Grape 16 Fl Oz",
+  "DESCRIPTION": "Flavored sparkling juice beverage from concentrate with other natural flavors. 80 calories per can.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Mtn Dew",
+  "SIZE": "473 mL",
+  "EAN": "0012000151163",
+  "STATUS": "MATCHED"
+ },
+ "012000151194": {
+  "FULL_NAME_FOUND": "Mountain Dew Juice Beverage Blend, Sparkling, Energizing Watermelon",
+  "DESCRIPTION": "Shop Mtn Dew Soda Kickstart Energizing Watermelon Hydrating Boost - 12 Fl. Oz. from tomthumb. Browse our wide selection of Lemon Lime & Citrus Soda for Delivery or Drive Up & Go to pick up at the store!",
+  "CATEGORY": "Beverages",
+  "BRAND": "Mountain Dew",
+  "SIZE": "355 mL",
+  "EAN": "0012000151194",
+  "STATUS": "MATCHED"
+ },
+ "012000151200": {
+  "FULL_NAME_FOUND": "Mountain Dew Kickstart Recharge, Energizing Blueberry Pomegranate Flavored, Sparkling Juice Beverage Blend",
+  "DESCRIPTION": "Mountain Dew Kickstart Recharge Blueberry Pomegranate combines the great taste of DEW with real fruit juice and antioxidants vitamins C and E to get you charged for your next big moment.",
+  "CATEGORY": "Juice",
+  "BRAND": "Mountain Dew",
+  "SIZE": "355 mL",
+  "EAN": "0012000151200",
+  "STATUS": "MATCHED"
+ },
+ "012000151217": {
+  "FULL_NAME_FOUND": "Mountain Dew Kickstart Recharge, Energizing Blood Orange Flavored, Sparkling Juice Beverage Blend",
+  "DESCRIPTION": "Mountain Dew Kickstart Recharge Blood Orange combines the great taste of DEW with real fruit juice and antioxidants vitamins C and E to get you charged for your next big moment.",
+  "CATEGORY": "Juice",
+  "BRAND": "Mountain Dew",
+  "SIZE": "355 mL",
+  "EAN": "0012000151217",
+  "STATUS": "MATCHED"
+ },
+ "012000151262": {
+  "FULL_NAME_FOUND": "Pepsi Crystal Cola, Clear",
+  "DESCRIPTION": "Shop Pepsi Soda Crystal - 20 Fl. Oz. from tomthumb. Browse our wide selection of Cola for Delivery or Drive Up & Go to pick up at the store!",
+  "CATEGORY": "Beverages",
+  "BRAND": "Pepsi",
+  "SIZE": "591 mL",
+  "EAN": "0012000151262",
+  "STATUS": "MATCHED"
  }
 }

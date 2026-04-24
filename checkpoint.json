@@ -36472,5 +36472,95 @@
   "SIZE": "414 mL",
   "EAN": "0012000007170",
   "STATUS": "MATCHED"
+ },
+ "012000007200": {
+  "FULL_NAME_FOUND": "Pure Leaf Black Tea, Organic, Sicilian Lemon & Honeysuckle",
+  "DESCRIPTION": "The Pure Leaf Tea House Collection features expertly crafted blends of the world's best, USDA-certified organic, loose-leaf tea, brewed in small batches overseen by our tea masters. Each flavor is brewed with exquisite ingredients expertly paired with premium loose tea leaves. The same tea passion of a premium tea shop, but available at the twist of a cap.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Pure Leaf",
+  "SIZE": "414 mL",
+  "EAN": "0012000007200",
+  "STATUS": "MATCHED"
+ },
+ "012000007590": {
+  "FULL_NAME_FOUND": "Brisk Iced Tea Lemon - Single Can 12.00 Fl Oz",
+  "DESCRIPTION": "Brisk has become the badge of creative hustlers everywhere. By bringing in-your-face flavors and vibrant colors to the juice drink and iced tea game we help you make your mark on the world.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Brisk",
+  "SIZE": "355 mL",
+  "EAN": "0012000007590",
+  "STATUS": "MATCHED"
+ },
+ "012000008030": {
+  "FULL_NAME_FOUND": "Pure Leaf Tea House Collection Black Tea, Organic, With A Hint Of Strawberry & Garden Mint",
+  "DESCRIPTION": "At pure leaf, we believe the best things in life are real and simple. But sometimes, simplicity takes a little more work. Before each pure leaf brew is freshly bottled and sealed, our tea leaves are given a lot of love and attention, resulting in refreshing, leaf brewed tea (not from powder or concentrate).",
+  "CATEGORY": "Beverages",
+  "BRAND": "Pure Leaf",
+  "SIZE": "414 mL",
+  "EAN": "0012000008030",
+  "STATUS": "MATCHED"
+ },
+ "012000008047": {
+  "FULL_NAME_FOUND": "Pure Leaf Tea House Collection Black Tea, Organic, Spiced Chai",
+  "DESCRIPTION": "At pure leaf, we believe the best things in life are real and simple. But sometimes, simplicity takes a little more work. Before each pure leaf brew is freshly bottled and sealed, our tea leaves are given a lot of love and attention, resulting in refreshing, leaf brewed tea (not from powder or concentrate).",
+  "CATEGORY": "Beverages",
+  "BRAND": "Pure Leaf",
+  "SIZE": "414 mL",
+  "EAN": "0012000008047",
+  "STATUS": "MATCHED"
+ },
+ "012000008801": {
+  "FULL_NAME_FOUND": "Starbucks Coffee Drink, Premium, Light, Espresso + Cream - 6.5 Fl Oz",
+  "DESCRIPTION": "Starbucks coffee drinks offer the bold, delicious taste of coffee with the rich flavors you know and love. This indulgence is proof that you can enjoy a little Starbucks wherever you may be.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Starbucks",
+  "SIZE": "192 mL",
+  "EAN": "0012000008801",
+  "STATUS": "MATCHED"
+ },
+ "012000008948": {
+  "FULL_NAME_FOUND": "Pure Leaf Hibiscus Tea, Organic, Passionfruit & Pineapple 14 Oz",
+  "DESCRIPTION": "At pure leaf, we believe the best things in life are real and simple. But sometimes, simplicity takes a little more work. Before each pure leaf brew is freshly bottled and sealed, our tea leaves are given a lot of love and attention, resulting in refreshing, leaf brewed tea (not from powder or concentrate).",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Pure Leaf",
+  "SIZE": "414 mL",
+  "EAN": "0012000008948",
+  "STATUS": "MATCHED"
+ },
+ "012000008955": {
+  "FULL_NAME_FOUND": "Starbucks Espresso Beverage, Premium, Americano Black 6.5 Oz",
+  "DESCRIPTION": "Starbucks coffee drinks offer the bold, delicious taste of coffee with the rich flavors you know and love. This indulgence is proof that you can enjoy a little Starbucks wherever you may be.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Starbucks",
+  "SIZE": "192 mL",
+  "EAN": "0012000008955",
+  "STATUS": "MATCHED"
+ },
+ "012000008993": {
+  "FULL_NAME_FOUND": "Mug No Caffeine Root Beer Soda 12 Fl Oz",
+  "DESCRIPTION": "160 calories per can. No caffeine. MugRootBeer.com. We' re here to help. MugRootBeer.com or 800-433-2652 Please recycle.",
+  "CATEGORY": "Soda",
+  "BRAND": "Mug",
+  "SIZE": "355 mL",
+  "EAN": "0012000008993",
+  "STATUS": "MATCHED"
+ },
+ "012000010361": {
+  "FULL_NAME_FOUND": "Mtn Dew Mountain Game Fuel, With A Blast Of Citrus Cherry Flavor",
+  "DESCRIPTION": "Dew with a Blast of Citrus Cherry Flavor with other natural flavors. 170 calories per bottle.",
+  "CATEGORY": "Soda",
+  "BRAND": "Mtn Dew",
+  "SIZE": "591 mL",
+  "EAN": "0012000010361",
+  "STATUS": "MATCHED"
+ },
+ "012000021183": {
+  "FULL_NAME_FOUND": "AMP Energy Boost Original Citrus Sugar Free 16 Fluid Ounce Can",
+  "DESCRIPTION": "At AMP ENERGY®, we believe that energy drinks should taste great. They should energize your taste buds as well as your body. For us, flavor isn't an afterthought. It's just as important as the energy itself.",
+  "CATEGORY": "Beverages",
+  "BRAND": "AMP",
+  "SIZE": "473 mL",
+  "EAN": "0012000021183",
+  "STATUS": "MATCHED"
  }
 }

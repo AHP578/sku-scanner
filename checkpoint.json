@@ -37192,5 +37192,95 @@
   "SIZE": "405 mL",
   "EAN": "0012000171116",
   "STATUS": "MATCHED"
+ },
+ "012000171635": {
+  "FULL_NAME_FOUND": "LifeWtr Triple Filtered Purified Water 20 Fl Oz",
+  "DESCRIPTION": "LIFEWTR is premium bottled water that fuses creativity and design to serve as a source of inspiration as well as hydration. Inspiration is as essential to life as water, because it moves us forward by unleashing our creative potential. Every bottle of LIFEWTR is a canvas for new art, and inside every bottle is crisp-tasting water to inspire the mind.",
+  "CATEGORY": "Water",
+  "BRAND": "LifeWtr",
+  "SIZE": "591 mL",
+  "EAN": "0012000171635",
+  "STATUS": "MATCHED"
+ },
+ "012000171710": {
+  "FULL_NAME_FOUND": "Pepsi Diet Soda Classic Cola 16 Fl Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Soda",
+  "BRAND": "Pepsi",
+  "SIZE": "473 mL",
+  "EAN": "0012000171710",
+  "STATUS": "MATCHED"
+ },
+ "012000171758": {
+  "FULL_NAME_FOUND": "Diet Pepsi Soda Classic Cola 1 L",
+  "DESCRIPTION": "Diet Pepsi Cola 1 Liter Plastic BottleCARBONATED WATER, CARAMEL COLOR, ASPARTAME, PHOSPHORIC ACID, POTASSIUM BENZOATE (PRESERVES FRESHNESS), CAFFEINE, CITRIC ACID, NATURAL FLAVOR, ACESULFAME POTASSIUM.Diet Pepsi Cola 1 Liter.",
+  "CATEGORY": "Soda",
+  "BRAND": "Diet Pepsi",
+  "SIZE": "1000 mL",
+  "EAN": "0012000171758",
+  "STATUS": "MATCHED"
+ },
+ "012000171956": {
+  "FULL_NAME_FOUND": "Pepsi Diet Cola Soda Pop 16.9 Fl Oz 6 Pack Bottles",
+  "DESCRIPTION": "Experience the refreshing taste of Diet Pepsi! Diet Pepsi is a delicious, sugar-free soft drink that offers the classic Pepsi flavor you love without the calories. Perfect for any occasion, whether you are hosting a gathering, enjoying a picnic, or simply relaxing at home, this beverage is sure to satisfy your thirst. This bottle contains 16.9 fluid ounces of crisp, refreshing Diet Pepsi, making it an ideal choice for hydration on the go.",
+  "CATEGORY": "Soda",
+  "BRAND": "Pepsi",
+  "SIZE": "2999 mL",
+  "EAN": "0012000171956",
+  "STATUS": "MATCHED"
+ },
+ "012000172281": {
+  "FULL_NAME_FOUND": "Pepsi Diet Soda, 20 Fl Oz",
+  "DESCRIPTION": "Feel refreshed with the 20oz Diet Pepsi. It is formulated with zero calories, zero sugar and zero carbs to keep you fit and fatless.",
+  "CATEGORY": "Soda",
+  "BRAND": "Pepsi",
+  "SIZE": "591 mL",
+  "EAN": "0012000172281",
+  "STATUS": "MATCHED"
+ },
+ "012000172380": {
+  "FULL_NAME_FOUND": "Pepsi Cola, Wild Cherry, Diet 20 Fl Oz",
+  "DESCRIPTION": "Wild cherry flavor with other natural flavors. 0 Calories per bottle.",
+  "CATEGORY": "Soda",
+  "BRAND": "Pepsi",
+  "SIZE": "591 mL",
+  "EAN": "0012000172380",
+  "STATUS": "MATCHED"
+ },
+ "012000172663": {
+  "FULL_NAME_FOUND": "Mountain Dew Baja Blast Tropical Lime Soda, 16.9 Fl Oz Bottles",
+  "DESCRIPTION": "For years, Mountain Dew Baja Blast, with its refreshingly bold tropical lime taste, has been a favorite at Taco Bell. For the first time this summer, you will be able to get your hands on this product in stores across the country.",
+  "CATEGORY": "Soda",
+  "BRAND": "Mountain Dew",
+  "SIZE": "500 mL",
+  "EAN": "0012000172663",
+  "STATUS": "MATCHED"
+ },
+ "012000172694": {
+  "FULL_NAME_FOUND": "Mtn Dew Mountain Ice Soda, Lemon Lime",
+  "DESCRIPTION": "With a splash of real juice. Lemon lime flavor with other natural flavors. 130 calories per can.",
+  "CATEGORY": "Soda",
+  "BRAND": "Mtn Dew",
+  "SIZE": "473 mL",
+  "EAN": "0012000172694",
+  "STATUS": "MATCHED"
+ },
+ "012000173196": {
+  "FULL_NAME_FOUND": "Pure Leaf Brewed Tea, Real, Sweet 16.9 Fl Oz",
+  "DESCRIPTION": "Quench your thirst with Pure Leaf Sweet Tea – a delicious, natural beverage perfect for any occasion. Try our 500ml bottle today!",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Pure Leaf",
+  "SIZE": "547 mL",
+  "EAN": "0012000173196",
+  "STATUS": "MATCHED"
+ },
+ "012000173219": {
+  "FULL_NAME_FOUND": "Pure Leaf No Sugar Real Unsweetened Brewed Tea 16.9 Fl Oz",
+  "DESCRIPTION": "At pure leaf, we believe the best things in life are real and simple. But sometimes, simplicity takes a little more work. Before each pure leaf brew is freshly bottled and sealed, our tea leaves are given a lot of love and attention, resulting in refreshing, leaf brewed tea (not from powder or concentrate).",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Pure Leaf",
+  "SIZE": "500 mL",
+  "EAN": "0012000173219",
+  "STATUS": "MATCHED"
  }
 }

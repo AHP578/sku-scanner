@@ -43492,5 +43492,95 @@
   "SIZE": "",
   "EAN": "0022000000897",
   "STATUS": "MATCHED"
+ },
+ "022000000941": {
+  "FULL_NAME_FOUND": "Orbit White Gum, Sugar Free, Spearmint",
+  "DESCRIPTION": "Con Orbit Spearmint Sugarfree Gum, no hay necesidad de dudar; tienes la confianza para mostrarle al mundo de qué estás hecho. El delicioso sabor a hierbabuena te da una sensación de limpieza y frescura.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Orbit",
+  "SIZE": "",
+  "EAN": "0022000000941",
+  "STATUS": "MATCHED"
+ },
+ "022000001573": {
+  "FULL_NAME_FOUND": "Orbit Sugar Free Gum Strawberry Remix",
+  "DESCRIPTION": "40% fewer calories than sugared gum. Calorie content of this size piece has been reduced from 5 to 3 calories.",
+  "CATEGORY": "Drinking Straws & Stirrers",
+  "BRAND": "Orbit",
+  "SIZE": "",
+  "EAN": "0022000001573",
+  "STATUS": "MATCHED"
+ },
+ "022000001719": {
+  "FULL_NAME_FOUND": "Wrigley'S Spearmint Chewing Gum, Single Pack, 5 Stick Pack",
+  "DESCRIPTION": "Since 1893, WRIGLEY'S Spearmint gum has been freshening breath and making each day a little brighter. Why has Spearmint gum stayed so popular for so long? Because fresh doesn't go out of style. Spearmint gum has been fresh since \"fresh\" was hip and \"hip\" was cool. So cool off your taste buds with the gum that's been keeping it fresh for over a hundred years.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Wrigley'S Spearmint",
+  "SIZE": "",
+  "EAN": "0022000001719",
+  "STATUS": "MATCHED"
+ },
+ "022000001726": {
+  "FULL_NAME_FOUND": "Doublemint WRIGLEY'S Mint Gum Chewing Gum, Single Pack, 5 Stick Pack",
+  "DESCRIPTION": "Experience the refreshing taste of Wrigley Doublemint Chewing Gum! Perfect for freshening breath and enjoying a burst of minty flavor, this case of Wrigley Doublemint gum is ideal for both personal enjoyment and sharing with friends and family. Each pack contains five sticks of delicious gum, ensuring you have plenty to satisfy your cravings. Whether you are at home, in the office, or on the go, this gum is a convenient and tasty treat.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Doublemint",
+  "SIZE": "",
+  "EAN": "0022000001726",
+  "STATUS": "MATCHED"
+ },
+ "022000001733": {
+  "FULL_NAME_FOUND": "Juicy Fruit Original Bubble Gum Piece Single Pack",
+  "DESCRIPTION": "Experience the classic taste of Wrigley's Juicy Fruit Gum! Wrigley's Juicy Fruit Gum is a timeless favorite that brings a burst of fruity flavor with every chew. Perfect for enjoying on your own, this gum is ideal for any occasion. Each pack contains five sticks of delicious gum. Whether you are at home, in the office, or on the go, Wrigley's Juicy Fruit Gum is the perfect companion to freshen your breath and uplift your mood.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Juicy Fruit",
+  "SIZE": "",
+  "EAN": "0022000001733",
+  "STATUS": "MATCHED"
+ },
+ "022000001740": {
+  "FULL_NAME_FOUND": "Big Red WRIGLEY'S Cinnamon Gum, 5 Piece Pack",
+  "DESCRIPTION": "Experience the bold and spicy flavor of Wrigley's Big Red Cinnamon Chewing Gum! Perfect for those who enjoy a sweet and fiery taste, this gum is a classic favorite among gum enthusiasts. Each pack contains five pieces of gum, ideal for on-the-go snacking, this gum provides a refreshing burst of flavor that lasts. Whether you are at work, school, or just relaxing at home, Big Red is the perfect companion to keep your breath fresh and your taste buds satisfied.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Big Red",
+  "SIZE": "",
+  "EAN": "0022000001740",
+  "STATUS": "MATCHED"
+ },
+ "022000001788": {
+  "FULL_NAME_FOUND": "Winterfresh WRIGLEY'S Chewing Gum, Single Pack, 5 Stick Pack",
+  "DESCRIPTION": "Experience the refreshing taste of Wrigley's Winterfresh Chewing Gum, designed to invigorate your senses with every chew. This pack contains 5 sticks of gum, perfect for keeping on hand for yourself. Whether you are at home, in the office, or on the go, this gum provides a long-lasting flavor that keeps your breath fresh and your mouth feeling clean.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Winterfresh",
+  "SIZE": "",
+  "EAN": "0022000001788",
+  "STATUS": "MATCHED"
+ },
+ "022000002785": {
+  "FULL_NAME_FOUND": "Hubba Bubba Tangy Tropic Bubble Gum Tape, 2 Ounce",
+  "DESCRIPTION": "6ft Of Flavour Juicy tropical flavors. Long-lasting bubble fun. Extra fun ribbon shaped gum and dispenser. Hubba Bubba tape delivers it all, taste, bubbles and fun all in one!",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Hubba Bubba",
+  "SIZE": "",
+  "EAN": "0022000002785",
+  "STATUS": "MATCHED"
+ },
+ "022000002792": {
+  "FULL_NAME_FOUND": "Orbit Gum, Sugarfree, Wintermint",
+  "DESCRIPTION": "Artificially flavored. 40% fewer calories than sugared gum. Calorie content of this size piece has been reduced from 5 to 3 calories. Dispose of properly. Questions? Comments? Call 1-800-Wrigley (1-800-974-4539). Made in Canada.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Orbit",
+  "SIZE": "",
+  "EAN": "0022000002792",
+  "STATUS": "MATCHED"
+ },
+ "022000002822": {
+  "FULL_NAME_FOUND": "5 Gum, Sugarfree, Cobalt",
+  "DESCRIPTION": "A cooling peppermint. Natural and artificial flavors. 30% fewer calories than sugared gum. Calorie content of this size piece has been reduced from 6 to 4 calories. Dispose of properly. Questions? Comments? Call 1-800-Wrigley (1-800-974-4539). Made in Canada.",
+  "CATEGORY": "Chips",
+  "BRAND": "5",
+  "SIZE": "",
+  "EAN": "0022000002822",
+  "STATUS": "MATCHED"
  }
 }

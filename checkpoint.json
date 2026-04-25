@@ -42796,5 +42796,83 @@
   "SIZE": "",
   "EAN": "0020000105918",
   "STATUS": "MATCHED"
+ },
+ "020000111971": {
+  "FULL_NAME_FOUND": "Green Giant Cut Beans 14.5 Oz",
+  "DESCRIPTION": "The Green Giant Cut Green Beans are great for adding to a variety of dishes. They are ready to use, saving time and effort. The bulk case with 24 packs of Green Giant Beans is ideal for supermarkets, hypermarkets, and retail stores.",
+  "CATEGORY": "Beans",
+  "BRAND": "Green Giant",
+  "SIZE": "",
+  "EAN": "0020000111971",
+  "STATUS": "MATCHED"
+ },
+ "020100001141": {
+  "STATUS": "UNMATCHED"
+ },
+ "020400000035": {
+  "FULL_NAME_FOUND": "Misty Silver 100 Box Men",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Misty",
+  "SIZE": "",
+  "EAN": "0020400000035",
+  "STATUS": "MATCHED"
+ },
+ "002041000070": {
+  "STATUS": "UNMATCHED"
+ },
+ "020685000294": {
+  "FULL_NAME_FOUND": "Cape Cod Less Fat Original Kettle Cooked Potato Chips, 8 Ounce",
+  "DESCRIPTION": "Try Cape Cod Less Fat Original potato chips for a remarkably similar taste to our original chips. With 40% less fat than the leading potato chip, these kettle chips have a simple recipe: choice potatoes, vegetable oil, and a sprinkling of sea salt. To top it of, we remove the excess oil and reduce the fat during our unique kettle cooking process. They're ridiculously good! Cape Cod Potato Chips are known for their quality taste, hearty crunch and distinctly remarkable flavors. These delicious chips are made with premium ingredients beginning with oil, salt and potatoes. Available in many traditional and unique varieties, Cape Cod Potato Chips maintain the tradition of using high quality ingredients in all its snacks.",
+  "CATEGORY": "Chips",
+  "BRAND": "Cape Cod",
+  "SIZE": "",
+  "EAN": "0020685000294",
+  "STATUS": "MATCHED"
+ },
+ "020685000744": {
+  "FULL_NAME_FOUND": "Cape Cod Original Kettle Cooked Potato Chips, 5 Ounce -- 8 Per Case",
+  "DESCRIPTION": "Handcrafted in small batches to deliver a hearty, crunchy chip experience that emphasizes simple, clean ingredients. Each chip is thicker and cooked more slowly than standard chips, allowing for a satisfying snap and distinct texture. Uses carefully selected potatoes, quality vegetable oils, and sea salt, with no artificial colors, flavors, or preservatives. The result is a snack that appeals to those seeking a premium chip with a pure potato taste.",
+  "CATEGORY": "Chips",
+  "BRAND": "Cape Cod",
+  "SIZE": "",
+  "EAN": "0020685000744",
+  "STATUS": "MATCHED"
+ },
+ "020685002359": {
+  "FULL_NAME_FOUND": "Cape Cod 40 Reduced Fat Original Kettle Cooked Potato Chips",
+  "DESCRIPTION": "Try Cape Cod Less Fat Original potato chips for a remarkably similar taste to our original chips. With 40% less fat than the leading potato chip, these kettle chips have a simple recipe: choice potatoes, vegetable oil, and a sprinkling of sea salt. To top it of, we remove the excess oil and reduce the fat during our unique kettle cooking process. They're ridiculously good! Cape Cod Potato Chips are known for their quality taste, hearty crunch and distinctly remarkable flavors. These delicious chips are made with premium ingredients beginning with oil, salt and potatoes. Available in many traditional and unique varieties, Cape Cod Potato Chips maintain the tradition of using high quality ingredients in all its snacks.",
+  "CATEGORY": "Chips",
+  "BRAND": "Cape Cod",
+  "SIZE": "",
+  "EAN": "0020685002359",
+  "STATUS": "MATCHED"
+ },
+ "020685003165": {
+  "FULL_NAME_FOUND": "Cape Cod Sea Salt & Vinegar Kettle Cooked Potato Chips - 7.5 Ounce",
+  "DESCRIPTION": "Try the classic pairing of salty and tangy flavors with Cape Cod Sea Salt & Vinegar potato chips. These kettle chips are made one batch at a time, with choice potatoes, sliced perfectly, and cooked in custom kettles. Every kettle chip has full, hearty crunch and a tangy, salty, sour taste. They're ridiculously good! Cape Cod Potato Chips are known for their quality taste, hearty crunch and distinctly remarkable flavors. These delicious chips are made with premium ingredients beginning with oil, salt and potatoes. Available in many traditional and unique varieties, Cape Cod Potato Chips maintain the tradition of using high quality ingredients in all its snacks.",
+  "CATEGORY": "Chips",
+  "BRAND": "Cape Cod",
+  "SIZE": "",
+  "EAN": "0020685003165",
+  "STATUS": "MATCHED"
+ },
+ "020685168000": {
+  "FULL_NAME_FOUND": "Cape Cod Sea Salt & Vinegar Potato Chips",
+  "DESCRIPTION": "Thank you for buying my very special Cape Cod Potato chips with Sea Salt and Vinegar. You'll find that these flavored chips are every bit as tasty as my original Cape cod Potato Chips. They are seasoned with a blend of sea salt and vinegar to give you a crisp, tangy flavor. In addition, these chips are cooked in pure vegetable oil and contain no preservatives. To maintain the highest level of quality, we begin by working with small farmers from Maine to Florida to insure a steady supply of select potatoes. We cook the old fashioned way. One batch at a time. I believe the combination of high-quality potatoes and our special kettle cooking process produces a crispier chip with a heartier potato flavor. We strive to make a consistently good potato chip and guarantee all our products are of the highest quality.",
+  "CATEGORY": "Chips",
+  "BRAND": "Cape Cod",
+  "SIZE": "",
+  "EAN": "0020685168000",
+  "STATUS": "MATCHED"
+ },
+ "020709002402": {
+  "FULL_NAME_FOUND": "Trolli Classic Gummy Bears Candy 5 Ounce Bag",
+  "DESCRIPTION": "Indulge in the delightful taste of Trolli Classic Gummy Bears! These chewy, fruity candies are perfect for satisfying your sweet tooth. Each 5-ounce bag is filled with an assortment of vibrant gummy bears that are sure to bring a smile to your face. Whether you are enjoying them as a snack, using them for baking, or sharing them at parties, these gummy bears are a classic favorite for all ages.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Trolli",
+  "SIZE": "",
+  "EAN": "0020709002402",
+  "STATUS": "MATCHED"
  }
 }

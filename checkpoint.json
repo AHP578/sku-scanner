@@ -42874,5 +42874,95 @@
   "SIZE": "",
   "EAN": "0020709002402",
   "STATUS": "MATCHED"
+ },
+ "020709002624": {
+  "FULL_NAME_FOUND": "Trolli Apple O's Gummy Rings Candy, 4.25 Ounce Peg Bag",
+  "DESCRIPTION": "Trolli Apple O's are soft and chewy gummy rings with a sweet apple flavor in every bite. They’re coated in a tangy-sweet sugary goodness, making for the perfect mouth-puckering, lip-smacking treat.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Trolli",
+  "SIZE": "",
+  "EAN": "0020709002624",
+  "STATUS": "MATCHED"
+ },
+ "020709012043": {
+  "FULL_NAME_FOUND": "Trolli Gummi Candy Squiggles Peg Bag 12x5oz",
+  "DESCRIPTION": "Trolli Squiggles provide mouth meddling, tangy, weird wormy goodness and lip smacking, sweetly sour, mind warping tastiness. Home of America's Best Selling Gummy Worm, Trolli candy has weirdly awesome flavors, weirdly awesome shapes, and weirdly awesome fun. So much has changed since the first Ferrara candy rolled off the line and into stores in 1908. But the same creativity and innovation that fed those early years remains at the heart of our company. In fact, it's",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Trolli",
+  "SIZE": "",
+  "EAN": "0020709012043",
+  "STATUS": "MATCHED"
+ },
+ "020709100160": {
+  "FULL_NAME_FOUND": "Trolli Evil Twins Gummi Candy 4.25 Oz. Bag",
+  "DESCRIPTION": "Trolli Evil Twins are sour on one side, sweet on the other. Tear them apart or keep them together for a tongue-twisting experience. Try all three feisty flavour combinations: Angelic Orange & Mischievous Lime, Sweet Strawberry & Rowdy Blue Raspberry, Charming Cherry & Wicked Lemon.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Trolli",
+  "SIZE": "",
+  "EAN": "0020709100160",
+  "STATUS": "MATCHED"
+ },
+ "020709110435": {
+  "FULL_NAME_FOUND": "Trolli Soda Poppers Gummi Candy 5 Oz. Bag",
+  "DESCRIPTION": "Cola; cherry cola; root beer; orange soda; lemon lime. Naturally & artificially flavored.",
+  "CATEGORY": "Soda",
+  "BRAND": "Trolli",
+  "SIZE": "148 mL",
+  "EAN": "0020709110435",
+  "STATUS": "MATCHED"
+ },
+ "020709110442": {
+  "FULL_NAME_FOUND": "Trolli Big Bold Bears Gummy Candy, 5 Ounce Bag",
+  "DESCRIPTION": "Tropical fruit flavor combinations Chewy candy Instantly recognizable packaging Trolli® Big Bold Bears® are no ordinary gummy; 4 times larger than the classic bears, these gummies are loaded with fruit flavor your customers crave. Each multi-colored bear offers bold flavor to delight candy lovers, young and old. Vibrant peg bags grab attention and can be hung to save space on your display shelves.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Trolli",
+  "SIZE": "",
+  "EAN": "0020709110442",
+  "STATUS": "MATCHED"
+ },
+ "020735110010": {
+  "FULL_NAME_FOUND": "Turkey Hill Original Vanilla Premium Ice Cream 48 Fl. Oz. Tub",
+  "DESCRIPTION": "Original recipe vanilla ice cream made with a blend of all natural vanillas. Real ice cream. Original ice cream. Where we make it is why it's good. It all started in 1931 with just a few neighbors in Lancaster County, a place with rolling hills, friendly smiles and plenty of family heritage. Armor Frey founded Turkey Hill Dairy on traditional values like faith, hard work and unwavering commitment to quality. Today, our neighborhood has grown, and millions have come to trust Turkey Hill to mean the finest in frozen desserts and beverages.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "Turkey Hill",
+  "SIZE": "",
+  "EAN": "0020735110010",
+  "STATUS": "MATCHED"
+ },
+ "020735110027": {
+  "FULL_NAME_FOUND": "Turkey Hill Ice Cream, Premium, French Vanilla",
+  "DESCRIPTION": "At Turkey Hill, we make family moments delicious. We use quality ingredients to make our premium ice cream. Because life, like ice cream, should be joyful and sweet.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "Turkey Hill",
+  "SIZE": "",
+  "EAN": "0020735110027",
+  "STATUS": "MATCHED"
+ },
+ "020735110072": {
+  "FULL_NAME_FOUND": "Turkey Hill Ice Cream, Premium, Neapolitan 48 Fl Oz",
+  "DESCRIPTION": "At Turkey Hill, we make family moments delicious. We use quality ingredients to make our premium ice cream. Because life, like ice cream, should be joyful and sweet.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "Turkey Hill",
+  "SIZE": "",
+  "EAN": "0020735110072",
+  "STATUS": "MATCHED"
+ },
+ "020735110201": {
+  "FULL_NAME_FOUND": "Turkey Hill Original Recipe Premium Ice Cream, Strawberries And Cream",
+  "DESCRIPTION": "Strawberry ice cream with sweet strawberry slices. Real ice cream. Original ice cream. Where we make it is why it's good. It all started in 1931 with just a few neighbors in Lancaster County, a place with rolling hills, friendly smiles and plenty of family heritage. Armor Frey founded Turkey Hill Dairy on traditional values like faith, hard work and an unwavering commitment to quality. Today, our neighborhood has grown, and millions have come to trust Turkey Hill to mean the finest in frozen desserts and beverages.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "Turkey Hill",
+  "SIZE": "",
+  "EAN": "0020735110201",
+  "STATUS": "MATCHED"
+ },
+ "020735110225": {
+  "FULL_NAME_FOUND": "Turkey Hill Ice Cream, Premium, Cookies 'N Cream 48 Fl Oz",
+  "DESCRIPTION": "At Turkey Hill, we make family moments delicious. We use quality ingredients to make our premium ice cream. Because life, like ice cream, should be joyful and sweet.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "Turkey Hill",
+  "SIZE": "",
+  "EAN": "0020735110225",
+  "STATUS": "MATCHED"
  }
 }

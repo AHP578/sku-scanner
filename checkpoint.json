@@ -45184,5 +45184,89 @@
   "SIZE": "",
   "EAN": "0024682312084",
   "STATUS": "MATCHED"
+ },
+ "024682313005": {
+  "FULL_NAME_FOUND": "Hersheys Super Cookies & Cream",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cookies",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0024682313005",
+  "STATUS": "MATCHED"
+ },
+ "024682313029": {
+  "FULL_NAME_FOUND": "Hershey's Nutty Cone",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "Hershey's",
+  "SIZE": "",
+  "EAN": "0024682313029",
+  "STATUS": "MATCHED"
+ },
+ "024682313142": {
+  "STATUS": "UNMATCHED"
+ },
+ "024682313302": {
+  "FULL_NAME_FOUND": "Hershey's Ice Cream, Vanilla",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Frozen Desserts & Novelties",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0024682313302",
+  "STATUS": "MATCHED"
+ },
+ "024682313319": {
+  "FULL_NAME_FOUND": "Hershey's Ice Cream Bar",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Frozen Desserts & Novelties",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0024682313319",
+  "STATUS": "MATCHED"
+ },
+ "024682502157": {
+  "FULL_NAME_FOUND": "Hershey Screwball Cotton Candy",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0024682502157",
+  "STATUS": "MATCHED"
+ },
+ "025000000188": {
+  "FULL_NAME_FOUND": "Simply Lemonade With Raspberry, All Natural Non Gmo 11.5 Fl Oz",
+  "DESCRIPTION": "Our delicious lemonade is made simply, with natural ingredients and a delicate balance of sweet and sour. For Simply Lemonade with Raspberry, we added an extra twist—the sweet taste of raspberries. Delicious and refreshing, Simply Lemonade with Raspberry is a delightful, all-natural and non-GMO fruit juice beverage that tastes as close to homemade lemonade as you can get, all in one beautifully simple bottle. There are no surprises here. Just simple ingredients and a deliciously refreshing taste. One sip of this all-natural refreshment can take you right back to an ice-cold glass pitcher on a lazy summer afternoon or makeshift lemonade stands on quiet neighborhood streets. That’s because Simply Lemonade with Raspberry tastes as close to homemade as it gets. Be sure to try all Simply Lemonade flavors, like original Simply Lemonade, Simply Lemonade with Blueberry or Simply Lemonade with Strawberry. Simply products start with great-tasting fruit and end with great-tasting fruit juices, fruit drinks and fruit smoothies. That’s because we believe the best things in life are made simply. And we hold everything—from all-natural Simply Fruit Punch to Simply Lemonade—to the same high standard with our “Fresh Taste Guarantee.” Whatever juice or juice drink you’re looking for, the choice is simple. With Simply Lemonade with Raspberry, the difference is clear. Clear enough that you can see the all-natural ingredients inside. Because with Simply, there’s nothing to hide.",
+  "CATEGORY": "Juice",
+  "BRAND": "Simply",
+  "SIZE": "340 mL",
+  "EAN": "0025000000188",
+  "STATUS": "MATCHED"
+ },
+ "025000000218": {
+  "FULL_NAME_FOUND": "Simply Lemonade, All Natural Non Gmo 11.5 Fl Oz",
+  "DESCRIPTION": "When you think of lemonade, your mind is immediately filled with images of fresh lemons, simple ingredients, cold glass pitchers, lemonade stands and hot summer days. And it’s easy to imagine why. Nothing can beat the taste of fresh lemonade. Which is why we made Simply Lemonade—so you can have that same perfect experience without the work. It’s the feeling you know and love that classic lemonade brings, captured and bottled perfectly. Made with real lemon juice and other all-natural ingredients, it’s everything you love about lemonade—minus the inconvenience of having to make it yourself. And while that homemade lemonade taste is no doubt both delicious and nostalgic, Simply Lemonade also comes in Blueberry, Raspberry and Strawberry flavors for when you need to satisfy a different kind of taste. Perfect and unapologetic blends of sweet and sour means you’ll never get tired of the all-natural drink that’s truly been tried and tested. With Simply Lemonade, the difference is clear. Clear enough that you can see the all-natural ingredients inside. Because with Simply, there’s nothing to hide.",
+  "CATEGORY": "Juice",
+  "BRAND": "Simply",
+  "SIZE": "340 mL",
+  "EAN": "0025000000218",
+  "STATUS": "MATCHED"
+ },
+ "025000000249": {
+  "FULL_NAME_FOUND": "Simply Pulp Free Orange Juice, 11.5 Fl Oz Bottle",
+  "DESCRIPTION": "Simply Orange Pulp Free is delicious orange juice with a taste that's the next best thing to fresh-squeezed. Try this premium, not-from-concentrate orange juice which is an excellent source of Vitamin C. Simply adheres to strict standards to ensure that the Simply Orange juices are the absolute best and guarantee fresh taste. With the Simply Orange Pulp Free juice, you can see the juicy goodness inside because Simply only uses transparent packaging which is 100% recyclable. This single serve size is very convenient for your on-the-move consumption. The product is vegan, gluten-free and certified Kosher by OU.",
+  "CATEGORY": "Juice",
+  "BRAND": "Simply",
+  "SIZE": "340 mL",
+  "EAN": "0025000000249",
+  "STATUS": "MATCHED"
+ },
+ "025000000294": {
+  "FULL_NAME_FOUND": "Simply Apple Juice, 11.5 Fl Oz Bottle",
+  "DESCRIPTION": "Pure pressed. Juice color varies naturally. Fresh taste. Guaranteed. 100% apple juice. Contains apple juice from countries identified on bottle neck.",
+  "CATEGORY": "Juice",
+  "BRAND": "Simply",
+  "SIZE": "399 mL",
+  "EAN": "0025000000294",
+  "STATUS": "MATCHED"
  }
 }

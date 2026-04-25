@@ -42532,5 +42532,89 @@
   "SIZE": "",
   "EAN": "0018505133390",
   "STATUS": "MATCHED"
+ },
+ "018588360539": {
+  "FULL_NAME_FOUND": "Permatex Pnzl Fix A Flat",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Vehicle Parts & Accessories",
+  "BRAND": "Permatex",
+  "SIZE": "",
+  "EAN": "0018588360539",
+  "STATUS": "MATCHED"
+ },
+ "018588361086": {
+  "STATUS": "UNMATCHED"
+ },
+ "018627917694": {
+  "FULL_NAME_FOUND": "Kashi Chocolate Almond Sea Salt Chewy Granola Bar",
+  "DESCRIPTION": "A pioneering force in crafting delicious, plant-based foods from wholesome ingredients, Kashi is rooted in nutrition, passion, and sustainable and ethical farming practices. With a mission dedicated to looking beyond the package, Kashi couples real food with a real-food philosophy in every box, bag, and bowl of grain-based goodness. Kashi, a name that stands for wholesome foods made with real nutrition.",
+  "CATEGORY": "Cereal Bars",
+  "BRAND": "Kashi",
+  "SIZE": "",
+  "EAN": "0018627917694",
+  "STATUS": "MATCHED"
+ },
+ "019000001030": {
+  "FULL_NAME_FOUND": "Life Savers Pep O Mint Candy, 0.84 Ounce Roll",
+  "DESCRIPTION": "The LifeSavers Pep O Mint Mints make for a tasty and refreshing mouth freshener. These hard candies are sure to be enjoyed by kids and adults alike. Available in a bulk pack of 15 boxes, the LifeSavers Mints are ideal for candy stores, retail outlets, and convenience stores.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Life Savers",
+  "SIZE": "",
+  "EAN": "0019000001030",
+  "STATUS": "MATCHED"
+ },
+ "019000001054": {
+  "FULL_NAME_FOUND": "LifeSavers Mints, Spear O Mint",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Chips",
+  "BRAND": "LifeSavers",
+  "SIZE": "",
+  "EAN": "0019000001054",
+  "STATUS": "MATCHED"
+ },
+ "019000002228": {
+  "FULL_NAME_FOUND": "LifeSavers Hard Candy, Tropicals",
+  "DESCRIPTION": "Fruit punch. Pina colada. Tangerine. Banana. Mango melon. Artificially flavored. Made in Mexico.",
+  "CATEGORY": "Chips",
+  "BRAND": "LifeSavers",
+  "SIZE": "",
+  "EAN": "0019000002228",
+  "STATUS": "MATCHED"
+ },
+ "019100181694": {
+  "FULL_NAME_FOUND": "Jergens Ultra Healing Dry Skin Moisturizing Body Lotion, 2 Fl Oz",
+  "DESCRIPTION": "Repair dryness at the source with Jergens Ultra Healing Moisturizer for Extra Dry Skin. The nourishing formula penetrates through five layers of skin’s surface to heal extra dry skin, improve tone and texture, and leave it smooth and visibly healthier. The formula absorbs to soften areas that tend to need the most moisture like heels, elbows, and knees. This body moisturizer, with a unique HYDRALUCENCE blend of ingredients plus Vitamins C, E, and B5, leaves your skin luminous and moisturized for up to 48 hours.",
+  "CATEGORY": "Health & Beauty",
+  "BRAND": "Jergens",
+  "SIZE": "",
+  "EAN": "0019100181694",
+  "STATUS": "MATCHED"
+ },
+ "019200741866": {
+  "FULL_NAME_FOUND": "Lysol Brand Disinfectant Spray, Crisp Linen Scent, Liquid, 12.5oz Aerosol",
+  "DESCRIPTION": "LYSOL Brand Disinfectant Spray, Crisp Linen, makes the workplace or hospital a clean and germ-free environment. This effective formula kills 99.9% of bacteria in as a little as 30 seconds on all hard non-porous surfaces.",
+  "CATEGORY": "Saxophone Care & Cleaning",
+  "BRAND": "Lysol",
+  "SIZE": "",
+  "EAN": "0019200741866",
+  "STATUS": "MATCHED"
+ },
+ "019200753524": {
+  "FULL_NAME_FOUND": "Lysol All Purpose Cleaner Complete Clean Lemon Breeze Scent 32 Oz",
+  "DESCRIPTION": "From kitchens to bathrooms to common household areas, Lysol All Purpose Cleaner helps achieve fresh, healthy surfaces. Cutting through tough grease and soap scum, it kills 99.9% of germs to help provide peace of mind for busy families.",
+  "CATEGORY": "Saxophone Care & Cleaning",
+  "BRAND": "Lysol",
+  "SIZE": "",
+  "EAN": "0019200753524",
+  "STATUS": "MATCHED"
+ },
+ "019200786317": {
+  "FULL_NAME_FOUND": "Lysol Multi Surface Cleaner, Clean & Fresh, Lavender & Orchid Essence Scent 40 Oz",
+  "DESCRIPTION": "It cuts through tough grease and grime & provides long lasting freshness. This pourable cleaner can be used directly on stains for spot cleaning, or diluted in water for use on large surfaces like floors.",
+  "CATEGORY": "All-Purpose Cleaners",
+  "BRAND": "Lysol",
+  "SIZE": "",
+  "EAN": "0019200786317",
+  "STATUS": "MATCHED"
  }
 }

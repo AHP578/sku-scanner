@@ -45094,5 +45094,95 @@
   "SIZE": "",
   "EAN": "0024682005719",
   "STATUS": "MATCHED"
+ },
+ "024682005757": {
+  "FULL_NAME_FOUND": "Chocolate Moose Tracks Limited Edi",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Track & Field",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0024682005757",
+  "STATUS": "MATCHED"
+ },
+ "024682005764": {
+  "FULL_NAME_FOUND": "Hershey's Cookies Cookies'N Cream",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "Hershey's",
+  "SIZE": "",
+  "EAN": "0024682005764",
+  "STATUS": "MATCHED"
+ },
+ "024682005788": {
+  "FULL_NAME_FOUND": "Hershey Limited Edition Graham Central Station Ice Cream Pint",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Frozen Desserts & Novelties",
+  "BRAND": "Hershey",
+  "SIZE": "",
+  "EAN": "0024682005788",
+  "STATUS": "MATCHED"
+ },
+ "024682005795": {
+  "FULL_NAME_FOUND": "Heavenly Hazlenut Limited Edition",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0024682005795",
+  "STATUS": "MATCHED"
+ },
+ "024682005849": {
+  "FULL_NAME_FOUND": "Pistachio Nut Limited Edition",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Frozen Desserts & Novelties",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0024682005849",
+  "STATUS": "MATCHED"
+ },
+ "024682005856": {
+  "FULL_NAME_FOUND": "Hershey Blueberry Cheesecake Ic",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0024682005856",
+  "STATUS": "MATCHED"
+ },
+ "024682005887": {
+  "FULL_NAME_FOUND": "Hershey's Midnight Peanut Butter Marshmallow Premium Ice Cream, Midnight Peanut Butter Marshmallow",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Frozen Desserts & Novelties",
+  "BRAND": "Hershey's",
+  "SIZE": "",
+  "EAN": "0024682005887",
+  "STATUS": "MATCHED"
+ },
+ "024682009809": {
+  "FULL_NAME_FOUND": "Hershey's Premium Banana Pudding Ice Cream",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Frozen Desserts & Novelties",
+  "BRAND": "Hershey's",
+  "SIZE": "",
+  "EAN": "0024682009809",
+  "STATUS": "MATCHED"
+ },
+ "024682311117": {
+  "FULL_NAME_FOUND": "Hershey S Very Cherry Ice Pop",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Ice Pops",
+  "BRAND": "Hershey",
+  "SIZE": "",
+  "EAN": "0024682311117",
+  "STATUS": "MATCHED"
+ },
+ "024682312084": {
+  "FULL_NAME_FOUND": "Hershey's Strawberry Shortcake",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "Hershey's",
+  "SIZE": "",
+  "EAN": "0024682312084",
+  "STATUS": "MATCHED"
  }
 }

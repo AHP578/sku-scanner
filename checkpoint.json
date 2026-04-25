@@ -43666,5 +43666,95 @@
   "SIZE": "",
   "EAN": "0022000009265",
   "STATUS": "MATCHED"
+ },
+ "022000009579": {
+  "FULL_NAME_FOUND": "5 Gum, Sugarfree, Solstice",
+  "DESCRIPTION": "35% fewer calories than sugared gum. Calorie content of this size piece has been reduced from 8 to 5 calories.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "5",
+  "SIZE": "",
+  "EAN": "0022000009579",
+  "STATUS": "MATCHED"
+ },
+ "022000009739": {
+  "FULL_NAME_FOUND": "Altoids Smalls Peppermint Sugar Free Mints Single Pack 0.37 Ounce",
+  "DESCRIPTION": "Altoids Smalls are the perfectly portable way to get a peppermint pick me up any time. These tiny sized mints pack the curiously strong mint flavor of their bigger brothers. Its tiny tin makes it easy to pack into purses, pockets, or desks and its recognizable branding will make it stand out in your grab and go section.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Altoids",
+  "SIZE": "",
+  "EAN": "0022000009739",
+  "STATUS": "MATCHED"
+ },
+ "022000009746": {
+  "FULL_NAME_FOUND": "Altoids Smalls Sugar Free Wintergreen Mints 0.37OZ",
+  "DESCRIPTION": "It's your big moment. You finally have the opportunity to impress with your winning conversation. The last thing you need is your breath betraying you. Good thing you have Altoids mints. Pop one of these precocious mints, and the next thing out of your mouth is sure to be sheer confidence. Atta-boy, you rascal, you! Now that's the curious strength of Altoids!",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Altoids",
+  "SIZE": "",
+  "EAN": "0022000009746",
+  "STATUS": "MATCHED"
+ },
+ "022000011602": {
+  "FULL_NAME_FOUND": "Extra Fruit Sensations Gum, Sugarfree, Sweet Tropical",
+  "DESCRIPTION": "Artificially flavored. Long lasting fruit flavor. Great fruit flavor. 35% fewer calories than sugared gum. Calorie content of this size piece has been reduced from 8 to 5 calories.",
+  "CATEGORY": "Chips",
+  "BRAND": "Extra",
+  "SIZE": "",
+  "EAN": "0022000011602",
+  "STATUS": "MATCHED"
+ },
+ "022000011794": {
+  "FULL_NAME_FOUND": "Orbit Tropical Remix Sugarfree Gum - 14ct",
+  "DESCRIPTION": "Artificially flavored. 40% fewer calories than sugared gum. Calorie content of this size piece has been reduced from 5 to 3 calories. Dispose of properly. Questions? Comments? Call 1-800-Wrigley (1-800-974-4539). Made in Canada for the WM Wrigley Jr. Company.",
+  "CATEGORY": "Chips",
+  "BRAND": "Orbit",
+  "SIZE": "",
+  "EAN": "0022000011794",
+  "STATUS": "MATCHED"
+ },
+ "022000012937": {
+  "FULL_NAME_FOUND": "Starburst Fruit Chews, Sweet Fiesta",
+  "DESCRIPTION": "Natural & artificial flavors. Great fruit taste! Real fruit juice! Cherry mango, peach guava, strawberry pineapple, melon berry.",
+  "CATEGORY": "Fruits & Vegetables",
+  "BRAND": "Starburst",
+  "SIZE": "",
+  "EAN": "0022000012937",
+  "STATUS": "MATCHED"
+ },
+ "022000012999": {
+  "FULL_NAME_FOUND": "5 Vortex Gum, Sugarfree, Green Apple",
+  "DESCRIPTION": "Natural & artificial flavors. Vortex - a juicy green apple. 35% fewer calories than sugared gum. Calorie content of this size piece has been reduced from 8 to 5 calories.",
+  "CATEGORY": "Chips",
+  "BRAND": "5",
+  "SIZE": "",
+  "EAN": "0022000012999",
+  "STATUS": "MATCHED"
+ },
+ "022000013170": {
+  "FULL_NAME_FOUND": "5 Tropical Gum, Sugarfree, Swerve",
+  "DESCRIPTION": "35% fewer calories than sugared gum. Calorie content of this size piece has been reduced from 8 to 5 calories.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "5",
+  "SIZE": "",
+  "EAN": "0022000013170",
+  "STATUS": "MATCHED"
+ },
+ "022000013194": {
+  "FULL_NAME_FOUND": "Eclipse Peppermint Sugar Free Chewing Gum Single Pack 18 Piece",
+  "DESCRIPTION": "Eclipse gum gives you incredibly fresh breath. Enjoy the crisp, cool flavor of Peppermint.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Eclipse",
+  "SIZE": "",
+  "EAN": "0022000013194",
+  "STATUS": "MATCHED"
+ },
+ "022000013279": {
+  "FULL_NAME_FOUND": "Eclipse Polar Ice Sugar Free Chewing Gum, Single Pack, 18 Piece",
+  "DESCRIPTION": "Whether its after a coffee break or spicy lunch, Eclipse Polar Ice Gum can help to eclipse these flavors, bringing back fresh breath. Health conscious customers will love that this gum is sugar-free, making it a low-calorie snack option. Its bright silver package with recognizable branding will attract attention at your point of sale or impulse section.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Eclipse",
+  "SIZE": "",
+  "EAN": "0022000013279",
+  "STATUS": "MATCHED"
  }
 }

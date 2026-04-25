@@ -41482,5 +41482,95 @@
   "SIZE": "",
   "EAN": "0016000420403",
   "STATUS": "MATCHED"
+ },
+ "016000434714": {
+  "FULL_NAME_FOUND": "Cinnamon Toast Crunch Cereal, Family Size",
+  "DESCRIPTION": "Cinnamon Toast Crunch Cereal is a delicious breakfast cereal for the entire family to enjoy. A perfect combination of sweet cinnamon sugar and crunch taste in every bite with a one of a kind cinnamilk finish. Enjoy Cinnamon Toast Crunch with milk or by itself at breakfast, as a snack, or whenever. Contains whole grains for a well rounded meal.",
+  "CATEGORY": "Cereal & Granola",
+  "BRAND": "Cinnamon Toast Crunch",
+  "SIZE": "",
+  "EAN": "0016000434714",
+  "STATUS": "MATCHED"
+ },
+ "016000434721": {
+  "FULL_NAME_FOUND": "Cinnamon Toast Crunch General Mills Wheat & Rice, Crispy, Sweetened Whole Cereal - 12.2 Oz",
+  "DESCRIPTION": "Crispy, Sweetened Whole Wheat & Rice Cereal No High Fructose Corn Syrup - No Artificial Flavors or Colors Real Cinnamon & Sugar in Every Delicious Bite!",
+  "CATEGORY": "Cereal & Granola",
+  "BRAND": "Cinnamon Toast Crunch",
+  "SIZE": "",
+  "EAN": "0016000434721",
+  "STATUS": "MATCHED"
+ },
+ "016000434738": {
+  "FULL_NAME_FOUND": "Cinnamon Toast Crunch Cereal 16.2 Oz Box",
+  "DESCRIPTION": "Crispy, sweetened whole wheat & rice cereal. Mmm, real cinnamon. No high fructose corn syrup. No colors from artificial sources. No artificial flavors.",
+  "CATEGORY": "Cereal & Granola",
+  "BRAND": "Cinnamon Toast Crunch",
+  "SIZE": "",
+  "EAN": "0016000434738",
+  "STATUS": "MATCHED"
+ },
+ "016000442818": {
+  "FULL_NAME_FOUND": "Nature Valley Sweet & Salty Nut Granola Bars Almond",
+  "DESCRIPTION": "Power through the day with a Nature Valley Chewy Protein Granola Bar. They are a great source of plant-based protein to give you the energy you need. Made with peanuts and almonds. Contain 10 grams of protein. No artificial flavors or colors.",
+  "CATEGORY": "Granola Bars",
+  "BRAND": "Nature Valley",
+  "SIZE": "",
+  "EAN": "0016000442818",
+  "STATUS": "MATCHED"
+ },
+ "016000467576": {
+  "FULL_NAME_FOUND": "Lucky Charms General Mills Marshmallow Treats Bars",
+  "DESCRIPTION": "Lucky Charms Cereal Treat Bars 8ct Now with Bigger Marshmallows! With 8 individually wrapped bars, they are great for grab and go treats. There's Magic in Every Charm! Try more delicious flavors - Golden Grahams and Cinnamon Toast Crunch Treat Bars!",
+  "CATEGORY": "Cereal & Granola Bars",
+  "BRAND": "Lucky Charms",
+  "SIZE": "",
+  "EAN": "0016000467576",
+  "STATUS": "MATCHED"
+ },
+ "016000467583": {
+  "FULL_NAME_FOUND": "Cinnamon Toast Crunch Treats Cereal Bars 6.8 Oz",
+  "DESCRIPTION": "Cinnamon Toast Crunch Cereal Treat Bars have 8 bars With 8 individually wrapped bars, they are great for grab and go treats. Naturally and Artificially Flavored. Try more delicious flavors - Golden Grahams and Lucky Charms Treat Bars.",
+  "CATEGORY": "Cereal & Granola",
+  "BRAND": "Cinnamon Toast Crunch",
+  "SIZE": "",
+  "EAN": "0016000467583",
+  "STATUS": "MATCHED"
+ },
+ "016000478855": {
+  "FULL_NAME_FOUND": "Cheerios Limited Edition Pumpkin Spice Cereal 12 Oz. Box",
+  "DESCRIPTION": "Limited edition. Sweetened whole grain oat cereal. First ingredient whole grain oats.",
+  "CATEGORY": "Cereal & Granola",
+  "BRAND": "Cheerios",
+  "SIZE": "",
+  "EAN": "0016000478855",
+  "STATUS": "MATCHED"
+ },
+ "016000483668": {
+  "FULL_NAME_FOUND": "Cheerios Honey Nut Gluten Free Cereal Family Size 21.6 Oz Box",
+  "DESCRIPTION": "Sweetened whole grain oat cereal with real honey & natural almond flavor. Naturally flavored. First ingredient whole grain oats. Can help lower cholesterol (Three grams of soluble fiber daily from whole grain oat foods, like Honey Nut Cheerios cereal, in a diet low in saturated fat and cholesterol, may reduce the risk of heart disease. Honey Nut Cheerios cereal provides 0.75 grams per serving). Simply made. Grown. Milled. Toasted. Gluten free. No artificial flavors. No artificial colors.",
+  "CATEGORY": "Cereal & Granola",
+  "BRAND": "Cheerios",
+  "SIZE": "",
+  "EAN": "0016000483668",
+  "STATUS": "MATCHED"
+ },
+ "016000487949": {
+  "FULL_NAME_FOUND": "Chex Gluten Free Rice Breakfast Cereal - 12oz - General Mills",
+  "DESCRIPTION": "Oven toasted rice cereal. Good source of 12 vitamins and minerals. No gluten ingredients. No high fructose corn syrup. No artificial colors or flavors.",
+  "CATEGORY": "Grains, Rice & Cereal",
+  "BRAND": "Chex",
+  "SIZE": "",
+  "EAN": "0016000487949",
+  "STATUS": "MATCHED"
+ },
+ "016000497443": {
+  "FULL_NAME_FOUND": "Bugles Corn Snacks, Bold Bbq Flavor, Crispy 3 Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Chips",
+  "BRAND": "Bugles",
+  "SIZE": "",
+  "EAN": "0016000497443",
+  "STATUS": "MATCHED"
  }
 }

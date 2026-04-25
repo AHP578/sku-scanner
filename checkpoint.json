@@ -42358,5 +42358,95 @@
   "SIZE": "",
   "EAN": "0017082890900",
   "STATUS": "MATCHED"
+ },
+ "017082897800": {
+  "FULL_NAME_FOUND": "Jack Links Squatch Snack Stick, Mild, XXL",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Jerky",
+  "BRAND": "Jack Links",
+  "SIZE": "",
+  "EAN": "0017082897800",
+  "STATUS": "MATCHED"
+ },
+ "017082897817": {
+  "FULL_NAME_FOUND": "Jack Link's Original XXL Squatch Snack Stick",
+  "DESCRIPTION": "Jack Link's® Original Squatch XXL Snack Stick. As seen from outer space. Smoke flavor added. jacklinks.com. 715-466-6608. U.S. inspected and passed by Department of Agriculture. ®, TM, ©2014 Link Snacks, Inc.",
+  "CATEGORY": "Jerky",
+  "BRAND": "Jack Link's",
+  "SIZE": "",
+  "EAN": "0017082897817",
+  "STATUS": "MATCHED"
+ },
+ "017400101404": {
+  "FULL_NAME_FOUND": "Carolina White Rice Extra Long Grain 1lb",
+  "DESCRIPTION": "Always have a versatile option for your meals with Carolina® Extra Long Grain White Rice in your pantry. Use extra long-grain white rice in your traditional dishes and when you explore new recipes, seasonings, and flavors. Because of its quality and texture, you can count on this rice to remain fluffy and separate after cooking with the great taste you love! Whether you follow a recipe or create diverse dishes with boundless flavor, Carolina® Extra Long Grain White Rice will complete every meal. Carolina Rice Unites™.",
+  "CATEGORY": "Rice",
+  "BRAND": "Carolina",
+  "SIZE": "",
+  "EAN": "0017400101404",
+  "STATUS": "MATCHED"
+ },
+ "017400102456": {
+  "FULL_NAME_FOUND": "Carolina Enriched Extra Long Grain White Rice 2 Lb. Bag",
+  "DESCRIPTION": "Carolina Extra Long Grain White Rice is family favorite and can be used in a variety of dishes. When cooked, the extra long grains remain loose and separate for a fluffy consistency, perfect for any meal of the day! Try a tasty stir fry or fried rice dinner, rice pilaf, warm and comforting rice casserole bake, soup or even stuffed vegetables. Don’t forget about rich and creamy rice desserts like a traditional arroz con leche, or rice pudding! Rice is a wonderful ingredient when cooked into a wide variety of recipes, but it can also be a great way to feed the little ones in your family with homemade rice purees using fruits, vegetables, and rice. Carolina White Rice is Gluten-Free, Non-GMO Project Verified, free of MSG and contains no added preservatives.",
+  "CATEGORY": "Rice",
+  "BRAND": "Carolina",
+  "SIZE": "",
+  "EAN": "0017400102456",
+  "STATUS": "MATCHED"
+ },
+ "017779103108": {
+  "FULL_NAME_FOUND": "Choice 10 1/4\" Jumbo Red And White Striped Wrapped Straw",
+  "DESCRIPTION": "Offer your customers convenience and comfort with this Choice 10 1/4\" jumbo red and white striped wrapped straw! Its classic appearance, combined with its long design, is sure to make this straw a staple item in your restaurant, concession stand, or cafeteria. Thanks to its jumbo size, this straw is suitable for drinking large beverages including water, juice, and soda. Plus, the individual wrapping on each straw provides extra sanitation your customers will appreciate. With individual wrapping, you can set straws out on counters for customers or confidently toss extra straws into bags for to-go applications. Drinking straws are a great way to ensure each beverage is enjoyed properly to keep customers satisfied!",
+  "CATEGORY": "Drinking Straws & Stirrers",
+  "BRAND": "Choice",
+  "SIZE": "",
+  "EAN": "0017779103108",
+  "STATUS": "MATCHED"
+ },
+ "017800110303": {
+  "FULL_NAME_FOUND": "Dog Chow Purina Little Bites Dry Food For Small Dogs Made With Real Chicken & Beef 4 Lb 64.00 Oz",
+  "DESCRIPTION": "High quality protein including real chicken to maintain lean muscle mass. Vitamins and minerals for overall good health with antioxidants, whole grains, bite-sized kibble to help promote healthy teeth and gums.",
+  "CATEGORY": "Dog Food",
+  "BRAND": "Dog Chow",
+  "SIZE": "",
+  "EAN": "0017800110303",
+  "STATUS": "MATCHED"
+ },
+ "017800178365": {
+  "FULL_NAME_FOUND": "Puppy Chow Food, Complete, With Real Farm-Raised Chicken & Rice 4 Lb",
+  "DESCRIPTION": "Purina Puppy Chow Complete Dry Dog Food is specially formulated to provide your puppy with the essential nutrients they need for healthy growth and development. Made with real chicken and rice, this high-protein formula is designed to support your puppy's energy needs while promoting strong muscles and a healthy immune system. The 4-pound bag is perfect for pet owners looking to provide their furry friends with a nutritious and delicious meal.",
+  "CATEGORY": "Dog Food",
+  "BRAND": "Puppy Chow",
+  "SIZE": "",
+  "EAN": "0017800178365",
+  "STATUS": "MATCHED"
+ },
+ "017800183406": {
+  "FULL_NAME_FOUND": "Dog Chow Purina High Protein Wet Food, Real Beef In Savory Gravy, 13 Oz",
+  "DESCRIPTION": "High protein wet dog food featuring 40 grams of protein per can. Made with real meat. Contains no artificial flavors or preservatives. 100% complete and balanced for adult dogs. Crafted safely in the USA.",
+  "CATEGORY": "Dog Food",
+  "BRAND": "Dog Chow",
+  "SIZE": "",
+  "EAN": "0017800183406",
+  "STATUS": "MATCHED"
+ },
+ "017800183437": {
+  "FULL_NAME_FOUND": "Dog Chow High Protein Gravy With Real Chicken Wet Food",
+  "DESCRIPTION": "High protein wet dog food featuring 40 grams of protein per can. Made with real meat. Contains no artificial flavors or preservatives. 100% complete and balanced for adult dogs. Crafted safely in the USA.",
+  "CATEGORY": "Dog Food",
+  "BRAND": "Dog Chow",
+  "SIZE": "",
+  "EAN": "0017800183437",
+  "STATUS": "MATCHED"
+ },
+ "017800450072": {
+  "FULL_NAME_FOUND": "Cat Chow Purina High Protein Dry Food, Complete - 18 Oz. Box",
+  "DESCRIPTION": "Support Your Cat By Providing The Nutrition She Needs With Purina Cat Chow Complete Dry Cat Food. This Delicious Purina Dry Cat Food Recipe Uses Real, Farm-Raised Chicken With High-Quality Protein To Support Strong Muscles. This Cat Dry Food Also Offers Healthy Carbs For Vital Energy And Omega-6 Fatty Acids To Help Promote A Shiny Coat. Purina Cat Chow Complete Nourishes Cats At Every Stage Of Life, From Kittens To Adult Cats, With 25 Essential Vitamins And Minerals To Support Overall Health. Wholesome.",
+  "CATEGORY": "Cat Food",
+  "BRAND": "Cat Chow",
+  "SIZE": "",
+  "EAN": "0017800450072",
+  "STATUS": "MATCHED"
  }
 }

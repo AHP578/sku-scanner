@@ -42448,5 +42448,89 @@
   "SIZE": "",
   "EAN": "0017800450072",
   "STATUS": "MATCHED"
+ },
+ "017869807015": {
+  "FULL_NAME_FOUND": "Fiorucci Panino Antipasti Hard Salami 1.5 Oz. Peg",
+  "DESCRIPTION": "Two pack of our Hard Salami Panino. A single serving of this high protein treat makes for a perfect accompaniment to lunch, a mid day snack or something to tie you over until dinner.",
+  "CATEGORY": "Meat",
+  "BRAND": "Fiorucci",
+  "SIZE": "",
+  "EAN": "0017869807015",
+  "STATUS": "MATCHED"
+ },
+ "017869807022": {
+  "FULL_NAME_FOUND": "Fiorucci Panino Antipasti Pepperoni 1.5 Oz. Peg",
+  "DESCRIPTION": "Savor the classic bold flavor of pepperoni paired with creamy mozzarella cheese in this convenient, ready-to-eat snack. The Fiorucci Panino Pepperoni combines spicy, smoky pepperoni with mild mozzarella, wrapped into a perfect on-the-go bite that satisfies your cravings anytime.",
+  "CATEGORY": "Meat",
+  "BRAND": "Fiorucci",
+  "SIZE": "",
+  "EAN": "0017869807022",
+  "STATUS": "MATCHED"
+ },
+ "017869883316": {
+  "FULL_NAME_FOUND": "Fiorucci Salami Cheddar Mild",
+  "DESCRIPTION": "Shop Fiorucci Mild Salami with Aged White Cheddar, 2 oz. Enjoy a savory snack in a convenient 12-pack case. Perfect for on-the-go and charcuterie boards.",
+  "CATEGORY": "Meat",
+  "BRAND": "Fiorucci",
+  "SIZE": "",
+  "EAN": "0017869883316",
+  "STATUS": "MATCHED"
+ },
+ "018000234516": {
+  "FULL_NAME_FOUND": "Pillsbury Soft Baked Mini Chocolate Chip Cookies",
+  "DESCRIPTION": "Pillsbury Soft Baked Chocolate Chip Cookies are made with real chocolate chips and a blend of butter and shortening for the perfect soft baked texture. All the flavour and goodness you expect from Pillsbury cookie dough in a ready to eat cookie. These cookies are the perfect lunchbox treat or after school snack your whole family will enjoy!",
+  "CATEGORY": "Cookies",
+  "BRAND": "Pillsbury",
+  "SIZE": "",
+  "EAN": "0018000234516",
+  "STATUS": "MATCHED"
+ },
+ "018000512553": {
+  "FULL_NAME_FOUND": "Pillsbury Coffee Cake, Cinnamon Streusel, Mini",
+  "DESCRIPTION": "Pillsbury Mini Coffee Cake with Cinnamon Streusel. 320 Calories per container. Net Wt 3.0 oz (85 g). Partially produced with genetic engineering. Learn more at ask.generalmills.com. Comments Save entire package. Call: 1-800-767-5404. © General Mills.",
+  "CATEGORY": "Coffee Cakes",
+  "BRAND": "Pillsbury",
+  "SIZE": "",
+  "EAN": "0018000512553",
+  "STATUS": "MATCHED"
+ },
+ "018000512560": {
+  "FULL_NAME_FOUND": "Pillsbury Muffins, Blueberry, With Streusel, Mini",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Pastries & Scones",
+  "BRAND": "Pillsbury",
+  "SIZE": "",
+  "EAN": "0018000512560",
+  "STATUS": "MATCHED"
+ },
+ "018200264269": {
+  "FULL_NAME_FOUND": "Proofnomore Stella Artois 0.0 - Liberté",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Beer",
+  "BRAND": "Proofnomore",
+  "SIZE": "",
+  "EAN": "0018200264269",
+  "STATUS": "MATCHED"
+ },
+ "018491000072": {
+  "FULL_NAME_FOUND": "Foxcroft Women's Ellery Floral Stripe Shirt",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Shirts & Tops",
+  "BRAND": "Foxcroft",
+  "SIZE": "",
+  "EAN": "0018491000072",
+  "STATUS": "MATCHED"
+ },
+ "018505129102": {
+  "STATUS": "UNMATCHED"
+ },
+ "018505133390": {
+  "FULL_NAME_FOUND": "Blink Lighter",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Lighters & Matches",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0018505133390",
+  "STATUS": "MATCHED"
  }
 }

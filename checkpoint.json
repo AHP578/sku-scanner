@@ -41302,5 +41302,95 @@
   "SIZE": "",
   "EAN": "0016000211667",
   "STATUS": "MATCHED"
+ },
+ "016000220386": {
+  "FULL_NAME_FOUND": "Trix Corn Puffs, Fruit Flavored",
+  "DESCRIPTION": "This cereal is bursting with fun, flavor, and a little bit of marshmallow mischief! Trix with Marshmallows takes the fruity crunch you know and love and levels it up with soft, colorful marshmallows that melt in your mouth and make every bite feel like a celebration. With its playful mix of sweet corn puffs and marshmallow surprises, this cereal is as fun to look at as it is to eat!",
+  "CATEGORY": "Cereal & Granola",
+  "BRAND": "Trix",
+  "SIZE": "",
+  "EAN": "0016000220386",
+  "STATUS": "MATCHED"
+ },
+ "016000264502": {
+  "FULL_NAME_FOUND": "Nature Valley Cinnamon Granola Bars",
+  "DESCRIPTION": "Nature Valley Crunchy Cinnamon bars are a tasty snack made with cinnamon, crisp rice and whole grain oats. There are no artificial flavors, colors or sweeteners and they pack an excellent source of whole grains with 22 grams per serving! It's a snack the whole family can enjoy!",
+  "CATEGORY": "Cereal & Granola",
+  "BRAND": "Nature Valley",
+  "SIZE": "",
+  "EAN": "0016000264502",
+  "STATUS": "MATCHED"
+ },
+ "016000264601": {
+  "FULL_NAME_FOUND": "Nature Valley Crunchy Granola Bar, Oats 'N Honey, 12 Bars, 8.94 Oz",
+  "DESCRIPTION": "The Nature Valley Oats and Honey Granola Bar is a tasty and delicious snack that can be enjoyed by kids and adults alike. It makes a good breakfast or snack option. The bulk case with 12 packs of Nature Valley Oats and Honey Granola Bar is ideal for snack bars, pantries, and cafeterias.",
+  "CATEGORY": "Granola Bars",
+  "BRAND": "Nature Valley",
+  "SIZE": "",
+  "EAN": "0016000264601",
+  "STATUS": "MATCHED"
+ },
+ "016000264700": {
+  "FULL_NAME_FOUND": "Nature Valley Peanut Butter Crunchy Granola Bars, 8.9 Ounce",
+  "DESCRIPTION": "Nature Valley Crunchy Peanut Butter bars are a tasty snack made with creamy peanut butter and whole grain oats. There are no artifical flavors, colors or sweetners and they pack an excellent source of whole grains with 16 grams per serving. It's a snack the whole family can enjoy!",
+  "CATEGORY": "Cereal & Granola",
+  "BRAND": "Nature Valley",
+  "SIZE": "",
+  "EAN": "0016000264700",
+  "STATUS": "MATCHED"
+ },
+ "016000264793": {
+  "FULL_NAME_FOUND": "Nature Valley Granola Bars, Peanut Butter Cereal, 1.5 Oz Bar",
+  "DESCRIPTION": "Discover the delicious and nutritious Nature Valley Peanut Butter Granola Bar! Perfect for those on-the-go moments, this granola bar is packed with rich, creamy peanut butter drizzled over 100% natural whole grain oats. Each bar provides a satisfying crunch and a burst of energy, making it an ideal snack for any time of the day. Whether you are hiking, at work, or simply need a quick pick-me-up, this granola bar is your perfect companion.",
+  "CATEGORY": "Cereal & Granola Bars",
+  "BRAND": "Nature Valley",
+  "SIZE": "",
+  "EAN": "0016000264793",
+  "STATUS": "MATCHED"
+ },
+ "016000272880": {
+  "FULL_NAME_FOUND": "Nature Valley Wafer Bars, Peanut Butter Chocolate, Crispy Creamy",
+  "DESCRIPTION": "Layers of crispy wafers and creamy peanut butter, topped with granola and chocolate Crispy and Creamy. Layers of crisply wafers and creamy peanut butter make a delicious, wholesome snack for any time of the day.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Nature Valley",
+  "SIZE": "",
+  "EAN": "0016000272880",
+  "STATUS": "MATCHED"
+ },
+ "016000273085": {
+  "FULL_NAME_FOUND": "Nature Valley Peanut Butter Crispy Creamy Wafer Bar",
+  "DESCRIPTION": "Layers of crispy wafers and creamy peanut butter, topped with granola Layers of crisply wafers and creamy peanut butter make a delicious, wholesome snack for any time of the day.",
+  "CATEGORY": "Nut Butters",
+  "BRAND": "Nature Valley",
+  "SIZE": "",
+  "EAN": "0016000273085",
+  "STATUS": "MATCHED"
+ },
+ "016000275034": {
+  "FULL_NAME_FOUND": "Reese's General Mills Puffs Peanut Butter & Cruncy Corn Cereal 368g",
+  "DESCRIPTION": "Made with real Reese's peanut butter. No high fructose corn syrup. No colors from artificial sources. No artificial flavors.",
+  "CATEGORY": "Cereal & Granola",
+  "BRAND": "Reese's",
+  "SIZE": "",
+  "EAN": "0016000275034",
+  "STATUS": "MATCHED"
+ },
+ "016000275119": {
+  "FULL_NAME_FOUND": "Cocoa Puffs Cereal, Cuckoo For Chocolatey Milk",
+  "DESCRIPTION": "When Cocoa Puffs splashes down in your bowl it turns the milk into an extra slurp-a-licious treat. The Ultimate Chocolatey Experience! The rich taste of this chocolate-y cereal is the perfect partner to start off your morning the right way with fun and delicious flavor. Grab a spoonful today to make this cereal a part of your balanced breakfast, complete with vitamins and minerals to kickstart your day.",
+  "CATEGORY": "Cereal & Granola",
+  "BRAND": "Cocoa Puffs",
+  "SIZE": "",
+  "EAN": "0016000275119",
+  "STATUS": "MATCHED"
+ },
+ "016000275164": {
+  "FULL_NAME_FOUND": "Golden Grahams Cereal 12 Oz. Box",
+  "DESCRIPTION": "Whole Grain First Ingredient When You Crave a Crunch, Grab Some Sweet Graham Goodness! Grow Up Strong with Big G Kid Cereals Kosher Dairy.",
+  "CATEGORY": "Cereal & Granola",
+  "BRAND": "Golden Grahams",
+  "SIZE": "",
+  "EAN": "0016000275164",
+  "STATUS": "MATCHED"
  }
 }

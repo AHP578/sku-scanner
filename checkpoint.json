@@ -41662,5 +41662,83 @@
   "SIZE": "",
   "EAN": "0016000513334",
   "STATUS": "MATCHED"
+ },
+ "016000523098": {
+  "FULL_NAME_FOUND": "General Mill Chex Mix Sweet 'N Salty Trail Mix Snack Mix",
+  "DESCRIPTION": "The original. 60% less fat than regular potato chips. Chex Mix Sweet 'n Salty Trail Mix (5 g per 35 g serving) has 60% less fat than regular potato chips (13 g fat per 35 g serving). Experience a satisfying Trail Mix like never before! Delicious Chex cereal pieces combine chocolate flavor and dry roasted peanuts to create the more interesting Trail Mix experience. Chex Mix is a bag of interesting!",
+  "CATEGORY": "Trail & Snack Mixes",
+  "BRAND": "General Mill",
+  "SIZE": "",
+  "EAN": "0016000523098",
+  "STATUS": "MATCHED"
+ },
+ "016000660595": {
+  "FULL_NAME_FOUND": "Honey Nut Cheerios Milk'n Cereal Bars",
+  "DESCRIPTION": "Honey Nut Cheerios™ Milk'n Cereal Bars. Filling made with real milk. 160 Calories per bar. Net Wt 1.4 oz (40 g).",
+  "CATEGORY": "Cereal Bars",
+  "BRAND": "Honey Nut Cheerios",
+  "SIZE": "",
+  "EAN": "0016000660595",
+  "STATUS": "MATCHED"
+ },
+ "016165003909": {
+  "STATUS": "UNMATCHED"
+ },
+ "016165003916": {
+  "STATUS": "UNMATCHED"
+ },
+ "016165006580": {
+  "FULL_NAME_FOUND": "Zen Cigarette Tubes Full Flavor King Size 250ct Box",
+  "DESCRIPTION": "White tubes, brown filter tips, 200 tubes per box. ES - Extra smooth filter tip. Zen Premium ES Tubing - 15% Length. While other manufacturers cut their manufacturing costs by shortening their filters, ours are 2mm longer to make smoking more comfortable without sacrificing your preferred smoke strength.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Zen",
+  "SIZE": "",
+  "EAN": "0016165006580",
+  "STATUS": "MATCHED"
+ },
+ "016165006597": {
+  "FULL_NAME_FOUND": "Zen Cigarette Tubes White King Size 250ct Box",
+  "DESCRIPTION": "Introducing the Zen White Light Blue King Size Tubes, a premium selection for those who cherish quality and refinement in their sessions. Packaged in an elegantly designed 250-count box, these tubes are meticulously crafted to elevate your moments to new heights of pleasure and sophistication.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Zen",
+  "SIZE": "",
+  "EAN": "0016165006597",
+  "STATUS": "MATCHED"
+ },
+ "016165009116": {
+  "FULL_NAME_FOUND": "Zen 5 Five Light Blue 100mm Tubes 250ct Box",
+  "DESCRIPTION": "25mm Filter Tip. Extra Smooth Premium Filters. 250 Count Box of 100mm Cigarette Tubes. White Tube/White Tip. Blue/Light.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Zen",
+  "SIZE": "",
+  "EAN": "0016165009116",
+  "STATUS": "MATCHED"
+ },
+ "016165150115": {
+  "FULL_NAME_FOUND": "Zen Cigarette Tubes Menthol King Size 200ct Box",
+  "DESCRIPTION": "Cooling menthol crystals incorporated right in the filter create a full bodied menthol smoke using any tobacco. King size brown filter tipping paper. 200 84 mm tubes per box, equivalent to one carton of factory made cigarettes.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Zen",
+  "SIZE": "",
+  "EAN": "0016165150115",
+  "STATUS": "MATCHED"
+ },
+ "016229901141": {
+  "FULL_NAME_FOUND": "Foco Coconut Juice - Case Of 24 - 11.8 Fl Oz",
+  "DESCRIPTION": "Foco Brand Coconut Juice with Meat (Jugo De Coco) in 11.8 fl oz (350 ml) can. Foco Coconut Juice combines delicious coconut water with bits of tender pulp creating a refreshment for any occasion. Derived from the clear liquid inside young coconuts, our coconut juice brings the sweet and aromatic flavor of the Thai coconut straight to you.",
+  "CATEGORY": "Juice",
+  "BRAND": "Foco",
+  "SIZE": "349 mL",
+  "EAN": "0016229901141",
+  "STATUS": "MATCHED"
+ },
+ "016229914561": {
+  "FULL_NAME_FOUND": "Foco Coconut Water, 100% Pure",
+  "DESCRIPTION": "Coconut water is a natural refreshing drink. It has natural sweetness and is a great substitute for plain water. In tropical areas it is drunken when no clean water is available, it is isotonic drink and the best to quench thirst. FOCO only uses the most delicious young green coconuts grown in Southeast Asia, with controlled picking, processing and packaging processes, to provide every coconut water lovers in the world the superior tasty pure coconut water.",
+  "CATEGORY": "Water",
+  "BRAND": "Foco",
+  "SIZE": "500 mL",
+  "EAN": "0016229914561",
+  "STATUS": "MATCHED"
  }
 }

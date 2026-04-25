@@ -41122,5 +41122,95 @@
   "SIZE": "",
   "EAN": "0016000144248",
   "STATUS": "MATCHED"
+ },
+ "016000144811": {
+  "FULL_NAME_FOUND": "Reese's Puffs Bars, Peanut Butter And Cocoa, Treats",
+  "DESCRIPTION": "Great tasting treat bars have the crunch of Reese's Puffs Cereal. Made with Real Reese's Peanut Butter. A great on the go snack.",
+  "CATEGORY": "Cereal & Granola Bars",
+  "BRAND": "Reese's Puffs",
+  "SIZE": "",
+  "EAN": "0016000144811",
+  "STATUS": "MATCHED"
+ },
+ "016000152335": {
+  "FULL_NAME_FOUND": "Chex General Mills Peanut Butter Gluten-Free Breakfast Cereal – 12.2oz",
+  "DESCRIPTION": "Sweetened corn cereal with real peanut butter. No artificial colors or flavors.",
+  "CATEGORY": "Cereal & Granola",
+  "BRAND": "Chex",
+  "SIZE": "",
+  "EAN": "0016000152335",
+  "STATUS": "MATCHED"
+ },
+ "016000162549": {
+  "FULL_NAME_FOUND": "Cheerios General Mills Cinnamon Cereal Large Size, 14.3 Oz",
+  "DESCRIPTION": "Sweetened whole grain oat cereal with real cinnamon. No artificial flavors.",
+  "CATEGORY": "Cereal & Granola",
+  "BRAND": "Cheerios",
+  "SIZE": "",
+  "EAN": "0016000162549",
+  "STATUS": "MATCHED"
+ },
+ "016000166196": {
+  "FULL_NAME_FOUND": "Gardetto's Original Recipe Snack Mix 5.5oz Bag",
+  "DESCRIPTION": "Classic crunch meets timeless flavor in a snack made for everyday enjoyment. Each bite delivers lively taste, turning ordinary breaks into flavorful snacking occasions. With the simple comfort of Plain & Salted, every pack brings dependable satisfaction. The familiar appeal of Snack Mix adds variety to every bite, while the balanced fun of Snacks enhances the experience, creating a treat that feels both exciting and comforting. Crafted to highlight the harmony of savory seasoning and crunch, this pouch keeps cravings in check and enjoyment flowing throughout the day.",
+  "CATEGORY": "Chips",
+  "BRAND": "Gardetto's",
+  "SIZE": "",
+  "EAN": "0016000166196",
+  "STATUS": "MATCHED"
+ },
+ "016000169395": {
+  "FULL_NAME_FOUND": "Cocoa Puffs Family Size Frosted Corn Puff Breakfast Cereal, 18.1 Oz",
+  "DESCRIPTION": "Your family will go cuckoo for the deliciously chocolatey taste of Cocoa Puffs Cereal! Cocoa Puffs are naturally flavored sweetened corn puffs bursting with the chocolatey taste kids love. Each yummy serving provides 16g whole grain (at least 48g recommended daily), and has a good source of calcium, with 12 vitamins and minerals. When Cocoa Puffs splash down into your bowl, they turn the cereal milk into a slurp-a-licious chocolatey treat. The rich taste of this chocolatey cereal is the perfect addition to a kids breakfast or an after school snack. Use a handful as an ice cream topping. Sprinkle Cocoa Puffs into your favorite homemade cereal bars or trail mix recipes. Pour a portion into a take-along bag to snack on the go. However you enjoy the taste, General Mills cereals spread goodness from tots to grown-ups. Contains one cardboard box of crunchy Cocoa Puffs, Chocolatey Breakfast Cereal, Whole Grain, Family Size, 18.1 oz; Perfect for instant snacking, or a part of breakfast and meals.",
+  "CATEGORY": "Cereal & Granola",
+  "BRAND": "Cocoa Puffs",
+  "SIZE": "",
+  "EAN": "0016000169395",
+  "STATUS": "MATCHED"
+ },
+ "016000169685": {
+  "FULL_NAME_FOUND": "Cheerios General Mills Sweetened Whole Grain Oat Cereal, Gluten Free, Honey Nut, Family Size",
+  "DESCRIPTION": "Offers a delicious and nutritious breakfast option. This cereal is perfect for a quick and easy meal, providing a sweet and crunchy taste. Ideal for all ages, offering a heart-healthy choice with whole grains and real honey.",
+  "CATEGORY": "Cereal & Granola",
+  "BRAND": "Cheerios",
+  "SIZE": "",
+  "EAN": "0016000169685",
+  "STATUS": "MATCHED"
+ },
+ "016000169692": {
+  "FULL_NAME_FOUND": "Reese's Puffs Sweet & Crunchy Corn Family Size - 19.7 Ounce",
+  "DESCRIPTION": "Start your day with the chocolate peanut butter taste of General Mills REESE’S PUFFS Chocolatey Peanut Butter Cereal. These sweet, crunchy corn puffs are made with real REESE’S peanut butter for a breakfast cereal like no other. Pour yourself a bowl in the morning. Fill up your biggest bowl for party snacks. Toss a handful as ice cream toppings over your sundae. REESE’S PUFFS cereal is made with no high fructose corn syrup. So whether you want a delicious kids breakfast food, ingredients for chocolate cereal bars or school snacks, General Mills cereals spread goodness from tots to grown-ups.",
+  "CATEGORY": "Cereal & Granola",
+  "BRAND": "Reese's Puffs",
+  "SIZE": "",
+  "EAN": "0016000169692",
+  "STATUS": "MATCHED"
+ },
+ "016000170322": {
+  "FULL_NAME_FOUND": "Muddy Buddies Pretzel Bites, Peanut Butter & Chocolate 4 Oz",
+  "DESCRIPTION": "The Chex Mix Muddy Buddies Pretzel Bites make for a yummy snack. These peanut butter and chocolate-coated bites are an amazing combination of sweet and salty flavors. These pretzels come in a resealable pouch, making it easier to have them on the go. The bulk case with 8 packs of Chex Mix Muddy Buddies Peanut Butter and Chocolate Coated Pretzel Bites is ideal for cafeterias, pantries, and retail stores.",
+  "CATEGORY": "Pretzels",
+  "BRAND": "Muddy Buddies",
+  "SIZE": "",
+  "EAN": "0016000170322",
+  "STATUS": "MATCHED"
+ },
+ "016000170339": {
+  "FULL_NAME_FOUND": "Muddy Buddies Pretzel Bites, Cookies & Cream Flavored 4 Oz",
+  "DESCRIPTION": "The Chex Mix Muddy Buddies Pretzel Bites make for a yummy snack. These cookies and cream bites come in a resealable pouch, making it easier to have them on the go. The bulk case with 8 packs of Chex Mix Muddy Buddies Pretzel Bites is ideal for cafeterias, pantries, and retail stores.",
+  "CATEGORY": "Pretzels",
+  "BRAND": "Muddy Buddies",
+  "SIZE": "",
+  "EAN": "0016000170339",
+  "STATUS": "MATCHED"
+ },
+ "016000171138": {
+  "FULL_NAME_FOUND": "Cinnamon Toast Crunch General Mills Family Size Cereal - 18.8oz",
+  "DESCRIPTION": "Wake up to the epic combination of cinnamon and sugar in General Mills Cinnamon Toast Crunch Cereal. Every crispy square is blasted with CINNADUST, the irresistible mix of real cinnamon and sugar that makes your mouth happy. Don’t forget to slurp up the CINNAMILK—the delicious cereal milk you find at the bottom of your bowl. Parents like that every serving is made with whole grain wheat and provides vitamins and minerals. Whether you want school snacks for kids, ingredients for breakfast cereal bars or a family breakfast food, General Mills cereals spread goodness from tots to grown-ups.",
+  "CATEGORY": "Cereal & Granola",
+  "BRAND": "Cinnamon Toast Crunch",
+  "SIZE": "",
+  "EAN": "0016000171138",
+  "STATUS": "MATCHED"
  }
 }

@@ -41830,5 +41830,95 @@
   "SIZE": "503 mL",
   "EAN": "0016571940331",
   "STATUS": "MATCHED"
+ },
+ "016571940348": {
+  "FULL_NAME_FOUND": "Sparkling Ice Water, Zero Sugar, Peach Nectarine 17 Fl Oz",
+  "DESCRIPTION": "Sparkling Ice® is a fizzy, fruity, sparkling water made with zero sugar, a splash of real juice, colors from natural sources, plus vitamins and antioxidants. It’s the better-for-you beverage that tastes great, too. And, there’s a flavor for everyone. Bask in beverage bliss with the sweet, summery sensation of Peach Nectarine.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Sparkling Ice",
+  "SIZE": "503 mL",
+  "EAN": "0016571940348",
+  "STATUS": "MATCHED"
+ },
+ "016571940355": {
+  "FULL_NAME_FOUND": "Sparkling Ice Water, Zero Sugar, Classic Lemonade 17 Fl Oz",
+  "DESCRIPTION": "Sparkling Ice® is a fizzy, fruity, sparkling water made with zero sugar, a splash of real juice, colors from natural sources, plus vitamins and antioxidants. It’s the better-for-you beverage that tastes great, too. And, there’s a flavor for everyone. Classic Lemonade is the perfect summertime beverage. Actually, it's the perfect anytime beverage.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Sparkling Ice",
+  "SIZE": "503 mL",
+  "EAN": "0016571940355",
+  "STATUS": "MATCHED"
+ },
+ "016571950293": {
+  "FULL_NAME_FOUND": "Sparkling Ice Zero Sugar Strawberry Lemonade Water 17 Fl Oz",
+  "DESCRIPTION": "Sparkling Ice® is a fizzy, fruity, sparkling water made with zero sugar, a splash of real juice, colors and flavors from natural sources, plus vitamins and antioxidants. It’s the better-for-you beverage that tastes great, too. And, there’s a flavor for everyone. Strawberry Lemonade highlights the summery goodness of strawberry with the classic lemonade flavor everyone loves.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Sparkling Ice",
+  "SIZE": "503 mL",
+  "EAN": "0016571950293",
+  "STATUS": "MATCHED"
+ },
+ "016571950842": {
+  "FULL_NAME_FOUND": "Sparkling Ice Water, Zero Sugar, Cherry Limeade 17 Fl Oz",
+  "DESCRIPTION": "Sparkling Ice® is a fizzy, fruity, sparkling water made with zero sugar, a splash of real juice, colors from natural sources, plus vitamins and antioxidants. It’s the better-for-you beverage that tastes great, too. And, there’s a flavor for everyone. Sweet meets tangy and tart in the ultimate flavor pairing of Cherry Limeade.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Sparkling Ice",
+  "SIZE": "503 mL",
+  "EAN": "0016571950842",
+  "STATUS": "MATCHED"
+ },
+ "016571950859": {
+  "FULL_NAME_FOUND": "Sparkling Ice Zero Sugar Strawberry Watermelon Water 17 Fl Oz",
+  "DESCRIPTION": "Sparkling Ice® is a fizzy, fruity, sparkling water made with zero sugar, a splash of real juice, colors from natural sources, plus vitamins and antioxidants. It’s the better-for-you beverage that tastes great, too. And, there’s a flavor for everyone. Luscious strawberry meets sweet, summery watermelon in the refreshing combination of Strawberry Watermelon.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Sparkling Ice",
+  "SIZE": "503 mL",
+  "EAN": "0016571950859",
+  "STATUS": "MATCHED"
+ },
+ "016571952105": {
+  "FULL_NAME_FOUND": "Sparkling Ice Zero Sugar Black Cherry Water 17 Fl Oz",
+  "DESCRIPTION": "Ask for your smart speaker to launch sparkling ice maker. Empty and replace cap.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Sparkling Ice",
+  "SIZE": "503 mL",
+  "EAN": "0016571952105",
+  "STATUS": "MATCHED"
+ },
+ "016571955359": {
+  "FULL_NAME_FOUND": "Sparkling Ice Water, Zero Sugar, Berry Lemonade 17 Fl Oz",
+  "DESCRIPTION": "Sparkling Ice Berry Lemonade is a better for you, refreshing, and full-flavored sparkling water with a fruity twist on traditional lemonade! For a limited time, our newest permanent flavor will be packaged in a patriotic themed label tying into our summer-long “Cheers to Heroes” campaign and highlighting our partnership with the Honor Flight Network and Home For Our Troops.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Sparkling Ice",
+  "SIZE": "503 mL",
+  "EAN": "0016571955359",
+  "STATUS": "MATCHED"
+ },
+ "016800294112": {
+  "FULL_NAME_FOUND": "Royal Oak Classic Premium Hardwood Charcoal Briquets",
+  "DESCRIPTION": "The original red bag. Royal Oak premium briquettes are assured to burn evenly and last long. Starts fast and burns hot. Ready in 15 mins.",
+  "CATEGORY": "Charcoal Briquettes",
+  "BRAND": "Royal Oak",
+  "SIZE": "",
+  "EAN": "0016800294112",
+  "STATUS": "MATCHED"
+ },
+ "017000026602": {
+  "FULL_NAME_FOUND": "Dial Complete White Tea Antibacterial Liquid Hand Soap",
+  "DESCRIPTION": "Dial Complete® White Tea is a hydrating, antibacterial liquid hand soap that’s mild enough for frequent use, and it kills 99.9% of bacteria encountered in the household, making it perfect for your whole family. Nourish your skin and calm your senses with the natural freshness of white tea. Experience a clean and rejuvenated feeling each time you wash your hands, thanks to its delicate aroma. Cleansing and conditioning blend together beautifully, in a Dial hand wash that cares for the skin you wash the most. This hand soap with moisturizer rinses clean and leaves your hands feeling healthy.",
+  "CATEGORY": "Dish Detergent & Soap",
+  "BRAND": "Dial",
+  "SIZE": "",
+  "EAN": "0017000026602",
+  "STATUS": "MATCHED"
+ },
+ "017000068121": {
+  "FULL_NAME_FOUND": "Right Guard Sport Antiperspirant Deodorant Invisible Solid Stick, Fresh, 2.6 Ounce",
+  "DESCRIPTION": "Stay fresh and dry with Right Guard's 48H Antiperspirant & Deodorant Stick. Perfect for sports enthusiasts! Get your 4-pack today.",
+  "CATEGORY": "Deodorant",
+  "BRAND": "Right Guard",
+  "SIZE": "",
+  "EAN": "0017000068121",
+  "STATUS": "MATCHED"
  }
 }

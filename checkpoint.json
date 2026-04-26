@@ -46564,5 +46564,95 @@
   "SIZE": "",
   "EAN": "0027200005970",
   "STATUS": "MATCHED"
+ },
+ "027200347254": {
+  "FULL_NAME_FOUND": "Pall Mall Cigarettes, Menthol",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Pall Mall",
+  "SIZE": "",
+  "EAN": "0027200347254",
+  "STATUS": "MATCHED"
+ },
+ "027200347346": {
+  "FULL_NAME_FOUND": "Pall Mall Cigarettes, White Menthol, 100'S",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Pall Mall",
+  "SIZE": "",
+  "EAN": "0027200347346",
+  "STATUS": "MATCHED"
+ },
+ "027200347407": {
+  "FULL_NAME_FOUND": "Pall Mall Blk 100's .50 Off",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0027200347407",
+  "STATUS": "MATCHED"
+ },
+ "027200347438": {
+  "FULL_NAME_FOUND": "Pall Mall Menthol White Box Kings 1",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Pall Mall",
+  "SIZE": "",
+  "EAN": "0027200347438",
+  "STATUS": "MATCHED"
+ },
+ "027200347469": {
+  "FULL_NAME_FOUND": "Pall Mall Wht 100's .50",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0027200347469",
+  "STATUS": "MATCHED"
+ },
+ "027200356768": {
+  "FULL_NAME_FOUND": "Bath & Body Works Dunhill Green",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Bath & Body Works",
+  "SIZE": "",
+  "EAN": "0027200356768",
+  "STATUS": "MATCHED"
+ },
+ "027200356843": {
+  "FULL_NAME_FOUND": "Dunhill International Red Box",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Dunhill",
+  "SIZE": "",
+  "EAN": "0027200356843",
+  "STATUS": "MATCHED"
+ },
+ "027200356850": {
+  "FULL_NAME_FOUND": "Dunhill Blue",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0027200356850",
+  "STATUS": "MATCHED"
+ },
+ "027200366026": {
+  "FULL_NAME_FOUND": "Bugler Original Cigarette Tobacco, Turkish & Blended",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Bugler",
+  "SIZE": "",
+  "EAN": "0027200366026",
+  "STATUS": "MATCHED"
+ },
+ "027200366095": {
+  "FULL_NAME_FOUND": "Kite Tobacco, Cigarette, Turkish & Blended, Mentholated",
+  "DESCRIPTION": "Ever-fresh package papers included. 32 fine quality gummed cigarette papers inside. Made in USA by Scandinavian Tobacco Group Lane Ltd.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Kite",
+  "SIZE": "",
+  "EAN": "0027200366095",
+  "STATUS": "MATCHED"
  }
 }

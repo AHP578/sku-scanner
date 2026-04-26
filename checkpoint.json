@@ -47632,5 +47632,83 @@
   "SIZE": "",
   "EAN": "0028200318527",
   "STATUS": "MATCHED"
+ },
+ "028200319920": {
+  "FULL_NAME_FOUND": "Marlboro Cigarettes, Edge",
+  "DESCRIPTION": "Bold smooth flavor. Marlboroblack.com. Limited to eligible smokers 21+. Class A cigarettes. Please don't litter. FSC.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200319920",
+  "STATUS": "MATCHED"
+ },
+ "028200322821": {
+  "FULL_NAME_FOUND": "Marlboro Cigarettes, Menthol, Rich Blue",
+  "DESCRIPTION": "Rich cool menthol flavor. Blue blend. For special offers marlboro.com. Limited to eligible smokers 21+. 20 class A cigarettes. Please don't litter.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200322821",
+  "STATUS": "MATCHED"
+ },
+ "028200322920": {
+  "FULL_NAME_FOUND": "Marlboro Cigarettes, Menthol, 100s, Rich Blue",
+  "DESCRIPTION": "Rich cool menthol flavor. Blue blend. For special offers marlboro.com. Limited to eligible smokers 21+. 20 class A cigarettes. Please don't litter.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200322920",
+  "STATUS": "MATCHED"
+ },
+ "028200328427": {
+  "FULL_NAME_FOUND": "Benson Hedges Menthol B&H Green Box Pack",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Benson Hedges Menthol",
+  "SIZE": "",
+  "EAN": "0028200328427",
+  "STATUS": "MATCHED"
+ },
+ "028200328526": {
+  "FULL_NAME_FOUND": "B&H Menthol Green 100's Box Pack",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0028200328526",
+  "STATUS": "MATCHED"
+ },
+ "028200330628": {
+  "FULL_NAME_FOUND": "Marlboro Cigarettes, Menthol, Smooth Ice",
+  "DESCRIPTION": "21+. Class A cigarettes. Fresh crisp menthol. Reseal. marlboro.com. pmusa.com.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200330628",
+  "STATUS": "MATCHED"
+ },
+ "028200331328": {
+  "FULL_NAME_FOUND": "Marlboro Bold Ice Menthol",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200331328",
+  "STATUS": "MATCHED"
+ },
+ "028200574213": {
+  "STATUS": "UNMATCHED"
+ },
+ "028293001412": {
+  "FULL_NAME_FOUND": "Brim's Lime - Chili Pork Cracklin Strips",
+  "DESCRIPTION": "LIME-CHILI FLAVORED PORK CRACKLINS (FRIED OUT PORK FAT WITH ATTACHED SKIN).",
+  "CATEGORY": "Pretzels",
+  "BRAND": "Brim's",
+  "SIZE": "",
+  "EAN": "0028293001412",
+  "STATUS": "MATCHED"
+ },
+ "028293031365": {
+  "STATUS": "UNMATCHED"
  }
 }

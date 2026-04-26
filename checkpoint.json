@@ -46822,5 +46822,95 @@
   "SIZE": "",
   "EAN": "0028000083908",
   "STATUS": "MATCHED"
+ },
+ "028000084004": {
+  "FULL_NAME_FOUND": "Chunky Nestle Candy Bar Milk Chocolate - 1.4 Oz Ea X",
+  "DESCRIPTION": "Dont reach for just any chocolate, take a walk down memory lane with a Chunky bar. With its distinctive thick trapezoid shape, this treat combines smooth milk chocolate, roasted peanuts, and raisins for an irresistibly unique flavor combination. Individually wrapped candy bars are perfect for party favors, or your home or office.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Chunky",
+  "SIZE": "",
+  "EAN": "0028000084004",
+  "STATUS": "MATCHED"
+ },
+ "028000087005": {
+  "FULL_NAME_FOUND": "Bit O Honey Candy Bar",
+  "DESCRIPTION": "Still low in fat. 3g or less per 40g. With almond bits blended into a honey flavored taffy, Bit O Honey candy provides a unique taste and long-lasting chew.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Bit O Honey",
+  "SIZE": "",
+  "EAN": "0028000087005",
+  "STATUS": "MATCHED"
+ },
+ "028000089009": {
+  "FULL_NAME_FOUND": "Oh Henry Candy Bar 1.8 Oz. Wrapper",
+  "DESCRIPTION": "Made with lots of caramel, peanuts, and fudge, Oh Henry! Bars are simply irresistible. This nostalgic treat was first introduced in 1920 and has been a favorite since. With 36 individual bars in this bulk box, these chocolates will make a great addition to the pinata at your next birthday party, stuffing the gift bags, or for keeping in the pantry when you need a chocolate fix. Unwrap an Oh Henry! Bar and indulge in a classic treat sure to satisfy your cravings.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Oh Henry",
+  "SIZE": "",
+  "EAN": "0028000089009",
+  "STATUS": "MATCHED"
+ },
+ "028000131708": {
+  "FULL_NAME_FOUND": "Crunch Nestle 1.55 Oz. Crispy Milk Chocolate Candy Bar",
+  "DESCRIPTION": "Creamy, crispy, NESTLE CRUNCH - A unique combination of smooth Nestle milk chocolate and crisped rice. NESTLE CRUNCH delivers a distinctive taste, texture and sound. When you gotta have chocolate, IT'S CRUNCH TIME!",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Crunch",
+  "SIZE": "",
+  "EAN": "0028000131708",
+  "STATUS": "MATCHED"
+ },
+ "028000206307": {
+  "FULL_NAME_FOUND": "100 Grand Nestle Milk Chocolate Candy Bar",
+  "DESCRIPTION": "Chewy caramel & milk chocolate & crispy crunchies. No artificial flavors or colors. 190 calories per pack. See nutritional information for saturated fat content.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "100 Grand",
+  "SIZE": "",
+  "EAN": "0028000206307",
+  "STATUS": "MATCHED"
+ },
+ "028000206604": {
+  "FULL_NAME_FOUND": "100 Grand Candy Bars, Share Pack",
+  "DESCRIPTION": "Indulge in the rich and delightful taste of 100 Grand King Size Candy Bars! These delicious treats combine smooth caramel and rich chocolate, making them a perfect snack for any occasion. Each candy bar weighs 2.8 ounces and is designed to satisfy your sweet tooth with every bite. Ideal for sharing or enjoying on your own, this case of 24 ensures you have plenty to go around. Whether you are stocking up for a party, a movie night, or simply to keep in your pantry, these candy bars are a must-have for chocolate lovers.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "100 Grand",
+  "SIZE": "",
+  "EAN": "0028000206604",
+  "STATUS": "MATCHED"
+ },
+ "028000328375": {
+  "FULL_NAME_FOUND": "Nestle Sensations Cinnamon Toast Crunch Cinnamilk",
+  "DESCRIPTION": "Thoughtful Portion (TM) 1/2 Bottle, Milk from cows not treated with Growth Hormone rBST** **No significant difference has been shown between milk from rBST treated and non-rBST treated cows. NO HIGH FRUCTOSE CORN SYRUP, MADE WITH REAL MILK, Gluten Free, Lowfat, 2.5g fat per 240 mL (8 fl oz).",
+  "CATEGORY": "Milk",
+  "BRAND": "Nestle",
+  "SIZE": "414 mL",
+  "EAN": "0028000328375",
+  "STATUS": "MATCHED"
+ },
+ "028000328580": {
+  "FULL_NAME_FOUND": "Snickers Chocolate Lowfat Milk 14 Fl. Oz. Bottle",
+  "DESCRIPTION": "Treat yourself to a well-earned pick-me up with SNICKERS Flavored Chocolate Milk. This product delivers a bold, nutty flavor balanced with the intense sweetness of gooey caramel and rich chocolate. Each bottle packs 8 grams of protein and from 100% real milk.",
+  "CATEGORY": "Milk",
+  "BRAND": "Snickers",
+  "SIZE": "414 mL",
+  "EAN": "0028000328580",
+  "STATUS": "MATCHED"
+ },
+ "028000462987": {
+  "FULL_NAME_FOUND": "Nescafe Clasico Dark Roast Instant Coffee 10.5 Oz. Jar",
+  "DESCRIPTION": "Experience the bold, smooth and satisfying taste of NESCAFÉ CLÁSICO Dark Roast. Made from carefully selected, premium coffee beans, this instant coffee delivers a rich, full-bodied flavor in every cup. Perfect for coffee lovers who appreciate a bolder taste, NESCAFÉ CLÁSICO Dark Roast is easy to prepare and ready in an instant, so you can enjoy a delicious coffee break anytime, anywhere. Upgrade your coffee game with NESCAFÉ CLÁSICO Dark Roast, the ultimate choice for coffee connoisseurs.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Nescafe",
+  "SIZE": "311 mL",
+  "EAN": "0028000462987",
+  "STATUS": "MATCHED"
+ },
+ "028000467012": {
+  "FULL_NAME_FOUND": "Nescafe Instant Dark Roast Rich & Bold Flavor Coffee 1.7 Oz",
+  "DESCRIPTION": "Nescafe Classic Dark Roast is a bold and rich coffee blend offered by Nescafe, a well-known coffee brand. This dark roast variety is prized for its intense flavor and robust aroma, making it a favorite among coffee enthusiasts who prefer a stronger and bolder brew. Nescafe Clasico Dark Roast is made from high-quality Arabica and Robusta coffee beans, carefully roasted to perfection to bring out deep and complex flavors.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Nescafe",
+  "SIZE": "59 mL",
+  "EAN": "0028000467012",
+  "STATUS": "MATCHED"
  }
 }

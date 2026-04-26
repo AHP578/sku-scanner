@@ -47878,5 +47878,95 @@
   "SIZE": "",
   "EAN": "0028400025904",
   "STATUS": "MATCHED"
+ },
+ "028400026635": {
+  "FULL_NAME_FOUND": "Doritos Simply Tortilla Chips, Organic, White Cheddar",
+  "DESCRIPTION": "The DORITOS brand is all about boldness. If you’re up to the challenge, grab a bag of DORITOS tortilla chips and get ready to make some memories you won’t soon forget. It’s a bold experience in snacking and beyond.",
+  "CATEGORY": "Chips",
+  "BRAND": "Doritos",
+  "SIZE": "",
+  "EAN": "0028400026635",
+  "STATUS": "MATCHED"
+ },
+ "028400026734": {
+  "FULL_NAME_FOUND": "Munchies Frito Lay Peanut Butter On Cheese Sandwich Crackers",
+  "DESCRIPTION": "Delicious MUNCHIES crackers are the perfect snack to enjoy in-between meals. With a busy lifestyle, MUNCHIES crackers make snacking easy and tasty! Grab a box of these individually packaged MUNCHIES Peanut Butter Filling on Cheese Flavored Crackers!",
+  "CATEGORY": "Crackers",
+  "BRAND": "Munchies",
+  "SIZE": "",
+  "EAN": "0028400026734",
+  "STATUS": "MATCHED"
+ },
+ "028400026864": {
+  "FULL_NAME_FOUND": "Munchies Sandwich Crackers - Peanut Butter Golden Toast",
+  "DESCRIPTION": "Delicious MUNCHIES crackers are the perfect snack to enjoy in-between meals. With a busy lifestyle, MUNCHIES crackers make snacking easy and tasty! Get your box of these individually packaged MUNCHIES Peanut Butter Filling on GOLDEN TOAST Crackers.",
+  "CATEGORY": "Crackers",
+  "BRAND": "Munchies",
+  "SIZE": "",
+  "EAN": "0028400026864",
+  "STATUS": "MATCHED"
+ },
+ "028400026925": {
+  "FULL_NAME_FOUND": "Baken-ets Chicharrones Traditional Fried Pork Skins 1.5 Oz. Bag",
+  "DESCRIPTION": "BAKEN-ETS pork skins have been America's favorite pork skin snack for over 50 years. We cook each crispy, crunchy bite to perfection to bring you the great flavor that's been loved for generations. 1.5 oz. of BAKEN-ETS Traditional Fried Pork Skins. Delicious and crunchy pork skins that can be enjoyed in-between meals.",
+  "CATEGORY": "Pretzels",
+  "BRAND": "Baken-ets",
+  "SIZE": "",
+  "EAN": "0028400026925",
+  "STATUS": "MATCHED"
+ },
+ "028400026956": {
+  "FULL_NAME_FOUND": "Baken-ets Hot 'n' Spicy Fried Pork Skins 1.5 Ounces",
+  "DESCRIPTION": "BAKEN-ETS pork skins have been America's favorite pork skin snack for over 50 years. We cook each crispy, crunchy bite to perfection to bring you the great flavor that's been loved for generations.",
+  "CATEGORY": "Chips",
+  "BRAND": "Baken-ets",
+  "SIZE": "",
+  "EAN": "0028400026956",
+  "STATUS": "MATCHED"
+ },
+ "028400027946": {
+  "FULL_NAME_FOUND": "Fritos Honey BBQ Flavor Twists Corn Snacks",
+  "DESCRIPTION": "Guaranteed fresh until printed date. 0 g trans fat. Good fun! We grow the best snacks on earth.",
+  "CATEGORY": "Chips",
+  "BRAND": "Fritos",
+  "SIZE": "",
+  "EAN": "0028400027946",
+  "STATUS": "MATCHED"
+ },
+ "028400027953": {
+  "FULL_NAME_FOUND": "Fritos Original Corn Chips - 4.625oz",
+  "DESCRIPTION": "Guaranteed fresh until printed date. 0 g trans fat. Good fun! The one-of-a-kind crunch of Fritos Original Corn Chips starts with ground corn, cooked in oil with a dash of salt per serving. So snack, dip or cook up your own creation. It's the taste you've always loved. And its good fun in every bite.",
+  "CATEGORY": "Chips",
+  "BRAND": "Fritos",
+  "SIZE": "",
+  "EAN": "0028400027953",
+  "STATUS": "MATCHED"
+ },
+ "028400028073": {
+  "FULL_NAME_FOUND": "Lay's Sour Cream & Onion Flavored Potato Chips 2.88 Ounce Plastic Bag",
+  "DESCRIPTION": "It all starts with farm-grown potatoes, cooked and seasoned to perfection. Then we add the tang of sour cream and mild onions. So every Lay's potato chip is perfectly crispy and delicious. Happiness in Every Bite. Wherever celebrations and good times happen, the LAY'S brand will be there just as it has been for more than 75 years. With flavors almost as rich as our history, we have a chip or crisp flavor guaranteed to bring a smile on your face.",
+  "CATEGORY": "Chips",
+  "BRAND": "Lay's",
+  "SIZE": "",
+  "EAN": "0028400028073",
+  "STATUS": "MATCHED"
+ },
+ "028400028110": {
+  "FULL_NAME_FOUND": "Cheetos Puffs Cheese Snacks 3.75 Oz. Bag",
+  "DESCRIPTION": "Made with real cheese! Guaranteed fresh. What's a serving? With Cheetos Puffs snacks, eat 13 - that's just the right amount for fun to the max! Chester Cheetah. www.cheetos.com. Gluten free. Visit our website at fritolay.com.",
+  "CATEGORY": "Pretzels",
+  "BRAND": "Cheetos",
+  "SIZE": "",
+  "EAN": "0028400028110",
+  "STATUS": "MATCHED"
+ },
+ "028400028141": {
+  "FULL_NAME_FOUND": "Munchies Cheese Fix Rold Gold, Doritos, Cheetos, Sun Chips Snack Mix",
+  "DESCRIPTION": "Rold Gold Pretzels brand. Since 1917. Doritos brand. Cheetos brand. Sun Chips brand. Guaranteed fresh until printed date or this snack's on us.",
+  "CATEGORY": "Chips",
+  "BRAND": "Munchies",
+  "SIZE": "",
+  "EAN": "0028400028141",
+  "STATUS": "MATCHED"
  }
 }

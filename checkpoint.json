@@ -46654,5 +46654,83 @@
   "SIZE": "",
   "EAN": "0027200366095",
   "STATUS": "MATCHED"
+ },
+ "027200846641": {
+  "FULL_NAME_FOUND": "Pall Mall King Size .50 Off",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Shipping Supplies",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0027200846641",
+  "STATUS": "MATCHED"
+ },
+ "027200846719": {
+  "FULL_NAME_FOUND": "Undefined Pall Mall Classic 100's .50 Off",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Undefined",
+  "SIZE": "",
+  "EAN": "0027200846719",
+  "STATUS": "MATCHED"
+ },
+ "027736047734": {
+  "STATUS": "UNMATCHED"
+ },
+ "027736053704": {
+  "STATUS": "UNMATCHED"
+ },
+ "027800062700": {
+  "FULL_NAME_FOUND": "Keebler Soft Batch Chocolate Chip Cookies 64 G",
+  "DESCRIPTION": "Every soft and chewy cookie is loaded with sweet chocolate chips and baked to irresistible perfection. Contains wheat, eggs, soy, milk, tree nuts, and peanutsKosher0 g Trans fat.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Keebler",
+  "SIZE": "",
+  "EAN": "0027800062700",
+  "STATUS": "MATCHED"
+ },
+ "027800063707": {
+  "FULL_NAME_FOUND": "Keebler Fudge Stripes Original Cookies 54 G",
+  "DESCRIPTION": "Make snack time more fun with the Keebler Elves and a batch of yummy Keebler Fudge Stripes Cookies. These delightful treats are fresh from the Hollow Tree and feature the irresistible combination of scrumptious shortbread cookies with delectable drizzles of fudge-flavored stripes.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Keebler",
+  "SIZE": "",
+  "EAN": "0027800063707",
+  "STATUS": "MATCHED"
+ },
+ "027800064773": {
+  "FULL_NAME_FOUND": "Keebler E.L. Fudge Elfwich Cookies Original Cookies, 12oz",
+  "DESCRIPTION": "The Keebler EL Fudge Elfwich Original Cookies make an indulgent treat that will be loved by kids and adults alike. These are kosher certified, making them suitable for those with special dietary needs. The bulk case with 12 packs of Keebler Cookies is ideal for cafeterias, pantries, and retail stores.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Keebler",
+  "SIZE": "",
+  "EAN": "0027800064773",
+  "STATUS": "MATCHED"
+ },
+ "027800065558": {
+  "FULL_NAME_FOUND": "Keebler Vienna Fingers Vanilla Fudge Creme Filled Sandwich Cookies",
+  "DESCRIPTION": "The Keebler elves know how to make great cookies, and among their tastiest treats are Vienna Fingers. This pack contains delicious vanilla fudge crème nestled between two golden shortbread cookies. There’s vanilla fudge smoothness and a satisfying chomp in every tray. Sweet, soft, and crunchy, each bite is magically irresistible!",
+  "CATEGORY": "Cookies",
+  "BRAND": "Keebler",
+  "SIZE": "",
+  "EAN": "0027800065558",
+  "STATUS": "MATCHED"
+ },
+ "027800065862": {
+  "FULL_NAME_FOUND": "Keebler Cookies, Oatmeal Raisin, Shortbread 9.8 Oz",
+  "DESCRIPTION": "eBay Indulge in the delicious taste of Keebler Sandies Oatmeal Raisin Shortbread Cookies. These cookies are a perfect treat for any time of the day. Made with the finest quality ingredients, they are a great choice for anyone with a sweet tooth. This package contains 18 perfectly baked cookies, and they are perfect for sharing with friends and family. The oatmeal raisin flavor adds a unique twist to the classic shortbread cookie. Whether you enjoy them with a cup of tea or as a snack on-the-go, these cookies are sure to satisfy your cravings.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Keebler",
+  "SIZE": "",
+  "EAN": "0027800065862",
+  "STATUS": "MATCHED"
+ },
+ "027800069693": {
+  "FULL_NAME_FOUND": "Keebler Cookies, Rocky Road 9.5 Oz",
+  "DESCRIPTION": "Make snack time more magical with Limited Edition Keebler Fudge Stripes Rocky Road Cookies. Each cocoa-based treat is coated with marshmallow-flavored fudge and features a shape inspired by Despicable Me 4 and the Minions. These cookies are made without high-fructose corn syrup. It’s a fun snack to share with loved ones. Enjoy with milk or ice cream. Just open a pack and share the magic. One 9.5 oz package of Limited Edition Keebler Fudge Stripes Rocky Road Cookies, ideal for sharingDelightful cocoa-based cookies with almond-flavored inclusions coated in marshmallow-flavored fudge, featuring shapes inspired by Despicable Me 4 and the MinionsPerfect for snacking at school, the office, while traveling or as a lunchtime snackTry this classic cookie snack with a glass of milk, as two sides of a delicious ice cream sandwich, or make your own chocolate s’mores dessertMake every moment more magical with sweet treats from Ernie and the Keebler Elves.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Keebler",
+  "SIZE": "",
+  "EAN": "0027800069693",
+  "STATUS": "MATCHED"
  }
 }

@@ -46078,5 +46078,47 @@
   "SIZE": "",
   "EAN": "0026104610426",
   "STATUS": "MATCHED"
+ },
+ "026104610457": {
+  "STATUS": "UNMATCHED"
+ },
+ "026104610556": {
+  "STATUS": "UNMATCHED"
+ },
+ "026104610617": {
+  "FULL_NAME_FOUND": "Ahold Black & White",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Ahold",
+  "SIZE": "",
+  "EAN": "0026104610617",
+  "STATUS": "MATCHED"
+ },
+ "026104610648": {
+  "STATUS": "UNMATCHED"
+ },
+ "026104610655": {
+  "STATUS": "UNMATCHED"
+ },
+ "026104611409": {
+  "STATUS": "UNMATCHED"
+ },
+ "026104611430": {
+  "STATUS": "UNMATCHED"
+ },
+ "026104611454": {
+  "FULL_NAME_FOUND": "Max Sprinkle - Color Changing LED Shower Faucet With 8 Inch Shower Head + Hand Shower",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Faucets",
+  "BRAND": "Max",
+  "SIZE": "",
+  "EAN": "0026104611454",
+  "STATUS": "MATCHED"
+ },
+ "026104611492": {
+  "STATUS": "UNMATCHED"
+ },
+ "026104611980": {
+  "STATUS": "UNMATCHED"
  }
 }

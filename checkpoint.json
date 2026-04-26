@@ -49042,5 +49042,95 @@
   "SIZE": "",
   "EAN": "0028400261579",
   "STATUS": "MATCHED"
+ },
+ "028400261609": {
+  "FULL_NAME_FOUND": "Frito Lay Extra Long BBQ Sunflower Seeds",
+  "DESCRIPTION": "Whether you’re going for a run or heading out to run errands, \"on the go\" shouldn’t mean going without the snacks that keep you going! Our nuts, trail mixes and seeds are a tasty way to stay satisfied while you’re out and about. Enjoy this snack at work, home, or on the go.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "Frito Lay",
+  "SIZE": "",
+  "EAN": "0028400261609",
+  "STATUS": "MATCHED"
+ },
+ "002840026165": {
+  "FULL_NAME_FOUND": "Frito Lay Extra Long Sunflower Seeds Flamin' Hot Limon 1 3/4 Oz",
+  "DESCRIPTION": "Whether you’re going for a run or heading out to run errands, “on the go” shouldn’t mean going without the snacks that keep you going! Our nuts, trail mixes and seeds are a tasty way to stay satisfied while you’re out and about.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "Frito Lay",
+  "SIZE": "",
+  "EAN": "0028400261654",
+  "STATUS": "MATCHED"
+ },
+ "028400282048": {
+  "FULL_NAME_FOUND": "Funyuns Onion Flavored Rings Regular Flavor 2 3/8 Oz",
+  "DESCRIPTION": "FUNYUNS Onion Flavored Rings are a deliciously different snack that's fun to eat, with a crisp texture and zesty onion flavor in the shape of an onion ring. Next time you're in the mood for a tasty treat that's out of the ordinary, try FUNYUNS Onion Flavored Rings. Try with your favorite dip for a taste sensation that runs rings around other snacks.",
+  "CATEGORY": "Rings",
+  "BRAND": "Funyuns",
+  "SIZE": "",
+  "EAN": "0028400282048",
+  "STATUS": "MATCHED"
+ },
+ "028400282123": {
+  "FULL_NAME_FOUND": "Funyuns Flamin' Hot Flavor, Onion Flavored Rings",
+  "DESCRIPTION": "FUNYUNS Onion Flavored Rings are a deliciously different snack that's fun to eat, with a crisp texture and zesty onion flavor. Next time you're in the mood for a tasty treat that's out of the ordinary, try FUNYUNS Onion Flavored Rings. Enjoy these FLAMIN' HOT snacks anytime!",
+  "CATEGORY": "Rings",
+  "BRAND": "Funyuns",
+  "SIZE": "",
+  "EAN": "0028400282123",
+  "STATUS": "MATCHED"
+ },
+ "028400305891": {
+  "FULL_NAME_FOUND": "Cheetos Popcorn Cheddar",
+  "DESCRIPTION": "CHEETOS® Popcorn brings the delicious taste of CHEETOS® to a classic snacking favorite - popcorn! CHEETOS® Popcorn delivers all of the rich, smooth, cheesy flavor you know and love from classic CHEETOS®. Ready to go right out of the bag, it’s popcorn with an added boost of cheesy mischievous flavorful fun.",
+  "CATEGORY": "Popcorn",
+  "BRAND": "Cheetos",
+  "SIZE": "",
+  "EAN": "0028400305891",
+  "STATUS": "MATCHED"
+ },
+ "028400305907": {
+  "FULL_NAME_FOUND": "Cheetos Hot Popcorn",
+  "DESCRIPTION": "CHEETOS snacks are the much-loved cheesy treats that are fun for everyone! You just can’t eat a CHEETOS snack without licking the signature “cheetle” off your fingertips. And wherever the CHEETOS brand and CHESTER CHEETAH go, cheesy smiles are sure to follow.",
+  "CATEGORY": "Popcorn",
+  "BRAND": "Cheetos",
+  "SIZE": "",
+  "EAN": "0028400305907",
+  "STATUS": "MATCHED"
+ },
+ "028400306980": {
+  "FULL_NAME_FOUND": "Doritos Flavored Tortilla Chips Flamin' Hot Limon",
+  "DESCRIPTION": "The DORITOS brand is all about boldness. If you’re up to the challenge, grab a bag of DORITOS tortilla chips and get ready to make some memories you won’t soon forget. It’s a bold experience in snacking and beyond.",
+  "CATEGORY": "Chips",
+  "BRAND": "Doritos",
+  "SIZE": "",
+  "EAN": "0028400306980",
+  "STATUS": "MATCHED"
+ },
+ "028400309011": {
+  "FULL_NAME_FOUND": "Ruffles Lime & Jalapeno Potato Chips 70.8g",
+  "DESCRIPTION": "Satisfy your spicy cravings with Ruffles Lime & Jalapeno Potato Chips. Made with real potatoes and a flavorful blend of tangy lime and fiery jalapeno, these chips provide a unique and delicious snacking experience. Perfect for a bold and zesty snack on-the-go.",
+  "CATEGORY": "Chips",
+  "BRAND": "Ruffles",
+  "SIZE": "",
+  "EAN": "0028400309011",
+  "STATUS": "MATCHED"
+ },
+ "028400309172": {
+  "FULL_NAME_FOUND": "Lay's Cheddar Jalapeno Flavored Potato Chips",
+  "DESCRIPTION": "Wherever celebrations and good times happen, the Lay's brand will be there just as it has been for more than 75 years. With flavors almost as rich as our history, we have a potato chip or crisp flavor guaranteed to bring a smile on your face.",
+  "CATEGORY": "Chips",
+  "BRAND": "Lay's",
+  "SIZE": "",
+  "EAN": "0028400309172",
+  "STATUS": "MATCHED"
+ },
+ "028400309448": {
+  "FULL_NAME_FOUND": "Tostitos Dips Avocado Salsa Dip, 15 Oz",
+  "DESCRIPTION": "TOSTITOS are more than tortilla chips and dips—they're an invitation to catch up with friends, so Get Together Already! TOSTITOS Tortilla Chips come in a variety of shapes, sizes and flavors, but they all have two things in common - they're completely dippable and totally delicious. Tostitos salsas are made with real chunks of garden vegetables, and Tostitos dips are so creamy, you can't resist either! Nothing pairs better with TOSTITOS Tortilla Chips, except maybe a group of friends.",
+  "CATEGORY": "Dips & Spreads",
+  "BRAND": "Tostitos",
+  "SIZE": "",
+  "EAN": "0028400309448",
+  "STATUS": "MATCHED"
  }
 }

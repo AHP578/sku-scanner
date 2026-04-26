@@ -47788,5 +47788,95 @@
   "SIZE": "",
   "EAN": "0028400001526",
   "STATUS": "MATCHED"
+ },
+ "028400001533": {
+  "FULL_NAME_FOUND": "Grandma's Peanut Butter Sandwich Cookies 3.03 Oz. Packet",
+  "DESCRIPTION": "Grandma's® Cookies Peanut Butter. Quality since 1914. Net Wt. 3.028 oz (85.7 g).",
+  "CATEGORY": "Cookies",
+  "BRAND": "Grandma's",
+  "SIZE": "",
+  "EAN": "0028400001533",
+  "STATUS": "MATCHED"
+ },
+ "028400002103": {
+  "FULL_NAME_FOUND": "Santitas White Corn Tortilla Chips - 11oz",
+  "DESCRIPTION": "Just like the tortilla chips in your favorite Mexican restaurant, the authentic flavor of SANTITAS tortilla chips starts with high-quality, stone-ground corn. Just add salsa or guacamole on the side for a party snack that can't be beat!",
+  "CATEGORY": "Chips",
+  "BRAND": "Santitas",
+  "SIZE": "",
+  "EAN": "0028400002103",
+  "STATUS": "MATCHED"
+ },
+ "028400002110": {
+  "FULL_NAME_FOUND": "Santitas Yellow Corn Triangles Tortilla Chips 11OZ",
+  "DESCRIPTION": "Just like the tortilla chips in your favorite Mexican restaurant, the authentic flavor of SANTITAS tortilla chips starts with high-quality, stone-ground corn. Just add salsa or guacamole on the side for a party snack that can't be beat!",
+  "CATEGORY": "Chips",
+  "BRAND": "Santitas",
+  "SIZE": "",
+  "EAN": "0028400002110",
+  "STATUS": "MATCHED"
+ },
+ "028400002288": {
+  "FULL_NAME_FOUND": "Chester's Puffcorn Cheese 4.5 Ounce Plastic Bag",
+  "DESCRIPTION": "Chester's Cheese Flavored Puffcorn snacks are puffy, bite-sized morsels with a crunchy corn taste. They're oven baked, and unlike popcorn, there are no hulls or hard seeds. Available in a convenient big bag, they're perfect for sharing some delicious fun at home.",
+  "CATEGORY": "Pretzels",
+  "BRAND": "Chester's",
+  "SIZE": "",
+  "EAN": "0028400002288",
+  "STATUS": "MATCHED"
+ },
+ "028400006774": {
+  "FULL_NAME_FOUND": "Stacy's Cinnamon Sugar Baked Pita Chips",
+  "DESCRIPTION": "We bake real pita from our own special recipe, slice it into chips, then bake it again for a delicious crunch. We think time is an essential ingredient, which is why we devote up to 14 hours to bake each batch of Stacy's Pita Chips.",
+  "CATEGORY": "Chips",
+  "BRAND": "Stacy's",
+  "SIZE": "",
+  "EAN": "0028400006774",
+  "STATUS": "MATCHED"
+ },
+ "028400022330": {
+  "FULL_NAME_FOUND": "Doritos Tortilla Chips, Cool Ranch Flavored 7.625 Oz",
+  "DESCRIPTION": "The DORITOS brand is all about boldness. If you're up to the challenge, grab a bag of DORITOS tortilla chips and get ready to make some memories you won't soon forget. It's a bold experience in snacking and beyond.",
+  "CATEGORY": "Chips",
+  "BRAND": "Doritos",
+  "SIZE": "",
+  "EAN": "0028400022330",
+  "STATUS": "MATCHED"
+ },
+ "028400022644": {
+  "FULL_NAME_FOUND": "Doritos Nacho Cheese Flavored, Tortilla Chips",
+  "DESCRIPTION": "The DORITOS brand is all about boldness. If you're up to the challenge, grab a bag of DORITOS tortilla chips and get ready to make some memories you won't soon forget. It's a bold experience in snacking and beyond.",
+  "CATEGORY": "Chips",
+  "BRAND": "Doritos",
+  "SIZE": "",
+  "EAN": "0028400022644",
+  "STATUS": "MATCHED"
+ },
+ "028400023450": {
+  "FULL_NAME_FOUND": "Lay's Potato Chips, Dill Pickle",
+  "DESCRIPTION": "Flavored potato chips. 0 grams trans fat. Guaranteed fresh until printed date. Good fun! It all starts with farm-grown potatoes - cooked in all natural oil with a dash of salt per 1 oz serving. Then we add the all natural flavor of dill pickles. So every Lay's potato chip is perfectly crispy and delicious. Happiness in every bite. Made with all natural ingredients.",
+  "CATEGORY": "Chips",
+  "BRAND": "Lay's",
+  "SIZE": "",
+  "EAN": "0028400023450",
+  "STATUS": "MATCHED"
+ },
+ "028400024747": {
+  "FULL_NAME_FOUND": "Lay's Kettle Cooked Original Potato Chips - 2.75oz",
+  "DESCRIPTION": "Take a moment to relax and unwind with Lay's® Kettle Cooked Original chips. Our chips are kettle cooked in small batches, so you get the perfect crunch in every bite.",
+  "CATEGORY": "Chips",
+  "BRAND": "Lay's",
+  "SIZE": "",
+  "EAN": "0028400024747",
+  "STATUS": "MATCHED"
+ },
+ "028400025904": {
+  "FULL_NAME_FOUND": "Lay's Barbecue Flavored Potato Chips 2.88 Ounce Plastic Bag",
+  "DESCRIPTION": "It all starts with farm-grown potatoes, cooked and seasoned to perfection. Then we add the spicy sweet flavors of BBQ sauce. So every Lay's potato chip is perfectly crispy and delicious. Happiness in Every Bite. Wherever celebrations and good times happen, the LAY'S brand will be there just as it has been for more than 75 years. With flavors almost as rich as our history, we have a chip or crisp flavor guaranteed to bring a smile on your face.",
+  "CATEGORY": "Chips",
+  "BRAND": "Lay's",
+  "SIZE": "",
+  "EAN": "0028400025904",
+  "STATUS": "MATCHED"
  }
 }

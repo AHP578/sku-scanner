@@ -45358,5 +45358,95 @@
   "SIZE": "450 mL",
   "EAN": "0025000056031",
   "STATUS": "MATCHED"
+ },
+ "025000056062": {
+  "FULL_NAME_FOUND": "Minute Maid Juice Beverage, Cranberry Grape Flavored 15.2 Oz",
+  "DESCRIPTION": "Goodness comes in over 100 different varieties of Minute Maid juices and juice drinks that can be shared with the whole family—just like it has for generations. From orange juice to apple juice, lemonades and punches, we use the freshest ingredients to ensure you get the highest quality juices. Put good in. Get good out.",
+  "CATEGORY": "Juice",
+  "BRAND": "Minute Maid",
+  "SIZE": "450 mL",
+  "EAN": "0025000056062",
+  "STATUS": "MATCHED"
+ },
+ "025000058028": {
+  "FULL_NAME_FOUND": "Minute Maid Juice, Fruit Punch 20 Fl Oz",
+  "DESCRIPTION": "Mix things up. Minute Maid® Fruit Punch combines a number of delectable fruit flavours together in a refreshing, delicious blend. Now it can be enjoyed with the entire family in a convenient large size. It is made with real fruit and natural flavours. It is an excellent source of vitamin C, and there are no added preservatives.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Minute Maid",
+  "SIZE": "591 mL",
+  "EAN": "0025000058028",
+  "STATUS": "MATCHED"
+ },
+ "025000062292": {
+  "FULL_NAME_FOUND": "Minute Maid Tropical Blend, Fruit And Vegetable Juice Drink, 12 Fl Oz",
+  "DESCRIPTION": "A 25% juice blend of carrot, pear, mango, and pineapple juices from concentrate. Fruit and vegetable juice 100 calories.",
+  "CATEGORY": "Juice",
+  "BRAND": "Minute Maid",
+  "SIZE": "355 mL",
+  "EAN": "0025000062292",
+  "STATUS": "MATCHED"
+ },
+ "025000100000": {
+  "FULL_NAME_FOUND": "Simply Orange Pulp Free Juice Bottle, 52 Fl Oz",
+  "DESCRIPTION": "For Simply Orange Pulp Free, we carefully select real, ripe oranges and turn them into a deliciously simple pulp-free orange juice. Not from concentrate and never frozen, for a deliciously fresh-squeezed taste. Simple ingredients and the Simply “Fresh Taste Guarantee” make for a refreshing non-GMO orange juice you can enjoy with breakfast, lunch or any time in between. Simply Orange is 100% pure-squeezed pasteurized orange juice—everything you love with the addition of calcium and vitamin D alongside the naturally occurring vitamin C. Simply products start with great-tasting fruit and end with great-tasting fruit juices, fruit drinks and fruit smoothies. That’s because we believe the best things in life are made simply. And we hold everything—from Simply Fruit Punch to Simply Lemonade—to the same high standard with our “Fresh Taste Guarantee.” Whatever juice you’re looking for, the choice is simple. With Simply Orange Pulp Free, the difference is clear. Because with Simply, there’s nothing to hide.",
+  "CATEGORY": "Juice",
+  "BRAND": "Simply",
+  "SIZE": "1538 mL",
+  "EAN": "0025000100000",
+  "STATUS": "MATCHED"
+ },
+ "025000100598": {
+  "FULL_NAME_FOUND": "Minute Maid Fruit Drink Kiwi Strawberry 20 Fl Oz",
+  "DESCRIPTION": "Minute Maid kiwi strawberry is a delicious and refreshing drink! It’s a perfect blend of sweet strawberries and tangy kiwis, creating a fruity and thirst quenching flavour. It’s a great choice for a tasty and refreshing beverage!",
+  "CATEGORY": "Beverages",
+  "BRAND": "Minute Maid",
+  "SIZE": "591 mL",
+  "EAN": "0025000100598",
+  "STATUS": "MATCHED"
+ },
+ "025000131349": {
+  "FULL_NAME_FOUND": "Minute Maid Aguas S Hibiscus Juice Drink Can 16 Fl Oz",
+  "DESCRIPTION": "Experience the vibrant flavors of Latin America with Minute Maid Aguas Frescas. This refreshing, non-carbonated beverage is inspired by traditional Mexican drinks, offering a delightful blend of fruit juices and natural flavors. Available in a variety of flavors including Strawberry, Mango, Hibiscus, and Pineapple Horchata, each sip delivers a sweet and tangy taste that's perfect for any occasion.",
+  "CATEGORY": "Juice",
+  "BRAND": "Minute Maid",
+  "SIZE": "473 mL",
+  "EAN": "0025000131349",
+  "STATUS": "MATCHED"
+ },
+ "025000131363": {
+  "FULL_NAME_FOUND": "Minute Maid Aguas S Strawberry Juice Drink Can 16 Fl Oz",
+  "DESCRIPTION": "Experience the vibrant flavors of Latin America with Minute Maid Aguas Frescas. This refreshing, non-carbonated beverage is inspired by traditional Mexican drinks, offering a delightful blend of fruit juices and natural flavors. Available in a variety of flavors including Strawberry, Mango, Hibiscus, and Pineapple Horchata, each sip delivers a sweet and tangy taste that's perfect for any occasion.",
+  "CATEGORY": "Juice",
+  "BRAND": "Minute Maid",
+  "SIZE": "473 mL",
+  "EAN": "0025000131363",
+  "STATUS": "MATCHED"
+ },
+ "025000131387": {
+  "FULL_NAME_FOUND": "Minute Maid Aguas Frescas Mango Fruit Juice 16 Fl Oz Can",
+  "DESCRIPTION": "Experience the vibrant flavors of Latin America with Minute Maid Aguas Frescas. This refreshing, non-carbonated beverage is inspired by traditional Mexican drinks, offering a delightful blend of fruit juices and natural flavors. Available in a variety of flavors including Strawberry, Mango, Hibiscus, and Pineapple Horchata, each sip delivers a sweet and tangy taste that's perfect for any occasion.",
+  "CATEGORY": "Juice",
+  "BRAND": "Minute Maid",
+  "SIZE": "473 mL",
+  "EAN": "0025000131387",
+  "STATUS": "MATCHED"
+ },
+ "025500003658": {
+  "FULL_NAME_FOUND": "Folgers Classic Roast Ground Coffee, Medium Roast, 11.3 Ounce",
+  "DESCRIPTION": "Folgers Classic Roast coffee is made from Mountain Grown beans, the richest and most aromatic in the world. This classic medium-roast ground coffee has a fresh, eye-opening aroma that will entice you every morning. Folgers Classic Roast coffee is classic for a reason—that consistently rich, pure taste, cup after cup and The Best Part of Wakin’ Up for more than 150 years. Folgers coffee great pure taste is equally matched by the dedication to bringing you the flavors you love in the format you choose. Some of your favorite Folgers roasts are also available in canisters, K-Cup Pods, instant, individual single serve packets and other convenient formats.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Folgers",
+  "SIZE": "334 mL",
+  "EAN": "0025500003658",
+  "STATUS": "MATCHED"
+ },
+ "025500003719": {
+  "FULL_NAME_FOUND": "Folgers Classic Medium Roast Ground Coffee - Decaf - 11.3oz",
+  "DESCRIPTION": "Contains 1 - 11.3 Ounce AromaSeal Canister of Folgers Classic Decaf Ground Coffee. Lets you enjoy The Best Part of Wakin’ Up, even when you’re already awake enough.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Folgers",
+  "SIZE": "334 mL",
+  "EAN": "0025500003719",
+  "STATUS": "MATCHED"
  }
 }

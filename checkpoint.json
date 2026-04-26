@@ -48778,5 +48778,95 @@
   "SIZE": "",
   "EAN": "0028400162074",
   "STATUS": "MATCHED"
+ },
+ "028400162081": {
+  "FULL_NAME_FOUND": "Doritos Tortilla Chips, Nacho Cheese Flavored",
+  "DESCRIPTION": "The DORITOS brand is all about boldness. If you're up to the challenge, grab a bag of DORITOS tortilla chips and get ready to make some memories you won't soon forget. It's a bold experience in snacking and beyond.",
+  "CATEGORY": "Chips",
+  "BRAND": "Doritos",
+  "SIZE": "",
+  "EAN": "0028400162081",
+  "STATUS": "MATCHED"
+ },
+ "028400162159": {
+  "FULL_NAME_FOUND": "Doritos Tortilla Chips, Spicy Sweet Chili 1.125 Oz",
+  "DESCRIPTION": "The DORITOS brand is all about boldness. If you're up to the challenge, grab a bag of DORITOS tortilla chips and get ready to make some memories you won't soon forget. It's a bold experience in snacking and beyond.",
+  "CATEGORY": "Chips",
+  "BRAND": "Doritos",
+  "SIZE": "",
+  "EAN": "0028400162159",
+  "STATUS": "MATCHED"
+ },
+ "028400167024": {
+  "FULL_NAME_FOUND": "Grandma's Flavored Sandwich Creme Cookies, Strawberry",
+  "DESCRIPTION": "Grandma's® Cookies Strawberry. Quality since 1914. Sandwich creme. Net Wt. 3.025 oz. (85.7 g).",
+  "CATEGORY": "Cookies",
+  "BRAND": "Grandma's",
+  "SIZE": "",
+  "EAN": "0028400167024",
+  "STATUS": "MATCHED"
+ },
+ "028400172516": {
+  "FULL_NAME_FOUND": "Cracker Jack Caramel Coated Popcorn & Peanuts - Original",
+  "DESCRIPTION": "The CRACKER JACK brand has been an American favorite for 120 years. The delicious blend of caramel coated popcorn and peanuts is just as good as you remember. And, as if a tasty snack werenât enough, who can forget the thrill of opening the surprise inside?",
+  "CATEGORY": "Popcorn",
+  "BRAND": "Cracker Jack",
+  "SIZE": "",
+  "EAN": "0028400172516",
+  "STATUS": "MATCHED"
+ },
+ "028400173698": {
+  "FULL_NAME_FOUND": "Frito Lay Munchies Supreme Pizza Sandwich Crackers",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Crackers",
+  "BRAND": "Frito Lay",
+  "SIZE": "",
+  "EAN": "0028400173698",
+  "STATUS": "MATCHED"
+ },
+ "028400183826": {
+  "FULL_NAME_FOUND": "Lay's Oven Baked Original Potato Crisps, 6.25 Ounce",
+  "DESCRIPTION": "Frito-Lay’s line of Baked snacks are baked, not fried, to give you the great taste you’ve come to love with Frito-Lay snacks. On top of that, Baked snacks offer less fat than regular potato chips, cheese-flavored snacks, and tortilla chips.",
+  "CATEGORY": "Chips",
+  "BRAND": "Lay's",
+  "SIZE": "",
+  "EAN": "0028400183826",
+  "STATUS": "MATCHED"
+ },
+ "028400184779": {
+  "FULL_NAME_FOUND": "Ruffles Oven Baked Cheddar & Sour Cream Potato Crisps 6.25 Oz. Bag",
+  "DESCRIPTION": "Frito-Lay's line of Oven Baked snacks are baked, not fried, to give you the great taste you've come to love with Frito-Lay snacks. On top of that, RUFFLES Oven Baked Cheddar & Sour Cream Flavored Potato Crisps snacks offer 65% less fat than regular potato chips. Fat content of regular potato chips is 10g per 1oz serving. Tat content for these snacks is 3.5g per 1oz serving. This package contains 6.25oz.",
+  "CATEGORY": "Chips",
+  "BRAND": "Ruffles",
+  "SIZE": "",
+  "EAN": "0028400184779",
+  "STATUS": "MATCHED"
+ },
+ "028400184793": {
+  "FULL_NAME_FOUND": "Ruffles Oven Baked Original Potato Crisps - 6.25oz",
+  "DESCRIPTION": "Frito-Lay's line of Oven Baked snacks are baked, not fried, to give you the great taste you've come to love with Frito-Lay snacks. On top of that, RUFFLES Oven Baked Cheddar & Sour Cream Flavored Potato Crisps snacks offer 65% less fat than regular potato chips. Fat content of regular potato chips is 10g per 1oz serving. Tat content for these snacks is 3.5g per 1oz serving. This package contains 6.25oz.",
+  "CATEGORY": "Chips",
+  "BRAND": "Ruffles",
+  "SIZE": "",
+  "EAN": "0028400184793",
+  "STATUS": "MATCHED"
+ },
+ "028400184809": {
+  "FULL_NAME_FOUND": "Ruffles Crispy Fries Potato Sticks, Original",
+  "DESCRIPTION": "Sliced from real potatoes. Guaranteed fresh until printed date. Chips or fries? The timeless struggle, the eternal choice. Good news, champ, the correct answer is both. Behold the crispy fry.",
+  "CATEGORY": "Chips",
+  "BRAND": "Ruffles",
+  "SIZE": "",
+  "EAN": "0028400184809",
+  "STATUS": "MATCHED"
+ },
+ "028400190794": {
+  "FULL_NAME_FOUND": "Munchos Potato Crisps 4.5 Oz. Bag",
+  "DESCRIPTION": "Delicious light tasting potato crisp. Pair a few with your lunch or dinner. Enjoy a few by themselves or pack some for on-the-go.",
+  "CATEGORY": "Chips",
+  "BRAND": "Munchos",
+  "SIZE": "",
+  "EAN": "0028400190794",
+  "STATUS": "MATCHED"
  }
 }

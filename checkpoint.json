@@ -47452,5 +47452,95 @@
   "SIZE": "",
   "EAN": "0028200178428",
   "STATUS": "MATCHED"
+ },
+ "028200178435": {
+  "FULL_NAME_FOUND": "Marlboro Cigarettes, Menthol, Gold Pack, 100's",
+  "DESCRIPTION": "Smooth fresh menthol flavor. 75 cents off this pack. Manufacturer funded promotion. Please don't litter. Class A cigarettes. For special offers marlboro.com. Limited to eligible smokers 21+.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200178435",
+  "STATUS": "MATCHED"
+ },
+ "028200178480": {
+  "FULL_NAME_FOUND": "Marlboro Smooth Bx 75 Off",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0028200178480",
+  "STATUS": "MATCHED"
+ },
+ "028200178671": {
+  "FULL_NAME_FOUND": "Marlboro Menthol Box Ks .50 Off",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0028200178671",
+  "STATUS": "MATCHED"
+ },
+ "028200178688": {
+  "FULL_NAME_FOUND": "Marlboro Menthol 100 Box .50 Off",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200178688",
+  "STATUS": "MATCHED"
+ },
+ "028200178695": {
+  "FULL_NAME_FOUND": "Marlboro Menthol Gold Box Ks .50 Off",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0028200178695",
+  "STATUS": "MATCHED"
+ },
+ "028200178718": {
+  "FULL_NAME_FOUND": "Marlboro $0.50 Off Menthol Gold 100’s",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0028200178718",
+  "STATUS": "MATCHED"
+ },
+ "028200178916": {
+  "FULL_NAME_FOUND": "Marlboro Ice Mn 1.00 Off Pack",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Ice Packs",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0028200178916",
+  "STATUS": "MATCHED"
+ },
+ "028200179050": {
+  "FULL_NAME_FOUND": "L&M 100 Box .50 Off",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "L&M",
+  "SIZE": "",
+  "EAN": "0028200179050",
+  "STATUS": "MATCHED"
+ },
+ "028200179067": {
+  "FULL_NAME_FOUND": "L&M Blue .50c Pk Cigarettes",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0028200179067",
+  "STATUS": "MATCHED"
+ },
+ "028200179166": {
+  "FULL_NAME_FOUND": "Marlboro Ice .50 Off",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Ice Bins",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200179166",
+  "STATUS": "MATCHED"
  }
 }

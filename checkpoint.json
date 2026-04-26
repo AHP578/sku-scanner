@@ -46912,5 +46912,95 @@
   "SIZE": "59 mL",
   "EAN": "0028000467012",
   "STATUS": "MATCHED"
+ },
+ "028000616502": {
+  "FULL_NAME_FOUND": "Nesquik Chocolate Lowfat Milk, Ready To Drink",
+  "DESCRIPTION": "Indulge in the rich, creamy taste of Nestle Nesquik Low Fat Chocolate Milk! Perfect for both kids and adults, this delicious chocolate milk is made with low fat milk and is a great source of calcium and vitamins. Each 8 ounce bottle is perfectly portioned for on-the-go enjoyment, making it an ideal choice for lunchboxes, after-school snacks, or a refreshing treat any time of the day.",
+  "CATEGORY": "Milk",
+  "BRAND": "Nesquik",
+  "SIZE": "237 mL",
+  "EAN": "0028000616502",
+  "STATUS": "MATCHED"
+ },
+ "028000720292": {
+  "FULL_NAME_FOUND": "Twix Milk, Low Fat, Chocolate",
+  "DESCRIPTION": "Natural & artificial flavor. 14 g protein per bottle. 160 calories per 8 fl oz. Gluten free. Low fat. Vitamin A & D. New. Made with real milk. No high fructose corn syrup. Milk from cows not treated with the growth hormone rBST (No significant difference has been shown between milk from rBST treated and non-rBST treated cows). Homogenized. Real. Grade A. how2recycle.info. Have questions? Call or text 1-855-263-2999.",
+  "CATEGORY": "Milk",
+  "BRAND": "Twix",
+  "SIZE": "414 mL",
+  "EAN": "0028000720292",
+  "STATUS": "MATCHED"
+ },
+ "028000847920": {
+  "FULL_NAME_FOUND": "Nesquik Nestle Sensations Froot Loops Cereal Flavored Lowfat Milk, 14 Fl Oz",
+  "DESCRIPTION": "lets you enjoy the irresistibly delicious flavors of your favorite cereal in a tasty drink. This Froot Loops cereal milk drink is gluten free, made with real milk and contains no high fructose corn syrup. This cereal-inspired beverage is ready to drink, so it's easy to serve with meals or as a delicious treat on its own. This lowfat milk beverage contains Vitamins A and D and 14 grams of protein per bottle. Take the taste of Froot Loops cereal with you on the go with this convenient resealable bottle. Shake bottle well before enjoying and keep refrigerated after opening.",
+  "CATEGORY": "Cereal & Granola",
+  "BRAND": "Nesquik",
+  "SIZE": "",
+  "EAN": "0028000847920",
+  "STATUS": "MATCHED"
+ },
+ "028000895037": {
+  "FULL_NAME_FOUND": "Nesquik Double Chocolate Milk, 14 Fl Oz",
+  "DESCRIPTION": "Nesquik Fudge Brownie Lowfat Milk offers 100% real milk for a classic, delicious taste in an irresistibly tasty and nutritious drink. This fudge brownie lowfat milk contains no high fructose corn syrup, for delicious goodness that will deliver on the classic Nesquik chocolate milk taste you love. Nesquik Fudge Brownie Lowfat Milk is ready to drink, so it's easy to serve with meals, or as a delicious chocolate drink on its own. This fudge brownie lowfat milk comes in a convenient resealable bottle, easy to take on the go. Containing 14 grams of protein per bottle from 100% real milk and Vitamin A and Vitamin D, Nesquik Fudge Brownie Lowfat Milk also offers 30% more calcium than regular chocolate lowfat milk. Shake well before enjoying, and keep refrigerated after opening.",
+  "CATEGORY": "Milk",
+  "BRAND": "Nesquik",
+  "SIZE": "414 mL",
+  "EAN": "0028000895037",
+  "STATUS": "MATCHED"
+ },
+ "028000895044": {
+  "FULL_NAME_FOUND": "Nesquik Milk, Lowfat, Banana Strawberry 14 Fl Oz",
+  "DESCRIPTION": "offers 100% real milk for a classic, delicious taste in an irresistibly tasty and nutritious drink. This Nestle Strawberry Banana milk contains no high fructose corn syrup, for delicious goodness that will deliver on the classic taste you love. Containing 14 grams of protein per bottle from 100% real milk and Vitamin A and Vitamin D, This Nestle Nesquick Strawberry Banana low fat milk also offers 30% more calcium than regular chocolate lowfat milk. Shake well before enjoying, and keep refrigerated after opening.",
+  "CATEGORY": "Milk",
+  "BRAND": "Nesquik",
+  "SIZE": "414 mL",
+  "EAN": "0028000895044",
+  "STATUS": "MATCHED"
+ },
+ "028200001672": {
+  "FULL_NAME_FOUND": "Marlboro Cigarettes, Class A, Black, Gold Pack",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200001672",
+  "STATUS": "MATCHED"
+ },
+ "028200003584": {
+  "FULL_NAME_FOUND": "Marlboro Filter Cigarettes",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200003584",
+  "STATUS": "MATCHED"
+ },
+ "028200003768": {
+  "FULL_NAME_FOUND": "Marlboro Cigarettes, Blue, Menthol",
+  "DESCRIPTION": "Smooth cool menthol flavor. Nothing about this cigarette, packaging, or color should be interpreted to mean safer. PM USA. Blue blend.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200003768",
+  "STATUS": "MATCHED"
+ },
+ "028200003775": {
+  "FULL_NAME_FOUND": "Marlboro Cigarettes, Blue, Menthol, 100's",
+  "DESCRIPTION": "Smooth cool menthol flavor. Nothing about this cigarette, packaging, or color should be interpreted to mean safer. PM USA. Blue blend.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200003775",
+  "STATUS": "MATCHED"
+ },
+ "028200003782": {
+  "FULL_NAME_FOUND": "Marlboro Cigarettes, Filter, Gold Pack",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200003782",
+  "STATUS": "MATCHED"
  }
 }

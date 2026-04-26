@@ -49492,5 +49492,95 @@
   "SIZE": "",
   "EAN": "0028400329484",
   "STATUS": "MATCHED"
+ },
+ "028400329491": {
+  "FULL_NAME_FOUND": "Cheetos Cheese Flavored Snacks, Flamin' Hot Flavored, Crunchy",
+  "DESCRIPTION": "Wherever smiles happen and happiness is celebrated, youll find Frito Lays chips. From backyard BBQs and birthday parties to 4th of July picnics, Frito Lay's chips are there to share the moment. Its no wondering these deliciously fresh-tasting and perfectly crispy potato chips have been Americas favorite snack for nearly 75 years.",
+  "CATEGORY": "Chips",
+  "BRAND": "Cheetos",
+  "SIZE": "",
+  "EAN": "0028400329491",
+  "STATUS": "MATCHED"
+ },
+ "028400329507": {
+  "FULL_NAME_FOUND": "Cheetos Crunchy Flamin' Hot Limon Cheese Flavored Snacks 92.1g",
+  "DESCRIPTION": "CHEETOS snacks are the much-loved cheesy treats that are fun for everyone! You just can't eat a CHEETOS snack without licking the \"cheetle\" off your fingertips. And wherever the CHEETOS brand and CHESTER CHEETAH go, cheesy smiles are sure to follow.",
+  "CATEGORY": "Chips",
+  "BRAND": "Cheetos",
+  "SIZE": "",
+  "EAN": "0028400329507",
+  "STATUS": "MATCHED"
+ },
+ "028400331203": {
+  "FULL_NAME_FOUND": "Cheetos Simply Puffs White Cheddar Cheese Flavored Snacks",
+  "DESCRIPTION": "Though our roots date back to 2002, the Simply line sprouted in 2013 from our desire to make snacking simpler than ever—that includes simple choices and simple ingredients. We set out to make picking a snack easy (because who couldn’t use a little more ease these days?) by offering the familiar brands you love and trust without artificial flavors or colors. The result? Not having to figure out something new to snack on when you want the good stuff. Knowing you and your family can share your favorite snacks made with ingredients you feel good about while enjoying the same great taste… well, that’s Simply amazing.",
+  "CATEGORY": "Chips",
+  "BRAND": "Cheetos",
+  "SIZE": "",
+  "EAN": "0028400331203",
+  "STATUS": "MATCHED"
+ },
+ "028400331227": {
+  "FULL_NAME_FOUND": "Doritos Simply Organic, White Cheddar Flavored, Tortilla Chips",
+  "DESCRIPTION": "The DORITOS brand is all about boldness. If you’re up to the challenge, grab a bag of DORITOS tortilla chips and get ready to make some memories you won’t soon forget. It’s a bold experience in snacking and beyond.",
+  "CATEGORY": "Chips",
+  "BRAND": "Doritos",
+  "SIZE": "",
+  "EAN": "0028400331227",
+  "STATUS": "MATCHED"
+ },
+ "028400331500": {
+  "FULL_NAME_FOUND": "Munchos Potato Crisps",
+  "DESCRIPTION": "A light tasting crispy snack! Reach for Munchos brand when you want a light-tasting snack packed with full potato flavor and a crispy crunch. Once you try this delicious snack, you'll keep coming back for more. You won't believe such a light-tasting crisp is so mouth-watering. Be sure to try some of the other great Frito-Lay products with a unique taste and crispy crunch, like.",
+  "CATEGORY": "Chips",
+  "BRAND": "Munchos",
+  "SIZE": "",
+  "EAN": "0028400331500",
+  "STATUS": "MATCHED"
+ },
+ "028400331524": {
+  "FULL_NAME_FOUND": "Chester's Flamin' Hot Fries Flavored Corn & Potato Snacks",
+  "DESCRIPTION": "When CHESTER CHEETAH puts his name on a snack, you can count on a bold and cheesy flavor like you've never tasted. CHESTER'S snacks are made with a special blend of real cheese seasoning to give each bite the perfect pop and zing.",
+  "CATEGORY": "Chips",
+  "BRAND": "Chester's",
+  "SIZE": "",
+  "EAN": "0028400331524",
+  "STATUS": "MATCHED"
+ },
+ "028400331555": {
+  "FULL_NAME_FOUND": "Funyuns Onion Flavored Rings",
+  "DESCRIPTION": "Frito Lay Funyons feature light, crispy onion-flavored rings that deliver a unique, savory snack experience. With their distinctive texture and bold, onion-rich seasoning, these snacks offer a satisfying crunch and an unmistakable flavor.",
+  "CATEGORY": "Rings",
+  "BRAND": "Funyuns",
+  "SIZE": "",
+  "EAN": "0028400331555",
+  "STATUS": "MATCHED"
+ },
+ "028400331678": {
+  "FULL_NAME_FOUND": "Ruffles Baked Potato Crisps Cheddar & Sour Cream 1 7/8 Oz",
+  "DESCRIPTION": "With crunchy ridges made to stand up to even the thickest dips, RUFFLES potato chips bring epic flavor and snack satisfaction to any get-together.",
+  "CATEGORY": "Sour Cream",
+  "BRAND": "Ruffles",
+  "SIZE": "",
+  "EAN": "0028400331678",
+  "STATUS": "MATCHED"
+ },
+ "028400331685": {
+  "FULL_NAME_FOUND": "Sabritones Chile & Lime Puffed Wheat Snacks",
+  "DESCRIPTION": "SABRITONES snacks are traditional puffed wheat snacks from Mexico. With authentic flavors like spicy chilies and tangy lime, it’s a treat that’s sure to make your mouth water.",
+  "CATEGORY": "Chips",
+  "BRAND": "Sabritones",
+  "SIZE": "",
+  "EAN": "0028400331685",
+  "STATUS": "MATCHED"
+ },
+ "028400331760": {
+  "FULL_NAME_FOUND": "SunChips Harvest Cheddar Whole Grain Snacks",
+  "DESCRIPTION": "Frito Lay Harvest Cheddar Sun Chips offer a satisfying crunch with a rich cheddar flavor crafted from whole grains. This snack balances robust cheesy notes with wholesome ingredients, providing a flavorful yet mindful snacking option.",
+  "CATEGORY": "Chips",
+  "BRAND": "SunChips",
+  "SIZE": "",
+  "EAN": "0028400331760",
+  "STATUS": "MATCHED"
  }
 }

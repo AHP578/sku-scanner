@@ -47968,5 +47968,95 @@
   "SIZE": "",
   "EAN": "0028400028141",
   "STATUS": "MATCHED"
+ },
+ "028400028158": {
+  "FULL_NAME_FOUND": "Ruffles Potato Chips, Cheddar & Sour Cream 2",
+  "DESCRIPTION": "Made with real cheddar! Guaranteed fresh until printed date. RRRuffles have ridges. Good fun! There's more where this came from.",
+  "CATEGORY": "Chips",
+  "BRAND": "Ruffles",
+  "SIZE": "",
+  "EAN": "0028400028158",
+  "STATUS": "MATCHED"
+ },
+ "028400028165": {
+  "FULL_NAME_FOUND": "Cheetos Cheese Snacks, Crunchy, 105 Ounce",
+  "DESCRIPTION": "Cheese flavored snacks packaged in an individual snack size bag, portioned to satisfy your hunger.",
+  "CATEGORY": "Cheese",
+  "BRAND": "Cheetos",
+  "SIZE": "",
+  "EAN": "0028400028165",
+  "STATUS": "MATCHED"
+ },
+ "028400028196": {
+  "FULL_NAME_FOUND": "Doritos Nacho Cheese Tortilla Chips 3.375 Oz. Bag",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Chips",
+  "BRAND": "Doritos",
+  "SIZE": "",
+  "EAN": "0028400028196",
+  "STATUS": "MATCHED"
+ },
+ "028400028202": {
+  "FULL_NAME_FOUND": "Doritos Cool Ranch Tortilla Chips",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Chips",
+  "BRAND": "Doritos",
+  "SIZE": "",
+  "EAN": "0028400028202",
+  "STATUS": "MATCHED"
+ },
+ "028400028240": {
+  "FULL_NAME_FOUND": "Munchos Potato Crisps 2.625 Ounce Plastic Bag",
+  "DESCRIPTION": "When you want a snack packed with potato flavor and a crispy crunch, reach for a snack of MUNCHOS potato crisps. It's a one-two combination of mouthwatering taste and satisfying crunch!",
+  "CATEGORY": "Chips",
+  "BRAND": "Munchos",
+  "SIZE": "",
+  "EAN": "0028400028240",
+  "STATUS": "MATCHED"
+ },
+ "028400029582": {
+  "FULL_NAME_FOUND": "Smartfood Popcorn, White Cheddar Cheese",
+  "DESCRIPTION": "Smartfood White Cheddar Cheese Popcorn lets you enjoy delicious popcorn without the guilt, you’ll love this cheesy treat. Smartfood popcorn is just the thing for hosting friends on game day or movie night with the fam. The perfect shareable size and the delicious flavor of white cheddar cheese in an air-popped goodness.",
+  "CATEGORY": "Popcorn",
+  "BRAND": "Smartfood",
+  "SIZE": "",
+  "EAN": "0028400029582",
+  "STATUS": "MATCHED"
+ },
+ "028400032087": {
+  "FULL_NAME_FOUND": "Lay's Oven Baked Original Potato Crisps 2.5 Oz. Bag",
+  "DESCRIPTION": "Frito-Lay's line of Oven Baked snacks are baked, not fried, to give you the great taste you've come to love with Frito-Lay snacks. On top of that, LAY'S Oven Baked Original Potato Crisps 80% less fat than regular potato chips. Fat content of regular potato chips is 10g per 1 oz serving. Fat content for these snacks is 2g per 1 oz serving.",
+  "CATEGORY": "Pretzels",
+  "BRAND": "Lay's",
+  "SIZE": "",
+  "EAN": "0028400032087",
+  "STATUS": "MATCHED"
+ },
+ "028400032575": {
+  "FULL_NAME_FOUND": "Lay's Potato Chips, Salt & Vinegar",
+  "DESCRIPTION": "Guaranteed fresh until printed date. Good fun! It all starts with farm-grown potatoes, cooked and seasoned to perfection. The we add just the right balance of tangy vinegar. So every Lay's potato chips is perfectly crispy and delicious. Happiness in every bite.",
+  "CATEGORY": "Chips",
+  "BRAND": "Lay's",
+  "SIZE": "",
+  "EAN": "0028400032575",
+  "STATUS": "MATCHED"
+ },
+ "028400034005": {
+  "FULL_NAME_FOUND": "Ruffles Original Potato Chips Party Size",
+  "DESCRIPTION": "RUFFLES Original Potato Chips have bold, thick and deep ridges for a tasty crunch. They're strong enough to withstand any dip.",
+  "CATEGORY": "Chips",
+  "BRAND": "Ruffles",
+  "SIZE": "",
+  "EAN": "0028400034005",
+  "STATUS": "MATCHED"
+ },
+ "028400034029": {
+  "FULL_NAME_FOUND": "Nut Harvest Deluxe Mixed Nuts With Almonds Cashews Pecans Pistachios And Hazelnuts",
+  "DESCRIPTION": "Nut Harvest, Deluxe mixed nuts sleeve. Country of origin is United States.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "Nut Harvest",
+  "SIZE": "",
+  "EAN": "0028400034029",
+  "STATUS": "MATCHED"
  }
 }

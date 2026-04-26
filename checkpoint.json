@@ -45808,5 +45808,95 @@
   "SIZE": "",
   "EAN": "0025900407971",
   "STATUS": "MATCHED"
+ },
+ "025900407988": {
+  "FULL_NAME_FOUND": "Optimo Sweet",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Sweet Potatoes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0025900407988",
+  "STATUS": "MATCHED"
+ },
+ "025900407995": {
+  "FULL_NAME_FOUND": "Optimo Black",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0025900407995",
+  "STATUS": "MATCHED"
+ },
+ "026100001280": {
+  "FULL_NAME_FOUND": "Maverick Menthol Box",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Household Supplies",
+  "BRAND": "Maverick",
+  "SIZE": "",
+  "EAN": "0026100001280",
+  "STATUS": "MATCHED"
+ },
+ "026100001303": {
+  "FULL_NAME_FOUND": "Maverick Menthol Gold 100 Box",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Maverick",
+  "SIZE": "",
+  "EAN": "0026100001303",
+  "STATUS": "MATCHED"
+ },
+ "026100001457": {
+  "FULL_NAME_FOUND": "Maverick Cigarettes, Class A, Menthol, 100s, Box",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Maverick",
+  "SIZE": "",
+  "EAN": "0026100001457",
+  "STATUS": "MATCHED"
+ },
+ "026100001532": {
+  "FULL_NAME_FOUND": "Maverick Cigarettes, 100s, Box",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Maverick",
+  "SIZE": "",
+  "EAN": "0026100001532",
+  "STATUS": "MATCHED"
+ },
+ "026100001556": {
+  "FULL_NAME_FOUND": "Maverick Cigarettes, 100s, Gold Box",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Maverick",
+  "SIZE": "",
+  "EAN": "0026100001556",
+  "STATUS": "MATCHED"
+ },
+ "026100002645": {
+  "FULL_NAME_FOUND": "True Menthol",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0026100002645",
+  "STATUS": "MATCHED"
+ },
+ "026100002744": {
+  "FULL_NAME_FOUND": "True Cigarettes, Blue Kings",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "True",
+  "SIZE": "",
+  "EAN": "0026100002744",
+  "STATUS": "MATCHED"
+ },
+ "026100002942": {
+  "FULL_NAME_FOUND": "True Cigarettes, Green, Menthol",
+  "DESCRIPTION": "20 class A cigarettes. Quality tobaccos. www.RJRT.com. FSC. Please don't litter.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "True",
+  "SIZE": "",
+  "EAN": "0026100002942",
+  "STATUS": "MATCHED"
  }
 }

@@ -47710,5 +47710,83 @@
  },
  "028293031365": {
   "STATUS": "UNMATCHED"
+ },
+ "028293031372": {
+  "STATUS": "UNMATCHED"
+ },
+ "028293031419": {
+  "STATUS": "UNMATCHED"
+ },
+ "028293123510": {
+  "FULL_NAME_FOUND": "Mr Porker Plain Pork Rinds",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Pork Rinds",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0028293123510",
+  "STATUS": "MATCHED"
+ },
+ "028293123527": {
+  "FULL_NAME_FOUND": "Mr Porker Bbq Pork Rinds",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Pork Rinds",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0028293123527",
+  "STATUS": "MATCHED"
+ },
+ "028293881366": {
+  "FULL_NAME_FOUND": "Brim s Fried Pork Cracklin Strips Regular 3oz/ 3pk",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Pretzels",
+  "BRAND": "Brim s",
+  "SIZE": "",
+  "EAN": "0028293881366",
+  "STATUS": "MATCHED"
+ },
+ "028293881373": {
+  "FULL_NAME_FOUND": "Brim's Seasoned Pork Cracklin Strips",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Pretzels",
+  "BRAND": "Brim's",
+  "SIZE": "",
+  "EAN": "0028293881373",
+  "STATUS": "MATCHED"
+ },
+ "028400000222": {
+  "FULL_NAME_FOUND": "Fritos Mild Cheddar Cheese Dip - 9 Ounce",
+  "DESCRIPTION": "Delicious, crowd pleasing and convenient - it can’t get much better than Frito-Lay chips and dips! From entertaining friends to relaxing at home and everything in between, our perfectly blended salsas and great-tasting dips are always a hit. Mix and match them to discover your own perfect pairing!",
+  "CATEGORY": "Dips & Spreads",
+  "BRAND": "Fritos",
+  "SIZE": "",
+  "EAN": "0028400000222",
+  "STATUS": "MATCHED"
+ },
+ "028400000246": {
+  "FULL_NAME_FOUND": "Fritos Jalapeno Cheddar Cheese Dip, 9 Ounce",
+  "DESCRIPTION": "Made with pinto beans, spicy jalapenos, and cheddar cheese; this bold dip is easy to prepare. Simply heat it in the microwave for 30 seconds and it is ready to be served.",
+  "CATEGORY": "Dips & Spreads",
+  "BRAND": "Fritos",
+  "SIZE": "",
+  "EAN": "0028400000246",
+  "STATUS": "MATCHED"
+ },
+ "028400000260": {
+  "FULL_NAME_FOUND": "Lay's Frito French Onion Dip Can",
+  "DESCRIPTION": "Delicious, crowd pleasing and convenient - it can't get much better than Frito-Lay chips and dips! From entertaining friends to relaxing at home and everything in between, our perfectly blended salsas and great-tasting dips are always a hit. Mix and match them to discover your own perfect pairing!",
+  "CATEGORY": "Dips & Spreads",
+  "BRAND": "Lay's",
+  "SIZE": "",
+  "EAN": "0028400000260",
+  "STATUS": "MATCHED"
+ },
+ "028400001526": {
+  "FULL_NAME_FOUND": "Grandma's Sandwich Creme Cookies, Vanilla, 3.03 Ounce",
+  "DESCRIPTION": "GRANDMA''S cookies offer a delicious variety of homemade memories. With flavors like chocolate and peanut butter, every GRANDMA''S treat is baked with love to transport you to your happy place with every bite.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Grandma's",
+  "SIZE": "",
+  "EAN": "0028400001526",
+  "STATUS": "MATCHED"
  }
 }

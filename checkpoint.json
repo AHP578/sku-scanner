@@ -48418,5 +48418,95 @@
   "SIZE": "",
   "EAN": "0028400078696",
   "STATUS": "MATCHED"
+ },
+ "028400078740": {
+  "FULL_NAME_FOUND": "Cheetos Crunchy Cheese Flavored Snacks 2.375 Oz. Bag",
+  "DESCRIPTION": "CHEETOS snacks are the much-loved cheesy treats that are fun for everyone! You just can't eat a CHEETOS snack without licking the \"cheetle\" off your fingertips. And wherever the CHEETOS brand and CHESTER CHEETAH go, cheesy smiles are sure to follow.",
+  "CATEGORY": "Cheese",
+  "BRAND": "Cheetos",
+  "SIZE": "",
+  "EAN": "0028400078740",
+  "STATUS": "MATCHED"
+ },
+ "028400078764": {
+  "FULL_NAME_FOUND": "Cheetos Crunchy Flamin' Hot Cheese Flavored Snacks 2.375 Oz. Bag",
+  "DESCRIPTION": "CHEETOS snacks are the much-loved cheesy treats that are fun for everyone! You just can't eat a CHEETOS snack without licking the \"cheetle\" off your fingertips. And wherever the CHEETOS brand and CHESTER CHEETAH go, cheesy smiles are sure to follow.",
+  "CATEGORY": "Chips",
+  "BRAND": "Cheetos",
+  "SIZE": "",
+  "EAN": "0028400078764",
+  "STATUS": "MATCHED"
+ },
+ "028400078795": {
+  "FULL_NAME_FOUND": "Doritos Cool Ranch Tortilla Chips 2.125 Oz. Bag",
+  "DESCRIPTION": "The DORITOS brand is all about boldness. If you're up to the challenge, grab a bag of DORITOS tortilla chips and get ready to make some memories you won't soon forget. It's a bold experience in snacking and beyond.",
+  "CATEGORY": "Chips",
+  "BRAND": "Doritos",
+  "SIZE": "",
+  "EAN": "0028400078795",
+  "STATUS": "MATCHED"
+ },
+ "028400078818": {
+  "FULL_NAME_FOUND": "Doritos Nacho Cheese Tortilla Chips 2.125 Oz. Bag",
+  "DESCRIPTION": "The DORITOS brand is all about boldness. If you're up to the challenge, grab a bag of DORITOS tortilla chips and get ready to make some memories you won't soon forget. It's a bold experience in snacking and beyond.",
+  "CATEGORY": "Chips",
+  "BRAND": "Doritos",
+  "SIZE": "",
+  "EAN": "0028400078818",
+  "STATUS": "MATCHED"
+ },
+ "028400078825": {
+  "FULL_NAME_FOUND": "Doritos Tortilla Chips, Spicy Nacho Flavored",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Chips",
+  "BRAND": "Doritos",
+  "SIZE": "",
+  "EAN": "0028400078825",
+  "STATUS": "MATCHED"
+ },
+ "028400078894": {
+  "FULL_NAME_FOUND": "Doritos Tortilla Chips, Spicy Sweet Chili Flavored",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Chips",
+  "BRAND": "Doritos",
+  "SIZE": "",
+  "EAN": "0028400078894",
+  "STATUS": "MATCHED"
+ },
+ "028400078931": {
+  "FULL_NAME_FOUND": "Rold Gold Pretzels, Thins",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Pretzels",
+  "BRAND": "Rold Gold",
+  "SIZE": "",
+  "EAN": "0028400078931",
+  "STATUS": "MATCHED"
+ },
+ "028400078962": {
+  "FULL_NAME_FOUND": "Chester's Fries, Flamin' Hot",
+  "DESCRIPTION": "Corn & potato snacks. Guaranteed fresh. Watch out! (There's a fire in this bag.) These snacks are hot - Flamin' Hot . Do you dare? Get ready for a sizzle of flavor that will set your mouth on fire. Dive into a red hot blaze of fiery crunch with Chester's brand Flamin' Hot corn & potato snacks. If you dare.",
+  "CATEGORY": "Chips",
+  "BRAND": "Chester's",
+  "SIZE": "",
+  "EAN": "0028400078962",
+  "STATUS": "MATCHED"
+ },
+ "028400078979": {
+  "FULL_NAME_FOUND": "Funyuns Onion Flavored Rings 1.625 Oz. Bag",
+  "DESCRIPTION": "FUNYUNS Onion Flavored Rings are a deliciously different snack that's fun to eat, with a crisp texture and zesty onion flavor. Next time you're in the mood for a tasty treat that's out of the ordinary, try FUNYUNS Onion Flavored Rings.",
+  "CATEGORY": "Rings",
+  "BRAND": "Funyuns",
+  "SIZE": "",
+  "EAN": "0028400078979",
+  "STATUS": "MATCHED"
+ },
+ "028400079037": {
+  "FULL_NAME_FOUND": "Smartfood Popcorn, White Cheddar Cheese 1.5 Oz",
+  "DESCRIPTION": "America's favorite white cheddar popcorn (America's No. 1 selling white cheddar popcorn based on 2012 retail sales data from Information Resources Inc.). No artificial colors, flavors or preservatives. Guaranteed fresh until printed date.",
+  "CATEGORY": "Popcorn",
+  "BRAND": "Smartfood",
+  "SIZE": "",
+  "EAN": "0028400079037",
+  "STATUS": "MATCHED"
  }
 }

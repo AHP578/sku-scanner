@@ -46474,5 +46474,95 @@
   "SIZE": "30 mL",
   "EAN": "0027132905454",
   "STATUS": "MATCHED"
+ },
+ "027200001750": {
+  "FULL_NAME_FOUND": "Pall Mall Cigarettes",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Pall Mall",
+  "SIZE": "",
+  "EAN": "0027200001750",
+  "STATUS": "MATCHED"
+ },
+ "027200001859": {
+  "FULL_NAME_FOUND": "Pall Mall Cigarettes - 100's 1",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Pall Mall",
+  "SIZE": "",
+  "EAN": "0027200001859",
+  "STATUS": "MATCHED"
+ },
+ "027200002320": {
+  "FULL_NAME_FOUND": "Kool Cigarettes, True Menthol, Blue Box, 2-Way Box",
+  "DESCRIPTION": "Open like a box or a soft pack. Kool provides a smooth, rich taste by blending tobacco with premium menthol. Since 1933, our blends have been enjoyed by smokers who seek a true menthol experience. www.kool.com. Please don't litter. Class A cigarettes. www.RJRT.com. FSC.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Kool",
+  "SIZE": "",
+  "EAN": "0027200002320",
+  "STATUS": "MATCHED"
+ },
+ "027200002528": {
+  "FULL_NAME_FOUND": "Kool Filter Box",
+  "DESCRIPTION": "2-way box. Open like a box or a soft pack. Kool provides a smooth, rich taste by blending tobacco with premium menthol. Since 1933, our blends have been enjoyed by smokers who seek a true menthol experience. www.kool.com. Please don't litter. Class A cigarettes. www.RJRT.com.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Kool",
+  "SIZE": "",
+  "EAN": "0027200002528",
+  "STATUS": "MATCHED"
+ },
+ "027200003877": {
+  "FULL_NAME_FOUND": "Pall Mall Blue 100 $0.50 Off",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0027200003877",
+  "STATUS": "MATCHED"
+ },
+ "027200003914": {
+  "FULL_NAME_FOUND": "Pall Mall 100's .50 Off",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0027200003914",
+  "STATUS": "MATCHED"
+ },
+ "027200004164": {
+  "FULL_NAME_FOUND": "Pall Mall Menthol Silver Box",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Pall Mall",
+  "SIZE": "",
+  "EAN": "0027200004164",
+  "STATUS": "MATCHED"
+ },
+ "027200004171": {
+  "FULL_NAME_FOUND": "Pall Mall Cigarettes, Menthol",
+  "DESCRIPTION": "20 class A cigarettes. Est. 1899. Silver filter 100s. Underage sale prohibited. www.RJRT.com. FSC. PEFC. Please don't litter.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Pall Mall",
+  "SIZE": "",
+  "EAN": "0027200004171",
+  "STATUS": "MATCHED"
+ },
+ "027200005598": {
+  "FULL_NAME_FOUND": "Kool Cigarettes - Super Longs 100's 1",
+  "DESCRIPTION": "20 Class A cigarettes. True menthol. Kool provides a smooth rich taste by blending tobacco with premium menthol. Since 1933, our blends have been enjoyed by smokers who seed a true menthol experience.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Kool",
+  "SIZE": "",
+  "EAN": "0027200005598",
+  "STATUS": "MATCHED"
+ },
+ "027200005970": {
+  "FULL_NAME_FOUND": "Kool Blue 100 Box Men",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Kool",
+  "SIZE": "",
+  "EAN": "0027200005970",
+  "STATUS": "MATCHED"
  }
 }

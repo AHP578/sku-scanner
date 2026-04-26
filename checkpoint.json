@@ -47092,5 +47092,95 @@
   "SIZE": "",
   "EAN": "0028200009722",
   "STATUS": "MATCHED"
+ },
+ "028200009746": {
+  "FULL_NAME_FOUND": "Marlboro Cigarettes, Virginia Blend, 100's, Flip-Top Box",
+  "DESCRIPTION": "Class A cigarettes. Fine tobaccos. Virginia leaf. 400 years ago perfected in Virginia - now grown around the world. Today, hand-selected Virginia tobaccos make our only single leaf blend unique. Marlboro Virginia Blend. Enjoy the crisp, mellow taste and easy finish.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200009746",
+  "STATUS": "MATCHED"
+ },
+ "028200009821": {
+  "FULL_NAME_FOUND": "Virginia Slims Cigarettes, Gold Pack, Superslims",
+  "DESCRIPTION": "20 class A cigarettes. www.pmusa.com. Please don't litter. Nothing about this cigarette, packaging, or color should be interpreted to mean safer.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Virginia Slims",
+  "SIZE": "",
+  "EAN": "0028200009821",
+  "STATUS": "MATCHED"
+ },
+ "028200009838": {
+  "FULL_NAME_FOUND": "Virginia Slims Cigarettes, Menthol, Gold Pack, Superslims",
+  "DESCRIPTION": "20 class A cigarettes. www.pmusa.com. Please don't litter. Nothing about this cigarette, packaging, or color should be interpreted to mean safer.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Virginia Slims",
+  "SIZE": "",
+  "EAN": "0028200009838",
+  "STATUS": "MATCHED"
+ },
+ "028200173461": {
+  "FULL_NAME_FOUND": "Marlboro Cigarettes, Red Label",
+  "DESCRIPTION": "Rich smooth original flavor. $1.00 off this pack. Thanks for choosing flavor. Manufacturer funded promotion. Nothing about this cigarette, packaging, or color should be interpreted to mean safer. Please don't litter. Class A cigarettes.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200173461",
+  "STATUS": "MATCHED"
+ },
+ "028200173591": {
+  "FULL_NAME_FOUND": "Marlboro Marlb Men Bx $1 Off",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200173591",
+  "STATUS": "MATCHED"
+ },
+ "028200173614": {
+  "FULL_NAME_FOUND": "Philip Morris Marl Menthol $ 1 Off",
+  "DESCRIPTION": "The next generation triple-blade razor for the closest shave with less irritation-even when shaving against the grain.",
+  "CATEGORY": "Razors & Razor Blades",
+  "BRAND": "Philip Morris",
+  "SIZE": "",
+  "EAN": "0028200173614",
+  "STATUS": "MATCHED"
+ },
+ "028200173645": {
+  "FULL_NAME_FOUND": "Marlboro Cigarettes, Blend No. 27, Flip Top Box",
+  "DESCRIPTION": "Smooth rich mellow. $1.00 off this pack. Manufacturer funded promotion. Please don't litter. Class A cigarettes.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200173645",
+  "STATUS": "MATCHED"
+ },
+ "028200173690": {
+  "FULL_NAME_FOUND": "Marlboro 1.00 Off Marl Smooth Bx Pk",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200173690",
+  "STATUS": "MATCHED"
+ },
+ "028200174017": {
+  "FULL_NAME_FOUND": "Marlboro 100 Mth",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Tobacco Products",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0028200174017",
+  "STATUS": "MATCHED"
+ },
+ "028200174062": {
+  "FULL_NAME_FOUND": "Marlboro Marl Red",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200174062",
+  "STATUS": "MATCHED"
  }
 }

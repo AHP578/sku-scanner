@@ -46156,5 +46156,65 @@
   "SIZE": "",
   "EAN": "0026104620050",
   "STATUS": "MATCHED"
+ },
+ "026104620067": {
+  "FULL_NAME_FOUND": "Joey's Jumbo Marble 5oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Marbles",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0026104620067",
+  "STATUS": "MATCHED"
+ },
+ "026104620074": {
+  "STATUS": "UNMATCHED"
+ },
+ "026104620081": {
+  "FULL_NAME_FOUND": "Joey's Jumbo Banana 5oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Bananas",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0026104620081",
+  "STATUS": "MATCHED"
+ },
+ "026104620111": {
+  "FULL_NAME_FOUND": "Joey's Jumbo Carrot 5oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0026104620111",
+  "STATUS": "MATCHED"
+ },
+ "026104620135": {
+  "FULL_NAME_FOUND": "Joey's Jumbo Choco-chip 5oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0026104620135",
+  "STATUS": "MATCHED"
+ },
+ "026104620142": {
+  "STATUS": "UNMATCHED"
+ },
+ "026104620173": {
+  "FULL_NAME_FOUND": "Joeys Jumbo Double Fudge 5Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Chips",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0026104620173",
+  "STATUS": "MATCHED"
+ },
+ "026104710096": {
+  "STATUS": "UNMATCHED"
+ },
+ "026104715770": {
+  "STATUS": "UNMATCHED"
+ },
+ "026104716500": {
+  "STATUS": "UNMATCHED"
  }
 }

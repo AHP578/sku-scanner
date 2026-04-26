@@ -47182,5 +47182,95 @@
   "SIZE": "",
   "EAN": "0028200174062",
   "STATUS": "MATCHED"
+ },
+ "028200174345": {
+  "FULL_NAME_FOUND": "Philip Morris 1.00 Off Marl Gold",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Food, Beverages & Tobacco",
+  "BRAND": "Philip Morris",
+  "SIZE": "",
+  "EAN": "0028200174345",
+  "STATUS": "MATCHED"
+ },
+ "028200174765": {
+  "FULL_NAME_FOUND": "Philip Morris Marlboro Black Bx .50 Off",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Philip Morris",
+  "SIZE": "",
+  "EAN": "0028200174765",
+  "STATUS": "MATCHED"
+ },
+ "028200174772": {
+  "FULL_NAME_FOUND": "Marlboro Marlb Blk 100 .50 Off",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200174772",
+  "STATUS": "MATCHED"
+ },
+ "028200174789": {
+  "FULL_NAME_FOUND": "Philip Morris Marl Men Blk .50 Off",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Philip Morris",
+  "SIZE": "",
+  "EAN": "0028200174789",
+  "STATUS": "MATCHED"
+ },
+ "028200174796": {
+  "FULL_NAME_FOUND": "Marlboro Mn Blk .50 Off",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200174796",
+  "STATUS": "MATCHED"
+ },
+ "028200174819": {
+  "FULL_NAME_FOUND": "Marlboro Special Select Gold 50c Off",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0028200174819",
+  "STATUS": "MATCHED"
+ },
+ "028200174826": {
+  "FULL_NAME_FOUND": "Best Marlboro Special Select 100’s Gold 50c Off",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Best",
+  "SIZE": "",
+  "EAN": "0028200174826",
+  "STATUS": "MATCHED"
+ },
+ "028200174888": {
+  "FULL_NAME_FOUND": "Marlboro Special Select Red 50c Off",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200174888",
+  "STATUS": "MATCHED"
+ },
+ "028200174895": {
+  "FULL_NAME_FOUND": "Marlboro Special Select Red 100’s 50c Off",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0028200174895",
+  "STATUS": "MATCHED"
+ },
+ "028200174925": {
+  "FULL_NAME_FOUND": "Marlboro Marl Blk .50 Off",
+  "DESCRIPTION": "Limited to eligible smokers 21+. Regular to menthol. 50c off this pack. Pinch. Release. Enjoy the cool. marlboroblack.com. For special offers marlboroblack.com.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200174925",
+  "STATUS": "MATCHED"
  }
 }

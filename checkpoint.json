@@ -51022,5 +51022,95 @@
   "SIZE": "",
   "EAN": "0028400726382",
   "STATUS": "MATCHED"
+ },
+ "028400726429": {
+  "FULL_NAME_FOUND": "Munchies Salted Peanuts",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "Munchies",
+  "SIZE": "",
+  "EAN": "0028400726429",
+  "STATUS": "MATCHED"
+ },
+ "028400726467": {
+  "FULL_NAME_FOUND": "Sabritas Peanuts, Japanese Style 2.75 Oz",
+  "DESCRIPTION": "Discover all the flavor of your favorite products and know what makes them so irresistible, as always from the Sabritas family.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "Sabritas",
+  "SIZE": "",
+  "EAN": "0028400726467",
+  "STATUS": "MATCHED"
+ },
+ "028400726481": {
+  "FULL_NAME_FOUND": "Sabritas Spicy Flavored Peanuts 2.75 Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "Sabritas",
+  "SIZE": "",
+  "EAN": "0028400726481",
+  "STATUS": "MATCHED"
+ },
+ "028400726504": {
+  "FULL_NAME_FOUND": "Sabritas Salt & Lime Peanuts 2.75 Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "Sabritas",
+  "SIZE": "",
+  "EAN": "0028400726504",
+  "STATUS": "MATCHED"
+ },
+ "028400726580": {
+  "FULL_NAME_FOUND": "Frito Lay Sunflower Seeds Ranch Flavored",
+  "DESCRIPTION": "Includes 1 (1.75oz) bag of Frito-Lay Sunflower Seeds, Ranch flavor. From summer barbecues to family gatherings to time spent relaxing at the end of a long day, Frito-Lay snacks are part of some of life's most memorable moments. And maybe even brightens some of the most mundane. Shelf-Stable. Single-serve Pouch. Contains Milk.",
+  "CATEGORY": "Seeds",
+  "BRAND": "Frito Lay",
+  "SIZE": "",
+  "EAN": "0028400726580",
+  "STATUS": "MATCHED"
+ },
+ "028400726627": {
+  "FULL_NAME_FOUND": "Frito Lay Sunflower Seeds Regular Roasted & Salted",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Seeds",
+  "BRAND": "Frito Lay",
+  "SIZE": "",
+  "EAN": "0028400726627",
+  "STATUS": "MATCHED"
+ },
+ "028400726962": {
+  "FULL_NAME_FOUND": "Ruffles Potato Chips Flamin' Hot Queso Cheese",
+  "DESCRIPTION": "Includes 2 Ruffles Flamin' Hot Queso Cheese flavored chips. Chips that bring snack satisfaction and big taste to any moment. Try pairing with your favorite onion dip for a quick and easy appetizer.",
+  "CATEGORY": "Chips",
+  "BRAND": "Ruffles",
+  "SIZE": "",
+  "EAN": "0028400726962",
+  "STATUS": "MATCHED"
+ },
+ "028400731218": {
+  "FULL_NAME_FOUND": "Cheetos Flamin' Hot Cinnamon Sugar Popcorn LTO – 2oz",
+  "DESCRIPTION": "Flamin' Hot Popcorn Cinnamon Sugar Cheetos snacks are the much-loved cheesy treats that are fun for everyone! You just can’t eat a Cheetos snack without licking the signature “cheetle” off your fingertips. And wherever the Cheetos brand and Chester Cheetah go, cheesy smiles are sure to follow. We bring the delicious taste of Cheetos to a classic snacking favorite - popcorn!",
+  "CATEGORY": "Popcorn",
+  "BRAND": "Cheetos",
+  "SIZE": "",
+  "EAN": "0028400731218",
+  "STATUS": "MATCHED"
+ },
+ "028400731423": {
+  "FULL_NAME_FOUND": "Doritos Corn Snacks, Tangy Fiery Lime, Sticks 3 Oz",
+  "DESCRIPTION": "The DORITOS brand is all about boldness. If you’re up to the challenge, grab a bag of DORITOS tortilla chips and get ready to make some memories you won’t soon forget. It’s a bold experience in snacking and beyond.",
+  "CATEGORY": "Chips",
+  "BRAND": "Doritos",
+  "SIZE": "",
+  "EAN": "0028400731423",
+  "STATUS": "MATCHED"
+ },
+ "028400731447": {
+  "FULL_NAME_FOUND": "Doritos Smoky Chile Queso Dinamita Sticks Corn Snacks",
+  "DESCRIPTION": "The DORITOS brand is all about boldness. If you’re up to the challenge, grab a bag of DORITOS tortilla chips and get ready to make some memories you won’t soon forget. It’s a bold experience in snacking and beyond.",
+  "CATEGORY": "Chips",
+  "BRAND": "Doritos",
+  "SIZE": "",
+  "EAN": "0028400731447",
+  "STATUS": "MATCHED"
  }
 }

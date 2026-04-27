@@ -52426,5 +52426,89 @@
   "SIZE": "",
   "EAN": "0031700045008",
   "STATUS": "MATCHED"
+ },
+ "031700045015": {
+  "FULL_NAME_FOUND": "Game Cigar .79",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Game",
+  "SIZE": "",
+  "EAN": "0031700045015",
+  "STATUS": "MATCHED"
+ },
+ "031700045107": {
+  "STATUS": "UNMATCHED"
+ },
+ "031700048184": {
+  "FULL_NAME_FOUND": "White Owl Cigarillos, Slow Burn, Grape",
+  "DESCRIPTION": "Resealable foil pouch. Since 1887. Since 1887, White Owl has blended select tobaccos to create a smooth and fine tasting smoke. Today, this tradition continues with White Owl FoilFresh. One squeeze of the freshly sealed pouch and you know you're in for a new experience. White Owl FoilFresh. www.whiteowlcigar.com.",
+  "CATEGORY": "Cigars",
+  "BRAND": "White Owl",
+  "SIZE": "",
+  "EAN": "0031700048184",
+  "STATUS": "MATCHED"
+ },
+ "031700048214": {
+  "FULL_NAME_FOUND": "White Owl Strawberry",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "White Owl",
+  "SIZE": "",
+  "EAN": "0031700048214",
+  "STATUS": "MATCHED"
+ },
+ "031700048221": {
+  "FULL_NAME_FOUND": "Game Wht Grp Single",
+  "DESCRIPTION": "Slow burning. Slow, smooth, sweet. Garcia y Vega, fine cigar makers since 1882, brings you Game - the cigar blend born from heritage with a passion for today. Our candela wrapper pays respect to the great age of fine cigar making. Quick curing captures all the essential oils to create a distinctive green wrapper. Slow, smooth and sweet in taste, it's a classic for today. Four palma cigars. Made in the Dominican Republic.",
+  "CATEGORY": "Games",
+  "BRAND": "Game",
+  "SIZE": "",
+  "EAN": "0031700048221",
+  "STATUS": "MATCHED"
+ },
+ "031700048665": {
+  "FULL_NAME_FOUND": "Garcia Vega 1882 Sweet",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0031700048665",
+  "STATUS": "MATCHED"
+ },
+ "031700049075": {
+  "FULL_NAME_FOUND": "Garcia Vega 1882 Honey",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0031700049075",
+  "STATUS": "MATCHED"
+ },
+ "031700049136": {
+  "FULL_NAME_FOUND": "White Owl Cigarillos, Slow Burn, Pineapple",
+  "DESCRIPTION": "2 cigars for 99 cents. Resealable foil pouch. Since 1887. Since 1887, White Owl has blended select tobaccos to create a smooth and fine tasting smoke. Today, this tradition continues with White Owl FoilFresh. One squeeze of the freshly sealed pouch and you know you're in for a new experience. White Owl FoilFresh. www.whiteowlcigar.com.",
+  "CATEGORY": "Cigars",
+  "BRAND": "White Owl",
+  "SIZE": "",
+  "EAN": "0031700049136",
+  "STATUS": "MATCHED"
+ },
+ "031700049174": {
+  "FULL_NAME_FOUND": "Game Cigars, Natural Leaf, Pineapple",
+  "DESCRIPTION": "Resealable pouch. Since 1882. Garcia y Vega, fine cigar makers since 1882, brings you Game - the cigar blend born from heritage with a passion for today. The tropical taste of pineapple enhances our natural leaf cigars delivering a slow smooth, and sweet smoking experience. Garcia y Vega guarantees every cigar. If you are not totally satisfied, return the pouch and cigars with the date and place of purchase for a replacement coupon. Two natural leaf cigarillos. Made in the Dominican Republic.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Game",
+  "SIZE": "",
+  "EAN": "0031700049174",
+  "STATUS": "MATCHED"
+ },
+ "031700049198": {
+  "FULL_NAME_FOUND": "Game Cigarillo Hny 2/.99",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Game",
+  "SIZE": "",
+  "EAN": "0031700049198",
+  "STATUS": "MATCHED"
  }
 }

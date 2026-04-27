@@ -51832,5 +51832,89 @@
   "SIZE": "",
   "EAN": "0030000569368",
   "STATUS": "MATCHED"
+ },
+ "030000573211": {
+  "FULL_NAME_FOUND": "Cap'n Crunch Sweetened Corn & Oat Cereal - 12.6 Ounce",
+  "DESCRIPTION": "Sweet and golden, with a crunch you’ll love, nothing competes with the original Cap’n Crunch. Grab a bowl or cup for an easy snack bursting with the taste of fun that goes great with couch time, anytime. Snag a box and go to town…your mouth will love you for it. Get your crunch on today.",
+  "CATEGORY": "Cereal & Granola",
+  "BRAND": "Cap'n Crunch",
+  "SIZE": "",
+  "EAN": "0030000573211",
+  "STATUS": "MATCHED"
+ },
+ "030000578261": {
+  "FULL_NAME_FOUND": "Quaker Rice Crisps Cheddar",
+  "DESCRIPTION": "Great mornings inspire great days bustling with new possibilities, unknown adventures, and amazing friends. Prepare for all that lies ahead by filling your bowls, bellies, and hearts with the love of a nourishing breakfast from Quaker Oats.",
+  "CATEGORY": "Rice",
+  "BRAND": "Quaker",
+  "SIZE": "",
+  "EAN": "0030000578261",
+  "STATUS": "MATCHED"
+ },
+ "030000578278": {
+  "FULL_NAME_FOUND": "Quaker Sweet & Spicy Chili Rice Crisps 3.03oz",
+  "DESCRIPTION": "Great mornings inspire great days bustling with new possibilities, unknown adventures, and amazing friends. Prepare for all that lies ahead by filling your bowls, bellies, and hearts with the love of a nourishing breakfast from Quaker Oats.",
+  "CATEGORY": "Rice",
+  "BRAND": "Quaker",
+  "SIZE": "",
+  "EAN": "0030000578278",
+  "STATUS": "MATCHED"
+ },
+ "030000578285": {
+  "FULL_NAME_FOUND": "Quaker Rice Crisps Caramel",
+  "DESCRIPTION": "Great mornings inspire great days bustling with new possibilities, unknown adventures, and amazing friends. Prepare for all that lies ahead by filling your bowls, bellies, and hearts with the love of a nourishing breakfast from Quaker Oats.",
+  "CATEGORY": "Rice",
+  "BRAND": "Quaker",
+  "SIZE": "",
+  "EAN": "0030000578285",
+  "STATUS": "MATCHED"
+ },
+ "030000650707": {
+  "FULL_NAME_FOUND": "Pearl Milling Company Aunt Jemima Pancake & Waffle Mix, Original, Complete, Large Size",
+  "DESCRIPTION": "Fluffy pancakes made with Pearl Milling company Complete Pancake & Waffle Mix are perfect for busy mornings. They contain no artificial coloring or flavors and are a good source of calcium and iron. They are so quick and easy to make you can spend less time in the kitchen and more time enjoying breakfast with your family! Families have been starting their day with our easy to prepare mixes for over a century. No matter which you try, you'll get pancakes with a light and fluffy texture every time! Serve with Pearl Milling Company syrup and your favorite fresh fruits for a delicious breakfast the whole family will enjoy.",
+  "CATEGORY": "Waffle & Pancake Mixes",
+  "BRAND": "Pearl Milling Company",
+  "SIZE": "",
+  "EAN": "0030000650707",
+  "STATUS": "MATCHED"
+ },
+ "030000662120": {
+  "FULL_NAME_FOUND": "Cap'n Crunch Peanut Butter Family Size Cereal - 18.8oz",
+  "DESCRIPTION": "Peanut butter lovers, we’ve got the crunch for you! Cap’n Crunch’s Peanut Butter Crunch® is loaded with rich and creamy peanut butter flavor and your favorite unmistakable crunch. Cap'n Crunch is a product line of corn and oat cereals introduced in 1963 and manufactured by the Quaker Oats Company, a division of PepsiCo since 2001.",
+  "CATEGORY": "Cereal & Granola",
+  "BRAND": "Cap'n Crunch",
+  "SIZE": "",
+  "EAN": "0030000662120",
+  "STATUS": "MATCHED"
+ },
+ "030100012597": {
+  "STATUS": "UNMATCHED"
+ },
+ "030100100263": {
+  "FULL_NAME_FOUND": "Keebler Sandies Pecan Shortbread Cookies - 11.3oz",
+  "DESCRIPTION": "These scrumptious Sandies Cookies are crafted right here in the Hollow Tree with a little Elfin ingenuity and a lot of TLC. Each one is create from Ma Keebler’s secret shortbread recipe, with real Madagascar vanilla for a freshly baked, melt-in-your mouth cookie taste. In fact, even Keebler Cookie is Made with Magic, Loved by Families.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Keebler",
+  "SIZE": "",
+  "EAN": "0030100100263",
+  "STATUS": "MATCHED"
+ },
+ "030100113416": {
+  "FULL_NAME_FOUND": "Keebler Snack Size Frosted Animal Crackers",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Keebler",
+  "SIZE": "",
+  "EAN": "0030100113416",
+  "STATUS": "MATCHED"
+ },
+ "030100122791": {
+  "FULL_NAME_FOUND": "Keebler Chips Deluxe Cookies Rainbow 14.5oz",
+  "DESCRIPTION": "Add some sparkle to your snack routine with Keebler Chips Deluxe Cookies with Rainbow M & M's Chocolate Candies. These crispy, crumbly cookies are enhanced with delicious M & M's Chocolate Candies and a touch of Elfin Magic for the perfect level of sweetness to perk you up when its time for a snack. You never know when a challenging day will call for a sweet treat, so carry a couple cookies in your tote for on-the-go snack attacks while commuting, bring a tray in the car for a road trip, or just munch on them from the comfort of your home. Add a few to your kid's lunchbox for a sweet surprise, stash some at work to share with coworkers, or keep them all to yourself-we won't judge! If your favorite snacker is far away, consider adding a tasty tray of Chips Deluxe cookies to care packages or gift boxes. These cookies will be right at home as part of a party spread for game night, birthdays, and other gatherings throughout the year. Take a moment to enjoy the crispy, crunchy, sweet satisfaction of Keebler Chips Deluxe Cookies-they're uncommonly made, and uncommonly good.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Keebler",
+  "SIZE": "",
+  "EAN": "0030100122791",
+  "STATUS": "MATCHED"
  }
 }

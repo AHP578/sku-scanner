@@ -52342,5 +52342,89 @@
  },
  "031700005095": {
   "STATUS": "UNMATCHED"
+ },
+ "031700044100": {
+  "FULL_NAME_FOUND": "White Owl Blunts Xtra Peach",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Peaches & Nectarines",
+  "BRAND": "White Owl",
+  "SIZE": "",
+  "EAN": "0031700044100",
+  "STATUS": "MATCHED"
+ },
+ "031700044223": {
+  "FULL_NAME_FOUND": "Game Cigar, Palma",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Game",
+  "SIZE": "",
+  "EAN": "0031700044223",
+  "STATUS": "MATCHED"
+ },
+ "031700044247": {
+  "FULL_NAME_FOUND": "Game Garcia Y Vega Palma Green Cigars 1",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Game",
+  "SIZE": "",
+  "EAN": "0031700044247",
+  "STATUS": "MATCHED"
+ },
+ "031700044377": {
+  "FULL_NAME_FOUND": "White Owl Cigarillos, Slow Burn, Grape",
+  "DESCRIPTION": "Resealable foil pouch. Since 1887. Since 1887, White Owl has blended select tobaccos to create a smooth and fine tasting smoke. Today, this tradition continues with White Owl FoilFresh. One squeeze of the freshly sealed pouch and you know you're in for a new experience. www.whiteowlcigar.com.",
+  "CATEGORY": "Cigars",
+  "BRAND": "White Owl",
+  "SIZE": "",
+  "EAN": "0031700044377",
+  "STATUS": "MATCHED"
+ },
+ "031700044704": {
+  "FULL_NAME_FOUND": "White Owl Grape",
+  "DESCRIPTION": "Resealable foil pouch. Since 1887. Since 1887, White Owl has blended select tobaccos to create a smooth and fine tasting smoke. Today, this tradition continues with White Owl FoilFresh. One squeeze of the freshly sealed pouch and you know you're in for a new experience. www.whiteowlcigar.com.",
+  "CATEGORY": "Cigars",
+  "BRAND": "White Owl",
+  "SIZE": "",
+  "EAN": "0031700044704",
+  "STATUS": "MATCHED"
+ },
+ "031700044759": {
+  "FULL_NAME_FOUND": "White Owl Cigarillos, Green Sweets",
+  "DESCRIPTION": "2 cigars. 2 slow burn cigarillos. Since 1887. Resealable foil pouch. Slow burn. Since 1887, White Owl has blended select tobaccos to create a smooth and fine tasting smoke. Today, this tradition continues with White Owl FoilFresh. One squeeze of the freshly sealed pouch and you know you're in for a new experience. White Owl FoilFresh. www.whiteowlcigar.com.",
+  "CATEGORY": "Cigars",
+  "BRAND": "White Owl",
+  "SIZE": "",
+  "EAN": "0031700044759",
+  "STATUS": "MATCHED"
+ },
+ "031700044896": {
+  "STATUS": "UNMATCHED"
+ },
+ "031700044988": {
+  "FULL_NAME_FOUND": "Game Cigar Wht Grp .79",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Game",
+  "SIZE": "",
+  "EAN": "0031700044988",
+  "STATUS": "MATCHED"
+ },
+ "031700044995": {
+  "FULL_NAME_FOUND": "Game Cigar Green .79",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Game",
+  "SIZE": "",
+  "EAN": "0031700044995",
+  "STATUS": "MATCHED"
+ },
+ "031700045008": {
+  "FULL_NAME_FOUND": "Game Cigar Grape .79",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Game",
+  "SIZE": "",
+  "EAN": "0031700045008",
+  "STATUS": "MATCHED"
  }
 }

@@ -51112,5 +51112,95 @@
   "SIZE": "",
   "EAN": "0028400731447",
   "STATUS": "MATCHED"
+ },
+ "028400731461": {
+  "FULL_NAME_FOUND": "Doritos Dinamita, Sticks, Hot Honey Mustard Artificially Flavored, Corn Snacks",
+  "DESCRIPTION": "The DORITOS brand is all about boldness. If you’re up to the challenge, grab a bag of DORITOS tortilla chips and get ready to make some memories you won’t soon forget. It’s a bold experience in snacking and beyond.",
+  "CATEGORY": "Mustard",
+  "BRAND": "Doritos",
+  "SIZE": "",
+  "EAN": "0028400731461",
+  "STATUS": "MATCHED"
+ },
+ "028400732345": {
+  "FULL_NAME_FOUND": "Cheetos Crunchy, Buffalo Naturally And Artificially Flavored, Cheese Flavored Snacks",
+  "DESCRIPTION": "CHEETOS snacks are the much-loved cheesy treats that are fun for everyone! You just can’t eat a CHEETOS snack without licking the signature “cheetle” off your fingertips. And wherever the CHEETOS brand and CHESTER CHEETAH go, cheesy smiles are sure to follow.",
+  "CATEGORY": "Snack Foods",
+  "BRAND": "Cheetos",
+  "SIZE": "",
+  "EAN": "0028400732345",
+  "STATUS": "MATCHED"
+ },
+ "028400733243": {
+  "FULL_NAME_FOUND": "Jack Link's Meat Stick, Chili Cheese - 0.92 Ounce",
+  "DESCRIPTION": "How did ancient civilizations fuel themselves to build pyramids or win sword battles? Meat. If it worked for them, Jack Link’s™ Meat Snack can definitely help you power through a late day at work, tackle your honey-do list or fuel a workout.",
+  "CATEGORY": "Cheese",
+  "BRAND": "Jack Link's",
+  "SIZE": "",
+  "EAN": "0028400733243",
+  "STATUS": "MATCHED"
+ },
+ "028400733274": {
+  "FULL_NAME_FOUND": "Jack Link's Sticks Chili Cheese Meat Stick - 1.1oz",
+  "DESCRIPTION": "How did ancient civilizations fuel themselves to build pyramids or win sword battles? Meat. If it worked for them, Jack Link’s Meat Snack can definitely help you power through a late day at work, tackle your honey-do list or fuel a workout.",
+  "CATEGORY": "Meat",
+  "BRAND": "Jack Link's",
+  "SIZE": "",
+  "EAN": "0028400733274",
+  "STATUS": "MATCHED"
+ },
+ "028400734042": {
+  "FULL_NAME_FOUND": "Lay's Potato Chips Sweet & Spicy Honey",
+  "DESCRIPTION": "Wherever celebrations and good times happen, the Lay's brand will be there just as it has been for more than 75 years. With flavors almost as rich as our history, we have a potato chip or crisp flavor guaranteed to bring a smile on your face.",
+  "CATEGORY": "Chips",
+  "BRAND": "Lay's",
+  "SIZE": "",
+  "EAN": "0028400734042",
+  "STATUS": "MATCHED"
+ },
+ "028400734578": {
+  "FULL_NAME_FOUND": "Chester's Fries Ranch Flavored Corn Snacks",
+  "DESCRIPTION": "When CHESTER CHEETAH puts his name on a snack, you can count on a bold and cheesy flavor like you’ve never tasted. CHESTER’S snacks are made with a special blend of real cheese seasoning to give each bite the perfect pop and zing.",
+  "CATEGORY": "Prepared Foods",
+  "BRAND": "Chester's",
+  "SIZE": "",
+  "EAN": "0028400734578",
+  "STATUS": "MATCHED"
+ },
+ "028400737470": {
+  "FULL_NAME_FOUND": "Doritos Corn Snacks, Smoky Chile Queso, Medium 9 Oz",
+  "DESCRIPTION": "DORITOS® isn’t just a chip. It’s fuel for disruption — our flavors ignite adventure and inspire action. With every crunch, we aim to redefine culture and support those who are boldly themselves. Doritos Tortilla Chips deliver a bold snacking experience on their own or when paired with your favorite dip. Are you ready? If so, crunch on.",
+  "CATEGORY": "Chips",
+  "BRAND": "Doritos",
+  "SIZE": "",
+  "EAN": "0028400737470",
+  "STATUS": "MATCHED"
+ },
+ "028400737913": {
+  "FULL_NAME_FOUND": "Lay's Frito-Lay Honey Habanero Kettle Cooked Chips - 8oz",
+  "DESCRIPTION": "Wherever celebrations and good times happen, the Lay's brand will be there just as it has been for more than 75 years. With flavors almost as rich as our history, we have a potato chip or crisp flavor guaranteed to bring a smile on your face.",
+  "CATEGORY": "Chips",
+  "BRAND": "Lay's",
+  "SIZE": "",
+  "EAN": "0028400737913",
+  "STATUS": "MATCHED"
+ },
+ "028400739115": {
+  "FULL_NAME_FOUND": "Lay's Potato Chips, Sweet & Spicy Honey 2.25 Oz",
+  "DESCRIPTION": "Wherever celebrations and good times happen, the Lay's brand will be there just as it has been for more than 75 years. With flavors almost as rich as our history, we have a potato chip or crisp flavor guaranteed to bring a smile on your face.",
+  "CATEGORY": "Chips",
+  "BRAND": "Lay's",
+  "SIZE": "",
+  "EAN": "0028400739115",
+  "STATUS": "MATCHED"
+ },
+ "028400740548": {
+  "FULL_NAME_FOUND": "Lay's Potato Chips, Honey Habanero, Kettle Cooked",
+  "DESCRIPTION": "Wherever celebrations and good times happen, the Lay's brand will be there just as it has been for more than 75 years. With flavors almost as rich as our history, we have a potato chip or crisp flavor guaranteed to bring a smile on your face.",
+  "CATEGORY": "Chips",
+  "BRAND": "Lay's",
+  "SIZE": "",
+  "EAN": "0028400740548",
+  "STATUS": "MATCHED"
  }
 }

@@ -50842,5 +50842,95 @@
   "SIZE": "",
   "EAN": "0028400706070",
   "STATUS": "MATCHED"
+ },
+ "028400706087": {
+  "FULL_NAME_FOUND": "Munchies Honey Roasted, Peanuts",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "Munchies",
+  "SIZE": "",
+  "EAN": "0028400706087",
+  "STATUS": "MATCHED"
+ },
+ "028400706162": {
+  "FULL_NAME_FOUND": "Frito Lay Sunflower Seeds, Ranch Flavored",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Seeds",
+  "BRAND": "Frito Lay",
+  "SIZE": "",
+  "EAN": "0028400706162",
+  "STATUS": "MATCHED"
+ },
+ "028400706179": {
+  "FULL_NAME_FOUND": "Frito Lay Sunflower Seeds, Original, Extra Long",
+  "DESCRIPTION": "From summer barbecues to family gatherings to time spent relaxing at the end of a long day, Frito-Lay snacks are part of some of life's most memorable moments. And maybe even brightens some of the most mundane.",
+  "CATEGORY": "Seeds",
+  "BRAND": "Frito Lay",
+  "SIZE": "",
+  "EAN": "0028400706179",
+  "STATUS": "MATCHED"
+ },
+ "028400707800": {
+  "FULL_NAME_FOUND": "Lay's Potato Chips",
+  "DESCRIPTION": "Wherever celebrations and good times happen, the Lay's brand will be there just as it has been for more than 75 years. With flavors almost as rich as our history, we have a potato chip or crisp flavor guaranteed to bring a smile on your face.",
+  "CATEGORY": "Chips",
+  "BRAND": "Lay's",
+  "SIZE": "",
+  "EAN": "0028400707800",
+  "STATUS": "MATCHED"
+ },
+ "028400712439": {
+  "FULL_NAME_FOUND": "Cheetos Flamin' Hot Flavored, Tangy Chili Fusion, Cheese Flavored Snacks",
+  "DESCRIPTION": "Hot, spicy flavor packed into crunchy, cheesy snacks. CHEETOS® Crunchy FLAMIN’ HOT® Tangy Chili Fusion Cheese Flavored Snacks are full of flavor and made with real cheese. CHEETOS snacks are the much-loved cheesy treats that are fun for everyone! You just can’t eat a CHEETOS snack without licking the signature “cheetle” off your fingertips. And wherever the CHEETOS brand and CHESTER CHEETAH go, cheesy smiles are sure to follow.",
+  "CATEGORY": "Snack Foods",
+  "BRAND": "Cheetos",
+  "SIZE": "",
+  "EAN": "0028400712439",
+  "STATUS": "MATCHED"
+ },
+ "028400712941": {
+  "FULL_NAME_FOUND": "Jack Link's Spicy Sweet Chili Beef Jerky 75g",
+  "DESCRIPTION": "Two legendary brands one epic snack. Slow-smoked beef \"meets\" Doritos spicy sweet chili.",
+  "CATEGORY": "Jerky",
+  "BRAND": "Jack Link's",
+  "SIZE": "",
+  "EAN": "0028400712941",
+  "STATUS": "MATCHED"
+ },
+ "028400712965": {
+  "FULL_NAME_FOUND": "Jack Link's Flamin' Hot Original Beef Jerky 2.65oz Bag",
+  "DESCRIPTION": "Ignite your tastebuds with JACK LINK’S® FLAMIN’ HOT® ORIGINAL beef jerky. This all-new mash-up combines the classic, Jack Link’s Original jerky taste you love with the Flamin’ Hot® heat you can’t get enough of. Watch us TURN UP THE HEAT® on a snacking favorite to give you a fiery kick in every bite. Are you ready for it?",
+  "CATEGORY": "Jerky",
+  "BRAND": "Jack Link's",
+  "SIZE": "",
+  "EAN": "0028400712965",
+  "STATUS": "MATCHED"
+ },
+ "028400712972": {
+  "FULL_NAME_FOUND": "Jack Link's Frito Meat Stick, Spicy Sweet Chili",
+  "DESCRIPTION": "Experience the bold flavor of Jack Link's Doritos Spicy Sweet Chili Meat Stick! This delicious meat stick combines the savory taste of premium beef with the iconic Spicy Sweet Chili flavor of Doritos, creating a unique snack that is perfect for on-the-go enjoyment. Each 0.92 ounce stick is packed with protein, making it an ideal choice for a quick energy boost during your busy day. Whether you are hiking, camping, or simply need a satisfying snack at work, this meat stick is sure to satisfy your cravings.",
+  "CATEGORY": "Meat",
+  "BRAND": "Jack Link's Frito",
+  "SIZE": "",
+  "EAN": "0028400712972",
+  "STATUS": "MATCHED"
+ },
+ "028400713078": {
+  "FULL_NAME_FOUND": "Smartfood Simply, White Cheddar, Popcorn",
+  "DESCRIPTION": "Though our roots date back to 2002, the Simply line sprouted in 2013 from our desire to make snacking simpler than ever—that includes simple choices and simple ingredients. We set out to make picking a snack easy (because who couldn’t use a little more ease these days?) by offering the familiar brands you love and trust without artificial flavors or colors. The result? Not having to figure out something new to snack on when you want the good stuff. All the cheesy tastiness, with 50 calories per cup! No artificial colors or flavors. Talk about smart! Non-GMO A product that has an on-pack third-party certification or an unqualified statement that the product is non-GMO.",
+  "CATEGORY": "Popcorn",
+  "BRAND": "Smartfood",
+  "SIZE": "",
+  "EAN": "0028400713078",
+  "STATUS": "MATCHED"
+ },
+ "028400713092": {
+  "FULL_NAME_FOUND": "Smartfood Simply Popcorn - Sea Salt",
+  "DESCRIPTION": "As America’s favorite popcorn brand, our fresh-tasting, light-textured SMARTFOOD varieties always seem to keep the fun popping. In our book, being smart is always in great taste.",
+  "CATEGORY": "Popcorn",
+  "BRAND": "Smartfood",
+  "SIZE": "",
+  "EAN": "0028400713092",
+  "STATUS": "MATCHED"
  }
 }

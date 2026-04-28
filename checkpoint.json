@@ -53260,5 +53260,71 @@
  },
  "033392444138": {
   "STATUS": "UNMATCHED"
+ },
+ "033392444206": {
+  "STATUS": "UNMATCHED"
+ },
+ "033392444237": {
+  "STATUS": "UNMATCHED"
+ },
+ "033392444244": {
+  "FULL_NAME_FOUND": "Newton Sunflower Seeds 9.00 Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0033392444244",
+  "STATUS": "MATCHED"
+ },
+ "033392444251": {
+  "FULL_NAME_FOUND": "Newton Pumpkin Seeds 7.00 Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0033392444251",
+  "STATUS": "MATCHED"
+ },
+ "033392444268": {
+  "FULL_NAME_FOUND": "Newton Almonds 4.00 Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0033392444268",
+  "STATUS": "MATCHED"
+ },
+ "033392444282": {
+  "STATUS": "UNMATCHED"
+ },
+ "033392444299": {
+  "FULL_NAME_FOUND": "Newton's Naturals Pistachios 4.25 Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0033392444299",
+  "STATUS": "MATCHED"
+ },
+ "033392444305": {
+  "FULL_NAME_FOUND": "Newton's Naturals Mixed Nuts 3.50 Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0033392444305",
+  "STATUS": "MATCHED"
+ },
+ "033392444312": {
+  "STATUS": "UNMATCHED"
+ },
+ "033392444329": {
+  "FULL_NAME_FOUND": "Newton's Naturals Walnuts 4.00 Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0033392444329",
+  "STATUS": "MATCHED"
  }
 }

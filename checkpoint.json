@@ -53194,5 +53194,71 @@
   "SIZE": "",
   "EAN": "0032626077210",
   "STATUS": "MATCHED"
+ },
+ "033200000211": {
+  "FULL_NAME_FOUND": "Arm & Hammer Fresh-N-Natural Household Odor Eliminator Baking Soda 14 Oz",
+  "DESCRIPTION": "El eliminador de olores de Arm & Hammer Fresh-N-Natural es ideal para desodorizar cualquier espacio cerrado. Simplemente coloca uno para detener el olor. Funciona para tu nevera, clóset, debajo del fregadero o incluso en tu coche.",
+  "CATEGORY": "Baking Soda",
+  "BRAND": "Arm & Hammer",
+  "SIZE": "",
+  "EAN": "0033200000211",
+  "STATUS": "MATCHED"
+ },
+ "033200090458": {
+  "FULL_NAME_FOUND": "Arm & Hammer Plus OxiClean Fresh Scent, 25 Loads Liquid Laundry Detergent, 43.75 Fl Oz",
+  "DESCRIPTION": "The only liquid laundry detergent with ARM & HAMMER Freshness is supercharged with OxiClean Stain Fighters for effective stain lifting and whitening. Long lasting fresh scent.",
+  "CATEGORY": "Laundry Detergent",
+  "BRAND": "Arm & Hammer",
+  "SIZE": "",
+  "EAN": "0033200090458",
+  "STATUS": "MATCHED"
+ },
+ "033392444015": {
+  "STATUS": "UNMATCHED"
+ },
+ "033392444039": {
+  "FULL_NAME_FOUND": "Newton's Naturals Nutri Mix 8.00 Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0033392444039",
+  "STATUS": "MATCHED"
+ },
+ "033392444046": {
+  "FULL_NAME_FOUND": "Newton's Naturals Healthy 5.00 Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0033392444046",
+  "STATUS": "MATCHED"
+ },
+ "033392444060": {
+  "STATUS": "UNMATCHED"
+ },
+ "033392444077": {
+  "FULL_NAME_FOUND": "Newton's Naturals Chocolate Peanut Butter Mix 8.00 Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0033392444077",
+  "STATUS": "MATCHED"
+ },
+ "033392444084": {
+  "FULL_NAME_FOUND": "Newton's Naturals Yogurt Mix 8.00 Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0033392444084",
+  "STATUS": "MATCHED"
+ },
+ "033392444107": {
+  "STATUS": "UNMATCHED"
+ },
+ "033392444138": {
+  "STATUS": "UNMATCHED"
  }
 }

@@ -55192,5 +55192,95 @@
   "SIZE": "",
   "EAN": "0035751113044",
   "STATUS": "MATCHED"
+ },
+ "035751113051": {
+  "FULL_NAME_FOUND": "Bon Appetit Muffin Blueberry",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Muffins",
+  "BRAND": "Bon Appetit",
+  "SIZE": "",
+  "EAN": "0035751113051",
+  "STATUS": "MATCHED"
+ },
+ "035751113099": {
+  "FULL_NAME_FOUND": "Bon Appetit Muffin Chocolate Chip",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Chips",
+  "BRAND": "Bon Appetit",
+  "SIZE": "",
+  "EAN": "0035751113099",
+  "STATUS": "MATCHED"
+ },
+ "035751113129": {
+  "FULL_NAME_FOUND": "Bon Appetit Chocolate Muffin",
+  "DESCRIPTION": "Indulge in decadent delight with Bon Appétit Chocolate Muffins! Each pack contains 6 delectable 5oz muffins, perfect for satisfying your sweet cravings. These moist and fluffy treats are infused with rich chocolate flavor, making them a heavenly indulgence for any time of day. Whether enjoyed as a morning pick-me-up or a sweet afternoon snack, Bon Appétit Chocolate Muffins are sure to please your palate with every bite. Treat yourself to a taste of bliss and elevate your snacking experience with these irresistible chocolate delights from Bon Appétit!",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Bon Appetit",
+  "SIZE": "",
+  "EAN": "0035751113129",
+  "STATUS": "MATCHED"
+ },
+ "035751113211": {
+  "FULL_NAME_FOUND": "Bon Appetit Danish Co. Corn Muffin",
+  "DESCRIPTION": "Corn Muffin is manufactured by Bon Appetit Danish Co. with a suggested serving size of 0.5 Muffin | About (78 G) and has 275 calories per serving.",
+  "CATEGORY": "Muffins",
+  "BRAND": "Bon Appetit Danish Co.",
+  "SIZE": "",
+  "EAN": "0035751113211",
+  "STATUS": "MATCHED"
+ },
+ "035751114300": {
+  "FULL_NAME_FOUND": "Bon Appetit Cheese Coffee Cake",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Coffee Cakes",
+  "BRAND": "Bon Appetit",
+  "SIZE": "",
+  "EAN": "0035751114300",
+  "STATUS": "MATCHED"
+ },
+ "035751117035": {
+  "FULL_NAME_FOUND": "Bon Appetit Honey Bun Glaze 5.25 Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Breads & Buns",
+  "BRAND": "Bon Appetit",
+  "SIZE": "",
+  "EAN": "0035751117035",
+  "STATUS": "MATCHED"
+ },
+ "035751117134": {
+  "FULL_NAME_FOUND": "Bon Appetit French Sweetie, Concha De Chocolate",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Bon Appetit",
+  "SIZE": "",
+  "EAN": "0035751117134",
+  "STATUS": "MATCHED"
+ },
+ "035751118056": {
+  "FULL_NAME_FOUND": "Bon Appetit Chocolate Donuts",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Donuts",
+  "BRAND": "Bon Appetit",
+  "SIZE": "",
+  "EAN": "0035751118056",
+  "STATUS": "MATCHED"
+ },
+ "035751118063": {
+  "FULL_NAME_FOUND": "Bon Appetit Powdered Donuts",
+  "DESCRIPTION": "Bon Sole, Bon Appetit, 8-powdered Donuts is manufactured by Bon Appetit Danish Co. with a suggested serving size of 57 Grm (57 G) and has 190 calories per serving.",
+  "CATEGORY": "Donuts",
+  "BRAND": "Bon Appetit",
+  "SIZE": "",
+  "EAN": "0035751118063",
+  "STATUS": "MATCHED"
+ },
+ "035751118148": {
+  "FULL_NAME_FOUND": "Bon Appetit Sole, Gourmet Donuts, Berries & Creme",
+  "DESCRIPTION": "Bon Sole, Bon Appetit, Gourmet Donuts, Berries & Creme is manufactured by Bon Appetit Danish Co. with a suggested serving size of 64 Grm (64 G) and has 210 calories per serving.",
+  "CATEGORY": "Donuts",
+  "BRAND": "Bon Appetit",
+  "SIZE": "",
+  "EAN": "0035751118148",
+  "STATUS": "MATCHED"
  }
 }

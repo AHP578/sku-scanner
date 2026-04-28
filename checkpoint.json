@@ -53326,5 +53326,83 @@
   "SIZE": "",
   "EAN": "0033392444329",
   "STATUS": "MATCHED"
+ },
+ "033392444350": {
+  "FULL_NAME_FOUND": "Newton's Naturals Cashews - Salted 3.25 Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0033392444350",
+  "STATUS": "MATCHED"
+ },
+ "033392444374": {
+  "FULL_NAME_FOUND": "Newton's Naturals Cashews - Raw 3.25 Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0033392444374",
+  "STATUS": "MATCHED"
+ },
+ "033392444398": {
+  "FULL_NAME_FOUND": "Newton's Naturals Peanuts 8.00 Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0033392444398",
+  "STATUS": "MATCHED"
+ },
+ "033392444435": {
+  "STATUS": "UNMATCHED"
+ },
+ "033392444466": {
+  "STATUS": "UNMATCHED"
+ },
+ "034000000166": {
+  "FULL_NAME_FOUND": "BreathSavers Protect Mints, Sugar Free, Peppermint",
+  "DESCRIPTION": "Peppermint BREATH SAVERS Mints neutralize bad breath and help protect teeth. Made with dentist-recommended xylitol, BREATH SAVERS PROTECT Mints reduce the harmful acids in your mouth while also taking care of bad breath leaving you with a cool, fresh feeling. Keep a container of these sugar-free mints in your car, desk, backpack, lunchbox – everywhere you go. Keep a container of BREATH SAVERS PROTECT Mints in your purse, your backpack, or your desk to freshen breath at a moment's noticeBREATH SAVERS PROTECT Mints neutralize bad breath and help protect teethEnjoy cool, long-lasting peppermint flavor that's sugar free.Contains only 5 calories per serving size (1 mint).",
+  "CATEGORY": "Chips",
+  "BRAND": "BreathSavers",
+  "SIZE": "",
+  "EAN": "0034000000166",
+  "STATUS": "MATCHED"
+ },
+ "034000000319": {
+  "FULL_NAME_FOUND": "Mounds Dark Chocolate And Coconut Candy, Gluten Free, 1.75 Oz, Bar",
+  "DESCRIPTION": "Sweet coconut covered in rich, dark chocolate. Delicious doesn't get any simpler than this.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Mounds",
+  "SIZE": "",
+  "EAN": "0034000000319",
+  "STATUS": "MATCHED"
+ },
+ "034000000333": {
+  "FULL_NAME_FOUND": "Reese's Peanut Butter Cups, Milk Chocolate",
+  "DESCRIPTION": "24 count. Peanut butter lovers. Graphic packaging. Recyclable. Please recycle this paperboard box. Questions or comments? www.askhershey.com or 800-468-1714. Visit us at www.reeses.com.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Reese's",
+  "SIZE": "",
+  "EAN": "0034000000333",
+  "STATUS": "MATCHED"
+ },
+ "034000000364": {
+  "FULL_NAME_FOUND": "Reese's Peanut Butter Cups, Milk Chocolate",
+  "DESCRIPTION": "210 calories per pack. Questions or comments? www.askhershey.com or 800-468-1714. Visit us at www.reeses.com.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Reese's",
+  "SIZE": "",
+  "EAN": "0034000000364",
+  "STATUS": "MATCHED"
+ },
+ "034000000425": {
+  "FULL_NAME_FOUND": "Ice Breakers Chews, Sugar Free, Peppermint, Chews",
+  "DESCRIPTION": "Keep your cool with quick-dissolving ICE BREAKERS COOL BLASTS Peppermint Chews. From pockets and backpacks, to date nights and lunch meetings, these portable slide packs of powerful mint chews give you a blast of fresh breath in a flash. Get that refreshed feeling you're looking for, fast. ICE BREAKERS COOL BLASTS Peppermint Chews give you the same icy, cool blast of ICE BREAKERS Mints in half the time. Keep a dispenser in your desk drawer, your car, or even your pocket for fresh breath anytime. A sugar free product.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Ice Breakers",
+  "SIZE": "",
+  "EAN": "0034000000425",
+  "STATUS": "MATCHED"
  }
 }

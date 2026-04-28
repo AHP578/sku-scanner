@@ -55282,5 +55282,89 @@
   "SIZE": "",
   "EAN": "0035751118148",
   "STATUS": "MATCHED"
+ },
+ "035751118162": {
+  "STATUS": "UNMATCHED"
+ },
+ "035751118179": {
+  "FULL_NAME_FOUND": "Calories Of POWDERED DONUTS, UPC: 035751118179",
+  "DESCRIPTION": "Powdered Donuts is manufactured by Other with a suggested serving size of 79 Grm (79 G) and has 280 calories per serving.",
+  "CATEGORY": "Donuts",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0035751118179",
+  "STATUS": "MATCHED"
+ },
+ "035751118193": {
+  "FULL_NAME_FOUND": "Bon Appetit Danish Co. Berries & Creme The Gourmet Donut",
+  "DESCRIPTION": "Berries & Creme The Gourmet Donut is manufactured by Bon Appetit Danish Co. with a suggested serving size of 102 Grm (102 G) and has 340 calories per serving.",
+  "CATEGORY": "Donuts",
+  "BRAND": "Bon Appetit Danish Co.",
+  "SIZE": "",
+  "EAN": "0035751118193",
+  "STATUS": "MATCHED"
+ },
+ "035751318166": {
+  "FULL_NAME_FOUND": "Bon Appetito Cookie Raisin 4.25 Oz",
+  "DESCRIPTION": "Raisin Cookie is manufactured by Other with a suggested serving size of 0.5 Pastry | About (60 G) and has 220 calories per serving.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Bon Appetito",
+  "SIZE": "",
+  "EAN": "0035751318166",
+  "STATUS": "MATCHED"
+ },
+ "036000119756": {
+  "FULL_NAME_FOUND": "Kleenex Kimberly-clark Corp 11975 White Facial Tissue",
+  "DESCRIPTION": "Kleenex Pocket Pack Facial Tissues are the perfect solution for on-the-go convenience. Each pack contains 10 soft, absorbent tissues that are ideal for everyday use, whether you are at home, in the office, or traveling. These tissues are designed to provide comfort and cleanliness, making them a must-have for your purse, backpack, or car.",
+  "CATEGORY": "Facial Tissues",
+  "BRAND": "Kleenex",
+  "SIZE": "",
+  "EAN": "0036000119756",
+  "STATUS": "MATCHED"
+ },
+ "036000123234": {
+  "FULL_NAME_FOUND": "Kleenex Tissues, White, Rainfall Blue, 3 Ply",
+  "DESCRIPTION": "Kleenex Pocket Pack Facial Tissue offers convenient, portable softness for on-the-go care. Each 10-count package fits easily in your pocket or bag, making it perfect for travel, work, or everyday use. Designed with gentle, reliable quality you can trust, these tissues provide comfort when you need it most. Compact and practical, they're an essential addition to your purse, desk, or car.",
+  "CATEGORY": "Facial Tissues",
+  "BRAND": "Kleenex",
+  "SIZE": "",
+  "EAN": "0036000123234",
+  "STATUS": "MATCHED"
+ },
+ "036000258240": {
+  "FULL_NAME_FOUND": "Kleenex Ultra Soft Facial Tissue 3-Ply White 65 Sh",
+  "DESCRIPTION": "One soft tissue is all it takes to show you care. Reach for gentle, indulgently soft Kleenex Ultra Soft Tissues for a friend, a stranger or yourself. With the perfect balance of softness and strength, Kleenex facial tissues are durable with 3-ply thickness, delivering a strong facial tissue to lock in moisture. Strong & soothing facial tissues are perfect for makeup smudges, sniffles and sneezes, children’s messy faces and more. Just use and toss.",
+  "CATEGORY": "Facial Tissues",
+  "BRAND": "Kleenex",
+  "SIZE": "",
+  "EAN": "0036000258240",
+  "STATUS": "MATCHED"
+ },
+ "036000258363": {
+  "FULL_NAME_FOUND": "Kleenex Facial Tissue Anti-Viral 68CT Box",
+  "DESCRIPTION": "Don't let the your sniffles turn into the next office cold. Keep some Boutique 3-ply Antiviral facial tissues within arm's reach and prevent your germs from making their way to someone else's desk. Kleenex facial tissue can also help you clean your glasses, wipe down your computer screen and more. Boutique Antiviral 3-ply facial tissue supplies extra softness. Plus, the specially treated middle layer helps stop cold and flu viruses in the tissue. Kleenex Antiviral tissue boxes are available in a variety of color designs to accent different environments. Includes a box of 68 tissues.",
+  "CATEGORY": "Facial Tissues",
+  "BRAND": "Kleenex",
+  "SIZE": "",
+  "EAN": "0036000258363",
+  "STATUS": "MATCHED"
+ },
+ "036000318036": {
+  "FULL_NAME_FOUND": "Huggies Natural Care, Wipes, With 99% Purified Water, Plant-Based, Sensitive & Fragrance Free, Disney Baby",
+  "DESCRIPTION": "Crafted with your baby's delicate skin in mind, these wipes are both gentle and effective for everyday use. Each sheet is infused with natural ingredients, providing a safe and soothing experience with every wipe. Free from harsh chemicals and fragrances, this 56-count pack ensures peace of mind for parents who prioritize purity and care in their baby products.",
+  "CATEGORY": "Baby Wipes",
+  "BRAND": "Huggies",
+  "SIZE": "",
+  "EAN": "0036000318036",
+  "STATUS": "MATCHED"
+ },
+ "036000318111": {
+  "FULL_NAME_FOUND": "Huggies Natural Care Sensitive Baby Wipes Nursery Tub Fragrance Free",
+  "DESCRIPTION": "HUGGIES Natural Care Baby Wipesare perfect for any baby. Hypoallergenic, fragrance-free and made with soothing aloe, Huggies Wipes 64ct make cleaning your baby a breeze. If you're sensitive to perfume odors then these wipes are ideal for you. Use Huggies Fragrance Free Wipes at home or on the go, in the car, on a plane. Keep them handy in your daiper bag for quick changes. Huggies Natural Care Wipes are thick enough to withstand your toughest diaper duty, and they're alcohol free. Huggies Fragrance Free Wipes can also be used for your big kids too, after pizza dinner or soccer practice. There's a reason why these wipes are so popular.",
+  "CATEGORY": "Baby & Toddler Diaper Covers",
+  "BRAND": "Huggies",
+  "SIZE": "",
+  "EAN": "0036000318111",
+  "STATUS": "MATCHED"
  }
 }

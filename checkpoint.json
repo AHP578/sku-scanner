@@ -52864,5 +52864,83 @@
   "SIZE": "",
   "EAN": "0031700051023",
   "STATUS": "MATCHED"
+ },
+ "031700054147": {
+  "STATUS": "UNMATCHED"
+ },
+ "031700054253": {
+  "FULL_NAME_FOUND": "Game Cigar Berry Blast 2/.99",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Game",
+  "SIZE": "",
+  "EAN": "0031700054253",
+  "STATUS": "MATCHED"
+ },
+ "031700054383": {
+  "FULL_NAME_FOUND": "White Owl Straw Kiwi Swirl",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "White Owl",
+  "SIZE": "",
+  "EAN": "0031700054383",
+  "STATUS": "MATCHED"
+ },
+ "031700054406": {
+  "FULL_NAME_FOUND": "Night Owl Cigarillo Rasp 2/.99",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Night Owl",
+  "SIZE": "",
+  "EAN": "0031700054406",
+  "STATUS": "MATCHED"
+ },
+ "031700054444": {
+  "FULL_NAME_FOUND": "Game Blue Raspberry 2pk .99",
+  "DESCRIPTION": "Limited edition. 2 cigars for $0.99. Garcia y Vega. Since 1882. Sale only allowed in the United States. 100% imported tobacco. gamecigars.com. Game Strawberry Colada coming soon. Limited edition. Resealable pouch. Made in the Dominican Republic.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Game",
+  "SIZE": "",
+  "EAN": "0031700054444",
+  "STATUS": "MATCHED"
+ },
+ "031700054529": {
+  "FULL_NAME_FOUND": "White Owl Wo 2/99 Emerald Cigarillo",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "White Owl",
+  "SIZE": "",
+  "EAN": "0031700054529",
+  "STATUS": "MATCHED"
+ },
+ "031700055069": {
+  "STATUS": "UNMATCHED"
+ },
+ "031700055083": {
+  "FULL_NAME_FOUND": "Game Leaf Natural - 4 Cigars",
+  "DESCRIPTION": "One of the best-selling brands of machine cigars in the United States since 1882, Garcia y Vega is back in the saddle with their newest entry, the Game Leaf. Adding some spaghetti western flair to their impeccable lineup, these rustic looking Clint Eastwood style cheroots, paint the town red with awesome flavors.",
+  "CATEGORY": "Cactus Leaves",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0031700055083",
+  "STATUS": "MATCHED"
+ },
+ "031700055144": {
+  "FULL_NAME_FOUND": "Game Leaf Natural 2pk 1.29",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Game",
+  "SIZE": "",
+  "EAN": "0031700055144",
+  "STATUS": "MATCHED"
+ },
+ "031700055458": {
+  "FULL_NAME_FOUND": "Game So2 Diamond Cigarillo Foilfresh",
+  "DESCRIPTION": "Natural. Natural leaf cigars. Resealable pouch. Save on 2 cigars. Since 1882. Garcia y Vega, fine cigar makers since 1882, brings you Game - The cigar blend born from heritage with a passion for today. Aged aromatic tobacco combined with our natural leaf wrapper make a winning pair - slow and smooth for a sophisticated smoking experience. Garcia y Vega guarantees every cigar. If you are not totally satisfied, return the pouch and cigars with the date and place of purchase for a replacement coupon. Two natural leaf cigarillos. Made in the Dominican Republic.",
+  "CATEGORY": "Games",
+  "BRAND": "Game",
+  "SIZE": "",
+  "EAN": "0031700055458",
+  "STATUS": "MATCHED"
  }
 }

@@ -55636,5 +55636,89 @@
   "SIZE": "",
   "EAN": "0036632008343",
   "STATUS": "MATCHED"
+ },
+ "036632008350": {
+  "FULL_NAME_FOUND": "Oikos Triple Zero Mixed Berry Protein Nonfat Greek Yogurt Cup",
+  "DESCRIPTION": "Oikos Organic Triple Zero Mixed Berry Nonfat Greek Yogurt, 5.3 Ounce -- 12 per case. Blended greek yogurt, 15 grams of protein, 0 perecent fat, 0 perecent added sugar, 0 perecent artificial sweeteners.",
+  "CATEGORY": "Yogurt",
+  "BRAND": "Oikos",
+  "SIZE": "",
+  "EAN": "0036632008350",
+  "STATUS": "MATCHED"
+ },
+ "036632008367": {
+  "FULL_NAME_FOUND": "Oikos Triple Zero Strawberry Blended Greek Nonfat Yogurt, 5.3 Ounce",
+  "DESCRIPTION": "Yogurt griego Oikos Triple Zero sabor fresa. Ideal para un snack saludable, con textura cremosa y sin azúcares añadidos.",
+  "CATEGORY": "Yogurt",
+  "BRAND": "Oikos",
+  "SIZE": "",
+  "EAN": "0036632008367",
+  "STATUS": "MATCHED"
+ },
+ "036632078230": {
+  "FULL_NAME_FOUND": "International Delight Vanilla Iced Coffee 15 Fl Oz",
+  "DESCRIPTION": "A refreshing way to start your day. Coffee shop goodness without the coffee shop prices. Enjoy at home or on-the-go. Full-flavored deliciousness from start to finish.",
+  "CATEGORY": "Coffee",
+  "BRAND": "International Delight",
+  "SIZE": "444 mL",
+  "EAN": "0036632078230",
+  "STATUS": "MATCHED"
+ },
+ "037000003106": {
+  "FULL_NAME_FOUND": "Crest Fluoride Anticavity Toothpaste Cavity Protection, Regular Paste, 8.2 Oz",
+  "DESCRIPTION": "Help stop cavities before they start. Crest Cavity Protection Toothpaste gives you a cavity treatment that helps take care of your mouth by protecting your teeth and exposed roots. Regular brushing can help protect your teeth and strengthen weak spots to help fight cavities. Plus it ll leave your breath feeling fresh.",
+  "CATEGORY": "Toothpaste",
+  "BRAND": "Crest",
+  "SIZE": "",
+  "EAN": "0037000003106",
+  "STATUS": "MATCHED"
+ },
+ "037000004714": {
+  "FULL_NAME_FOUND": "Tide Liquid Laundry Detergent, Original Scent, 10 Oz Bottle",
+  "DESCRIPTION": "Outstanding cleaning and stain removal. Contains more cleaning ingredients, less water. A low-sudsing detergent that provides great cleaning performance in high efficiency machines.",
+  "CATEGORY": "Laundry Detergent",
+  "BRAND": "Tide",
+  "SIZE": "",
+  "EAN": "0037000004714",
+  "STATUS": "MATCHED"
+ },
+ "037000097372": {
+  "STATUS": "UNMATCHED"
+ },
+ "037000106135": {
+  "FULL_NAME_FOUND": "Downy Ultra April Fresh Liquid Fabric Softener, 23 Loads, 19 Fl Oz",
+  "DESCRIPTION": "Bring your laundry to life with Downy Ultra April Fresh Fabric Softener. This classic scent is infused with floral and fruity notes that leave your clothes smelling wonderfully clean and feeling incredibly soft. Designed to reduce static, prevent stretching and fading, and make ironing easier, this 19 fl oz bottle treats up to 23 loads. Whether you're freshening sheets or softening everyday wear, Downy delivers long-lasting freshness and comfort with every wash.",
+  "CATEGORY": "Fabric Softeners & Dryer Sheets",
+  "BRAND": "Downy",
+  "SIZE": "",
+  "EAN": "0037000106135",
+  "STATUS": "MATCHED"
+ },
+ "037000124306": {
+  "FULL_NAME_FOUND": "Secret Antiperspirant/Deodorant, Spring Breeze, Invisible Solid",
+  "DESCRIPTION": "Our original, tried-and-trusted formula for odor and wetness protection. PH-balanced to work with your body's natural chemistry. Capture the soft scent of a spring morning any time of year with this Spring Breeze scent. Secret Original Spring Breeze Women's Invisible Solid Antiperspirant/Deodorant.",
+  "CATEGORY": "Deodorant",
+  "BRAND": "Secret",
+  "SIZE": "",
+  "EAN": "0037000124306",
+  "STATUS": "MATCHED"
+ },
+ "037000185031": {
+  "FULL_NAME_FOUND": "Pringles Grab And Go! Potato Crisps, Pizza",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Chips",
+  "BRAND": "Pringles",
+  "SIZE": "",
+  "EAN": "0037000185031",
+  "STATUS": "MATCHED"
+ },
+ "037000230045": {
+  "FULL_NAME_FOUND": "Pringles Sour Cream & Onion Potato Crisps",
+  "DESCRIPTION": "Pringles isn’t just a snack. It’s a way of life. Kick convention to the curb, and embrace your playful spirit.",
+  "CATEGORY": "Pretzels",
+  "BRAND": "Pringles",
+  "SIZE": "",
+  "EAN": "0037000230045",
+  "STATUS": "MATCHED"
  }
 }

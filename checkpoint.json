@@ -60514,5 +60514,95 @@
   "SIZE": "",
   "EAN": "0041500745107",
   "STATUS": "MATCHED"
+ },
+ "041500770734": {
+  "FULL_NAME_FOUND": "Frank's RedHot Chili 'n Lime Hot Sauce 12 Fl Oz",
+  "DESCRIPTION": "Frank's RedHot Chile 'n Lime Hot Sauce is a party-hearty surge of flavor. A heat wave of chile and spice blended with a tangy burst of citrus, it's a match made in hot sauce heaven!",
+  "CATEGORY": "Hot Sauce",
+  "BRAND": "Frank's RedHot",
+  "SIZE": "",
+  "EAN": "0041500770734",
+  "STATUS": "MATCHED"
+ },
+ "041508922487": {
+  "FULL_NAME_FOUND": "Acqua Panna Spring Water, Natural, Tuscany 33.8 Fl Oz",
+  "DESCRIPTION": "Acqua Panna Tuscany Natural Spring Water is a bottled water sourced from the hills of Tuscany. It's known for its smooth taste and is available in a convenient PET bottle for on-the-go hydration.",
+  "CATEGORY": "Spring Water",
+  "BRAND": "Acqua Panna",
+  "SIZE": "1000 mL",
+  "EAN": "0041508922487",
+  "STATUS": "MATCHED"
+ },
+ "041525013007": {
+  "FULL_NAME_FOUND": "Pine Mountain 4152501301 3 Hour Fire Log",
+  "DESCRIPTION": "Experience the warmth and comfort of a cozy fire with the Pine Mountain Traditional 3-Hour Fire Log. Designed for easy lighting and a long-lasting burn, this fire log is perfect for your fireplace or outdoor campfire. Crafted from natural and renewable ingredients, it provides a cleaner and greener alternative to traditional firewood, allowing you to enjoy your fire without the guilt of excess emissions. With its innovative technology, this fire log ensures a robust flame that lasts for hours, making it an ideal choice for gatherings or quiet evenings at home.",
+  "CATEGORY": "Kitchen & Dining",
+  "BRAND": "Pine Mountain",
+  "SIZE": "",
+  "EAN": "0041525013007",
+  "STATUS": "MATCHED"
+ },
+ "041540303763": {
+  "FULL_NAME_FOUND": "Paper Mate Mechanical Pencils 0.7 Mm Pack 5",
+  "DESCRIPTION": "Sharpwriter is an easy-to-use, non-refillable pencil. The shock-absorbing tip reduces lead breakage. The simple twisting action advances and retracts lead.",
+  "CATEGORY": "Mechanical Pencils",
+  "BRAND": "Paper Mate",
+  "SIZE": "",
+  "EAN": "0041540303763",
+  "STATUS": "MATCHED"
+ },
+ "041548000022": {
+  "FULL_NAME_FOUND": "Oreo Frozen Dairy Dessert, Mint 14 Fl Oz",
+  "DESCRIPTION": "Indulge in the cool and creamy taste of Oreo Chocolate Mint Frozen Treat! This 14oz pint offers a refreshing blend of rich chocolate and mint flavors, filled with real Oreo cookie pieces for an extra crunch. Kosher and fish-free, this treat is perfect for those with dietary preferences. Packaged in a convenient, recyclable cardboard tub, itâs ideal for satisfying your sweet tooth or sharing with friends. Try the new, improved recipe for an irresistible dessert experience that combines the iconic taste of Oreo with a refreshing minty twist!",
+  "CATEGORY": "Frozen Desserts & Novelties",
+  "BRAND": "Oreo",
+  "SIZE": "",
+  "EAN": "0041548000022",
+  "STATUS": "MATCHED"
+ },
+ "041548308388": {
+  "FULL_NAME_FOUND": "Oreo Frozen Dairy Dessert",
+  "DESCRIPTION": "Enjoy America's favorite cookie as a tasty frozen treat. Creme-flavored frozen dairy dessert is packed with Oreo cookie pieces to deliver the iconic Oreo taste in every delicious bite. It's a cool new way to enjoy Oreo!",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "Oreo",
+  "SIZE": "",
+  "EAN": "0041548308388",
+  "STATUS": "MATCHED"
+ },
+ "041548563909": {
+  "FULL_NAME_FOUND": "Outshine Nestle Fruit Ice Bar, Strawberry",
+  "DESCRIPTION": "Outshine Strawberry Frozen Fruit Bars are a refreshing frozen snack bursting with delicious strawberry flavor. Made with real fruit, these gluten free fruit bars are a good source of Vitamin C for a great tasting snack. This fat free frozen snack is made with no GMO ingredients and has no artificial colors, flavors or sweeteners and no high fructose corn syrup. Enjoy these wholesome Outshine bars any time of day, whether you want a feel-good strawberry snack or need a little afternoon pick-me-up. Outshine proudly offers refreshingly delicious frozen fruit bars for a snack that helps you shine brighter.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "Outshine",
+  "SIZE": "",
+  "EAN": "0041548563909",
+  "STATUS": "MATCHED"
+ },
+ "041548825533": {
+  "FULL_NAME_FOUND": "Crunch Dibs Frozen Dairy Dessert, 4 Fl Oz",
+  "DESCRIPTION": "Bites of crispy, chocolatey coating filled with creamy vanilla. Small enough to munch a bunch.Nestle Treats have always been a fan favorite at movie theaters and ice cream trucks, and they’re sure to be a family favorite in your home freezer as well. With a variety of satisfying frozen desserts to choose from, there’s a Nestle Treat that will take you back to simpler times and deliver satisfaction to any sweet tooth.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "Crunch",
+  "SIZE": "",
+  "EAN": "0041548825533",
+  "STATUS": "MATCHED"
+ },
+ "041548898469": {
+  "FULL_NAME_FOUND": "Kitkat Ice Cream, Light, Chocolate 14 Fl Oz",
+  "DESCRIPTION": "Chocolate light ice cream with a wafer swirl and Kit Kat candy pieces. Natural & artificial flavors added.",
+  "CATEGORY": "Frozen Desserts & Novelties",
+  "BRAND": "Kitkat",
+  "SIZE": "",
+  "EAN": "0041548898469",
+  "STATUS": "MATCHED"
+ },
+ "041570051795": {
+  "FULL_NAME_FOUND": "Blue Diamond Smokehouse Almonds, 1.5 Ounce Tube",
+  "DESCRIPTION": "Say the phrase Blue Diamond and many people think Smokehouse. First introduced in 1958 our signature Smokehouse Almonds are among our top sellers. One taste will tell you why they ll never go out of style.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "Blue Diamond",
+  "SIZE": "",
+  "EAN": "0041570051795",
+  "STATUS": "MATCHED"
  }
 }

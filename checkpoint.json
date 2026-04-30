@@ -60358,5 +60358,71 @@
   "SIZE": "",
   "EAN": "0041433023631",
   "STATUS": "MATCHED"
+ },
+ "041433024102": {
+  "FULL_NAME_FOUND": "Market Sandwich Smoked White Turkey & Cheddar Sub, Artisan Style",
+  "DESCRIPTION": "Smoked white turkey & cheddar sub on a rustic oat topped roll. 35 g protein; 430 calories. Contains a bioengineered food ingredient. Inspected for Wholesomeness by U.S. Department of Agriculture. www.marketsandwich.com.",
+  "CATEGORY": "White Coats",
+  "BRAND": "Market Sandwich",
+  "SIZE": "",
+  "EAN": "0041433024102",
+  "STATUS": "MATCHED"
+ },
+ "041433024119": {
+  "FULL_NAME_FOUND": "Market Sandwich Italian Style Sub",
+  "DESCRIPTION": "Italian Style Sub with spicy ham, provolone cheese, cotto salami & pepperoni on a Parmesan & herb roll. 30 g protein; 590 calories. Contains a bioengineered food ingredient. U.S. inspected and passed by Department of Agriculture. www.marketsandwich.com.",
+  "CATEGORY": "Sandwich Makers",
+  "BRAND": "Market Sandwich",
+  "SIZE": "",
+  "EAN": "0041433024119",
+  "STATUS": "MATCHED"
+ },
+ "041433024171": {
+  "FULL_NAME_FOUND": "Market Sandwich Italian Style Wrap",
+  "DESCRIPTION": "Salami, spicy ham, provolone, pepperoni & Italian sauce on a sun dried tomato and flour tortilla. 26 g protein. 740 calories. US inspected and passed by Department of Agriculture.",
+  "CATEGORY": "Tortillas & Wraps",
+  "BRAND": "Market Sandwich",
+  "SIZE": "",
+  "EAN": "0041433024171",
+  "STATUS": "MATCHED"
+ },
+ "041433024225": {
+  "FULL_NAME_FOUND": "Market Sandwich Smoked Ham & Swiss Cheese, Artisan Style",
+  "DESCRIPTION": "Smoke ham & Swiss cheese on rustic oat topped wheat bread. 33 g protein; 520 calories. Contains a bioegineered food ingredient. Inspected for Wholesomeness by U.S. Department of Agriculture. www.marketsandwich.com.",
+  "CATEGORY": "Cheese",
+  "BRAND": "Market Sandwich",
+  "SIZE": "",
+  "EAN": "0041433024225",
+  "STATUS": "MATCHED"
+ },
+ "041433024430": {
+  "STATUS": "UNMATCHED"
+ },
+ "041433024607": {
+  "STATUS": "UNMATCHED"
+ },
+ "041433024614": {
+  "STATUS": "UNMATCHED"
+ },
+ "041433026410": {
+  "STATUS": "UNMATCHED"
+ },
+ "041433026700": {
+  "FULL_NAME_FOUND": "Market Sandwich Mega Cranberry Almond Chicken Salad 7.8 Oz",
+  "DESCRIPTION": "Mega cranberry almond chicken salad with white meat chicken on stone ground wheat bread. 25 g protein; 580 calories. Contains a bioengineered food ingredient. Inspected for Wholesomeness by U.S. Department of Agriculture.",
+  "CATEGORY": "Salad Toppings",
+  "BRAND": "Market Sandwich",
+  "SIZE": "",
+  "EAN": "0041433026700",
+  "STATUS": "MATCHED"
+ },
+ "041433026946": {
+  "FULL_NAME_FOUND": "Market Sandwich Wrap, Buffalo Style Chicken 8.6 Oz",
+  "DESCRIPTION": "Grilled white meat chicken, provolone cheese & buffalo sauce on a chipotle and flour tortilla. 530 calories. 32 g protein. Contains a bioengineered food ingredient. Inspected for wholesomeness by U.S. Department of Agriculture. www.marketsandwich.com.",
+  "CATEGORY": "Meat",
+  "BRAND": "Market Sandwich",
+  "SIZE": "",
+  "EAN": "0041433026946",
+  "STATUS": "MATCHED"
  }
 }

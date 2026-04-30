@@ -60424,5 +60424,95 @@
   "SIZE": "",
   "EAN": "0041433026946",
   "STATUS": "MATCHED"
+ },
+ "041433028131": {
+  "FULL_NAME_FOUND": "Market Sandwich Everything Bagel",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Bagels",
+  "BRAND": "Market Sandwich",
+  "SIZE": "",
+  "EAN": "0041433028131",
+  "STATUS": "MATCHED"
+ },
+ "041433029923": {
+  "FULL_NAME_FOUND": "Market Sandwich Slider Ham & Swiss",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Sand",
+  "BRAND": "Market Sandwich",
+  "SIZE": "",
+  "EAN": "0041433029923",
+  "STATUS": "MATCHED"
+ },
+ "041433029985": {
+  "FULL_NAME_FOUND": "Market Sandwich Turkey Sausage Egg Focaccia",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Egg Incubators",
+  "BRAND": "Market Sandwich",
+  "SIZE": "",
+  "EAN": "0041433029985",
+  "STATUS": "MATCHED"
+ },
+ "041433029992": {
+  "FULL_NAME_FOUND": "Deli Express Market Sandwich Omelet W/Ham Cheese",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cheese",
+  "BRAND": "Deli Express",
+  "SIZE": "",
+  "EAN": "0041433029992",
+  "STATUS": "MATCHED"
+ },
+ "041433030011": {
+  "FULL_NAME_FOUND": "Market Sandwich Egg Cheese And Green Salsa Ciabatta",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Salsa",
+  "BRAND": "Market Sandwich",
+  "SIZE": "",
+  "EAN": "0041433030011",
+  "STATUS": "MATCHED"
+ },
+ "041433030158": {
+  "FULL_NAME_FOUND": "Deli Express Sandwich Turkey & Cheddar",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Sand",
+  "BRAND": "Deli Express",
+  "SIZE": "",
+  "EAN": "0041433030158",
+  "STATUS": "MATCHED"
+ },
+ "041433030189": {
+  "FULL_NAME_FOUND": "Market Sandwich Pesto Chicken",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Snack Foods",
+  "BRAND": "Market Sandwich",
+  "SIZE": "",
+  "EAN": "0041433030189",
+  "STATUS": "MATCHED"
+ },
+ "041500000312": {
+  "FULL_NAME_FOUND": "French's Classic Yellow Mustard - 20 Ounce",
+  "DESCRIPTION": "Mustard French's Classic Yellow Squeeze - 20 oz. America's No.1 Brand of mustard and it makes your food great.",
+  "CATEGORY": "Mustard",
+  "BRAND": "French's",
+  "SIZE": "",
+  "EAN": "0041500000312",
+  "STATUS": "MATCHED"
+ },
+ "041500007007": {
+  "FULL_NAME_FOUND": "French's S Classic Yellow Squeeze Bottle Mustard 8 Oz",
+  "DESCRIPTION": "French's is the perfect, all natural way to add zing to tried and true family favorites. No matter what the occasion, French's Mustard brightens the moment with every bite. Since its introduction at the 1904 World's Fair in St Louis, Missouri, French's Mustard has been enhancing the flavor of classic American meals for generations.",
+  "CATEGORY": "Mustard",
+  "BRAND": "French's",
+  "SIZE": "",
+  "EAN": "0041500007007",
+  "STATUS": "MATCHED"
+ },
+ "041500745107": {
+  "FULL_NAME_FOUND": "Frank's RedHot Red Hot Wings Sauce, Buffalo 12 Fl Oz",
+  "DESCRIPTION": "Kick it up a notch with Buffalo Wing Sauce. The possibilities are endless in the kitchen when you're armed with hot sauce this good. Shake it over chicken wings, chicken sandwiches, nachos, chicken salad, burgers, and even French fries to bring the heat level straight to Buffalo Hot.",
+  "CATEGORY": "Condiments & Sauces",
+  "BRAND": "Frank's RedHot",
+  "SIZE": "",
+  "EAN": "0041500745107",
+  "STATUS": "MATCHED"
  }
 }

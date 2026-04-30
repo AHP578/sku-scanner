@@ -59818,5 +59818,95 @@
   "SIZE": "",
   "EAN": "0041364087924",
   "STATUS": "MATCHED"
+ },
+ "041376101021": {
+  "FULL_NAME_FOUND": "Frankford Candy LLC Jelly Beans",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Frankford Candy LLC",
+  "SIZE": "",
+  "EAN": "0041376101021",
+  "STATUS": "MATCHED"
+ },
+ "041376101090": {
+  "FULL_NAME_FOUND": "Frankford Welch's Jelly Beans - 5 Fl",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Frankford",
+  "SIZE": "",
+  "EAN": "0041376101090",
+  "STATUS": "MATCHED"
+ },
+ "041376103483": {
+  "FULL_NAME_FOUND": "3d Gummies",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0041376103483",
+  "STATUS": "MATCHED"
+ },
+ "041387412154": {
+  "FULL_NAME_FOUND": "4C Seasoned Bread Crumbs 425g",
+  "DESCRIPTION": "Bread crumbs are made with 100% pecorino romano cheese. Adds gourmet flavor and continental zest to so many dishes. No MSG. Meatballs, stuffings, chicken, cutlets, casseroles, vegetables, seafood.",
+  "CATEGORY": "Breads & Buns",
+  "BRAND": "4C",
+  "SIZE": "",
+  "EAN": "0041387412154",
+  "STATUS": "MATCHED"
+ },
+ "041387612158": {
+  "FULL_NAME_FOUND": "4C Plain Bread Crumbs 425g",
+  "DESCRIPTION": "Plain bread crumbs are fresh and even textured, perfect for favorite dishes. Meat balls, stuffings, chicken, cutlets, casseroles, vegetables, seafood.",
+  "CATEGORY": "Breads & Buns",
+  "BRAND": "4C",
+  "SIZE": "",
+  "EAN": "0041387612158",
+  "STATUS": "MATCHED"
+ },
+ "041388220215": {
+  "FULL_NAME_FOUND": "Blistex Lip Protectant/Sunscreen, Medicated, Berry Balm, SPF 15",
+  "DESCRIPTION": "Medicated berry flavored lip balm. With SPF 15 protection. Soothes & prevents dry lips.",
+  "CATEGORY": "Health & Beauty",
+  "BRAND": "Blistex",
+  "SIZE": "",
+  "EAN": "0041388220215",
+  "STATUS": "MATCHED"
+ },
+ "041388220314": {
+  "FULL_NAME_FOUND": "Blistex Lip Protectant/Sunscreen Medicated Mint Balm SPF 15",
+  "DESCRIPTION": "Blistemint lip balm helps prevent dryness and chapping. Its easy glide formula also soothes irritated lips.",
+  "CATEGORY": "Lip Balms & Treatments",
+  "BRAND": "Blistex",
+  "SIZE": "",
+  "EAN": "0041388220314",
+  "STATUS": "MATCHED"
+ },
+ "041388220611": {
+  "FULL_NAME_FOUND": "Blistex Medicated Lip Balm Stick, Original, SPF 15, 0.15 Oz",
+  "DESCRIPTION": "Stay protected and hydrated with Blistex Regular Lip Balm SPF 15. Moisturizes while shielding lips from harmful UV rays. Perfect for daily use.",
+  "CATEGORY": "Lip Balms & Treatments",
+  "BRAND": "Blistex",
+  "SIZE": "",
+  "EAN": "0041388220611",
+  "STATUS": "MATCHED"
+ },
+ "041390000027": {
+  "FULL_NAME_FOUND": "Kikkoman All-Purpose Seasoning Soy Sauce, 10 Fl Oz",
+  "DESCRIPTION": "Kikkoman traditionally brewed soy sauce offers an all-purpose seasoning that's perfect for use in a wide range of recipes. Combine it with dry white wine garlic and onions to create a tasty marinade or simply sprinkle some over your best stir-fry dish for added flavor. This sauce also works well with roasted vegetables for a rich taste.",
+  "CATEGORY": "Soy Sauce",
+  "BRAND": "Kikkoman",
+  "SIZE": "",
+  "EAN": "0041390000027",
+  "STATUS": "MATCHED"
+ },
+ "041419420010": {
+  "FULL_NAME_FOUND": "Combos Baked Tortilla, Seven Layer Dip Stuffed Snacks - 6.3 Oz",
+  "DESCRIPTION": "The Combos Seven Layer Dip Baked Tortilla will make a delicious on-the-go snack option. It is made from crunchy oven-baked crackers. This baked tortilla is filled with a blend of real cheddar cheese, sour cream, avocado, tomato, refried beans, onion, and spicy jalapeno peppers for added taste. The Combos baked tortilla bulk pack is suitable for school cafeterias, concession stands and retail stores.",
+  "CATEGORY": "Dips & Spreads",
+  "BRAND": "Combos",
+  "SIZE": "",
+  "EAN": "0041419420010",
+  "STATUS": "MATCHED"
  }
 }

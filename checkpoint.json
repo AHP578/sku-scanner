@@ -59638,5 +59638,95 @@
   "SIZE": "",
   "EAN": "0041321009754",
   "STATUS": "MATCHED"
+ },
+ "041321009785": {
+  "FULL_NAME_FOUND": "Wish-Bone Dressing, Balsamic Vinaigrette 8 Fl Oz",
+  "DESCRIPTION": "All the flavor you could wish for. Satisfy your flavor craving with aged balsamic vinegar complemented by a robust blend of garlic, herbs, and cracked black pepper, creating a mouthwatering balance of sweetness and acidity. No high fructose corn syrup.",
+  "CATEGORY": "Salad Dressing",
+  "BRAND": "Wish-Bone",
+  "SIZE": "",
+  "EAN": "0041321009785",
+  "STATUS": "MATCHED"
+ },
+ "041321105340": {
+  "FULL_NAME_FOUND": "Wish-Bone Creamy Italian Salad Dressing 15 Fl Oz",
+  "DESCRIPTION": "The Wish-Bone Creamy Italian Dressing is a ready-to-use sauce for salads, appetizers, and entrees. This vinegar-based salad dressing contains red bell peppers, buttermilk, spices, dried onions and garlic for a depth of flavor. It comes packed in a bottle to keep the freshness intact. The Wish-Bone bulk salad dressing is ideal for steakhouses, food trucks, and diners.",
+  "CATEGORY": "Salad Dressing",
+  "BRAND": "Wish-Bone",
+  "SIZE": "",
+  "EAN": "0041321105340",
+  "STATUS": "MATCHED"
+ },
+ "041331027854": {
+  "FULL_NAME_FOUND": "Goya Coconut Water, Natural",
+  "DESCRIPTION": "Stay hydrated on the go with Goya Coconut Water. It is rich in potassium and vitamins making it a healthy choice for a tropical beverage. This drink cools your taste buds with the pure essence of the tropics. It is 100 percent natural and made from young green coconuts. The hydrating coconut water is also fat-free and has no artificial sugars or flavors.",
+  "CATEGORY": "Water",
+  "BRAND": "Goya",
+  "SIZE": "349 mL",
+  "EAN": "0041331027854",
+  "STATUS": "MATCHED"
+ },
+ "041331039611": {
+  "FULL_NAME_FOUND": "Goya Tomato Sauce, Spanish Style - 8 Ounce",
+  "DESCRIPTION": "Goya Tomato Sauce Spanish Style, 8 Ounce | As an integral part of the Latin kitchen, GOYA Tomato Sauce is a Spanish-style all-purpose tomato sauce made from a secret blend of spices that adds that Latin feel and flavor to anyone's cooking. Use it whenever your recipe calls for tomato sauce to add flavor, thickness and body to any sauce, soup, stew, bean dish, meat, fish, and almost any other recipe. Recognized for its consistency and multiple uses, Goya Spanish Style Tomato Sauce adds a special flavor to your recipes.",
+  "CATEGORY": "Condiments & Sauces",
+  "BRAND": "Goya",
+  "SIZE": "",
+  "EAN": "0041331039611",
+  "STATUS": "MATCHED"
+ },
+ "041331049078": {
+  "FULL_NAME_FOUND": "Goya Golden Maria Sandwich Cookies, Chocolate Flavored Filling",
+  "DESCRIPTION": "Goya Foods Golden Maria Sandwich Cookies with Chocolate Flavored Filling, 5.09 Ounce (Pack of 24).",
+  "CATEGORY": "Cookies",
+  "BRAND": "Goya",
+  "SIZE": "",
+  "EAN": "0041331049078",
+  "STATUS": "MATCHED"
+ },
+ "041331050166": {
+  "FULL_NAME_FOUND": "Goya Wafers, Guava",
+  "DESCRIPTION": "The Goya Guava Wafers are a yummy on-the-go snack option suitable for all age groups. These sweet guava wafers are light and crispy in every bite. The ready-to-eat guava wafers save prep time and labor. Available in a bulk case of 24 easy-to-open packs, the Goya guava wafers will be ideal for school cafeterias, concession stands, and retail stores.",
+  "CATEGORY": "Guavas",
+  "BRAND": "Goya",
+  "SIZE": "",
+  "EAN": "0041331050166",
+  "STATUS": "MATCHED"
+ },
+ "041331124379": {
+  "FULL_NAME_FOUND": "Goya Prime Premium Pinto Beans, 15.5 Ounce",
+  "DESCRIPTION": "These beans are simply delicious! GOYA Pinto Beans have a creamy texture and delicate flavor. A favorite in Latin kitchens, they're perfect for making classic dishes like Habichuelas Pintas from Puerto Rico or the traditional Frijoles Refritos from Mexico. You can also use them to make exquisite chili and salads, or serve them with rice as the perfect side dish. They’re fat-free and cholesterol-free, and are a good source of fiber, iron and potassium.",
+  "CATEGORY": "Beans",
+  "BRAND": "Goya",
+  "SIZE": "",
+  "EAN": "0041331124379",
+  "STATUS": "MATCHED"
+ },
+ "041334001035": {
+  "FULL_NAME_FOUND": "Jonny Cat Original Maximum Odor Control Scented Clay Litter Bag, 10-Pound",
+  "DESCRIPTION": "Original scented cat litter. Made with fine clay to absorb moisture and neutralize odors. Provides maximum odor control with an antimicrobial formula.",
+  "CATEGORY": "Cat Litter",
+  "BRAND": "Jonny Cat",
+  "SIZE": "",
+  "EAN": "0041334001035",
+  "STATUS": "MATCHED"
+ },
+ "041334001639": {
+  "FULL_NAME_FOUND": "Jonny Cat Fragrance Free Clay W/Natural Odor Eliminator Litter 10 Lb Stand Up Bag",
+  "DESCRIPTION": "Breakthrough formula – natural odor eliminator. This breakthrough discovery in natural odor elimination features a natural botanical ingredient derived from fruit and vegetable extracts, delivering safe yet powerful odor control that keeps your cat’s litter box fresh, clean and healthy the natural way. Our safe, non-irritating formula contains no perfumes or dyes. This formula promises fewer allergic reactions from fragrances, and potentially harmful additives making it the healthy choice for sensitive, allergic or finicky cats.",
+  "CATEGORY": "Cat Litter",
+  "BRAND": "Jonny Cat",
+  "SIZE": "",
+  "EAN": "0041334001639",
+  "STATUS": "MATCHED"
+ },
+ "041335000501": {
+  "FULL_NAME_FOUND": "Ken's Steak House Italian Dressing & Marinade - 16 Fl Oz",
+  "DESCRIPTION": "Big, bold flavor that's an all-time favorite on salads and deli sandwiches with fine Italian meats. The go-to marinade for all kinds of meat and protein, and a key ingredient that adds zest to countless recipes. Or use it as a gluten-free drizzle for roasted veggies.",
+  "CATEGORY": "Salad Dressing",
+  "BRAND": "Ken's Steak House",
+  "SIZE": "",
+  "EAN": "0041335000501",
+  "STATUS": "MATCHED"
  }
 }

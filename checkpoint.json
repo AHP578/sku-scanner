@@ -61054,5 +61054,95 @@
   "SIZE": "946 mL",
   "EAN": "0041900077051",
   "STATUS": "MATCHED"
+ },
+ "041900078720": {
+  "FULL_NAME_FOUND": "Dairy Pure Whole Milk",
+  "DESCRIPTION": "Ultra Pasteurized Whole Milk. Important - Refrigerated items are perishable and tend to have short shelf lives - some of these can be as little as two weeks from the date of receipt - if you are ordering a large quantity, or are otherwise concerned about expiration dates, consider a frozen product.",
+  "CATEGORY": "Milk",
+  "BRAND": "Dairy Pure",
+  "SIZE": "355 mL",
+  "EAN": "0041900078720",
+  "STATUS": "MATCHED"
+ },
+ "041900079123": {
+  "FULL_NAME_FOUND": "DairyPure Half & Half, Quart",
+  "DESCRIPTION": "A fresh cup of coffee demands a rich and delicious creamer, and DairyPure Half and Half is just right. A splash of half and half adds a smooth, velvety finish to your morning brew, as well as any soup or sauce that needs a little extra taste. Try DairyPure Half and Half in your hot chocolate, mashed potatoes, baked goods and savory dishes. Our half and half is continually quality-tested to ensure purity, and you’ll love its creamy taste.",
+  "CATEGORY": "Dairy Products",
+  "BRAND": "DairyPure",
+  "SIZE": "",
+  "EAN": "0041900079123",
+  "STATUS": "MATCHED"
+ },
+ "042000161893": {
+  "FULL_NAME_FOUND": "Dixie Everyday Paper Plates 8.5 Inches Design May Vary",
+  "DESCRIPTION": "Dixie Everyday plates and bowls are versatile and affordable, so you can focus on your day and not the dishes.",
+  "CATEGORY": "Kitchen & Dining",
+  "BRAND": "Dixie",
+  "SIZE": "",
+  "EAN": "0042000161893",
+  "STATUS": "MATCHED"
+ },
+ "042000162111": {
+  "FULL_NAME_FOUND": "Dixie Paper Plates, 10 Inch, 50 Count, 2X Stronger*, Multic",
+  "DESCRIPTION": "Dixie® Disposable Paper Plates make everyday mealtime stress-free and enjoyable. With our 10 inch paper plates you can serve all your favorite dishes without worrying about cleaning up messy dishes afterwards. Our Soak Proof Shield™ prevents saucy soupy and greasy foods from seeping through the plate so you can rest assured that your plate will stay dry and intact. Dixie® Paper Plates are durable microwave-safe cut-resistant and designed to hold foods like grilled chicken burgers or steak. With 50 multicolor plates in each paper plate pack Dixie® plates are premium quality and convenient for all your dining needs letting you focus on the moment with peace of mind. Enjoy meal time with the 10 Dixie® Paper Plates today!",
+  "CATEGORY": "Party Supplies",
+  "BRAND": "Dixie",
+  "SIZE": "",
+  "EAN": "0042000162111",
+  "STATUS": "MATCHED"
+ },
+ "042000162357": {
+  "FULL_NAME_FOUND": "Dixie Everyday Paper Bowls",
+  "DESCRIPTION": "Dixie Everyday plates and bowls are versatile and affordable, so you can focus on your day and not the dishes.",
+  "CATEGORY": "Bowls",
+  "BRAND": "Dixie",
+  "SIZE": "",
+  "EAN": "0042000162357",
+  "STATUS": "MATCHED"
+ },
+ "042000356015": {
+  "FULL_NAME_FOUND": "Vanity Fair 2 Ply White Everyday Napkins 110 Pc",
+  "DESCRIPTION": "110 unidades. Servilletas de papel, color blanco clásico, con textura suave y similar a la tela. Servilletas de 2 capas. Para comidas diarias, fiestas informales o aperitivos. Las servilletas miden 33,02 x 32 cm.",
+  "CATEGORY": "Paper Napkins",
+  "BRAND": "Vanity Fair",
+  "SIZE": "",
+  "EAN": "0042000356015",
+  "STATUS": "MATCHED"
+ },
+ "042035000488": {
+  "FULL_NAME_FOUND": "Auto All Temperature Antifreeze / Coolant",
+  "DESCRIPTION": "provides freeze-up and boil-over protection. Recommended, compatible, and formulated for use with any antifreeze/coolant in any vehicle with aluminum or other engine metals. Premium long-lasting inhibitors guard against temperature extremes and ravages of rust, corrosion, and premature water pump failure. Meets or exceeds ASTM d3306 and d4985 for corrosion protection against all metals. Provides extended life protection for cars and light-duty trucks up to 5 years or 150, 000 miles.",
+  "CATEGORY": "Personal Care",
+  "BRAND": "Auto",
+  "SIZE": "",
+  "EAN": "0042035000488",
+  "STATUS": "MATCHED"
+ },
+ "042100000047": {
+  "FULL_NAME_FOUND": "Grizzly Snuff, Moist, Premium Mint, Pouches",
+  "DESCRIPTION": "Sale only allowed in the United States. Coupons & more at mygrizzly.com (website restricted to age 21+ tobacco consumers). mygrizzly.com. Est. 1900 American snuff co. 91% US tobacco, 9% imported tobacco.",
+  "CATEGORY": "Chewing Tobacco",
+  "BRAND": "Grizzly",
+  "SIZE": "",
+  "EAN": "0042100000047",
+  "STATUS": "MATCHED"
+ },
+ "042100000061": {
+  "FULL_NAME_FOUND": "Grizzly Snuff, Moist, Premium Straight Pouches",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Chewing Tobacco",
+  "BRAND": "Grizzly",
+  "SIZE": "",
+  "EAN": "0042100000061",
+  "STATUS": "MATCHED"
+ },
+ "042100002898": {
+  "FULL_NAME_FOUND": "Hawken Smokeless Tobacco, Wintergreen",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Chewing Tobacco",
+  "BRAND": "Hawken",
+  "SIZE": "",
+  "EAN": "0042100002898",
+  "STATUS": "MATCHED"
  }
 }

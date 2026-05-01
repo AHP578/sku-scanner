@@ -61768,5 +61768,95 @@
   "SIZE": "",
   "EAN": "0043300109202",
   "STATUS": "MATCHED"
+ },
+ "043300109264": {
+  "FULL_NAME_FOUND": "Lucky Strike Cigarettes, Red 100s, Filters",
+  "DESCRIPTION": "Lucky Strike Red 100s are known for their rich, full-bodied flavor. The “Red” designation typically indicates a stronger, more robust blend with pronounced tobacco notes, often accompanied by a hint of sweetness or spice.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Lucky Strike",
+  "SIZE": "",
+  "EAN": "0043300109264",
+  "STATUS": "MATCHED"
+ },
+ "043300109295": {
+  "FULL_NAME_FOUND": "Lucky Strike Red 100s 50c Off",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Door Strikes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0043300109295",
+  "STATUS": "MATCHED"
+ },
+ "043300109325": {
+  "FULL_NAME_FOUND": "Lucky Strike 1.00 Off Red 100",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0043300109325",
+  "STATUS": "MATCHED"
+ },
+ "043300187170": {
+  "FULL_NAME_FOUND": "Lucky Strike Menthol 100s Cigarettes",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Lucky Strike",
+  "SIZE": "",
+  "EAN": "0043300187170",
+  "STATUS": "MATCHED"
+ },
+ "043300187231": {
+  "FULL_NAME_FOUND": "Lucky Strike $1 Off Mn 100",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Door Strikes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0043300187231",
+  "STATUS": "MATCHED"
+ },
+ "043300187293": {
+  "FULL_NAME_FOUND": "Lucky Strike Menthol $1 Off",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0043300187293",
+  "STATUS": "MATCHED"
+ },
+ "043300187354": {
+  "FULL_NAME_FOUND": "Lucky Strike 100s Menthol Silver Cigarettes",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Lucky Strike",
+  "SIZE": "",
+  "EAN": "0043300187354",
+  "STATUS": "MATCHED"
+ },
+ "043300187415": {
+  "FULL_NAME_FOUND": "Lucky Strike Silver $1 Off",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Door Strikes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0043300187415",
+  "STATUS": "MATCHED"
+ },
+ "043300187477": {
+  "FULL_NAME_FOUND": "Lucky Strike $1 Off Mn Sv 100",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Household Supplies",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0043300187477",
+  "STATUS": "MATCHED"
+ },
+ "043318004797": {
+  "FULL_NAME_FOUND": "Simple Green Clean Finish Disinfectant Cleaner, Herbal, 32 Oz Spray Bottle",
+  "DESCRIPTION": "Ideal for cleaning and disinfecting any non-porous surface. When used as directed, Simple Green Clean Finish is effective against a broad-spectrum of microorganisms including bacteria, antibiotic resistant bacteria and viruses.",
+  "CATEGORY": "Antiseptics & Cleaning Supplies",
+  "BRAND": "Simple Green",
+  "SIZE": "",
+  "EAN": "0043318004797",
+  "STATUS": "MATCHED"
  }
 }

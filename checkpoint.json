@@ -61324,5 +61324,89 @@
   "SIZE": "",
   "EAN": "0042100023435",
   "STATUS": "MATCHED"
+ },
+ "042100023558": {
+  "FULL_NAME_FOUND": "Grizzly Wintergreen",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Household Supplies",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0042100023558",
+  "STATUS": "MATCHED"
+ },
+ "042100023671": {
+  "FULL_NAME_FOUND": "Grizzly Dark Wntrgreen",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Household Supplies",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0042100023671",
+  "STATUS": "MATCHED"
+ },
+ "042100023916": {
+  "FULL_NAME_FOUND": "Grizzly Long Cut",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Stencils & Die Cuts",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0042100023916",
+  "STATUS": "MATCHED"
+ },
+ "042100023985": {
+  "FULL_NAME_FOUND": "Grizzly Lg Ct Dark Wg $2.50 Off",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Shipping Supplies",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0042100023985",
+  "STATUS": "MATCHED"
+ },
+ "042100135176": {
+  "STATUS": "UNMATCHED"
+ },
+ "042238301832": {
+  "FULL_NAME_FOUND": "Haribo Gold Bears Gummy Candy",
+  "DESCRIPTION": "Enjoy the delicious taste of Haribo Gold Bears at any time. It comes in five chewy fruit flavours that are fun to eat. This Haribo gummy candy is fresh-sealed in a 2 oz bag. It is easy to pack into a school lunch or to munch on as a snack in between meals.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Haribo",
+  "SIZE": "",
+  "EAN": "0042238301832",
+  "STATUS": "MATCHED"
+ },
+ "042238302419": {
+  "FULL_NAME_FOUND": "Haribo Gummi Candy, Goldbears, Share Size",
+  "DESCRIPTION": "Haribo's five colorful goldberries with the flavors ranging from pineapple to strawberry. This original classic gummi has been the favorite since 1922. Delicious and fun to share!",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Haribo",
+  "SIZE": "",
+  "EAN": "0042238302419",
+  "STATUS": "MATCHED"
+ },
+ "042238305373": {
+  "FULL_NAME_FOUND": "Haribo Gold Bears Gummi Candy - Share Bag",
+  "DESCRIPTION": "The original since 1922. Kids and grown-ups love it so - the happy world of Haribo! A serving is a little handful in this case it's approx. 13 pieces.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Haribo",
+  "SIZE": "",
+  "EAN": "0042238305373",
+  "STATUS": "MATCHED"
+ },
+ "042238306479": {
+  "FULL_NAME_FOUND": "Haribo Gummi Candy, Vampire Bats, Sour, Share Size",
+  "DESCRIPTION": "Customers are always on the hunt for fun, unique Halloween candy. Give them the good stuff — Haribo Sour Bats. The beloved gummy bear brand lends its gummy talents to the festive Halloween shape, bats, in assorted sour flavors. The festive gummies come packed in spooky packing complete with the iconic Goldbear dressed as a vampire, inspiring seasonal impulse purchases. Customers will love Haribo Sour Bats peg bag for Halloween Party favors.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Haribo",
+  "SIZE": "",
+  "EAN": "0042238306479",
+  "STATUS": "MATCHED"
+ },
+ "042238312166": {
+  "FULL_NAME_FOUND": "Haribo Sour Gold Bears",
+  "DESCRIPTION": "Haribo, Sour Gold-bears Gummi Candy is manufactured by Haribo Of America, Inc. with a suggested serving size of 16 Pieces (41 G) and has 150 calories per serving.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Haribo",
+  "SIZE": "",
+  "EAN": "0042238312166",
+  "STATUS": "MATCHED"
  }
 }

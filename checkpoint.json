@@ -64456,5 +64456,95 @@
   "SIZE": "1248 mL",
   "EAN": "0049000055450",
   "STATUS": "MATCHED"
+ },
+ "049000056433": {
+  "FULL_NAME_FOUND": "Powerade Zero Fruit Punch Electrolyte Sports Drink Bottles, 20 Fl Oz",
+  "DESCRIPTION": "POWERADE Zero Fruit Punch Sports Drink. is the ultimate hydration solution for athletes and active individuals. This electrolyte-enhanced beverage is designed to replenish essential nutrients lost during intense physical activity. With zero sugar and zero calories, it provides a guilt-free way to stay hydrated while enjoying a delicious fruit punch flavor. Each bottle contains a blend of vitamins B3, B6, and B12, along with vital electrolytes such as sodium, calcium, potassium, and magnesium, ensuring you maintain peak performance.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Powerade",
+  "SIZE": "591 mL",
+  "EAN": "0049000056433",
+  "STATUS": "MATCHED"
+ },
+ "049000058161": {
+  "FULL_NAME_FOUND": "Illy Coffee Drink, Mochaccino 9.5 Oz",
+  "DESCRIPTION": "Coffee drink with Domori cocoa and lowfat milk. Italian espresso style. 110 calories per bottle. 100% natural Arabica. No preservatives, added colors or flavors.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Illy",
+  "SIZE": "281 mL",
+  "EAN": "0049000058161",
+  "STATUS": "MATCHED"
+ },
+ "049000058178": {
+  "FULL_NAME_FOUND": "Illy Issimo Latte Macchiato Iced Coffee Drink 9.5 Fl. Oz. Bottle",
+  "DESCRIPTION": "Coffee drink with milk. Italian espresso style. 120 calories per bottle. 100% natural arabica. No preservatives, added colors or flavors.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Illy",
+  "SIZE": "281 mL",
+  "EAN": "0049000058178",
+  "STATUS": "MATCHED"
+ },
+ "049000059892": {
+  "FULL_NAME_FOUND": "Powerade Melon Sports Drink - 32 Fl Oz Bottle",
+  "DESCRIPTION": "Helping to keep you hydrated is our number one job. Giving it your all is yours. POWERADE is equipped with the unique ION4 Advanced Electrolyte System that helps replace the four electrolytes lost when you sweat: sodium, potassium, calcium and magnesium. This means that the more you sweat the harder we work, and that’s fine with us. POWERADE is also equipped with a 6% carbohydrate solution, so your body gets the hydration and energy it needs to power through. We even have vitamins B3, B6 and B12 to support energy metabolism and assist in reducing fatigue. POWERADE has more power so that we can deliver more power for you. This is the sports drink that was developed for athletes like you—to not only keep you in the game, but on top of your game.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Powerade",
+  "SIZE": "946 mL",
+  "EAN": "0049000059892",
+  "STATUS": "MATCHED"
+ },
+ "049000060225": {
+  "FULL_NAME_FOUND": "Mello Yello Soda, Citrus Flavored 16 Fl Oz",
+  "DESCRIPTION": "Sometimes its not about taking the path less traveled, its about creating your own. Mello Yello isnt just any citrus flavored soda, its the one people crave to wake them up and to refresh their thirst for the past two decades. From its first sip to its last, youll get the perfect combination of lemon, lime, and orange flavors right when you need it most, with the caffeine boost to keep you going. Like we said, Mello Yello isnt just a citrus soft drink. It was made for the hard-working folks that get things done and wake up with the feeling: This is MY World. So, grab a 16oz can of MelloYello and start going down your own path.",
+  "CATEGORY": "Soda",
+  "BRAND": "Mello Yello",
+  "SIZE": "473 mL",
+  "EAN": "0049000060225",
+  "STATUS": "MATCHED"
+ },
+ "049000063745": {
+  "FULL_NAME_FOUND": "Dasani Sparkling Water Lime Bottle Zero Calories, 20 Fl Oz",
+  "DESCRIPTION": "Make any moment sparkle with 6 delicious new flavors. DASANI SPARKLING is unsweetened with no artificial flavors and zero calories.",
+  "CATEGORY": "Water",
+  "BRAND": "Dasani",
+  "SIZE": "591 mL",
+  "EAN": "0049000063745",
+  "STATUS": "MATCHED"
+ },
+ "049000063783": {
+  "FULL_NAME_FOUND": "Dasani Sparkling Berry Water Beverage 20.00 Fl Oz",
+  "DESCRIPTION": "Make any moment sparkle with 6 delicious new flavors. DASANI SPARKLING is unsweetened with no artificial flavors and zero calories.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Dasani",
+  "SIZE": "591 mL",
+  "EAN": "0049000063783",
+  "STATUS": "MATCHED"
+ },
+ "049000065206": {
+  "FULL_NAME_FOUND": "Coca-Cola Life Can, 12 Fl Oz",
+  "DESCRIPTION": "Wir bieten die beliebtesten Getränke aus aller Welt an. Von amerikanischen Coca-Cola Sorten bis hin zu den ausgefallenen Chupa Chups getränken aus Südkorea. Es ist für jeden Geschmack etwas dabei! Zusätzlich zu den üblichen und den meisten bereits bekannten Softdrinks und Biersorten haben wir auch ein großes Sortiment von Energy Drinks, Instant Drinks, Wein & Krafbiere und Kaffe oder Milchdrinks anzubieten.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Coca-Cola",
+  "SIZE": "355 mL",
+  "EAN": "0049000065206",
+  "STATUS": "MATCHED"
+ },
+ "049000065213": {
+  "FULL_NAME_FOUND": "Coca-Cola Life Fridge Pack Cans, 12 Fl Oz",
+  "DESCRIPTION": "Coca-Cola Life is a reduced-calorie cola sweetened with a blend of sugar and stevia leaf extract. It contains 35% fewer calories per fl oz compared to other leading colas.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Coca-Cola Life",
+  "SIZE": "355 mL",
+  "EAN": "0049000065213",
+  "STATUS": "MATCHED"
+ },
+ "049000067736": {
+  "FULL_NAME_FOUND": "Fanta Berry Soda Soft Drink 20 Fl Oz",
+  "DESCRIPTION": "Fanta Berry Soda packs a mighty punch of crisp berry flavour in every sip. The perfect caffeine free refreshment made with 100% natural flavours. Fanta Berry Soda will satisfy all your fruity cravings.",
+  "CATEGORY": "Soda",
+  "BRAND": "Fanta",
+  "SIZE": "591 mL",
+  "EAN": "0049000067736",
+  "STATUS": "MATCHED"
  }
 }

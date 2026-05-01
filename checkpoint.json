@@ -64636,5 +64636,95 @@
   "SIZE": "405 mL",
   "EAN": "0049000072365",
   "STATUS": "MATCHED"
+ },
+ "049000072402": {
+  "FULL_NAME_FOUND": "Dasani Sparkling White Peach Can, 12 Fl Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Peaches & Nectarines",
+  "BRAND": "Dasani",
+  "SIZE": "",
+  "EAN": "0049000072402",
+  "STATUS": "MATCHED"
+ },
+ "049000072754": {
+  "FULL_NAME_FOUND": "Gold Peak Salted Caramel Coffee Drink - 14 Fl Oz Bottle",
+  "DESCRIPTION": "By carefully selecting the most decadent of ingredients, we've brewed a coffee drink that will perk up not only you, but your taste buds too! Real cream, real sugar and natural salted caramel flavors blended perfectly with 100% Arabica beans. We cold brew our beans for 12 hours so that you get a delicious smooth taste in every sip.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Gold Peak",
+  "SIZE": "414 mL",
+  "EAN": "0049000072754",
+  "STATUS": "MATCHED"
+ },
+ "049000072761": {
+  "FULL_NAME_FOUND": "Gold Peak Almond Toffee Coffee Drink - 14 Fl Oz Bottle",
+  "DESCRIPTION": "By carefully selecting the most decadent of ingredients, we've brewed a coffee drink that will perk up not only you, but your taste buds too. Real cream, real sugar and natural almond toffee flavors blended perfectly with 100% Arabica beans. We cold brew our beans for 12 hours so that you get a delicious smooth taste in every sip.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Gold Peak",
+  "SIZE": "414 mL",
+  "EAN": "0049000072761",
+  "STATUS": "MATCHED"
+ },
+ "049000072778": {
+  "FULL_NAME_FOUND": "Gold Peak Vanilla Chai Tea Latte Bottle, 14 Fl Oz",
+  "DESCRIPTION": "By carefully blending Gold Peak Tea, chai spices, real milk and natural vanilla flavors we have brought you a perfectly balanced Tea Latte that delivers great flavor in every sip. Enjoy cold or hot for the perfect pick me up that doesn't sacrifice on taste.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Gold Peak",
+  "SIZE": "414 mL",
+  "EAN": "0049000072778",
+  "STATUS": "MATCHED"
+ },
+ "049000072785": {
+  "FULL_NAME_FOUND": "Gold Peak Chai Tea Latte Bottle, 14 Fl Oz",
+  "DESCRIPTION": "By carefully blending Gold Peak Tea, chai spices and real milk we have brought you a perfectly balanced Tea Latte that delivers great flavor in every sip. Enjoy cold or hot for the perfect pick me up that doesn't sacrifice on taste.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Gold Peak",
+  "SIZE": "414 mL",
+  "EAN": "0049000072785",
+  "STATUS": "MATCHED"
+ },
+ "049000074857": {
+  "FULL_NAME_FOUND": "Fanta Green Apple Fruit Soda Soft Drinks, 20 Fl Oz",
+  "DESCRIPTION": "Choosing a fruit flavored soda can be a whole thing. But when you’ve got a delicious bottle of green apple flavored soda ready to go, the decision is easy. Why? Well, it’s an already a classic + classic you + classic music + classic style, here today and here tomorrow always original never on repeat throw on the next song on your brand-new limited-edition eight track to play your soundtrack while you plan the next move that takes you closer to finding that place, your place, all of your places and everywhere you’ve never been before all at the bottom of a bottle of caffeine free Fanta Green Apple flavored soda thing. All of Fanta’s selections of fruit flavored sodas pair perfectly with your favorite snack.",
+  "CATEGORY": "Soda",
+  "BRAND": "Fanta",
+  "SIZE": "591 mL",
+  "EAN": "0049000074857",
+  "STATUS": "MATCHED"
+ },
+ "049000074864": {
+  "FULL_NAME_FOUND": "Diet Coke Twisted Mango Cola 12.00 Fl Oz",
+  "DESCRIPTION": "Diet Coke with mango flavor & natural flavors. 0 calories per can.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Diet Coke",
+  "SIZE": "355 mL",
+  "EAN": "0049000074864",
+  "STATUS": "MATCHED"
+ },
+ "049000076004": {
+  "FULL_NAME_FOUND": "Dunkin' Donuts Pumpkin Spice Iced Coffee Bottle, 13.7 Fl Oz",
+  "DESCRIPTION": "Limited Edition Coffee & milk beverage. Naturally flavored with other natural flavors. 260 calories per bottle.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Dunkin' Donuts",
+  "SIZE": "405 mL",
+  "EAN": "0049000076004",
+  "STATUS": "MATCHED"
+ },
+ "049000076028": {
+  "FULL_NAME_FOUND": "Dunkin' Donuts Cookies & Cream Iced Coffee Bottle, 13.7 Fl Oz",
+  "DESCRIPTION": "Rich, smooth coffee taste. Coffee & milk beverage. Naturally flavored with other natural flavors. 290 calories per bottle.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Dunkin' Donuts",
+  "SIZE": "",
+  "EAN": "0049000076028",
+  "STATUS": "MATCHED"
+ },
+ "049000077827": {
+  "FULL_NAME_FOUND": "Sprite Lemon Lime",
+  "DESCRIPTION": "Due to strict standards and an obsession for detail, each Petrol wheel design can take months to perfect before it is approved. Each new design then goes through relentless testing to ensure peak performance.",
+  "CATEGORY": "Motor Vehicle Rims & Wheels",
+  "BRAND": "Sprite",
+  "SIZE": "",
+  "EAN": "0049000077827",
+  "STATUS": "MATCHED"
  }
 }

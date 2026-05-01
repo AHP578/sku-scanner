@@ -63658,5 +63658,83 @@
   "SIZE": "",
   "EAN": "0047800330111",
   "STATUS": "MATCHED"
+ },
+ "047995000837": {
+  "FULL_NAME_FOUND": "American Spirit Am Dark Blue Pouch",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "American Spirit",
+  "SIZE": "",
+  "EAN": "0047995000837",
+  "STATUS": "MATCHED"
+ },
+ "047995000844": {
+  "FULL_NAME_FOUND": "American Spirit Am Black Pouch",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "American Spirit",
+  "SIZE": "",
+  "EAN": "0047995000844",
+  "STATUS": "MATCHED"
+ },
+ "047995100926": {
+  "FULL_NAME_FOUND": "American Spirit Amer Sprt Organic Maroon Pouch",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Liquor & Spirits",
+  "BRAND": "American Spirit",
+  "SIZE": "42 mL",
+  "EAN": "0047995100926",
+  "STATUS": "MATCHED"
+ },
+ "047995200299": {
+  "FULL_NAME_FOUND": "American Spirit Hunter Pack",
+  "DESCRIPTION": "Smoking American Spirit Hunter cigarettes will provide you a full-bodied, rich smoking experience thanks to their special blend of premium tobacco. American Spirit Hunter cigarettes are a popular among people who respect the clean, natural flavor of tobacco since they are made only with the best tobacco that is farmed in the United States.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "American Spirit",
+  "SIZE": "",
+  "EAN": "0047995200299",
+  "STATUS": "MATCHED"
+ },
+ "047995200435": {
+  "FULL_NAME_FOUND": "Natural American Spirit Sky $1.00 Off",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Natural American Spirit",
+  "SIZE": "",
+  "EAN": "0047995200435",
+  "STATUS": "MATCHED"
+ },
+ "047995200466": {
+  "STATUS": "UNMATCHED"
+ },
+ "047995200497": {
+  "FULL_NAME_FOUND": "American Spirit Mellow Yellow King Box 1 Off",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Dry Boxes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0047995200497",
+  "STATUS": "MATCHED"
+ },
+ "047995200527": {
+  "STATUS": "UNMATCHED"
+ },
+ "047995200558": {
+  "FULL_NAME_FOUND": "American Spirit Turquoise King Box 1 Off",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0047995200558",
+  "STATUS": "MATCHED"
+ },
+ "047995856014": {
+  "FULL_NAME_FOUND": "Natural American Spirit Gray Box",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Natural American Spirit",
+  "SIZE": "",
+  "EAN": "0047995856014",
+  "STATUS": "MATCHED"
  }
 }

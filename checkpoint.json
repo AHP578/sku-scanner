@@ -64366,5 +64366,95 @@
   "SIZE": "591 mL",
   "EAN": "0049000047141",
   "STATUS": "MATCHED"
+ },
+ "049000049510": {
+  "FULL_NAME_FOUND": "Diet Coke 12 Fl Oz Sleek Can",
+  "DESCRIPTION": "Diet Coke is the most popular sugar-free soft drink. It's the original sparkling beverage for those who want great flavor without the calories - a drink for those with great taste. Serve ice cold for maximum refreshment.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Diet Coke",
+  "SIZE": "355 mL",
+  "EAN": "0049000049510",
+  "STATUS": "MATCHED"
+ },
+ "049000050172": {
+  "FULL_NAME_FOUND": "Sprite Zero Sugar Lemon Lime Diet Soda Pop Soft Drink, 2 Liters",
+  "DESCRIPTION": "Introduced in 1961, Sprite is the world's leading lemon-lime flavored soft drink. It has a crisp, clean taste that really quenches your thirst.",
+  "CATEGORY": "Soda",
+  "BRAND": "Sprite",
+  "SIZE": "1999 mL",
+  "EAN": "0049000050172",
+  "STATUS": "MATCHED"
+ },
+ "049000050745": {
+  "FULL_NAME_FOUND": "Powerade Zero Grape Electrolyte Sports Drink Bottles, 20 Fl Oz",
+  "DESCRIPTION": "Zero calorie sports drink with vitamins B3, B6 & B12 and ION4 Advanced Electrolyte System which helps replenish four electrolytes lost in sweat. 8 - 20-fluid ounce bottles per package.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Powerade",
+  "SIZE": "591 mL",
+  "EAN": "0049000050745",
+  "STATUS": "MATCHED"
+ },
+ "049000050752": {
+  "FULL_NAME_FOUND": "Powerade Zero Mixed Berry Electrolyte Sports Drink, 20 Fl Oz Bottles",
+  "DESCRIPTION": "Zero calorie sports drink with vitamins B3, B6 & B12 and ION4 Advanced Electrolyte System which helps replenish four electrolytes lost in sweat. 8 - 20-fluid ounce bottles per package.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Powerade",
+  "SIZE": "591 mL",
+  "EAN": "0049000050752",
+  "STATUS": "MATCHED"
+ },
+ "049000052176": {
+  "FULL_NAME_FOUND": "Fanta Soda, Orange, Zero Sugar 67.6 Fl Oz",
+  "DESCRIPTION": "Choosing a fruit flavored soda can be a whole thing. But when you’ve got a delicious bottle of orange flavored soda ready to go, the decision is easy. Why? Well, it’s a less is more, do what you can with what you got, make the night memorable with the minimal, celebrate the lack of occasion, the one man show on the road + couch surfing + life loving + in love with the limited + the complicated + the simple, eventful nights laying under nature’s lights, needing less than the want for more, take a spin on the bottle of caffeine free and sugar free Fanta Orange flavored soda multiple times kind of thing. All of Fanta’s selections of fruit flavored sodas pair perfectly with your favorite snack.",
+  "CATEGORY": "Soda",
+  "BRAND": "Fanta",
+  "SIZE": "1999 mL",
+  "EAN": "0049000052176",
+  "STATUS": "MATCHED"
+ },
+ "049000053401": {
+  "FULL_NAME_FOUND": "Coca-Cola Zero Sugar Coke Diet Soda Soft Drink, 16 Fl Oz",
+  "DESCRIPTION": "There's nothing quite like the crisp, refreshing taste of an ice-cold Coca-Cola Zero Sugar. With this zero sugar soda, you can enjoy the same great Coca-Cola taste, with zero sugar and zero calories. However you choose to enjoy it, this delicious soft drink elevates life's sweetest moments and makes them even better (without the sugar). Delicious and refreshing, Coca-Cola Zero Sugar is meant to be enjoyed anytime, anywhere. This zero-sugar cola's secret formula has been carefully crafted to create a no-sugar taste experience like no other. The familiar fizz and caffeine give you a moment of refreshment with every sip. Pop open a Coca-Cola Zero Sugar to make great taste a part of every day. Whether spending time with friends and family or taking a quick break to recharge, Coke Zero provides the great Coca-Cola taste you love without the sugar. Find your magic and make life delicious with an ice-cold Coca-Cola Zero Sugar.",
+  "CATEGORY": "Soda",
+  "BRAND": "Coca-Cola Zero Sugar",
+  "SIZE": "473 mL",
+  "EAN": "0049000053401",
+  "STATUS": "MATCHED"
+ },
+ "049000053432": {
+  "FULL_NAME_FOUND": "Sprite Lemon Lime Soda Pop 16 Fl Oz Can",
+  "DESCRIPTION": "Some people know it simply as a lemon-lime flavored soft drink, but most know it as Sprite. The OG, the head honcho in the lemon-lime soda biz. The flavor that started it all. It should come as no surprise why Sprite and lemon-lime have become synonymous. As the awe-inspiring trendsetter of the iconic flavor, Sprite never fails to deliver an extremely satisfying taste. With 100% natural flavors, and caffeine-free, you can enjoy at any time of day. The og sprite, lemon-lime flavored soda for bold personalities100% natural flavorsCaffeine-free16 fl oz per canCrisp, cool, mouthwatering citrus taste.",
+  "CATEGORY": "Soda",
+  "BRAND": "Sprite",
+  "SIZE": "473 mL",
+  "EAN": "0049000053432",
+  "STATUS": "MATCHED"
+ },
+ "049000053746": {
+  "FULL_NAME_FOUND": "Fanta Orange Soda Soft Drink 16 Fl Oz",
+  "DESCRIPTION": "Introduced in 1940, Fanta is inspired by real fruit flavors. Fanta is known for its great fruity taste and fun vibrant colors for consumers who want to Be More Than One Flavor. Bright, bubbly and instantly refreshing, Fanta is made with 100% natural flavors and is caffeine-free. Its bright color, bold fruit taste, and tingly carbonation liven up special times with friends and family. Grab a Fanta in a range of fruit flavors.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Fanta",
+  "SIZE": "473 mL",
+  "EAN": "0049000053746",
+  "STATUS": "MATCHED"
+ },
+ "049000055375": {
+  "FULL_NAME_FOUND": "Coca-Cola Soda Soft Drink Bottle, 1.25 Liters",
+  "DESCRIPTION": "Whatever you call it, nothing compares to the refreshing, crisp taste of Coca-Cola Original Taste, the delicious soda you know and love. Enjoy with friends, on the go or with a meal. Whatever the occasion, wherever you are, Coca-Cola Original Taste makes lifes special moments a little bit better. Every sip, every ahhh, every smilefind that feeling with Coca-Cola Original Taste. Best enjoyed ice-cold for maximum refreshment. Grab a Coca-Cola Original Taste, take a sip and find your ahhh moment.",
+  "CATEGORY": "Soda",
+  "BRAND": "Coca-Cola",
+  "SIZE": "1250 mL",
+  "EAN": "0049000055375",
+  "STATUS": "MATCHED"
+ },
+ "049000055450": {
+  "FULL_NAME_FOUND": "Sprite Soda Soft Drink Lemon Lime, 1.25 L Bottle",
+  "DESCRIPTION": "Some people know it simply as a lemon-lime flavored soft drink, but most know it as Sprite. The OG, the head honcho in the lemon-lime soda biz. The flavor that started it all. It should come as no surprise why Sprite and lemon-lime have become synonymous. As the awe-inspiring trendsetter of the iconic flavor, Sprite never fails to deliver an extremely satisfying taste. With 100% natural flavors, and caffeine-free, you can enjoy at any time of day.",
+  "CATEGORY": "Soda",
+  "BRAND": "Sprite",
+  "SIZE": "1248 mL",
+  "EAN": "0049000055450",
+  "STATUS": "MATCHED"
  }
 }

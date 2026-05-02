@@ -69226,5 +69226,89 @@
   "SIZE": "",
   "EAN": "0071300001325",
   "STATUS": "MATCHED"
+ },
+ "071300010136": {
+  "FULL_NAME_FOUND": "Ronzoni Quick Cook Enriched Macaroni Product Elbow",
+  "DESCRIPTION": "Every minute counts in your busy life. Ronzoni Quick Cook is the great tasting pasta that saves you time by cooking in only 3 minutes! Thinner pasta means a quicker cook time. It's from the same people who have been trusted for generations to ensure that only the finest quality ingredients make it from the field to your family's table.",
+  "CATEGORY": "Pasta & Noodles",
+  "BRAND": "Ronzoni",
+  "SIZE": "",
+  "EAN": "0071300010136",
+  "STATUS": "MATCHED"
+ },
+ "071421106220": {
+  "FULL_NAME_FOUND": "Big Az AZ(R) Spicy Chicken Sandwich With Cheese",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cheese",
+  "BRAND": "Big Az",
+  "SIZE": "",
+  "EAN": "0071421106220",
+  "STATUS": "MATCHED"
+ },
+ "071421112382": {
+  "STATUS": "UNMATCHED"
+ },
+ "071421115765": {
+  "FULL_NAME_FOUND": "Big AZ BubbaTwins Sandwiches, Chili Cheese Dogs",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Dog Food",
+  "BRAND": "Big AZ",
+  "SIZE": "",
+  "EAN": "0071421115765",
+  "STATUS": "MATCHED"
+ },
+ "071421117332": {
+  "FULL_NAME_FOUND": "Big AZ Spicy Chicken W/Cheese Sandwich",
+  "DESCRIPTION": "It's bold on spicy, crispy taste and extra big on size and value for your customers with hearty on-the-go appetites. This oversized chicken breast with rib meat is made with cayenne pepper, salt and garlic seasoned breading, topped with creamy, white American cheese and served on a jumbo, rustic bun that stays soft.",
+  "CATEGORY": "Meat",
+  "BRAND": "Big AZ",
+  "SIZE": "",
+  "EAN": "0071421117332",
+  "STATUS": "MATCHED"
+ },
+ "071421598643": {
+  "FULL_NAME_FOUND": "Big Az Cheeseburger, Beef Charbroil With Cheese 8.9 Oz",
+  "DESCRIPTION": "Big AZ® 8.9 Oz. Cheeseburger Beef Charbroil with cheese and onions is a delicious offering to add to your C-store or grab-and-go food options. This pre-packaged sandwich includes a sesame seed bun stacked with a flame-broiled beef patty with cheddar cheese and onions.",
+  "CATEGORY": "Prepared Foods",
+  "BRAND": "Big Az",
+  "SIZE": "",
+  "EAN": "0071421598643",
+  "STATUS": "MATCHED"
+ },
+ "071537001259": {
+  "FULL_NAME_FOUND": "Under armour Polar Seltzer Water - Ruby Red Grapefruit 355ml (Imported)",
+  "DESCRIPTION": "Just water, bubbles and the refreshing taste of natual grapefruit. Why be flat when you can sparkle? Enjoy naturally calorie-free refreshment made with nothing but water, bubbles and natural fruit essence. Family Made Since 1882 - Not much has changed in the past 135 years. Well, except Polar Seltzer now crafts over 19 different varietals, and we no longer deliver by horse and carriage. Naturally calorie freeNo sugar, sweeteners, sodium or carbsGluten free, vegan and kosher8 pack of 12 fl oz cans.",
+  "CATEGORY": "Water",
+  "BRAND": "Under armour",
+  "SIZE": "355 mL",
+  "EAN": "0071537001259",
+  "STATUS": "MATCHED"
+ },
+ "071537001303": {
+  "FULL_NAME_FOUND": "Polar Seltzer Water, Raspberry Lime, 12 Fl Oz",
+  "DESCRIPTION": "Just water, bubbles & great taste. Why be flat when you can sparkle? Enjoy naturally calorie-free refreshment made with nothing but water, bubbles and natural fruit essence. Family Made Since 1882 - Not much has changed in the past 135 years. Well, except Polar Seltzer now crafts over 19 different varietals, and we no longer deliver by horse and carriage. Naturally calorie-freeNo sugar, no sweeteners, no sodium, no carbsGluten free, vegan & kosher.",
+  "CATEGORY": "Water",
+  "BRAND": "Polar",
+  "SIZE": "355 mL",
+  "EAN": "0071537001303",
+  "STATUS": "MATCHED"
+ },
+ "071537001426": {
+  "FULL_NAME_FOUND": "Polar Cranberry Lime Seltzer Water",
+  "DESCRIPTION": "Just water, bubbles & great taste. Why be flat when you can sparkle? Enjoy naturally calorie-free refreshment made with nothing but water, bubbles and natural fruit essence. Family Made Since 1882 - Not much has changed in the past 135 years. Well, except Polar Seltzer now crafts over 19 different varietals, and we no longer deliver by horse and carriage. Naturally calorie-freeNo sugar, no sweeteners, no sodium, no carbsGluten free, vegan & kosher.",
+  "CATEGORY": "Water",
+  "BRAND": "Polar",
+  "SIZE": "355 mL",
+  "EAN": "0071537001426",
+  "STATUS": "MATCHED"
+ },
+ "071537020045": {
+  "FULL_NAME_FOUND": "Polar Premium Classic Mixer Sparkling Club Soda, 33.8 Fl Oz",
+  "DESCRIPTION": "Club Soda works to provide cocktails with a clean taste to brighten the flavors of spirits and juices. Plus, the carbonation and added minerals are able to impart sparkle to drinks without calories or sugar. Polar Beverages's first mixers were crafted in the early 1900's by a savvy bartender named Dennis Crowley. Four generations later, his reverence for American cocktail culture and his recipes continues. Always entertaining. Polar Beverages offers the four cornerstones of building any great cocktail–salty, sour, bitter or sweet–with an essential collection of club sodas, sours, tonics and ginger ales.",
+  "CATEGORY": "Soda",
+  "BRAND": "Polar",
+  "SIZE": "1000 mL",
+  "EAN": "0071537020045",
+  "STATUS": "MATCHED"
  }
 }

@@ -67456,5 +67456,95 @@
   "SIZE": "",
   "EAN": "0070221009946",
   "STATUS": "MATCHED"
+ },
+ "070221009960": {
+  "FULL_NAME_FOUND": "Oreo Candy Bars, Chocolate, Cookies & Cream, King Size",
+  "DESCRIPTION": "OREO cookies and crème chocolate candy bar – with real OREO pieces! Delicious cookies and crème candy bar with real OREO biscuit pieces. Deliciously dunkable OREO biscuit pieces enveloped in vanilla flavored crème filling and wrapped in white chocolate candy.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Oreo",
+  "SIZE": "",
+  "EAN": "0070221009960",
+  "STATUS": "MATCHED"
+ },
+ "070235001172": {
+  "FULL_NAME_FOUND": "Phillies Cigarillos Peach",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Peaches & Nectarines",
+  "BRAND": "Phillies",
+  "SIZE": "",
+  "EAN": "0070235001172",
+  "STATUS": "MATCHED"
+ },
+ "070235101100": {
+  "FULL_NAME_FOUND": "Not Applicable 1 X Sailor Moon 20th Anniversary Cameo Charmvenus",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Household Supplies",
+  "BRAND": "Not Applicable",
+  "SIZE": "",
+  "EAN": "0070235101100",
+  "STATUS": "MATCHED"
+ },
+ "070235129623": {
+  "FULL_NAME_FOUND": "Phillies Cigarillos, Double Apple",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Apples",
+  "BRAND": "Phillies",
+  "SIZE": "",
+  "EAN": "0070235129623",
+  "STATUS": "MATCHED"
+ },
+ "070235129630": {
+  "FULL_NAME_FOUND": "Phillies Cigarillos, Wine Grapes",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Wine",
+  "BRAND": "Phillies",
+  "SIZE": "",
+  "EAN": "0070235129630",
+  "STATUS": "MATCHED"
+ },
+ "070235129784": {
+  "FULL_NAME_FOUND": "Phillies Cigars, Filtered, 100s",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Phillies",
+  "SIZE": "",
+  "EAN": "0070235129784",
+  "STATUS": "MATCHED"
+ },
+ "070235129791": {
+  "FULL_NAME_FOUND": "Phillies Cigars, Filtered, Sweet, 100s",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Phillies",
+  "SIZE": "",
+  "EAN": "0070235129791",
+  "STATUS": "MATCHED"
+ },
+ "070235129807": {
+  "FULL_NAME_FOUND": "Phillies Cigars, Filtered, Menthol, 100s",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Phillies",
+  "SIZE": "",
+  "EAN": "0070235129807",
+  "STATUS": "MATCHED"
+ },
+ "070272232034": {
+  "FULL_NAME_FOUND": "Reddi Wip Extra Creamy Dairy Whipped Cream Topping",
+  "DESCRIPTION": "Reddi-wip Extra Creamy Whipped Dairy Cream Topping offers even more full, rich cream taste. Enjoy this dairy whipped topping on ice cream sundaes, fruit, angel food cake and other desserts. Like whipped cream, Reddi-wip Extra Creamy is made with real cream as the first ingredient and has no artificial flavors or sweeteners. Real cream means real flavor with 15 calories per serving. Find that finishing touch to top off all of your favorite sweet treats; add an extra creamy whoosh of greatness. Shake well before use.",
+  "CATEGORY": "Whipped Cream",
+  "BRAND": "Reddi Wip",
+  "SIZE": "",
+  "EAN": "0070272232034",
+  "STATUS": "MATCHED"
+ },
+ "070272482354": {
+  "FULL_NAME_FOUND": "Reddi-Wip Original Topping 15oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Dessert Toppings",
+  "BRAND": "Reddi-Wip",
+  "SIZE": "",
+  "EAN": "0070272482354",
+  "STATUS": "MATCHED"
  }
 }

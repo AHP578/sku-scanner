@@ -65506,5 +65506,89 @@
   "SIZE": "",
   "EAN": "0051000062765",
   "STATUS": "MATCHED"
+ },
+ "051000065018": {
+  "FULL_NAME_FOUND": "Hungry-Man Salisbury Steak Frozen Dinner 16 Oz",
+  "DESCRIPTION": "Satisfy your man-size hunger with a Hungry Man Salisbury Steak Frozen Dinner. Dive into two Salisbury steak patties, home-style gravy with savory mashed potatoes, cut green beans and a rich chocolate brownie. Quick and convenient, these microwavable meals are great for lunch, dinner or anytime. Eat like a man, with Hungry Man.",
+  "CATEGORY": "Pies & Tarts",
+  "BRAND": "Hungry-Man",
+  "SIZE": "",
+  "EAN": "0051000065018",
+  "STATUS": "MATCHED"
+ },
+ "051000065148": {
+  "FULL_NAME_FOUND": "Hungry-Man Selects Classic Fried Chicken Frozen Meal",
+  "DESCRIPTION": "Send hunger for the hills with the great flavors and satisfying portions found in Hungry-Man Selects Classic Fried Chicken. This complete frozen meal features tender white and dark chicken portions, home-style mashed potatoes and sweet corn side dishes and a chocolate brownie dessert. This frozen meal offers 39 grams of protein per serving for a satisfying frozen entree that is perfect anytime hunger strikes. Hungry-Man Selects microwave meals are a convenient choice for work lunches, a TV dinner or easy meals to tackle those tummy rumbles. Simply follow the instructions on the package to microwave or cook in a conventional oven. Each package contains one full meal that is perfect for busy lifestyles and hearty appetites. Store the convenient frozen entrees in your freezer until you're ready to enjoy. Try other Hungry-Man frozen meals to find your favorite. Hungry-Man offers big portions for big appetites.",
+  "CATEGORY": "Pies & Tarts",
+  "BRAND": "Hungry-Man",
+  "SIZE": "",
+  "EAN": "0051000065148",
+  "STATUS": "MATCHED"
+ },
+ "051000093240": {
+  "FULL_NAME_FOUND": "Prego Italian Pasta Sauce, Tomato Basil Garlic, 24 Ounc",
+  "DESCRIPTION": "Gluten free 40% of daily vegetable†n†Each ½ cup serving of sauce provides 1 cup equivalent of vegetables. Dietary guidelines recommend 2 ½ cups of a variety of vegetables per day for a 2,000 calorie diet.",
+  "CATEGORY": "Pasta Sauce",
+  "BRAND": "Prego",
+  "SIZE": "",
+  "EAN": "0051000093240",
+  "STATUS": "MATCHED"
+ },
+ "051000118608": {
+  "FULL_NAME_FOUND": "Hungry-Man Country Fried Chicken Frozen Dinner, 16 Oz",
+  "DESCRIPTION": "Satisfy your man-size hunger with a Hungry Man Country Fried Chicken Frozen Dinner. Dive into two breaded, white-meat chicken patties with gravy, savory mashed potatoes, cut green beans and sweet apples. Quick and convenient, these microwavable meals are great for lunch, dinner or anytime. Eat like a man, with Hungry Man.",
+  "CATEGORY": "Prepared Foods",
+  "BRAND": "Hungry-Man",
+  "SIZE": "",
+  "EAN": "0051000118608",
+  "STATUS": "MATCHED"
+ },
+ "051000138019": {
+  "FULL_NAME_FOUND": "V8 Spicy Hot 100% Vegetable Juice 12 Fl Oz Bottle",
+  "DESCRIPTION": "V8® Spicy Hot. Vegetable nutrition and great taste—with just the right amount of kick.",
+  "CATEGORY": "Juice",
+  "BRAND": "V8",
+  "SIZE": "355 mL",
+  "EAN": "0051000138019",
+  "STATUS": "MATCHED"
+ },
+ "051000149824": {
+  "FULL_NAME_FOUND": "Campbell's Chicken & Noodles Mini Round Soup On The Go Cup",
+  "DESCRIPTION": "The Campbell’s Chicken and Mini Round Noodles Soup is made with the goodness of premium chicken broth, noodles, carrots, and tender chicken. With no trans fat, this soup is a healthy choice for people of all age groups. Available as a bulk pack of 8 jars per case, the Campbell's chicken and noodles soup is an ideal option for food trucks, restaurants, and delis.",
+  "CATEGORY": "Soups & Broths",
+  "BRAND": "Campbell's",
+  "SIZE": "",
+  "EAN": "0051000149824",
+  "STATUS": "MATCHED"
+ },
+ "051000158550": {
+  "FULL_NAME_FOUND": "V8 100% Juice, Strawberry Banana Flavored 12 Fl Oz",
+  "DESCRIPTION": "V8 Strawberry Banana combines hints of sweetly tart strawberry and creamy banana with a blend of 100% fruit and vegetable juice to help you start your day on a deliciously healthy track. You'll feel great knowing that each bottle contains over a full serving of vegetables and over a full serving of fruit. A powerhouse of tastiness that's bound to turn those who just get their veggies into those who celebrate their veggies. Good morning, indeed. Antioxidant vitamins A & CNo artificial flavors or colors; no preservatives addedNon-GMO & Gluten Free.",
+  "CATEGORY": "Juice",
+  "BRAND": "V8",
+  "SIZE": "355 mL",
+  "EAN": "0051000158550",
+  "STATUS": "MATCHED"
+ },
+ "051000167750": {
+  "FULL_NAME_FOUND": "Campbell's Chunky Healthy Request Chicken Noodle Soup - 18.6 Ounce",
+  "DESCRIPTION": "Campbell’s Chunky Healthy Request Chicken Noodle Soup allows you to tackle hunger with the pure comforts of a hearty, soul-warming, ready-to-eat soup. With big flavors and bold ingredients, this comfort food classic is capable of fueling a hearty appetite. This ready-to-eat chicken soup is crafted with big pieces of chicken meat without antibiotics, carrots, celery, and enriched egg noodles. Each can has 16 grams of protein. It Fills You Up Right.",
+  "CATEGORY": "Soups & Broths",
+  "BRAND": "Campbell's",
+  "SIZE": "",
+  "EAN": "0051000167750",
+  "STATUS": "MATCHED"
+ },
+ "051000190888": {
+  "FULL_NAME_FOUND": "Campbell's Chunky Hearty Italian Style Wedding With Meatballs And Spinach Soup",
+  "DESCRIPTION": "Soup that eats like a meal. With so many hearty, delicious Chunky soups it's easy to find one that is right for you./.",
+  "CATEGORY": "Soups & Broths",
+  "BRAND": "Campbell's",
+  "SIZE": "",
+  "EAN": "0051000190888",
+  "STATUS": "MATCHED"
+ },
+ "051000209979": {
+  "STATUS": "UNMATCHED"
  }
 }

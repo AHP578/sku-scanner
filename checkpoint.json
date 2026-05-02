@@ -65338,5 +65338,83 @@
   "SIZE": "473 mL",
   "EAN": "0050200578007",
   "STATUS": "MATCHED"
+ },
+ "050200585005": {
+  "FULL_NAME_FOUND": "Sunny D Citrus Punch, Grape",
+  "DESCRIPTION": "Naturally and artificially flavored. 100% vitamin C per 8 oz. 120 calories per bottle. Please recycle. Contains 5% juice. Questions? Comments? www.sunnyd.com; 1-800-395-5849. SunnyD.com.",
+  "CATEGORY": "Juice",
+  "BRAND": "Sunny D",
+  "SIZE": "473 mL",
+  "EAN": "0050200585005",
+  "STATUS": "MATCHED"
+ },
+ "050200587009": {
+  "FULL_NAME_FOUND": "SunnyD Citrus Punch, Blue Raspberry",
+  "DESCRIPTION": "Dive into a whirlpool of wild flavor with Sunny D Blue Raspberry! This vibrant and refreshing drink bursts with the bold, tangy taste of blue raspberry, turning any sip into an exhilarating flavor adventure. Perfect for those who love a twist on the traditional, Sunny D Blue Raspberry combines the beloved citrus punch you know with a new, electrifying blue raspberry blast that’s sure to invigorate your taste buds.",
+  "CATEGORY": "Beverages",
+  "BRAND": "SunnyD",
+  "SIZE": "473 mL",
+  "EAN": "0050200587009",
+  "STATUS": "MATCHED"
+ },
+ "050255361104": {
+  "FULL_NAME_FOUND": "Ritter Sport Milk Chocolate Whole Hazelnuts 2pk Mini",
+  "DESCRIPTION": "Today's snacking is all about little, everyday indulgences. Offer customers the best with Ritter Sport Mini Milk Chocolate with Whole Hazelnuts. Founded in Germany in 1912, Ritter Sport is known around the world for producing premium gourmet chocolate. The Ritter Sport Mini gives customers all the creamy milk chocolate, with whole roasted hazelnuts they love, in two mini bars. The packaging is instantly recognizable, while mini will appeal to health conscious customers.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Ritter Sport",
+  "SIZE": "",
+  "EAN": "0050255361104",
+  "STATUS": "MATCHED"
+ },
+ "050255361609": {
+  "FULL_NAME_FOUND": "Ritter Sport Mini 2 Pack Milk Chocolate With Corn Flakes 1.18 Oz",
+  "DESCRIPTION": "Today's snacking is all about little, everyday indulgences. Offer customers the best with Ritter Sport Mini Milk Chocolate with Cornflakes. Founded in Germany in 1912, Ritter Sport is known around the world for producing premium gourmet chocolate. Ritter Sport Mini gives customers all the creamy milk chocolate, and crunchy cornflake pieces they love, in two mini bars. The packaging is instantly recognizable, while mini appeals to today's health trends.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Ritter Sport",
+  "SIZE": "",
+  "EAN": "0050255361609",
+  "STATUS": "MATCHED"
+ },
+ "050428401880": {
+  "FULL_NAME_FOUND": "Gold Emblem Blueberry Pomegranate Trail Mix Bites",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Trail & Snack Mixes",
+  "BRAND": "Gold Emblem",
+  "SIZE": "",
+  "EAN": "0050428401880",
+  "STATUS": "MATCHED"
+ },
+ "050428609798": {
+  "STATUS": "UNMATCHED"
+ },
+ "050428610367": {
+  "FULL_NAME_FOUND": "Gold Emblem Abound Organic Dark Chocolate Cherry Trail Mix, 6 Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "Gold Emblem",
+  "SIZE": "",
+  "EAN": "0050428610367",
+  "STATUS": "MATCHED"
+ },
+ "050545741814": {
+  "STATUS": "UNMATCHED"
+ },
+ "050545915215": {
+  "FULL_NAME_FOUND": "Nat Sherman Cigarettes, Rich Taste",
+  "DESCRIPTION": "Class A cigarettes. Since 1930. We take only fine tobaccos and add water. The same way we've done for three generations. natsherman.com. Please do not litter. FSC.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Nat Sherman",
+  "SIZE": "",
+  "EAN": "0050545915215",
+  "STATUS": "MATCHED"
+ },
+ "050545915246": {
+  "FULL_NAME_FOUND": "Nat Sherman Cigarettes, Menthol",
+  "DESCRIPTION": "Class A cigarettes. Since 1930. We take only fine tobaccos and add water. The same way we've done for three generations. natsherman.com. Please do not litter. FSC.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Nat Sherman",
+  "SIZE": "",
+  "EAN": "0050545915246",
+  "STATUS": "MATCHED"
  }
 }

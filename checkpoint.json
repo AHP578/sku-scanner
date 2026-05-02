@@ -65758,5 +65758,95 @@
   "SIZE": "62 mL",
   "EAN": "0052000010183",
   "STATUS": "MATCHED"
+ },
+ "052000010381": {
+  "FULL_NAME_FOUND": "Gatorade Frost Thirst Quencher Arctic Blitz 32 Fl Oz Bottle",
+  "DESCRIPTION": "With a legacy over 40 years in the making, it's the most scientifically researched and game-tested way to replace electrolytes lost in sweat. Gatorade Thirst Quencher replenishes better than water, which is why it's trusted by some of the world's best athletes.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Gatorade",
+  "SIZE": "946 mL",
+  "EAN": "0052000010381",
+  "STATUS": "MATCHED"
+ },
+ "052000013269": {
+  "FULL_NAME_FOUND": "Gatorade Recover Whey Protein Bar Vanilla Almond",
+  "DESCRIPTION": "Artificially flavored. 20 g protein. See nutrition information for fat and saturated fat content. 360 calories per bar. The protein bar provider. Designed to help muscles recover. Comments? 1-800-884-2867 or visit gatorade.com. Made in Canada.",
+  "CATEGORY": "Chips",
+  "BRAND": "Gatorade",
+  "SIZE": "",
+  "EAN": "0052000013269",
+  "STATUS": "MATCHED"
+ },
+ "052000013719": {
+  "FULL_NAME_FOUND": "Gatorade 28oz Flow Thirst Quencher - Blackberry Wave",
+  "DESCRIPTION": "With a legacy over 40 years in the making, it’s the most scientifically researched and game-tested way to replace electrolytes lost in sweat. Gatorade Thirst Quencher replenishes better than water, which is why it’s trusted by some of the world’s best athletes.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Gatorade",
+  "SIZE": "828 mL",
+  "EAN": "0052000013719",
+  "STATUS": "MATCHED"
+ },
+ "052000013726": {
+  "FULL_NAME_FOUND": "Gatorade Flow Kiwi Strawberry Thirst Quencher Sports Drink - 28 Oz",
+  "DESCRIPTION": "With a legacy over 40 years in the making, it's the most scientifically researched and game-tested way to replace electrolytes lost in sweat. Gatorade Flow has full flavor with a uniquely smooth finish that hydrates better than water, which is why it's trusted by some of the world's best athletes.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Gatorade",
+  "SIZE": "828 mL",
+  "EAN": "0052000013726",
+  "STATUS": "MATCHED"
+ },
+ "052000013740": {
+  "FULL_NAME_FOUND": "Smooth Finish Thirst Quencher - 82 Calories",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Calculators",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0052000013740",
+  "STATUS": "MATCHED"
+ },
+ "052000014396": {
+  "FULL_NAME_FOUND": "Propel Watermelon Electrolyte Water Beverage 16.9 Fl. Oz. Bottle",
+  "DESCRIPTION": "Apaga tu sed mientras suministras a tu cuerpo electrolitos cruciales con este paquete de variedad de agua Propel Zero. Deliciosamente sabrosa, Propel Zero Water también es rica en potasio, vitamina C, vitamina E y vitamina B, ¡así que es bueno y bueno para usted! Propel Fitness Water fue presentado por primera vez en 2000 por The Gatorade Company, Inc., un fabricante estadounidense de bebidas y refrigerios relacionados con el deporte para atletas y cualquier persona en movimiento. Hoy en día, Propel Water es conocido por ser rico en vitaminas y antioxidantes.",
+  "CATEGORY": "Water Bottles",
+  "BRAND": "Propel",
+  "SIZE": "",
+  "EAN": "0052000014396",
+  "STATUS": "MATCHED"
+ },
+ "052000041217": {
+  "FULL_NAME_FOUND": "Gatorade G2 Lower Sugar Thirst Quencher Cool Blue 20 Fl Oz",
+  "DESCRIPTION": "Half the sugar. All the electrolytes. Made to keep you hustling. G2 hydrates with the same electrolyte formula of Gatorade Thirst Quencher but has less than half the carbs and calories.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Gatorade",
+  "SIZE": "591 mL",
+  "EAN": "0052000041217",
+  "STATUS": "MATCHED"
+ },
+ "052000041248": {
+  "FULL_NAME_FOUND": "Gatorade G Lower Sugar Thirst Quencher Cool Blue",
+  "DESCRIPTION": "With a legacy over 40 years in the making, Gatorade brings the most scientifically researched and game-tested ways to hydrate, recover, and fuel up, which is why our products are trusted by some of the world's best athletes.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Gatorade",
+  "SIZE": "591 mL",
+  "EAN": "0052000041248",
+  "STATUS": "MATCHED"
+ },
+ "052000041415": {
+  "FULL_NAME_FOUND": "リーデル Gatorade Flow Pineapple Mango Thirst Quencher Sports Drink",
+  "DESCRIPTION": "With a legacy over 40 years in the making, Gatorade brings the most scientifically researched and game-tested ways to hydrate, recover, and fuel up, which is why our products are trusted by some of the world's best athletes.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "リーデル",
+  "SIZE": "828 mL",
+  "EAN": "0052000041415",
+  "STATUS": "MATCHED"
+ },
+ "052000041422": {
+  "FULL_NAME_FOUND": "Gatorade Flow Smooth Finish Thirst Quencher Tidal Punch Sports Drink 28 Fl. Oz. Bottle",
+  "DESCRIPTION": "With a legacy over 40 years in the making, Gatorade brings the most scientifically researched and game-tested ways to hydrate, recover, and fuel up, which is why our products are trusted by some of the world's best athletes.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Gatorade",
+  "SIZE": "828 mL",
+  "EAN": "0052000041422",
+  "STATUS": "MATCHED"
  }
 }

@@ -65260,5 +65260,83 @@
   "SIZE": "",
   "EAN": "0050000579921",
   "STATUS": "MATCHED"
+ },
+ "050000666676": {
+  "STATUS": "UNMATCHED"
+ },
+ "050000903672": {
+  "FULL_NAME_FOUND": "Coffee mate Nestle Original Powdered Creamer",
+  "DESCRIPTION": "Nestle Coffee mate Original Powdered Coffee Creamer is an ideal way to create a delicious cup of coffee perfection. Smooth and rich, this original creamer delivers classic flavor that transforms every drinking experience. Original Coffee mate creamer is lactose free, gluten free and non dairy. Coffee creamer powder makes it easy to add the right amount of flavor every time, letting you easily transform your coffee into warm deliciousness. Whether it's your morning cup or an afternoon pick-me-up, this flavored coffee creamer wakes up your coffee. Store Coffee mate powdered creamer in a cool, dry place.",
+  "CATEGORY": "Coffee Creamer",
+  "BRAND": "Coffee mate",
+  "SIZE": "",
+  "EAN": "0050000903672",
+  "STATUS": "MATCHED"
+ },
+ "050100004491": {
+  "STATUS": "UNMATCHED"
+ },
+ "050100402594": {
+  "FULL_NAME_FOUND": "Healthy Choice Chicken With Rice Canned Soup",
+  "DESCRIPTION": "For a healthy version of your favorite soup, grab a can of Healthy Choice Chicken With Rice Soup. This canned soup contains tender morsels of white-meat chicken, white rice and a vibrant mixture of vegetables, all steeped in flavorful broth. Warm it on the stovetop or microwave in a covered, microwave-safe container for a healthy meal* that's ready in minutes. With 10 grams of protein and no artificial colors or flavors, this instant soup makes an easy and quick meal for weeknight dinners. From sick days to wintry nights, Healthy Choice canned soup provides a delicious and comforting meal.",
+  "CATEGORY": "Soups & Broths",
+  "BRAND": "Healthy Choice",
+  "SIZE": "",
+  "EAN": "0050100402594",
+  "STATUS": "MATCHED"
+ },
+ "050100402600": {
+  "FULL_NAME_FOUND": "Healthy Choice Chicken Noodle Canned Soup",
+  "DESCRIPTION": "For a healthy version of your favorite soup, grab a can of Healthy Choice Chicken Noodle Soup. This canned soup contains juicy white-meat chicken, tender noodles, carrots and celery, all steeped in a flavorful broth. Warm it on the stovetop or microwave in a covered, microwave-safe container for a healthy meal* that's ready in minutes. With 13 grams of protein per can and no artificial colors or flavors, this instant soup makes an easy and quick meal for weeknight dinners. From sick days to wintry nights, Healthy Choice canned soup provides a delicious and comforting meal.",
+  "CATEGORY": "Soups & Broths",
+  "BRAND": "Healthy Choice",
+  "SIZE": "",
+  "EAN": "0050100402600",
+  "STATUS": "MATCHED"
+ },
+ "050200560002": {
+  "FULL_NAME_FOUND": "SunnyD Citrus Punch, Tangy Original 16 Fl Oz",
+  "DESCRIPTION": "Experience the refreshing taste of SunnyD Orange Flavored Citrus Punch! Perfect for quenching your thirst, this delightful beverage is packed with the vibrant flavor of oranges, making it an ideal choice for any occasion. Whether you are enjoying a sunny day outdoors, hosting a gathering, or simply looking for a tasty drink to accompany your meals, SunnyD is sure to please.",
+  "CATEGORY": "Juice",
+  "BRAND": "SunnyD",
+  "SIZE": "473 mL",
+  "EAN": "0050200560002",
+  "STATUS": "MATCHED"
+ },
+ "050200561009": {
+  "FULL_NAME_FOUND": "SunnyD Citrus Punch, Orange Strawberry 16 Fl Oz",
+  "DESCRIPTION": "The BFF. This combo of tangy orange and sweet strawberry pair up to make a forever favorite flavor.",
+  "CATEGORY": "Juice",
+  "BRAND": "SunnyD",
+  "SIZE": "473 mL",
+  "EAN": "0050200561009",
+  "STATUS": "MATCHED"
+ },
+ "050200563003": {
+  "FULL_NAME_FOUND": "Sunny D Fruit Punch 16oz Bottle",
+  "DESCRIPTION": "Naturally and artificially flavored. 100% vitamin C per 8 oz. 160 calories per bottle. Contains 5% juice.",
+  "CATEGORY": "Juice",
+  "BRAND": "Sunny D",
+  "SIZE": "473 mL",
+  "EAN": "0050200563003",
+  "STATUS": "MATCHED"
+ },
+ "050200564000": {
+  "FULL_NAME_FOUND": "SunnyD Orange Fused Mango Citrus Punch 16.00 Fl Oz",
+  "DESCRIPTION": "It takes two to mango. The taste experts at SUNNYD blended just the right amount of sweet, tart and fruity to create this fun flavor.",
+  "CATEGORY": "Juice",
+  "BRAND": "SunnyD",
+  "SIZE": "473 mL",
+  "EAN": "0050200564000",
+  "STATUS": "MATCHED"
+ },
+ "050200578007": {
+  "FULL_NAME_FOUND": "Sunny D Citrus Punch, Cherry Limeade",
+  "DESCRIPTION": "Naturally and artificially flavored. 100% vitamin C per 8 oz. 120 calories per bottle. Please recycle. Contains 5% juice. Questions? Comments? www.sunnyd.com; 1-800-395-5849. SunnyD.com.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Sunny D",
+  "SIZE": "473 mL",
+  "EAN": "0050200578007",
+  "STATUS": "MATCHED"
  }
 }

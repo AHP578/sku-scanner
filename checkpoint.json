@@ -67282,5 +67282,89 @@
   "SIZE": "",
   "EAN": "0070137100881",
   "STATUS": "MATCHED"
+ },
+ "070137110941": {
+  "STATUS": "UNMATCHED"
+ },
+ "070137111276": {
+  "FULL_NAME_FOUND": "Black & Mild Cigar, Jazz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Black & Mild",
+  "SIZE": "",
+  "EAN": "0070137111276",
+  "STATUS": "MATCHED"
+ },
+ "070137111290": {
+  "FULL_NAME_FOUND": "Black & Mild Cigar, Jazz, Wood Tip",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Black & Mild",
+  "SIZE": "",
+  "EAN": "0070137111290",
+  "STATUS": "MATCHED"
+ },
+ "070137112488": {
+  "FULL_NAME_FOUND": "Black & Mild Cigar, Casino",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Black & Mild",
+  "SIZE": "",
+  "EAN": "0070137112488",
+  "STATUS": "MATCHED"
+ },
+ "070137112655": {
+  "FULL_NAME_FOUND": "Black & Mild Cigar, Jazz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Black & Mild",
+  "SIZE": "",
+  "EAN": "0070137112655",
+  "STATUS": "MATCHED"
+ },
+ "070137112662": {
+  "FULL_NAME_FOUND": "Black & Mild Cigar, Jazz, Wood Tip",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Black & Mild",
+  "SIZE": "",
+  "EAN": "0070137112662",
+  "STATUS": "MATCHED"
+ },
+ "070137114208": {
+  "FULL_NAME_FOUND": "Black & Mild Cigar, Sweets, Wood Tip",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Black & Mild",
+  "SIZE": "",
+  "EAN": "0070137114208",
+  "STATUS": "MATCHED"
+ },
+ "070137114239": {
+  "FULL_NAME_FOUND": "Black & Mild Cigar, Sweets",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Black & Mild",
+  "SIZE": "",
+  "EAN": "0070137114239",
+  "STATUS": "MATCHED"
+ },
+ "070137114246": {
+  "FULL_NAME_FOUND": "Black & Mild Cigar, Wood Tip, Sweets",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Black & Mild",
+  "SIZE": "",
+  "EAN": "0070137114246",
+  "STATUS": "MATCHED"
+ },
+ "070137114291": {
+  "FULL_NAME_FOUND": "Black & Mild Cigar, Sweets",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Black & Mild",
+  "SIZE": "",
+  "EAN": "0070137114291",
+  "STATUS": "MATCHED"
  }
 }

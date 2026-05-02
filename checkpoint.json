@@ -66028,5 +66028,95 @@
   "SIZE": "",
   "EAN": "0052000048131",
   "STATUS": "MATCHED"
+ },
+ "052000048247": {
+  "FULL_NAME_FOUND": "Gatorade Citrus Swish Artificially Flavored, Thirst Quencher",
+  "DESCRIPTION": "At Gatorade, we offer sports science & hydration innovation to help athletes fuel, recover, & perform.",
+  "CATEGORY": "Soda",
+  "BRAND": "Gatorade",
+  "SIZE": "828 mL",
+  "EAN": "0052000048247",
+  "STATUS": "MATCHED"
+ },
+ "052000050585": {
+  "FULL_NAME_FOUND": "Propel Electrolytes Water Beverage, Berry 33.8 Fl Oz",
+  "DESCRIPTION": "Give your workout a boost of fruit flavor. Each Propel sports water beverage provides electrolytes, vitamin B, and antioxidant vitamins C and E, so you can hydrate, replenish and get your best workout without adding calories.",
+  "CATEGORY": "Water",
+  "BRAND": "Propel",
+  "SIZE": "1000 mL",
+  "EAN": "0052000050585",
+  "STATUS": "MATCHED"
+ },
+ "052000050608": {
+  "FULL_NAME_FOUND": "Propel Electrolyte Water Beverage, Kiwi Strawberry 33.8 Fl Oz",
+  "DESCRIPTION": "Give your workout a boost of fruit flavor. Each Propel sports water beverage provides electrolytes, vitamin B, and antioxidant vitamins C and E, so you can hydrate, replenish and get your best workout without adding calories.",
+  "CATEGORY": "Water",
+  "BRAND": "Propel",
+  "SIZE": "1000 mL",
+  "EAN": "0052000050608",
+  "STATUS": "MATCHED"
+ },
+ "052000051193": {
+  "FULL_NAME_FOUND": "Gatorade Thirst Quencher Tropic Flash Drink",
+  "DESCRIPTION": "With a legacy over 40 years in the making, it's the most scientifically researched and game-tested way to replace electrolytes lost in sweat. Gatorade Thirst Quencher replenishes better than water, which is why it's trusted by some of the world's best athletes. Contains critical electrolytes to help replace what's lost in sweatTop off with carbohydrate energy, your body's preferred source of fuelTested in the lab and used by the pros.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Gatorade",
+  "SIZE": "828 mL",
+  "EAN": "0052000051193",
+  "STATUS": "MATCHED"
+ },
+ "052000051537": {
+  "FULL_NAME_FOUND": "Gatorade No Added Sugar Tropical Mango Electrolyte Beverage 16.9 Fl Oz",
+  "DESCRIPTION": "Gatorade G Fit Healthy Real Hydration Electrolyte Beverages contains no added sugar, no artificial sweeteners or flavors, and no added colors. Gatorade G Fit has 10 calories per bottle and is an excellent source of Vitamins A & C. This electrolyte beverage comes in multiple flavors so you are sure to find out to satisfy your tastebuds.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Gatorade",
+  "SIZE": "500 mL",
+  "EAN": "0052000051537",
+  "STATUS": "MATCHED"
+ },
+ "052000051575": {
+  "FULL_NAME_FOUND": "Gatorade Fit Watermelon Strawberry Electrolyte Beverage, 16.9 Fl Oz",
+  "DESCRIPTION": "Gatorade G Fit Healthy Real Hydration Electrolyte Beverages contains no added sugar, no artificial sweeteners or flavors, and no added colors. Gatorade G Fit has 10 calories per bottle and is an excellent source of Vitamins A & C.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Gatorade",
+  "SIZE": "500 mL",
+  "EAN": "0052000051575",
+  "STATUS": "MATCHED"
+ },
+ "052000051599": {
+  "FULL_NAME_FOUND": "Gatorade Fit, Citrus Berry Flavored, Electrolyte Beverage",
+  "DESCRIPTION": "With a legacy over 40 years in the making, Gatorade brings the most scientifically researched and game-tested ways to hydrate, recover, and fuel up, which is why our products are trusted by some of the world's best athletes.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Gatorade",
+  "SIZE": "828 mL",
+  "EAN": "0052000051599",
+  "STATUS": "MATCHED"
+ },
+ "052000051605": {
+  "FULL_NAME_FOUND": "Gatorade Fit Cherry Lime Electrolyte Beverage",
+  "DESCRIPTION": "Gatorade Fit Cherry Lime 28fl 15pk, is an electrolyte beverage for the active consumer looking for healthy real hydration, with no added sugar, no artificial flavors or sweeteners, and no added colors. Gatorade brings the most scientifically researched and game-tested ways to hydrate, recover, and fuel up, which is why our products are trusted by some of the world’s best athletes.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Gatorade",
+  "SIZE": "828 mL",
+  "EAN": "0052000051605",
+  "STATUS": "MATCHED"
+ },
+ "052000051612": {
+  "FULL_NAME_FOUND": "Gatorade Fit Electrolyte Beverage, Tropical Mango, 28 Fl Oz",
+  "DESCRIPTION": "Gatorade Fit Healthy Real Hydration Electrolyte Beverages contain no added sugar, no artificial sweeteners or flavors, and no added colors. Gatorade Fit has 10 calories per bottle and is an excellent source of Vitamins A & C.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Gatorade",
+  "SIZE": "828 mL",
+  "EAN": "0052000051612",
+  "STATUS": "MATCHED"
+ },
+ "052000051629": {
+  "FULL_NAME_FOUND": "Gatorade Electrolyte Beverage, Watermelon Strawberry 28 Fl Oz",
+  "DESCRIPTION": "With a legacy over 40 years in the making, Gatorade brings the most scientifically researched and game-tested ways to hydrate, recover, and fuel up, which is why our products are trusted by some of the world's best athletes.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Gatorade",
+  "SIZE": "828 mL",
+  "EAN": "0052000051629",
+  "STATUS": "MATCHED"
  }
 }

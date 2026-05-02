@@ -65674,5 +65674,89 @@
  },
  "051497226879": {
   "STATUS": "UNMATCHED"
+ },
+ "051500022085": {
+  "FULL_NAME_FOUND": "Smucker's Concord Grape Jelly, 12 Ounces",
+  "DESCRIPTION": "The Smucker's Concord Grape Jelly is made from high-quality fruit juice. With a sweet and subtly tart taste of wholesome grapes, this Smucker's grape jelly is an ideal complement to toasts, bagels or alongside meatball hors d'oeuvres. This bulk case with 12 grape jelly jars will be just right for restaurants, diners or convenience stores.",
+  "CATEGORY": "Jams & Jellies",
+  "BRAND": "Smucker's",
+  "SIZE": "",
+  "EAN": "0051500022085",
+  "STATUS": "MATCHED"
+ },
+ "051500057117": {
+  "FULL_NAME_FOUND": "Smucker's Squeeze Grape Jelly, 20 Ounces",
+  "DESCRIPTION": "Grape jelly can be messy, but not with Smucker’s Squeeze Grape Jelly. It is the same classic grape flavor you know and love, in an easy to use, kid-friendly squeezable bottle. No spoons or butter knives are needed to use Smucker’s Squeeze Grape Jelly, so you can enjoy the sweetness you expect without any sticky hands or countertops. This jelly is made from high-quality fruit juice. Smucker’s Squeeze Grape Jelly is perfect for on-the-go lunches, or any quick snack where you don't want added cleanup.",
+  "CATEGORY": "Jams & Jellies",
+  "BRAND": "Smucker's",
+  "SIZE": "",
+  "EAN": "0051500057117",
+  "STATUS": "MATCHED"
+ },
+ "051500057223": {
+  "FULL_NAME_FOUND": "Smucker's Squeeze Strawberry Fruit Spread, 20 Ounce",
+  "DESCRIPTION": "Kid friendly, parent friendly, peanut butter friendly - Smucker's Strawberry Fruit Spread is available in a squeeze bottle. It's easy for kids to use so parents can squeeze in a little more time for their morning coffee. Or pack it for a picnic - it pairs perfectly with soft, creamy cheeses. With a name like Smucker's, it has to be good!",
+  "CATEGORY": "Jams & Jellies",
+  "BRAND": "Smucker's",
+  "SIZE": "",
+  "EAN": "0051500057223",
+  "STATUS": "MATCHED"
+ },
+ "051500243923": {
+  "FULL_NAME_FOUND": "Crisco Pure Vegetable Oil 16 Fl Oz",
+  "DESCRIPTION": "Vegetable oil is a cholesterol free food with 14 g of total fat per serving. 120 calories per 1 tbsp. 0 g trans fat.",
+  "CATEGORY": "Cooking Oils",
+  "BRAND": "Crisco",
+  "SIZE": "",
+  "EAN": "0051500243923",
+  "STATUS": "MATCHED"
+ },
+ "051500251515": {
+  "FULL_NAME_FOUND": "Crisco Pure Canola Oil - 48oz",
+  "DESCRIPTION": "The light flavor and texture of Crisco® Pure Canola Oil allows for versatility in the kitchen. Use it for all your cooking needs from frying to baking or in a dressing or marinade.",
+  "CATEGORY": "Cooking Oils",
+  "BRAND": "Crisco",
+  "SIZE": "",
+  "EAN": "0051500251515",
+  "STATUS": "MATCHED"
+ },
+ "005200000164": {
+  "STATUS": "UNMATCHED"
+ },
+ "052000001693": {
+  "FULL_NAME_FOUND": "Propel Electrolyte Water Beverage, Berry 16.9 Fl Oz",
+  "DESCRIPTION": "Propel is designed for your active life. Going beyond just hydration by replenishing you with antioxidant vitamins, Propel quenches your thrist with great-tasting flavors without adding calories.",
+  "CATEGORY": "Water",
+  "BRAND": "Propel",
+  "SIZE": "500 mL",
+  "EAN": "0052000001693",
+  "STATUS": "MATCHED"
+ },
+ "052000001716": {
+  "FULL_NAME_FOUND": "Propel Kiwi Strawberry Electrolyte Water Beverage 16.9 Fl Oz",
+  "DESCRIPTION": "Propel is designed for your active life. Going beyond just hydration by replenishing you with antioxidant vitamins, Propel quenches your thrist with great-tasting flavors without adding calories.",
+  "CATEGORY": "Water",
+  "BRAND": "Propel",
+  "SIZE": "500 mL",
+  "EAN": "0052000001716",
+  "STATUS": "MATCHED"
+ },
+ "052000001730": {
+  "FULL_NAME_FOUND": "Propel Electrolyte Water Beverage, Zero Sugar, Grape 16.9 Fl Oz",
+  "DESCRIPTION": "Propel is designed for your active life. Going beyond just hydration by replenishing you with antioxidant vitamins, Propel quenches your thrist with great-tasting flavors without adding calories.",
+  "CATEGORY": "Water",
+  "BRAND": "Propel",
+  "SIZE": "500 mL",
+  "EAN": "0052000001730",
+  "STATUS": "MATCHED"
+ },
+ "052000010183": {
+  "FULL_NAME_FOUND": "Gatorade Prime Chocolate Chip Energy Bar 2.1 Oz. Wrapper",
+  "DESCRIPTION": "Gatorade Fuel Bars are the new way to fuel up for athletic activity. With carbohydrates and protein, every bar provides convenient on-the-go fuel to help athletes compete.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Gatorade",
+  "SIZE": "62 mL",
+  "EAN": "0052000010183",
+  "STATUS": "MATCHED"
  }
 }

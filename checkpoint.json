@@ -66388,5 +66388,95 @@
   "SIZE": "946 mL",
   "EAN": "0052000338775",
   "STATUS": "MATCHED"
+ },
+ "052066002078": {
+  "FULL_NAME_FOUND": "Mama Instant Noodles, Oriental Style, Shrimp Flavor (Tom Yum)",
+  "DESCRIPTION": "Yum Yum Tom Yum Flavor Instant Noodles is a product from Thailand. It comes in a pack of 5 servings and is manufactured by the brand Yum Yum.",
+  "CATEGORY": "Pasta & Noodles",
+  "BRAND": "Mama",
+  "SIZE": "",
+  "EAN": "0052066002078",
+  "STATUS": "MATCHED"
+ },
+ "052100030265": {
+  "FULL_NAME_FOUND": "McCormick Black Pepper Grinder - 1oz",
+  "DESCRIPTION": "Enjoy freshly ground pepper wherever you need it with McCormick Black Peppercorn Grinder. Simply adjust the built-in grinder to fine, medium, or coarse grind, then twist to add just the right amount of pepper. Our black peppercorn grinder always starts with premium, hand-harvested, whole peppercorns. When ground, the dark-brown-to-black, deep-set wrinkled peppercorns has a distinct peppery flavor with deep, earthy flavor and aroma that can be blended into almost any dish. Choose coarse ground black pepper to rub on meats or finely ground pepper for eggs, pasta, salads, or vegetables. The versatility is limitless! Keep this whole peppercorn grinder along with a salt grinder in the kitchen, at the table, or by the grill for freshly ground flavor anytime.",
+  "CATEGORY": "Seasonings & Spices",
+  "BRAND": "McCormick",
+  "SIZE": "",
+  "EAN": "0052100030265",
+  "STATUS": "MATCHED"
+ },
+ "052100746029": {
+  "FULL_NAME_FOUND": "McCormick Sea Salt Grinder - 2.12 Oz",
+  "DESCRIPTION": "The salt crystals in McCormick® Sea Salt Grinder are naturally harvested from the Mediterranean. Our adjustable grinder conveniently offers a coarser grind for seasoning meats or a finer grind for dishes like pasta, vegetables or eggs. Sea salt is coarser than table salt, with a higher concentration of minerals for enhanced flavor. You can adjust this grinder for perfectly ground sea salt to suit your taste or recipe. Use coarse salt for bold texture in meat rubs. With a twist, adjust for fine salt to season potatoes, sauces or soups. Keep this salt grinder along with a whole peppercorn grinder in the kitchen, at the table and by the grill for freshly ground flavor anytime. The sodium level in sea salt is comparable to table salt.",
+  "CATEGORY": "Seasonings & Spices",
+  "BRAND": "McCormick",
+  "SIZE": "",
+  "EAN": "0052100746029",
+  "STATUS": "MATCHED"
+ },
+ "053000000723": {
+  "FULL_NAME_FOUND": "Borden String Cheese, Mozzarella",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Dips & Spreads",
+  "BRAND": "Borden",
+  "SIZE": "",
+  "EAN": "0053000000723",
+  "STATUS": "MATCHED"
+ },
+ "053000004363": {
+  "FULL_NAME_FOUND": "Borden Slices Grilled Cheese Melts",
+  "DESCRIPTION": "Since 1857. See nutrition information for saturated fat and sodium content. 3X the calcium of process cheese food.",
+  "CATEGORY": "Cheese",
+  "BRAND": "Borden",
+  "SIZE": "",
+  "EAN": "0053000004363",
+  "STATUS": "MATCHED"
+ },
+ "053000006152": {
+  "FULL_NAME_FOUND": "Borden Cheese Product, Pasteurized Prepared, Sharp, Reduced Fat, 2% Milk Singles",
+  "DESCRIPTION": "1/3 less fat than process cheese food. Since 1857. See nutrition information for saturated fat and sodium content.",
+  "CATEGORY": "Cheese",
+  "BRAND": "Borden",
+  "SIZE": "",
+  "EAN": "0053000006152",
+  "STATUS": "MATCHED"
+ },
+ "053800030210": {
+  "FULL_NAME_FOUND": "Lindsay California Black Ripe, Pitted, Extra Large Olives - 6 Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Olives & Capers",
+  "BRAND": "Lindsay",
+  "SIZE": "",
+  "EAN": "0053800030210",
+  "STATUS": "MATCHED"
+ },
+ "054100000507": {
+  "FULL_NAME_FOUND": "Vlasic Bread And Butter Pickles Sweet Pickle Chips 24 Fl Oz Jar",
+  "DESCRIPTION": "Vlasic Bread and Butter Pickle Chips are deliciously tart with a hint of sweetness. All included ingredients, along with the Vlasic secret pickling recipe, make these bread and butter pickles mildly sweet and tasty. These sandwich pickles contain 15 calories per serving and deliver a one-of-a-kind crunch your entire family will love. Bread and butter pickle chips are ideal for topping hamburgers and sandwiches, or you can enjoy them right out of the jar as a satisfying snack. Vlasic Bread and Butter Chips are fresh-packed in a 24 fluid ounce resealable jar to keep them crunchy and delicious. Vlasic offers several flavors and sizes of pickles, peppers and relish.",
+  "CATEGORY": "Condiments & Sauces",
+  "BRAND": "Vlasic",
+  "SIZE": "",
+  "EAN": "0054100000507",
+  "STATUS": "MATCHED"
+ },
+ "054100000606": {
+  "FULL_NAME_FOUND": "Vlasic Pickles, Spears, Kosher Dill 24 Fl Oz",
+  "DESCRIPTION": "Enjoy the bold, zesty flavor of Vlasic Kosher Dill Pickle Spears! Packed fresh for maximum crunch, these classic pickle spears deliver the perfect balance of tangy dill and savory flavor in every bite. Perfect for snacking, sandwiches, burgers, or as a tasty side, they‚Äôre a versatile and refreshing addition to any meal. Sealed in a 24 oz jar to lock in their signature crispness and flavor, these pickles are a must-have for pickle lovers!",
+  "CATEGORY": "Condiments & Sauces",
+  "BRAND": "Vlasic",
+  "SIZE": "",
+  "EAN": "0054100000606",
+  "STATUS": "MATCHED"
+ },
+ "054100005601": {
+  "FULL_NAME_FOUND": "Vlasic Pickles, Kosher Dill, Stackers, Fresh Packed 16 Fl Oz",
+  "DESCRIPTION": "Frank Vlasic moved to America in 1912 to build a better life for his family. Problem was, he made cheese, not pickles so the success part of the story took a while.",
+  "CATEGORY": "Condiments & Sauces",
+  "BRAND": "Vlasic",
+  "SIZE": "",
+  "EAN": "0054100005601",
+  "STATUS": "MATCHED"
  }
 }

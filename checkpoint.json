@@ -69802,5 +69802,65 @@
  },
  "071610830387": {
   "STATUS": "UNMATCHED"
+ },
+ "071610834972": {
+  "STATUS": "UNMATCHED"
+ },
+ "071610845565": {
+  "STATUS": "UNMATCHED"
+ },
+ "071610845589": {
+  "FULL_NAME_FOUND": "VegaFina Toro 6\" * 50",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "VegaFina",
+  "SIZE": "",
+  "EAN": "0071610845589",
+  "STATUS": "MATCHED"
+ },
+ "071610845596": {
+  "FULL_NAME_FOUND": "VegaFina Churchill 7\"1/2 * 50",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "VegaFina",
+  "SIZE": "",
+  "EAN": "0071610845596",
+  "STATUS": "MATCHED"
+ },
+ "071610847361": {
+  "STATUS": "UNMATCHED"
+ },
+ "071610847729": {
+  "STATUS": "UNMATCHED"
+ },
+ "071610847781": {
+  "STATUS": "UNMATCHED"
+ },
+ "071610854208": {
+  "FULL_NAME_FOUND": "Saint Luis Rey Cigar, Rothchilde",
+  "DESCRIPTION": "A full-bodied cigar with deep earthy, spicy, leathery, and coffee notes. Its dark Nicaraguan wrapper covers a Nicaraguan binder and long-filler leaves from Honduras, Peru, and Nicaragua. Handmade in Honduras, Saint Luis Rey Rothchilde received an 88 rating from Cigar Aficionado.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Saint Luis Rey",
+  "SIZE": "",
+  "EAN": "0071610854208",
+  "STATUS": "MATCHED"
+ },
+ "071610854888": {
+  "FULL_NAME_FOUND": "St Luis Rey Saint Louis Maduro Titan Single",
+  "DESCRIPTION": "Looking for a great cigar? Look no further than the Saint Luis Rey Maduro. Expertly crafted in Honduras, these exquisite cigars are beautifully packaged in lovely semi-boite nature boxes. Saint Luis Rey cigars achieve their exceptional full flavor and enticing aroma through a unique blend of Honduran, Nicaraguan, and Peruvian long filler tobaccos, a Nicaraguan binder and a San Andrés Morrón wrapper. It is a bold, full-bodied smoke with rich tastes of coffee and tobacco that will please the experienced cigar smoker.",
+  "CATEGORY": "Cigars",
+  "BRAND": "St Luis Rey",
+  "SIZE": "",
+  "EAN": "0071610854888",
+  "STATUS": "MATCHED"
+ },
+ "071610854918": {
+  "FULL_NAME_FOUND": "Saint Luis Rey Titan Single 1",
+  "DESCRIPTION": "A full-bodied cigar with deep earthy, spicy, leathery, and coffee notes. Its dark Nicaraguan wrapper covers a Nicaraguan binder and long-filler leaves from Honduras, Peru, and Nicaragua. Handmade in Honduras, Saint Luis Rey cigars are regarded for their fine construction and delicious flavors and aroma.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Saint Luis Rey",
+  "SIZE": "",
+  "EAN": "0071610854918",
+  "STATUS": "MATCHED"
  }
 }

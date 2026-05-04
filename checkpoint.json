@@ -75514,5 +75514,89 @@
   "SIZE": "",
   "EAN": "0077741558275",
   "STATUS": "MATCHED"
+ },
+ "077817106102": {
+  "FULL_NAME_FOUND": "Utz Quality Foods Bach Butter Twist Pretzel",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Pretzels",
+  "BRAND": "Utz Quality Foods",
+  "SIZE": "",
+  "EAN": "0077817106102",
+  "STATUS": "MATCHED"
+ },
+ "077817286064": {
+  "FULL_NAME_FOUND": "Bachman Jax Puffed Curls, Real Cheddar Cheese",
+  "DESCRIPTION": "Our Jax Puffed Curls are made with real cheddar cheese and have a unique flavor and texture you are sure to love. Slow baked and indiviually puffed these corn snacks will be hard to resist! Always a customer favorite these are perfect for lunches, the office or sending to someone in need of some serious munchies!",
+  "CATEGORY": "Chips",
+  "BRAND": "Bachman",
+  "SIZE": "",
+  "EAN": "0077817286064",
+  "STATUS": "MATCHED"
+ },
+ "077900354397": {
+  "FULL_NAME_FOUND": "Jimmy Dean Croissant Sausage Egg & Cheese Sandwich",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Door Knobs & Handles",
+  "BRAND": "Jimmy Dean",
+  "SIZE": "",
+  "EAN": "0077900354397",
+  "STATUS": "MATCHED"
+ },
+ "077900354434": {
+  "FULL_NAME_FOUND": "Jimmy Dean Delights Turkey Sausage, Egg White & Cheese English Muffin Sandwiches, 12 Count (Frozen)",
+  "DESCRIPTION": "Give more power to your mornings with Jimmy Dean Delights® English Muffin Sandwiches. Savory turkey sausage, fluffy egg whites, and real cheese come together on a toasty English muffin made with whole grains for a delicious, portable breakfast at home or on-the-go. With 17 grams of protein and just 250 calories per serving, our Turkey Sausage, Egg White & Cheese English Muffin Sandwiches are the perfect protein-packed option to lighten up your breakfast routine. Can a breakfast sandwich make the world a brighter place? That’s a mighty big task for a sandwich, but at Jimmy Dean®, we’re ready for it. When you start your morning off right it can lead to a great day, and you can even pass that sunshine on to others. And if everyone has a great day, imagine all the good we can do. So let’s do it - let’s shine it forward and make this world a brighter place one breakfast sandwich at a time.",
+  "CATEGORY": "Meat",
+  "BRAND": "Jimmy Dean",
+  "SIZE": "",
+  "EAN": "0077900354434",
+  "STATUS": "MATCHED"
+ },
+ "077958694414": {
+  "FULL_NAME_FOUND": "Panera Bread At Home Chicken Noodle Soup 10 Oz. Tub",
+  "DESCRIPTION": "The Panera Bread Chicken Noodle Soup is made with chicken pieces, curly egg noodles, carrots, celery and herbs in home-style chicken broth. It makes a good meal option. Ready to heat and serve, it saves time and effort. The bulk case with 8 packs of Panera Bread Chicken Noodle Soup is ideal for supermarkets, hypermarkets, and retail stores.",
+  "CATEGORY": "Soups & Broths",
+  "BRAND": "Panera Bread",
+  "SIZE": "",
+  "EAN": "0077958694414",
+  "STATUS": "MATCHED"
+ },
+ "077958694919": {
+  "FULL_NAME_FOUND": "Panera Bread At Home Soup, Broccoli Cheddar",
+  "DESCRIPTION": "Broccoli, shredded carrot and select seasonings simmered in a velvety smooth cheese sauce.",
+  "CATEGORY": "Soups & Broths",
+  "BRAND": "Panera Bread",
+  "SIZE": "",
+  "EAN": "0077958694919",
+  "STATUS": "MATCHED"
+ },
+ "077975002315": {
+  "STATUS": "UNMATCHED"
+ },
+ "077975022344": {
+  "FULL_NAME_FOUND": "Snyder's of Hanover Hard Sourdough Honey Mustard & Onion 3.50 Oz",
+  "DESCRIPTION": "Indulge in the irresistible crunch of Snyder's Of Hanover Hard Sourdough Honey Mustard & Onion Pretzel Pieces! These delightful pretzel pieces are a perfect blend of savory and sweet, making them an ideal snack for any occasion. Each bite delivers a satisfying crunch paired with the zesty flavor of honey mustard and the aromatic essence of onion. Perfect for sharing at parties, enjoying during movie nights, or simply snacking on-the-go, these pretzel pieces are sure to please.",
+  "CATEGORY": "Pretzels",
+  "BRAND": "Snyder's of Hanover",
+  "SIZE": "",
+  "EAN": "0077975022344",
+  "STATUS": "MATCHED"
+ },
+ "077975028049": {
+  "FULL_NAME_FOUND": "Eatsmart Snacks Veggie Crisps With Sea Salt 1.250 Oz",
+  "DESCRIPTION": "Veggie Crisps are made with potato, tomato & spinach ingredients. Then they're seasoned with sea salt to bring out the subtle veggie flavors and prepared in 100% expeller pressed sunflower oil.",
+  "CATEGORY": "Chips",
+  "BRAND": "Eatsmart Snacks",
+  "SIZE": "",
+  "EAN": "0077975028049",
+  "STATUS": "MATCHED"
+ },
+ "077975028766": {
+  "FULL_NAME_FOUND": "Snyders Of Hanover, Pieces Pretzel, Jalapeno, Jalapeno",
+  "DESCRIPTION": "Artificially flavored sourdough hard pretzel. Bursting with flavor! Partially produced with genetic engineering.",
+  "CATEGORY": "Pretzels",
+  "BRAND": "Snyders",
+  "SIZE": "",
+  "EAN": "0077975028766",
+  "STATUS": "MATCHED"
  }
 }

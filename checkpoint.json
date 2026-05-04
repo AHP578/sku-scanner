@@ -75424,5 +75424,95 @@
   "SIZE": "",
   "EAN": "0077567269881",
   "STATUS": "MATCHED"
+ },
+ "077567613707": {
+  "FULL_NAME_FOUND": "Magnum Ice Cream Bar Double Chocolate Vanilla",
+  "DESCRIPTION": "PRODUCT DETAILS Twice as nice and featuring two layers of Belgian chocolate. Magnum Ice Cream's Double Chocolate Vanilla ice cream bars are tasty luxury personified. Fragrant Madagascan vanilla bean ice cream is dipped in a smooth, sumptuous chocolate sauce, and covered in a cracking milk chocolate shell. Made with Belgian Chocolate.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "Magnum",
+  "SIZE": "",
+  "EAN": "0077567613707",
+  "STATUS": "MATCHED"
+ },
+ "077741360007": {
+  "FULL_NAME_FOUND": "Oak Farms Whole Milk - 1 Gl",
+  "DESCRIPTION": "Our Whole Milk is a delicious, creamy option for all your dairy needs. Made with fresh, quality milk from our Clover Farms, it's a great source of calcium and essential vitamins. Perfect for a wholesome breakfast or as a refreshing addition to your drinks and recipes.",
+  "CATEGORY": "Milk",
+  "BRAND": "Oak Farms",
+  "SIZE": "3785 mL",
+  "EAN": "0077741360007",
+  "STATUS": "MATCHED"
+ },
+ "077741360014": {
+  "FULL_NAME_FOUND": "Cheetos Clover Farms 2% Reduced Fat Milk - 240 Ml",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Milk",
+  "BRAND": "Cheetos",
+  "SIZE": "3785 mL",
+  "EAN": "0077741360014",
+  "STATUS": "MATCHED"
+ },
+ "077741360045": {
+  "FULL_NAME_FOUND": "Clover Farms Whole Milk Half Gallon",
+  "DESCRIPTION": "Indulge in the rich taste and creamy texture of Clover Farms Dairy Whole Milk. Made from the finest quality milk sourced from our local farms, this 1/2 gallon will satisfy your cravings and provide essential nutrients for a healthy lifestyle. Treat yourself to the best milk on the market.",
+  "CATEGORY": "Milk",
+  "BRAND": "Clover Farms",
+  "SIZE": "",
+  "EAN": "0077741360045",
+  "STATUS": "MATCHED"
+ },
+ "077741360052": {
+  "FULL_NAME_FOUND": "Milk 1% Gallon",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Milk",
+  "BRAND": "",
+  "SIZE": "3785 mL",
+  "EAN": "0077741360052",
+  "STATUS": "MATCHED"
+ },
+ "077741360168": {
+  "FULL_NAME_FOUND": "Clover Farms Milk 2 % Half Gallon Plastic",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Milk",
+  "BRAND": "Clover Farms",
+  "SIZE": "",
+  "EAN": "0077741360168",
+  "STATUS": "MATCHED"
+ },
+ "077741360304": {
+  "FULL_NAME_FOUND": "Milk 1% Half Gallon Plastic",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Milk",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0077741360304",
+  "STATUS": "MATCHED"
+ },
+ "077741360328": {
+  "FULL_NAME_FOUND": "Clover Farms Milk Homo Quart Plastic",
+  "DESCRIPTION": "Enjoy Clover Farms milk the old-fashioned way – refreshing and full of flavor. Pour a cold glass today and taste the difference! Clover Farms Vitamin D / Whole Milk has a very creamy and rich flavor and is loaded with essential vitamins and minerals.",
+  "CATEGORY": "Milk",
+  "BRAND": "Clover Farms",
+  "SIZE": "",
+  "EAN": "0077741360328",
+  "STATUS": "MATCHED"
+ },
+ "077741518330": {
+  "FULL_NAME_FOUND": "Orange Juice",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0077741518330",
+  "STATUS": "MATCHED"
+ },
+ "077741558275": {
+  "FULL_NAME_FOUND": "Fresh Half-and-half - 40 Calories",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Dairy Products",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0077741558275",
+  "STATUS": "MATCHED"
  }
 }

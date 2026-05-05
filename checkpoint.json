@@ -77596,5 +77596,83 @@
   "SIZE": "",
   "EAN": "0082988010028",
   "STATUS": "MATCHED"
+ },
+ "082988010066": {
+  "FULL_NAME_FOUND": "White Castle Sliders, Classic Cheese",
+  "DESCRIPTION": "White Castle slider is steam-grilled over savory onions to create the hot, tasty flavor you crave. America's favorite slider is ready to eat.",
+  "CATEGORY": "Meat",
+  "BRAND": "White Castle",
+  "SIZE": "",
+  "EAN": "0082988010066",
+  "STATUS": "MATCHED"
+ },
+ "082988011063": {
+  "FULL_NAME_FOUND": "White Castle Jalapeno Cheese Sliders",
+  "DESCRIPTION": "EACH White Castle slider is steam-grilled over savory onions to create the hot, tasty flavor you crave. Our burgers are made from 100% beef, with zero additives or fillers. After just a few seconds in the microwave or a few minutes on the stove top, America's favorite slider is ready to eat.",
+  "CATEGORY": "Cheese",
+  "BRAND": "White Castle",
+  "SIZE": "",
+  "EAN": "0082988011063",
+  "STATUS": "MATCHED"
+ },
+ "082988040063": {
+  "STATUS": "UNMATCHED"
+ },
+ "082988040070": {
+  "FULL_NAME_FOUND": "White Castle Sliders, Chicken Breast",
+  "DESCRIPTION": "Breaded chicken with rib meat on our signature bun. 19 grams of protein per serving. 330 calories per serving. This product contains a bioengineered food ingredient. Fully cooked. Made with white meat. whitecastle.com/contact-us. For additional heating methods visit whitecastle.com/grocery. For questions or comments about this product, contact us at whitecastle.",
+  "CATEGORY": "Wine",
+  "BRAND": "White Castle",
+  "SIZE": "154 mL",
+  "EAN": "0082988040070",
+  "STATUS": "MATCHED"
+ },
+ "082988040087": {
+  "FULL_NAME_FOUND": "White Castle Sliders, Chicken Breast",
+  "DESCRIPTION": "Enjoy your daily dose of protein with these White Castle Individually Wrapped Chicken Sliders. They are microwaveable for a hot treat in just minutes. Made with all-white meat breaded chicken breast and steamed buns. Fully cooked and assembled. Microwaveable for quick heating.",
+  "CATEGORY": "Prepared Foods",
+  "BRAND": "White Castle",
+  "SIZE": "",
+  "EAN": "0082988040087",
+  "STATUS": "MATCHED"
+ },
+ "083142002019": {
+  "FULL_NAME_FOUND": "Pride Marble Cake",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Marbles",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0083142002019",
+  "STATUS": "MATCHED"
+ },
+ "083142002026": {
+  "FULL_NAME_FOUND": "Pride Banana Nut Pnd Cake",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Bananas",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0083142002026",
+  "STATUS": "MATCHED"
+ },
+ "083142002118": {
+  "FULL_NAME_FOUND": "Pride Gourmet Corn Bread",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Breads & Buns",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0083142002118",
+  "STATUS": "MATCHED"
+ },
+ "083142002149": {
+  "FULL_NAME_FOUND": "Pride Lemon 5 Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0083142002149",
+  "STATUS": "MATCHED"
+ },
+ "083142002156": {
+  "STATUS": "UNMATCHED"
  }
 }

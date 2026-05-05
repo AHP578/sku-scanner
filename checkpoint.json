@@ -78622,5 +78622,95 @@
   "SIZE": "473 mL",
   "EAN": "0089396156263",
   "STATUS": "MATCHED"
+ },
+ "089396156294": {
+  "FULL_NAME_FOUND": "Mistic Juice Drink, Tropical Haze",
+  "DESCRIPTION": "All naturally flavored juice drink from concentrate. 5% Juice. No preservatives.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Mistic",
+  "SIZE": "473 mL",
+  "EAN": "0089396156294",
+  "STATUS": "MATCHED"
+ },
+ "089396156300": {
+  "FULL_NAME_FOUND": "Mistic Juice Drink, Lotta Colada 16 Oz",
+  "DESCRIPTION": "Naturally and artificially flavored juice drink from concentrate. No preservatives. 1% juice. Made in USA.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Mistic",
+  "SIZE": "473 mL",
+  "EAN": "0089396156300",
+  "STATUS": "MATCHED"
+ },
+ "090478410012": {
+  "FULL_NAME_FOUND": "Jarritos Mandarin Soda, 12.5 Fl Oz",
+  "DESCRIPTION": "Jarrito’s Sodas were Mexico’s first national soft drink, and are now the best selling Mexican soft drink in America. They compliment Mexican food perfectly due to their nine great tasting and authentically Mexican flavours.",
+  "CATEGORY": "Soda",
+  "BRAND": "Jarritos",
+  "SIZE": "370 mL",
+  "EAN": "0090478410012",
+  "STATUS": "MATCHED"
+ },
+ "090478410029": {
+  "FULL_NAME_FOUND": "Jarritos Soda, Tamarind 12.5 Fl Oz",
+  "DESCRIPTION": "When you're in the mood for a sweet and bubbly beverage, grab a Mexican Soda from Jarritos. You could never believe that fruit could have such a punch. Made with 100% natural sugar and natural flavors, you can indulge your sweet tooth without the guilt. Pour over ice or drink straight from the bottle to enjoy a refreshing sip.",
+  "CATEGORY": "Soda",
+  "BRAND": "Jarritos",
+  "SIZE": "370 mL",
+  "EAN": "0090478410029",
+  "STATUS": "MATCHED"
+ },
+ "090478410616": {
+  "FULL_NAME_FOUND": "Mineragua Sparkling Water 12.5 Fl Oz",
+  "DESCRIPTION": "For a refreshing, bubbly drink, reach for Mineragua from Jarritos . This club soda beverage has no calories and no sugar, so you can feel good about drinking it. Add your own flavors by tossing in some fruits like lemons or grapefruit for a citrus twist. A great way to cool off on a hot summer day.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Mineragua",
+  "SIZE": "370 mL",
+  "EAN": "0090478410616",
+  "STATUS": "MATCHED"
+ },
+ "090500000006": {
+  "FULL_NAME_FOUND": "Winston Cigarettes, Black, Bold 100's",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Winston",
+  "SIZE": "",
+  "EAN": "0090500000006",
+  "STATUS": "MATCHED"
+ },
+ "090500000433": {
+  "FULL_NAME_FOUND": "N/A Maverick Menthol Gold Box 100's",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "N/A",
+  "SIZE": "",
+  "EAN": "0090500000433",
+  "STATUS": "MATCHED"
+ },
+ "090500000556": {
+  "FULL_NAME_FOUND": "Maverick Cigarettes, 100s, Silver",
+  "DESCRIPTION": "Premium quality. 20 class A cigarettes. These cigarettes do not present a reduced risk of harm compared to other cigarettes. Underage sale prohibited. A Federal Court has ordered RJ Reynolds Tobacco, Altria, Philip Morris USA, and Lorillard (the previous maker of Maverick) to make this statement about low tar and light cigarettes being as harmful as regular cigarettes. FSC.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Maverick",
+  "SIZE": "",
+  "EAN": "0090500000556",
+  "STATUS": "MATCHED"
+ },
+ "090500000624": {
+  "FULL_NAME_FOUND": "Winston White Box Cigarettes 1",
+  "DESCRIPTION": "Naturally smooth. Open like a box or a soft pack. Class A cigarettes. FSC.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Winston",
+  "SIZE": "",
+  "EAN": "0090500000624",
+  "STATUS": "MATCHED"
+ },
+ "090500000952": {
+  "FULL_NAME_FOUND": "Salem Cigarettes, Refreshing Menthol, Silver Box",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Salem",
+  "SIZE": "",
+  "EAN": "0090500000952",
+  "STATUS": "MATCHED"
  }
 }

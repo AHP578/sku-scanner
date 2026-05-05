@@ -77104,5 +77104,83 @@
   "SIZE": "",
   "EAN": "0079656051643",
   "STATUS": "MATCHED"
+ },
+ "079783406125": {
+  "FULL_NAME_FOUND": "Austin Cheese Sandwich Crackers, Peanut Butter 1.38 Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Crackers",
+  "BRAND": "Austin",
+  "SIZE": "",
+  "EAN": "0079783406125",
+  "STATUS": "MATCHED"
+ },
+ "079783406156": {
+  "FULL_NAME_FOUND": "Austin Cheese Crackers With Cheddar Cheese, 1.38 Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Crackers",
+  "BRAND": "Austin",
+  "SIZE": "",
+  "EAN": "0079783406156",
+  "STATUS": "MATCHED"
+ },
+ "079783406200": {
+  "FULL_NAME_FOUND": "Austin Sandwich Crackers, Peanut Butter On Toasty 1.38 Oz",
+  "DESCRIPTION": "Discover the perfect snack with Austin Toasty Crackers with Peanut Butter! These deliciously crunchy crackers are paired with creamy peanut butter, making them an ideal treat for any time of the day. Each package contains 1.38 ounces of individually wrapped crackers, ensuring freshness and convenience. Perfect for on-the-go snacking, school lunches, or a quick pick-me-up at home, these crackers are a delightful combination of taste and texture that everyone will love.",
+  "CATEGORY": "Crackers",
+  "BRAND": "Austin",
+  "SIZE": "",
+  "EAN": "0079783406200",
+  "STATUS": "MATCHED"
+ },
+ "079894001332": {
+  "FULL_NAME_FOUND": "Harrisburg Dairies Diaries Whole Milk 1Gal",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Dairy Products",
+  "BRAND": "Harrisburg Dairies",
+  "SIZE": "",
+  "EAN": "0079894001332",
+  "STATUS": "MATCHED"
+ },
+ "079894001981": {
+  "FULL_NAME_FOUND": "Milk",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0079894001981",
+  "STATUS": "MATCHED"
+ },
+ "079894002049": {
+  "FULL_NAME_FOUND": "Shark Rocket Ultra-Light Upright Vacuum W/ Attachments GREEN V33007",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Vacuums",
+  "BRAND": "Shark",
+  "SIZE": "",
+  "EAN": "0079894002049",
+  "STATUS": "MATCHED"
+ },
+ "079894002056": {
+  "FULL_NAME_FOUND": "Milk 1% Low Fat",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0079894002056",
+  "STATUS": "MATCHED"
+ },
+ "079894002261": {
+  "STATUS": "UNMATCHED"
+ },
+ "079894002650": {
+  "FULL_NAME_FOUND": "Harrisburg Dairies Skim Milk Fat Free",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Milk",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0079894002650",
+  "STATUS": "MATCHED"
+ },
+ "079894005842": {
+  "STATUS": "UNMATCHED"
  }
 }

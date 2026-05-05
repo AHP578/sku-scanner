@@ -78304,5 +78304,77 @@
  },
  "088168241770": {
   "STATUS": "UNMATCHED"
+ },
+ "088168243200": {
+  "STATUS": "UNMATCHED"
+ },
+ "088168246102": {
+  "FULL_NAME_FOUND": "Amoray Bathroom Cleaner Reg12/13oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Electronics Cleaners",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0088168246102",
+  "STATUS": "MATCHED"
+ },
+ "088168246133": {
+  "FULL_NAME_FOUND": "Amoray All Purpose Cleaner 13oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Electronics Cleaners",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0088168246133",
+  "STATUS": "MATCHED"
+ },
+ "088168261112": {
+  "FULL_NAME_FOUND": "Magic Glove Black Only",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Gloves & Mittens",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0088168261112",
+  "STATUS": "MATCHED"
+ },
+ "088168261334": {
+  "STATUS": "UNMATCHED"
+ },
+ "088168500020": {
+  "FULL_NAME_FOUND": "Quality Home Carton Sealing Tape",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Packing Tape",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0088168500020",
+  "STATUS": "MATCHED"
+ },
+ "088168702790": {
+  "STATUS": "UNMATCHED"
+ },
+ "088168777767": {
+  "FULL_NAME_FOUND": "My Products Bandana 100% Cotton",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Bandanas & Headties",
+  "BRAND": "My Products",
+  "SIZE": "",
+  "EAN": "0088168777767",
+  "STATUS": "MATCHED"
+ },
+ "088168790148": {
+  "FULL_NAME_FOUND": "My Glass Ashtray #79014 Poker",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Glass",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0088168790148",
+  "STATUS": "MATCHED"
+ },
+ "088168790155": {
+  "FULL_NAME_FOUND": "My #79015 Glass Ashtray/tattoo",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Glass",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0088168790155",
+  "STATUS": "MATCHED"
  }
 }

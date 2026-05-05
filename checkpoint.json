@@ -77344,5 +77344,95 @@
   "SIZE": "1000 mL",
   "EAN": "0080793808335",
   "STATUS": "MATCHED"
+ },
+ "080793808410": {
+  "FULL_NAME_FOUND": "Fuze Juice Drink, Strawberry Lemonade 33.8 Oz",
+  "DESCRIPTION": "FUZE offers a delicious line-up of iced teas and juice drinks inFUZEd with vitamins and a healthy dose of optimism to add a vibrant splash of flavor to your day.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Fuze",
+  "SIZE": "1000 mL",
+  "EAN": "0080793808410",
+  "STATUS": "MATCHED"
+ },
+ "080793808458": {
+  "FULL_NAME_FOUND": "Fuze Berry Punch Bottle, 1 Liter",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Fuze",
+  "SIZE": "1000 mL",
+  "EAN": "0080793808458",
+  "STATUS": "MATCHED"
+ },
+ "080793808496": {
+  "FULL_NAME_FOUND": "Fuze Iced Tea Lemon Bottle With Vitamins B6 And B12, 20 Fl Oz",
+  "DESCRIPTION": "Quench your thirst with this naturally flavored lemon tea beverage The refreshing tea comes ready to drink. Includes vitamins B6 and B12.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Fuze",
+  "SIZE": "591 mL",
+  "EAN": "0080793808496",
+  "STATUS": "MATCHED"
+ },
+ "080793809264": {
+  "FULL_NAME_FOUND": "NOS Zero Energy Drink, High Performance",
+  "DESCRIPTION": "0 calories per can. With CMPLX6 for enhanced mental focus + high performance energy.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "NOS",
+  "SIZE": "473 mL",
+  "EAN": "0080793809264",
+  "STATUS": "MATCHED"
+ },
+ "080793809301": {
+  "FULL_NAME_FOUND": "NOS Active Energy Drink Fruit Punch 22 Fl. Oz. Plastic Bottle",
+  "DESCRIPTION": "Flavored with other natural flavors. 10 calories per 12 fl oz serving. Electrolytes. Natural caffeine.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "NOS",
+  "SIZE": "651 mL",
+  "EAN": "0080793809301",
+  "STATUS": "MATCHED"
+ },
+ "080878042227": {
+  "FULL_NAME_FOUND": "Pantene Shampoo, Smooth & Sleek 12.6 Fl Oz",
+  "DESCRIPTION": "Pantene medium-thick hair solutions frizzy to smooth shampoo gently cleanses hair for a smooth, silky finish. The advanced formula strengthens strands against damage while calming frizz. The result is a healthy, sleek look that lasts all day.",
+  "CATEGORY": "Shampoo",
+  "BRAND": "Pantene",
+  "SIZE": "",
+  "EAN": "0080878042227",
+  "STATUS": "MATCHED"
+ },
+ "080878042258": {
+  "FULL_NAME_FOUND": "Pantene Pro-V Smooth & Sleek Conditioner - 12 Fl Oz",
+  "DESCRIPTION": "Pantene Medium-Thick Hair Solutions Frizzy to Smooth Conditioner is formulated to help lock out humidity, defending thick hair against frizz. Moisturizers help nourish and smooth thick hair and make hair strong against damage and more manageable. The result is a smooth, sleek look that lasts all day.",
+  "CATEGORY": "Shampoo & Conditioner",
+  "BRAND": "Pantene",
+  "SIZE": "",
+  "EAN": "0080878042258",
+  "STATUS": "MATCHED"
+ },
+ "080893010348": {
+  "FULL_NAME_FOUND": "Lil' Auto Store 2\"x10' Black Hose Repair Tape",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Personal Care",
+  "BRAND": "Lil' Auto Store",
+  "SIZE": "",
+  "EAN": "0080893010348",
+  "STATUS": "MATCHED"
+ },
+ "080893010386": {
+  "FULL_NAME_FOUND": "Lil' Auto Store Electrical Tape",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Personal Care",
+  "BRAND": "Lil' Auto Store",
+  "SIZE": "",
+  "EAN": "0080893010386",
+  "STATUS": "MATCHED"
+ },
+ "080893010416": {
+  "FULL_NAME_FOUND": "Lil' Auto Store L Pliers Slip 6",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Pliers",
+  "BRAND": "Lil' Auto Store",
+  "SIZE": "",
+  "EAN": "0080893010416",
+  "STATUS": "MATCHED"
  }
 }

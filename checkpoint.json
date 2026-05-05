@@ -77434,5 +77434,77 @@
   "SIZE": "",
   "EAN": "0080893010416",
   "STATUS": "MATCHED"
+ },
+ "080893011130": {
+  "FULL_NAME_FOUND": "Lil Auto Store Screwdriver, 2 In 1",
+  "DESCRIPTION": "PH2. 1/4 in. Magnetic tips. Chrome vanadium. Nickel plated. 2 tips. Made in China.",
+  "CATEGORY": "Screwdrivers",
+  "BRAND": "Lil Auto Store",
+  "SIZE": "",
+  "EAN": "0080893011130",
+  "STATUS": "MATCHED"
+ },
+ "080893012199": {
+  "FULL_NAME_FOUND": "Lil' Auto Store Tire Gauge",
+  "DESCRIPTION": "Keep this easy to use Lil' Auto Store tire gauge in your glove compartment and use it to check tire pressure regularly. Correct tire pressure is important for maximum gas mileage, tire life, comfortable travel and safety.",
+  "CATEGORY": "Gauges",
+  "BRAND": "Lil' Auto Store",
+  "SIZE": "",
+  "EAN": "0080893012199",
+  "STATUS": "MATCHED"
+ },
+ "080893012281": {
+  "FULL_NAME_FOUND": "Lil' Auto Store Hose Clamps Asst",
+  "DESCRIPTION": "Secure hoses and pipes effectively with this Hose Clamps Assortment. Made from durable stainless steel, this 6-count set offers reliable strength for any project.",
+  "CATEGORY": "Personal Care",
+  "BRAND": "Lil' Auto Store",
+  "SIZE": "",
+  "EAN": "0080893012281",
+  "STATUS": "MATCHED"
+ },
+ "080893012359": {
+  "FULL_NAME_FOUND": "Lil Auto Store Tire Repair Kit Plug",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Bathroom Vanities",
+  "BRAND": "Lil Auto Store",
+  "SIZE": "",
+  "EAN": "0080893012359",
+  "STATUS": "MATCHED"
+ },
+ "081864160918": {
+  "STATUS": "UNMATCHED"
+ },
+ "081991301512": {
+  "FULL_NAME_FOUND": "Juul Pod Cartridges Clsc 5% 2 Pk",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Loose Tobacco",
+  "BRAND": "Juul",
+  "SIZE": "",
+  "EAN": "0819913015120",
+  "STATUS": "MATCHED"
+ },
+ "081991301680": {
+  "STATUS": "UNMATCHED"
+ },
+ "082200002749": {
+  "STATUS": "UNMATCHED"
+ },
+ "082592011121": {
+  "FULL_NAME_FOUND": "Naked Juice Smoothie, Half Lively Greens",
+  "DESCRIPTION": "Delicious flavors come alive in this blend of cool cucumber, juicy apple, spinach, and the sweet taste of coconut. Half Naked Lively Greens will make other juices green with envy and has 50% lower sugar*.",
+  "CATEGORY": "Juice",
+  "BRAND": "Naked",
+  "SIZE": "450 mL",
+  "EAN": "0082592011121",
+  "STATUS": "MATCHED"
+ },
+ "082592011312": {
+  "FULL_NAME_FOUND": "Naked Juice Blend Tropical Guava 15.2 Fl Oz",
+  "DESCRIPTION": "At Naked, we’re dedicated to goodness inside our bottles, so you can be 100% sure each smoothie is providing you delicious fruits and veggies without artificial flavors or added sugars—just how Mother Nature intended. We bring the Goodness Outside through our sustainable packaging, ingredient sourcing and community support. We believe in bringing goodness inside our products and goodness outside to the world one bottle at a time.",
+  "CATEGORY": "Juice",
+  "BRAND": "Naked",
+  "SIZE": "450 mL",
+  "EAN": "0082592011312",
+  "STATUS": "MATCHED"
  }
 }

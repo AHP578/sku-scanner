@@ -77674,5 +77674,71 @@
  },
  "083142002156": {
   "STATUS": "UNMATCHED"
+ },
+ "083142002187": {
+  "STATUS": "UNMATCHED"
+ },
+ "083142004006": {
+  "FULL_NAME_FOUND": "Pride Corn Muffin",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Muffins",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0083142004006",
+  "STATUS": "MATCHED"
+ },
+ "083142004020": {
+  "STATUS": "UNMATCHED"
+ },
+ "083142004075": {
+  "STATUS": "UNMATCHED"
+ },
+ "083142005065": {
+  "STATUS": "UNMATCHED"
+ },
+ "083142006000": {
+  "FULL_NAME_FOUND": "Gourmet Coffee Cake",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Coffee Cakes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0083142006000",
+  "STATUS": "MATCHED"
+ },
+ "083605001207": {
+  "FULL_NAME_FOUND": "Humongous Chocolate Chip Cookie Ice Cream Sandwich",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0083605001207",
+  "STATUS": "MATCHED"
+ },
+ "083900005757": {
+  "FULL_NAME_FOUND": "Gold Peak Sweetened Black Iced Tea Drink 18.5 Fl Oz",
+  "DESCRIPTION": "Gold Peak is real brewed tea made from tea leaves picked for peak taste - enjoy Gold Peak Sweet Tea made with real cane sugar. Perfect for the whole family, these convenient bottles let you take real brewed tea wherever you go. Whether it’s a picnic in the park, watching the game, or a backyard barbeque, get that delicious fresh brewed flavor with every sip of Gold Peak Sweet Tea. Gold Peak uses cane sugar and pure filtered water for a difference you can taste. Gold Peak has a variety of real brewed flavors that pair marvelously with any occasion, from unplanned get-togethers, to holiday traditions. And the fresh flavor makes any meal feel like home cooking, whether it’s lunch on-the-go or family takeout night, Gold Peak’s real taste will match those real moments. There’s a variety of Gold Peak Teas to choose from, whether you like zero-sugar teas, sweetened real brewed teas or unsweetened real brewed tea options. We have a collection of classic flavors like Gold Peak Lemon Tea, Gold Peak Green Tea and Gold Peak Lemonade Tea and even offer refreshing flavors that are available nationally, like California Raspberry Tea and Georgia Peach Tea.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Gold Peak",
+  "SIZE": "547 mL",
+  "EAN": "0083900005757",
+  "STATUS": "MATCHED"
+ },
+ "083900005764": {
+  "FULL_NAME_FOUND": "Gold Peak Zero Sugar Diet Iced Sweet Tea Drink, 18.5 Fl Oz",
+  "DESCRIPTION": "Enjoy the best of both worlds Gold Peak's home-brewed taste with zero calories. That's what you'll taste in every sip of delicious Gold Peak diet tea.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Gold Peak",
+  "SIZE": "547 mL",
+  "EAN": "0083900005764",
+  "STATUS": "MATCHED"
+ },
+ "083900005771": {
+  "FULL_NAME_FOUND": "Gold Peak Unsweetened Black Iced Tea Drink, 18.5 Fl Oz",
+  "DESCRIPTION": "Gold Peak is real brewed tea made from tea leaves picked for peak taste - enjoy Gold Peak Unsweetened Tea. Perfect for the whole family, these convenient bottles let you take real brewed tea wherever you go. Whether it’s a picnic in the park, watching the game, or a backyard barbeque, get that delicious fresh brewed flavor with every sip. Gold Peak Unsweetened Tea is a sugar free, zero-calorie tea that uses pure filtered water for a difference you can taste. Gold Peak has a variety of real brewed flavors that pair marvelously with any occasion, from unplanned get-togethers, to holiday traditions. And the fresh flavor makes any meal feel like home cooking, whether it’s lunch on-the-go or family takeout night, Gold Peak’s real taste will match those real moments. There’s a variety of Gold Peak Teas to choose from, whether you like zero-sugar teas, sweetened real brewed teas or unsweetened real brewed tea options. We have a collection of classic flavors like Gold Peak Lemon Tea, Gold Peak Green Tea and Gold Peak Lemonade Tea and even offer refreshing flavors that are available nationally, like California Raspberry Tea and Georgia Peach Tea.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Gold Peak",
+  "SIZE": "547 mL",
+  "EAN": "0083900005771",
+  "STATUS": "MATCHED"
  }
 }

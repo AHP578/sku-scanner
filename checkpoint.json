@@ -76138,5 +76138,89 @@
   "SIZE": "591 mL",
   "EAN": "0078000168402",
   "STATUS": "MATCHED"
+ },
+ "078000171402": {
+  "FULL_NAME_FOUND": "Canada Dry Seltzer Water, Sparkling, Pomegranate Cherry 20 Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Water",
+  "BRAND": "Canada Dry",
+  "SIZE": "591 mL",
+  "EAN": "0078000171402",
+  "STATUS": "MATCHED"
+ },
+ "078000202458": {
+  "FULL_NAME_FOUND": "Schweppes Sparkling Seltzer Water, Black Cherry",
+  "DESCRIPTION": "Since 1783, Schweppes has been known as the original sparkling water. Schweppes Black Cherry Sparkling Water Beverage brings out the best in water with a hint of exotic black cherry flavor and refreshing effervescence. An ideal alternative to sweetened soft drinks, it contains no sweeteners and is naturally flavored. Experience a crisp twist on the ordinary with Schweppes Black Cherry Sparkling Water Beverage.",
+  "CATEGORY": "Water",
+  "BRAND": "Schweppes",
+  "SIZE": "1000 mL",
+  "EAN": "0078000202458",
+  "STATUS": "MATCHED"
+ },
+ "078000214161": {
+  "FULL_NAME_FOUND": "Schweppes Original Sparkling Seltzer Water, 12 Fl Oz Cans",
+  "DESCRIPTION": "brings out the best in water with the bubbly refreshing effervescence. An ideal alternative to sweetened soft drinks, it contains no sweeteners and is naturally flavored. Experience a crisp twist on the ordinary with Schweppes® Original Sparkling Seltzer Water.",
+  "CATEGORY": "Water",
+  "BRAND": "Schweppes",
+  "SIZE": "355 mL",
+  "EAN": "0078000214161",
+  "STATUS": "MATCHED"
+ },
+ "078000214451": {
+  "FULL_NAME_FOUND": "Schweppes Original Sparkling Water Beverage, 1 L Bottle",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Schweppes",
+  "SIZE": "1000 mL",
+  "EAN": "0078000214451",
+  "STATUS": "MATCHED"
+ },
+ "078000219456": {
+  "FULL_NAME_FOUND": "Schweppes Diet Tonic Water - 1 Liter Bottle 33.81 Fl Oz",
+  "DESCRIPTION": "Experience the refreshing taste of Schweppes Diet Tonic Water! Perfect for mixing with your favorite spirits or enjoying on its own, this 1 liter bottle of Schweppes Diet Tonic Water offers a crisp and invigorating flavor that is sure to please. With zero calories and a delightful blend of quinine and carbonation, it is the ideal choice for those seeking a guilt-free beverage option.",
+  "CATEGORY": "Water",
+  "BRAND": "Schweppes",
+  "SIZE": "1004 mL",
+  "EAN": "0078000219456",
+  "STATUS": "MATCHED"
+ },
+ "078116002010": {
+  "FULL_NAME_FOUND": "Porkie Pork Rinds Cracklin Regular",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Pork Rinds",
+  "BRAND": "Porkie",
+  "SIZE": "",
+  "EAN": "0078116002010",
+  "STATUS": "MATCHED"
+ },
+ "078116002027": {
+  "FULL_NAME_FOUND": "Porkies Cracklin Orig",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0078116002027",
+  "STATUS": "MATCHED"
+ },
+ "078116002034": {
+  "FULL_NAME_FOUND": "Porkies Bbq Cracklins",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0078116002034",
+  "STATUS": "MATCHED"
+ },
+ "078116002188": {
+  "FULL_NAME_FOUND": "Porkie Pork Rinds Red Pepper Curls",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Pork Rinds",
+  "BRAND": "Porkie",
+  "SIZE": "",
+  "EAN": "0078116002188",
+  "STATUS": "MATCHED"
+ },
+ "078116002195": {
+  "STATUS": "UNMATCHED"
  }
 }

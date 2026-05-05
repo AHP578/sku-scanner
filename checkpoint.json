@@ -78532,5 +78532,95 @@
   "SIZE": "473 mL",
   "EAN": "0089396152920",
   "STATUS": "MATCHED"
+ },
+ "089396152944": {
+  "FULL_NAME_FOUND": "Mistic Juice Drink, Premium, Strawberry Banana 16 Oz",
+  "DESCRIPTION": "Premium juice blend quality. Pear & carrot juices from concentrate. Strawberry & banana purees & natural flavors. Vitamin fortified. Contains 30% juice.",
+  "CATEGORY": "Bananas",
+  "BRAND": "Mistic",
+  "SIZE": "",
+  "EAN": "0089396152944",
+  "STATUS": "MATCHED"
+ },
+ "089396152968": {
+  "FULL_NAME_FOUND": "Mistic Orange Carrot Juice Blend Drink 16 Fl Oz Bottle",
+  "DESCRIPTION": "Mistic® Orange Carrot Juice Drink. From concentrate flavored with other natural flavors. Excellent source of vitamins A & C. 250 Calories per bottle. 25% Juice from a blend of orange, pear and carrot juice. 16 fl oz (1 pt) 473 ml.",
+  "CATEGORY": "Juice",
+  "BRAND": "Mistic",
+  "SIZE": "473 mL",
+  "EAN": "0089396152968",
+  "STATUS": "MATCHED"
+ },
+ "089396152975": {
+  "FULL_NAME_FOUND": "Mistic Juice Drink, Premium, Mango Carrot 16 Oz",
+  "DESCRIPTION": "Premium juice blend quality. Pear, orange, carrot & mango juices from concentrate & natural flavors. 100% vitamins A & C.",
+  "CATEGORY": "Juice",
+  "BRAND": "Mistic",
+  "SIZE": "473 mL",
+  "EAN": "0089396152975",
+  "STATUS": "MATCHED"
+ },
+ "089396153026": {
+  "FULL_NAME_FOUND": "Mistic Juice Drink, Peach Carrot Flavored 16 Oz",
+  "DESCRIPTION": "Flavored juice drink from concentrate with other natural flavors. 270 calories per bottle. Gluten free. Excellent source of vitamin A & C. 25% juice from a blend of pear, carrot and peach juice. Contains 25% juice. dpsg.com. Please recycle.",
+  "CATEGORY": "Juice",
+  "BRAND": "Mistic",
+  "SIZE": "473 mL",
+  "EAN": "0089396153026",
+  "STATUS": "MATCHED"
+ },
+ "089396153309": {
+  "FULL_NAME_FOUND": "Mistic Bahama Blueberry Flavored Juice Drink 16 Fl Oz Bottle",
+  "DESCRIPTION": "Mistic® Bahama Blueberry™ Flavored Juice Drink. Naturally and artificially flavored. From concentrate. 3% pear juice. 220 calories per bottle. Please recycle. Contains 3% juice. Gluten free. Consumer comments 1-800-764-7842. ©2015 Mott's LLP.",
+  "CATEGORY": "Juice",
+  "BRAND": "Mistic",
+  "SIZE": "473 mL",
+  "EAN": "0089396153309",
+  "STATUS": "MATCHED"
+ },
+ "089396156119": {
+  "FULL_NAME_FOUND": "Mistic Grape Strawberry Flavored Juice Drink",
+  "DESCRIPTION": "Naturally and artificially flavored. From concentrate. 3% grape juice. 250 calories per bottle. Contains 3% juice. Gluten free. Consumer comments? 1-800-764-7842. Please recycle.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Mistic",
+  "SIZE": "473 mL",
+  "EAN": "0089396156119",
+  "STATUS": "MATCHED"
+ },
+ "089396156126": {
+  "FULL_NAME_FOUND": "Mistic Juice Drink Tropical Fruit Punch",
+  "DESCRIPTION": "Naturally and artificially flavored. From concentrate. 5% pear juice. 230 calories per bottle. Contains 5% pear juice. Gluten free. Consumer comments? 1-800-764-7842. Please recycle.",
+  "CATEGORY": "Juice",
+  "BRAND": "Mistic",
+  "SIZE": "473 mL",
+  "EAN": "0089396156126",
+  "STATUS": "MATCHED"
+ },
+ "089396156157": {
+  "FULL_NAME_FOUND": "Mistic Kiwi Strawberry Flavored Juice Drink 16 Fl Oz Bottle",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Juice",
+  "BRAND": "Mistic",
+  "SIZE": "473 mL",
+  "EAN": "0089396156157",
+  "STATUS": "MATCHED"
+ },
+ "089396156225": {
+  "FULL_NAME_FOUND": "Mistic Juice Drink, Watermelon Kiwi 16 Oz",
+  "DESCRIPTION": "Naturally and artificially flavored juice drink from concentrate. No preservatives. 3% juice.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Mistic",
+  "SIZE": "473 mL",
+  "EAN": "0089396156225",
+  "STATUS": "MATCHED"
+ },
+ "089396156263": {
+  "FULL_NAME_FOUND": "Mistic Juice Drink, Flavored, Mango Mania 16 Oz",
+  "DESCRIPTION": "Flavored juice drink from concentrate. 230 calories per bottle. Naturally and artificially flavored. 3% pear juice. Contains 3% juice. Gluten free. Consumer comments? 1-800-764-7842. Please recycle.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Mistic",
+  "SIZE": "473 mL",
+  "EAN": "0089396156263",
+  "STATUS": "MATCHED"
  }
 }

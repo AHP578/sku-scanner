@@ -77260,5 +77260,89 @@
   "SIZE": "",
   "EAN": "0080565323073",
   "STATUS": "MATCHED"
+ },
+ "080565333010": {
+  "FULL_NAME_FOUND": "Cam 2 Super HD Premium Plus 15w40 Engine Oil",
+  "DESCRIPTION": "CAM2 Super HD Premium Plus Synthetic Blend 15W-40 through the use of premium quality Group II & Group III base stocks and advanced additive technology, is formulated to provide the highest levels of equipment protection available. CAM2 Super HD Premium Plus Synthetic Blend 15W-40 is a synthetic blend engine oil with next generation soot control. CAM2 Super HD Premium Plus Synthetic Blend 15W-40 meets and exceeds the latest API CJ-4/SN, Cummins CES 20081, Volvo VDS-4, Mack EO-O Premium Plus, Caterpillar ECF-3, and Detroit Fluids Specification 93K218.",
+  "CATEGORY": "Motor Vehicle Engine Oil Circulation",
+  "BRAND": "Cam 2",
+  "SIZE": "",
+  "EAN": "0080565333010",
+  "STATUS": "MATCHED"
+ },
+ "080565408015": {
+  "STATUS": "UNMATCHED"
+ },
+ "080565409012": {
+  "FULL_NAME_FOUND": "Cam2 Pro Max Syn 5W30 Oil",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Personal Care",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0080565409012",
+  "STATUS": "MATCHED"
+ },
+ "080565414016": {
+  "FULL_NAME_FOUND": "Honda Genuine OEM Fuel Filter For GX100 Lawn Mower # 16910-ZE8-015",
+  "DESCRIPTION": "Includes (1) 16910-ZE8-015 Fuel Filter. New, Bulk Packed. Genuine OEM Honda Replacement Part. Consult owners manual for proper part number identification and proper installation. Please refer to list for compatibility.",
+  "CATEGORY": "Lawn & Garden",
+  "BRAND": "Honda",
+  "SIZE": "",
+  "EAN": "0080565414016",
+  "STATUS": "MATCHED"
+ },
+ "080565416010": {
+  "FULL_NAME_FOUND": "Cam2 Promax Syn 10W40",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Personal Care",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0080565416010",
+  "STATUS": "MATCHED"
+ },
+ "080565853013": {
+  "FULL_NAME_FOUND": "Cam 2 5W30 Full Synthetic Motor Oil Synavex 1 Quart",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "Cam 2",
+  "SIZE": "",
+  "EAN": "0080565853013",
+  "STATUS": "MATCHED"
+ },
+ "080793803910": {
+  "FULL_NAME_FOUND": "NOS High Performance Energy Drink - 16 Fl Oz Can",
+  "DESCRIPTION": "NOS high performance energy drink is not the same stuff you put in your street rod, but it will give you a very powerful boost! When you need to leave the competition in the dust, don't mess around with the others, drink NOS original passion fruit flavor.",
+  "CATEGORY": "Beverages",
+  "BRAND": "NOS",
+  "SIZE": "473 mL",
+  "EAN": "0080793803910",
+  "STATUS": "MATCHED"
+ },
+ "080793804788": {
+  "FULL_NAME_FOUND": "NOS High Performance Grape Energy Drink - 16 Fl Oz Can",
+  "DESCRIPTION": "With CMPLX6 for enhanced mental focus + high performance energy. Naturally and artificially flavored. 210 calories per can.",
+  "CATEGORY": "Beverages",
+  "BRAND": "NOS",
+  "SIZE": "473 mL",
+  "EAN": "0080793804788",
+  "STATUS": "MATCHED"
+ },
+ "080793808311": {
+  "FULL_NAME_FOUND": "Fuze Iced Tea Lemon Bottle, 1 Liter",
+  "DESCRIPTION": "Naturally flavored with other natural flavors. With vitamins B6 & B12. 70 calories per 12 fl oz serving. Contains no juice. Low sodium, 140 mg or less per 360 ml (12 fl oz). Please recycle. Want to chat? Call us at 800-208-2653.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Fuze",
+  "SIZE": "1000 mL",
+  "EAN": "0080793808311",
+  "STATUS": "MATCHED"
+ },
+ "080793808335": {
+  "FULL_NAME_FOUND": "Fuze Iced Tea Half Tea Half Lemonade Bottle, 1 Liter",
+  "DESCRIPTION": "FUZE offers a delicious line-up of iced teas and juice drinks inFUZEd with vitamins and a healthy dose of optimism to add a vibrant splash of flavor to your day.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Fuze",
+  "SIZE": "1000 mL",
+  "EAN": "0080793808335",
+  "STATUS": "MATCHED"
  }
 }

@@ -79360,5 +79360,89 @@
   "SIZE": "330 mL",
   "EAN": "0096619506897",
   "STATUS": "MATCHED"
+ },
+ "096619722051": {
+  "STATUS": "UNMATCHED"
+ },
+ "096619937301": {
+  "FULL_NAME_FOUND": "Costco Companies Inc. Kirkland Signature Organic Tomato Sauce",
+  "DESCRIPTION": "Garden-Fresh Flavor in Every Spoonful Bring home the taste of vine-ripened tomatoes with Kirkland Organic Tomato Sauce, a pantry essential crafted from USDA-certified organic tomatoes picked at peak ripeness. Slowly simmered for rich flavor and a naturally sweet finish, this tomato sauce is your go-to base for hearty pastas, stews, chili, and more. Packed with sun-kissed goodness and free from artificial ingredients, every jar transforms everyday meals into something unforgettable.",
+  "CATEGORY": "Condiments & Sauces",
+  "BRAND": "Costco Companies Inc.",
+  "SIZE": "",
+  "EAN": "0096619937301",
+  "STATUS": "MATCHED"
+ },
+ "097009060203": {
+  "FULL_NAME_FOUND": "Jumbo White Eggs, 12ct",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Eggs",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0097009060203",
+  "STATUS": "MATCHED"
+ },
+ "097009210219": {
+  "FULL_NAME_FOUND": "Esbenshade Farms Eggs",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Egg Whites",
+  "BRAND": "Esbenshade Farms",
+  "SIZE": "",
+  "EAN": "0097009210219",
+  "STATUS": "MATCHED"
+ },
+ "097009210226": {
+  "FULL_NAME_FOUND": "Esbenshade Farms Grade A Large Eggs",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Eggs",
+  "BRAND": "Esbenshade",
+  "SIZE": "",
+  "EAN": "0097009210226",
+  "STATUS": "MATCHED"
+ },
+ "097100001389": {
+  "FULL_NAME_FOUND": "Mark Ten E Vapor Classic",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Household Appliance Accessories",
+  "BRAND": "Mark Ten",
+  "SIZE": "",
+  "EAN": "0097100001389",
+  "STATUS": "MATCHED"
+ },
+ "097100001396": {
+  "FULL_NAME_FOUND": "Mark Ten E Vapor Classic Crtg",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Household Supplies",
+  "BRAND": "Mark Ten",
+  "SIZE": "",
+  "EAN": "0097100001396",
+  "STATUS": "MATCHED"
+ },
+ "097100001402": {
+  "FULL_NAME_FOUND": "Mark Ten E Vapor Menthol",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Household Supplies",
+  "BRAND": "Mark Ten",
+  "SIZE": "",
+  "EAN": "0097100001402",
+  "STATUS": "MATCHED"
+ },
+ "097100001419": {
+  "FULL_NAME_FOUND": "Mark Ten E Vapor Menthol Crtg",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Household Supplies",
+  "BRAND": "Mark Ten",
+  "SIZE": "",
+  "EAN": "0097100001419",
+  "STATUS": "MATCHED"
+ },
+ "097100001488": {
+  "FULL_NAME_FOUND": "Mark Ten Xl E Vapor Menthol",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Handheld Devices",
+  "BRAND": "Mark Ten",
+  "SIZE": "",
+  "EAN": "0097100001488",
+  "STATUS": "MATCHED"
  }
 }

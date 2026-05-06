@@ -80092,5 +80092,83 @@
   "SIZE": "1000 mL",
   "EAN": "0012000002977",
   "STATUS": "MATCHED"
+ },
+ "012000004100": {
+  "FULL_NAME_FOUND": "Starbucks Chilled Coffee Dink, Vanilla 9.5 Fl Oz",
+  "DESCRIPTION": "Starbucks coffee drinks offer the bold, delicious taste of coffee with the rich flavors you know and love. This indulgence is proof that you can enjoy a little Starbucks wherever you may be.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Starbucks",
+  "SIZE": "281 mL",
+  "EAN": "0012000004100",
+  "STATUS": "MATCHED"
+ },
+ "012000008153": {
+  "FULL_NAME_FOUND": "Pepsi Pepsi Diet Soda Cola 12 Fl Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Soda",
+  "BRAND": "Pepsi",
+  "SIZE": "355 mL",
+  "EAN": "0012000008153",
+  "STATUS": "MATCHED"
+ },
+ "012000009105": {
+  "FULL_NAME_FOUND": "Mug Caffeine-Free Root Beer Soda Pop 20 Fl Oz Bottle",
+  "DESCRIPTION": "Enjoy a refreshing drink by having this Mug Root Beer. It is free from caffeine, fat, and low in sodium. This beer is available in a compact bottle for convenient drinking and is perfect to relish at family meals, hanging with friends, and many more.Sweet and creamy tasteNet weight 20 ozOffers 260 calories per servingFree from fat.",
+  "CATEGORY": "Soda",
+  "BRAND": "Mug",
+  "SIZE": "591 mL",
+  "EAN": "0012000009105",
+  "STATUS": "MATCHED"
+ },
+ "012000018770": {
+  "FULL_NAME_FOUND": "Pepsi Zero Sugar Soda Cola 12 Fl Oz",
+  "DESCRIPTION": "Pepsi Zero Sugar 12/12 Oz es una excelente opción para quienes buscan calidad y frescura. Disfruta de su increíble sabor y beneficios, ideal para cualquier ocasión. Perfecto para compartir con familia y amigos.",
+  "CATEGORY": "Soda",
+  "BRAND": "Pepsi",
+  "SIZE": "355 mL",
+  "EAN": "0012000018770",
+  "STATUS": "MATCHED"
+ },
+ "012000018800": {
+  "FULL_NAME_FOUND": "Pepsi Zero Sugar Cola Soda - 20 Fl Oz Bottle",
+  "DESCRIPTION": "Enjoy the bold, refreshing taste of Pepsi without the calories! Pepsi Cola Zero Sugar delivers the classic Pepsi flavor you love, now in a convenient 20 fl oz bottle. Perfect for on-the-go refreshment, this soda is caffeine-infused and has zero sugar, making it a great choice for those looking to cut calories while still enjoying a fizzy treat.",
+  "CATEGORY": "Soda",
+  "BRAND": "Pepsi",
+  "SIZE": "591 mL",
+  "EAN": "0012000018800",
+  "STATUS": "MATCHED"
+ },
+ "012000064494": {
+  "FULL_NAME_FOUND": "Dole Lemonade 20 Fl Oz Bottle",
+  "DESCRIPTION": "Now you can enjoy the sweet taste of our sun-ripened fruits in a tall, refreshing glass. Dole juices are ready to drink right out of your refrigerator 100% juice and no added sugar.",
+  "CATEGORY": "Juice",
+  "BRAND": "Dole",
+  "SIZE": "591 mL",
+  "EAN": "0012000064494",
+  "STATUS": "MATCHED"
+ },
+ "012000140945": {
+  "FULL_NAME_FOUND": "Mountain Dew Citrus Soda - 1.25L Bottle",
+  "DESCRIPTION": "The original, the one that started it all. This green magic will quench your thirst every day of the week. Can, bottle, or glass, it is always a good time for a DEW®.",
+  "CATEGORY": "Soda",
+  "BRAND": "Mountain Dew",
+  "SIZE": "1250 mL",
+  "EAN": "0012000140945",
+  "STATUS": "MATCHED"
+ },
+ "012000172526": {
+  "FULL_NAME_FOUND": "Pepsi Diet Soda Classic 2 L Bottle",
+  "DESCRIPTION": "Diet Pepsi (2 Liter Bottle). Treat yourself to the refreshing, crisp taste of Diet Pepsi—now in a generous 2-liter bottle, perfect for sharing. With zero sugar and zero calories, Diet Pepsi delivers the classic cola flavor you love, without the guilt. It’s a smooth, satisfying beverage choice for those looking to enjoy a sugar-free lifestyle without sacrificing taste. Ideal for family meals, parties, or keeping stocked in the fridge, this resealable 2-liter bottle ensures you always have refreshment on hand. Light, bubbly, and delicious—Diet Pepsi is the smarter cola option for any occasion.",
+  "CATEGORY": "Soda",
+  "BRAND": "Pepsi",
+  "SIZE": "2000 mL",
+  "EAN": "0012000172526",
+  "STATUS": "MATCHED"
+ },
+ "120001726010": {
+  "STATUS": "UNMATCHED"
+ },
+ "120001726256": {
+  "STATUS": "UNMATCHED"
  }
 }

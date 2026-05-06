@@ -78982,5 +78982,89 @@
   "SIZE": "",
   "EAN": "0090600000975",
   "STATUS": "MATCHED"
+ },
+ "090600061112": {
+  "FULL_NAME_FOUND": "Premier Tobacco Cigarette Blue 3 Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Premier",
+  "SIZE": "",
+  "EAN": "0090600061112",
+  "STATUS": "MATCHED"
+ },
+ "090600061143": {
+  "FULL_NAME_FOUND": "Premier Tobacco Cigarette Blue 8 Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Premier",
+  "SIZE": "",
+  "EAN": "0090600061143",
+  "STATUS": "MATCHED"
+ },
+ "090600061150": {
+  "FULL_NAME_FOUND": "Premier Tobacco Cigarette 8 Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Premier",
+  "SIZE": "",
+  "EAN": "0090600061150",
+  "STATUS": "MATCHED"
+ },
+ "090600061242": {
+  "FULL_NAME_FOUND": "Premier Blue",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Premier",
+  "SIZE": "",
+  "EAN": "0090600061242",
+  "STATUS": "MATCHED"
+ },
+ "090600061259": {
+  "FULL_NAME_FOUND": "Premier Select Pipe Tobacco",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Premier Select",
+  "SIZE": "",
+  "EAN": "0090600061259",
+  "STATUS": "MATCHED"
+ },
+ "090600061266": {
+  "FULL_NAME_FOUND": "Premier 3oz Select Menthol",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0090600061266",
+  "STATUS": "MATCHED"
+ },
+ "090600061273": {
+  "FULL_NAME_FOUND": "Premier Select Pipe Tobacco",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Premier Select",
+  "SIZE": "",
+  "EAN": "0090600061273",
+  "STATUS": "MATCHED"
+ },
+ "091585021658": {
+  "FULL_NAME_FOUND": "Clipper Raw Lighter",
+  "DESCRIPTION": "Clipper leads the way in the world lighter market and is a consumer favorite in refillable lighters because of its recognizable, iconic design and high-quality specification. Light up the outdoors with one of our clipper lighters! Refillable and replaceable, they feature butane and flint for all your sparks and flames. Conquer the elements with style - choose from cool designs that will turn heads. Dare to light up your adventure! Looking for more Clippers and Clipper products, check out this link.",
+  "CATEGORY": "Lighters & Matches",
+  "BRAND": "Clipper",
+  "SIZE": "",
+  "EAN": "0091585021658",
+  "STATUS": "MATCHED"
+ },
+ "091585025632": {
+  "STATUS": "UNMATCHED"
+ },
+ "091585029623": {
+  "FULL_NAME_FOUND": "RAW Black Lighter",
+  "DESCRIPTION": "Show off your dope RAWthentic style with these RAW Black Clipper Lighters. These simple lighters come equipped with a flint that doubles as a poker. Clipper lighters are also refillable so you don't have to worry about throwing away your favorite lighter! View AllClose.",
+  "CATEGORY": "Lighters & Matches",
+  "BRAND": "RAW",
+  "SIZE": "",
+  "EAN": "0091585029623",
+  "STATUS": "MATCHED"
  }
 }

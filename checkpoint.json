@@ -80038,5 +80038,59 @@
   "SIZE": "",
   "EAN": "0010700859624",
   "STATUS": "MATCHED"
+ },
+ "108881090100": {
+  "STATUS": "UNMATCHED"
+ },
+ "011000004066": {
+  "FULL_NAME_FOUND": "Pyramid Cigarettes, Blue, 100s, Box",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Pyramid",
+  "SIZE": "",
+  "EAN": "0011000004066",
+  "STATUS": "MATCHED"
+ },
+ "112108000070": {
+  "STATUS": "UNMATCHED"
+ },
+ "112200007441": {
+  "STATUS": "UNMATCHED"
+ },
+ "112273000080": {
+  "STATUS": "UNMATCHED"
+ },
+ "114200002808": {
+  "STATUS": "UNMATCHED"
+ },
+ "119784000073": {
+  "STATUS": "UNMATCHED"
+ },
+ "012000000133": {
+  "FULL_NAME_FOUND": "Pepsi Soda Cola 12 Fl Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Pepsi",
+  "SIZE": "355 mL",
+  "EAN": "0012000000133",
+  "STATUS": "MATCHED"
+ },
+ "012000002335": {
+  "FULL_NAME_FOUND": "Mountain Dew Soda Citrus 2 Liter Bottle",
+  "DESCRIPTION": "Mountain Dew, the original instigator, refreshes with its one of a kind great taste. The original, the one that started it all. This green magic will quench your thirst every day of the week. With crisp, bold flavor, it is the perfect drink to bring chuggable refreshment to your next party or gathering. Can, bottle, or glass, it is always a good time for a Dew. Mountain Dew's original formula was invented in 1940 by Tennessee beverage bottlers Barney and Ally Hartman. That original recipe has led to dozens of delicious variations, including Baja Blast, Code Red, and more. Keep on doing you with Mtn Dew.",
+  "CATEGORY": "Soda",
+  "BRAND": "Mountain Dew",
+  "SIZE": "2000 mL",
+  "EAN": "0012000002335",
+  "STATUS": "MATCHED"
+ },
+ "012000002977": {
+  "FULL_NAME_FOUND": "Mountain Dew Citrus Soda 1l Bottle",
+  "DESCRIPTION": "Mountain Dew Citrus Soda is a vibrant, citrus-flavored soft drink that provides a refreshing burst of energy. Perfect for quenching your thirst any time of the day!",
+  "CATEGORY": "Soda",
+  "BRAND": "Mountain Dew",
+  "SIZE": "1000 mL",
+  "EAN": "0012000002977",
+  "STATUS": "MATCHED"
  }
 }

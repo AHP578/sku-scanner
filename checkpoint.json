@@ -80248,5 +80248,65 @@
  },
  "121200008006": {
   "STATUS": "UNMATCHED"
+ },
+ "121741091000": {
+  "STATUS": "UNMATCHED"
+ },
+ "122016102186": {
+  "STATUS": "UNMATCHED"
+ },
+ "122080000012": {
+  "STATUS": "UNMATCHED"
+ },
+ "012300200592": {
+  "FULL_NAME_FOUND": "Camel Cigarettes, Turkish Domestic Blend, 99's, Filters",
+  "DESCRIPTION": "Since 1913. A master-crafted blend of only the finest hand-picked Samsun & Izmir Turkish tobaccos with a robust domestic tobacco blend creates Camel's distinctive flavor and world-class smoothness. Class A cigarettes. www.RJRT.com. FSC. Call us at 1-800-334-8157 or visit us at camel.com. Please don't litter.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Camel",
+  "SIZE": "",
+  "EAN": "0012300200592",
+  "STATUS": "MATCHED"
+ },
+ "012300510295": {
+  "FULL_NAME_FOUND": "Camel Filter King Box 1 Dollar Off",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Shipping Supplies",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0012300510295",
+  "STATUS": "MATCHED"
+ },
+ "123100006908": {
+  "STATUS": "UNMATCHED"
+ },
+ "124000005206": {
+  "STATUS": "UNMATCHED"
+ },
+ "012546001533": {
+  "FULL_NAME_FOUND": "Trident Layers Sugar Free Watermelon + Tropical Fruit Gum",
+  "DESCRIPTION": "Trident Layers Sugar Free gum is the easy way to freshen breath and help protect against tooth decay. It combines two delicious flavors to create a unique, long lasting chewing experience.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Trident",
+  "SIZE": "",
+  "EAN": "0012546001533",
+  "STATUS": "MATCHED"
+ },
+ "012546676090": {
+  "FULL_NAME_FOUND": "Trident White Peppermint Sugar Free Gum - 16ct",
+  "DESCRIPTION": "Trident White Peppermint Sugar Free Gum whitens teeth, prevents stains and gives you fresh breath. This refreshing peppermint flavored gum brings sparkle to your smile by whitening teeth and preventing stains. Each piece of teeth whitening gum is easy to pop in your mouth and contains 35% fewer calories than sugared gum. Chewing two pieces of this peppermint gum at least four times per day after meals helps remove and prevent stains. This mint gum is easy to stash in your bag and take on-the-go, whether you're setting off across the country or running errands around town.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Trident",
+  "SIZE": "",
+  "EAN": "0012546676090",
+  "STATUS": "MATCHED"
+ },
+ "012546676113": {
+  "FULL_NAME_FOUND": "Trident White Spearmint Sugar Free Gum, 16 Piece Pack",
+  "DESCRIPTION": "Experience the refreshing taste of Trident White Spearmint Sugar Free Gum! Perfect for those who enjoy a burst of minty flavor without the sugar, this gum is ideal for freshening breath anytime, anywhere. Each box contains 16 pieces of delicious gum.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Trident",
+  "SIZE": "",
+  "EAN": "0012546676113",
+  "STATUS": "MATCHED"
  }
 }

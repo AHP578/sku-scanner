@@ -79282,5 +79282,83 @@
   "SIZE": "3780 mL",
   "EAN": "0096619000081",
   "STATUS": "MATCHED"
+ },
+ "096619112333": {
+  "STATUS": "UNMATCHED"
+ },
+ "096619194254": {
+  "FULL_NAME_FOUND": "Kirkland Bath Tissue",
+  "DESCRIPTION": "offer a reliable and comfortable solution for daily hygiene needs. Crafted for softness and strength, each roll delivers consistent quality that ensures effective cleaning without irritation. Designed for value and convenience, these bath tissues are ideal for households seeking durability and comfort in an economical package.",
+  "CATEGORY": "Toilet Paper",
+  "BRAND": "Kirkland",
+  "SIZE": "",
+  "EAN": "0096619194254",
+  "STATUS": "MATCHED"
+ },
+ "096619301461": {
+  "FULL_NAME_FOUND": "Kirkland signature Cheese Fruit And Nut Packs",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Fruits & Vegetables",
+  "BRAND": "Kirkland signature",
+  "SIZE": "",
+  "EAN": "0096619301461",
+  "STATUS": "MATCHED"
+ },
+ "096619301980": {
+  "FULL_NAME_FOUND": "Kirkland Signature Daily Facial Towelettes, All Skin Types",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Skin Care",
+  "BRAND": "Kirkland Signature",
+  "SIZE": "",
+  "EAN": "0096619301980",
+  "STATUS": "MATCHED"
+ },
+ "096619301997": {
+  "STATUS": "UNMATCHED"
+ },
+ "096619313952": {
+  "FULL_NAME_FOUND": "Kirkland Soft & Chewy Chocolate Chip Granola Bars",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cereal & Granola Bars",
+  "BRAND": "Kirkland",
+  "SIZE": "",
+  "EAN": "0096619313952",
+  "STATUS": "MATCHED"
+ },
+ "096619321544": {
+  "FULL_NAME_FOUND": "Kirkland Premium Paper Towel 160 Sheets",
+  "DESCRIPTION": "A tenacious M∙A∙C waterproof foundation formula that can be used as a foundation or concealer, wearing for an unprecedented 36 hours. Neither rain nor tears can budge this oil-free waterproof, sweat and humidity resistant foundation. M∙A∙C Pro Longwear Nourishing Waterproof Foundation blends seamlessly on the skin with medium-to-full weightless coverage and a natural satin finish.",
+  "CATEGORY": "Paper Towels",
+  "BRAND": "Kirkland",
+  "SIZE": "",
+  "EAN": "0096619321544",
+  "STATUS": "MATCHED"
+ },
+ "096619394494": {
+  "FULL_NAME_FOUND": "Kirkland Signature Baby Wipes, Ultra-Soft, Unscented, 100 Count Wipes",
+  "DESCRIPTION": "kirkland signature baby wipes are extra-large,super strong and ultra soft.specially formulated to be extra gentle on your baby's skin. - Made with 70% Tencel - Free of Dyes,alcohol,chlorine and parabens - Hypoallergenic; enriched with aloe and vitamin E - Unique embossed pattern for better cleaning - No animal testing - FREE OF GLUTEN,NUTS AND ANIMAL.",
+  "CATEGORY": "Baby Wipes",
+  "BRAND": "Kirkland Signature",
+  "SIZE": "",
+  "EAN": "0096619394494",
+  "STATUS": "MATCHED"
+ },
+ "096619488827": {
+  "FULL_NAME_FOUND": "Kirkland Signature Recipes Recettes Premium Chunk Chicken Breast In Water",
+  "DESCRIPTION": "It's fully cooked and all you have to do is add it to you plate, add whatever seasonings or condiments you like and eat. Really great for canned chicken.",
+  "CATEGORY": "Water",
+  "BRAND": "Kirkland Signature",
+  "SIZE": "370 mL",
+  "EAN": "0096619488827",
+  "STATUS": "MATCHED"
+ },
+ "096619506897": {
+  "FULL_NAME_FOUND": "Kirkland Organic Coconut Water - 330ml",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Water",
+  "BRAND": "Kirkland",
+  "SIZE": "330 mL",
+  "EAN": "0096619506897",
+  "STATUS": "MATCHED"
  }
 }

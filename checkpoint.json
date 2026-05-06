@@ -79804,5 +79804,89 @@
   "SIZE": "",
   "EAN": "0009800100019",
   "STATUS": "MATCHED"
+ },
+ "009800300051": {
+  "FULL_NAME_FOUND": "Tic Tac Gum, Sugar Free, Cool Tropical",
+  "DESCRIPTION": "You love Tic Tac?! Well, say hello to the last addition to the Tic Tac family. Discover a different way to enjoy Tic Tac with the cool, refreshing sugar-free Tic Tac GUM. Theyre bursting with flavor and fun. The convenient on-the-go pack means theyre easy to share  and always ready for your next road trip.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Tic Tac",
+  "SIZE": "",
+  "EAN": "0009800300051",
+  "STATUS": "MATCHED"
+ },
+ "009800554041": {
+  "FULL_NAME_FOUND": "Kinder Bueno Crispy Creamy Chocolate 4 Bars .75oz",
+  "DESCRIPTION": "Shop Kinder Bueno Milk Chocolate and Hazelnut Cream Chocolate Bars 4 Count - 3 Oz from tomthumb. Browse our wide selection of Chocolate for Delivery or Drive Up & Go to pick up at the store!",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Kinder Bueno",
+  "SIZE": "",
+  "EAN": "0009800554041",
+  "STATUS": "MATCHED"
+ },
+ "009800800094": {
+  "FULL_NAME_FOUND": "Nutella Go! Hazelnut Spread & Pretzel Sticks - 1.9oz",
+  "DESCRIPTION": "The uniquely delicious taste of Nutella hazelnut spread, paired with crunchy pretzel sticks for a delicious salty-sweet snack that combines the tastes and textures you love. Made to travel, in a convenient go-anywhere package that protects all the goodness until you're ready to enjoy it. Great for a mid-morning snack on the go — perfect for your totally mobile lifestyle.",
+  "CATEGORY": "Pretzels",
+  "BRAND": "Nutella",
+  "SIZE": "",
+  "EAN": "0009800800094",
+  "STATUS": "MATCHED"
+ },
+ "009800820023": {
+  "FULL_NAME_FOUND": "Nutella 0.77 Oz. B-Ready Crispy Wafer",
+  "DESCRIPTION": "Shop Nutella B-ready Hazelnut Spread with Cocoa Snack Bars Pack - 2 Count from tomthumb. Browse our wide selection of Wafer Cookies for Delivery or Drive Up & Go to pick up at the store!",
+  "CATEGORY": "Cookies",
+  "BRAND": "Nutella",
+  "SIZE": "",
+  "EAN": "0009800820023",
+  "STATUS": "MATCHED"
+ },
+ "098100100065": {
+  "FULL_NAME_FOUND": "Starbucks Chilled Coffee Drink, Caramel, Mini 6.5 Fl Oz",
+  "DESCRIPTION": "Enjoy your favorite Starbucks Frappuccino chilled coffee drink now in mini cans - same coffee deliciousness in a fun-sized can to bring the buttery caramel flavor you know and love. Perfected to chill your cravings anytime, anywhere.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Starbucks",
+  "SIZE": "192 mL",
+  "EAN": "0098100100065",
+  "STATUS": "MATCHED"
+ },
+ "098308002031": {
+  "FULL_NAME_FOUND": "Better Than Bouillon Premium Roasted Beef Base, 8 Ounce",
+  "DESCRIPTION": "These bases easily spoon right out of the jar and let you add as much or as little flavor as you need. Perfect for soups, sauces, and gravies, or to add some pizzazz to stir-fry, pasta or veggies.",
+  "CATEGORY": "Soups & Broths",
+  "BRAND": "Better Than Bouillon",
+  "SIZE": "",
+  "EAN": "0098308002031",
+  "STATUS": "MATCHED"
+ },
+ "098553000066": {
+  "STATUS": "UNMATCHED"
+ },
+ "098794000320": {
+  "FULL_NAME_FOUND": "Stewart's Grape Soda",
+  "DESCRIPTION": "Dive into the deliciously sweet world of Stewart’s Grape Soda, a beloved classic that has been delighting soda enthusiasts since its inception in 1924. Proudly crafted in the USA, this iconic beverage brings you the vibrant flavor of ripe grapes in every bubbly sip, making it a perfect treat for all ages.",
+  "CATEGORY": "Soda",
+  "BRAND": "Stewart's",
+  "SIZE": "355 mL",
+  "EAN": "0098794000320",
+  "STATUS": "MATCHED"
+ },
+ "098794203004": {
+  "FULL_NAME_FOUND": "Stewart's Cream Soda 12 Oz",
+  "DESCRIPTION": "Creamy vanilla taste. Non-dairy. Caffeine free. In 1924, an Ohio schoolteacher named Frank Stewart set out to develop the world's best tasting soda. With secret recipes and tall frosty mugs in hand, he soon opened his first Stewart's roadside stand. Nowadays, you can still enjoy the creamy taste of your favorite ice-cold Stewart's. Because when we make a soda, we still follow the same time-tested principles that Frank did - brewing the authentic recipes only in small batches. May we suggest this Cream Soda? Rich in vanilla taste, and refreshing enough to drink 'til the cows come home. Pop open a Stewart's and it's then all over again!",
+  "CATEGORY": "Soda",
+  "BRAND": "Stewart's",
+  "SIZE": "355 mL",
+  "EAN": "0098794203004",
+  "STATUS": "MATCHED"
+ },
+ "098794213041": {
+  "FULL_NAME_FOUND": "Stewarts Fountain Classics Soda, Cream",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Soda",
+  "BRAND": "Stewarts",
+  "SIZE": "1420 mL",
+  "EAN": "0098794213041",
+  "STATUS": "MATCHED"
  }
 }

@@ -78802,5 +78802,95 @@
   "SIZE": "",
   "EAN": "0090600000135",
   "STATUS": "MATCHED"
+ },
+ "090600000142": {
+  "FULL_NAME_FOUND": "USA Gold Menthol 100 S",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "USA Gold",
+  "SIZE": "",
+  "EAN": "0090600000142",
+  "STATUS": "MATCHED"
+ },
+ "090600000203": {
+  "FULL_NAME_FOUND": "Cig Pack Com Usa Gold",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Household Supplies",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0090600000203",
+  "STATUS": "MATCHED"
+ },
+ "090600000210": {
+  "FULL_NAME_FOUND": "Ck Products Cig Pack Com Usa Gold",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Vehicles",
+  "BRAND": "Ck Products",
+  "SIZE": "",
+  "EAN": "0090600000210",
+  "STATUS": "MATCHED"
+ },
+ "090600000227": {
+  "FULL_NAME_FOUND": "Usa Gold Menthol",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Household Supplies",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0090600000227",
+  "STATUS": "MATCHED"
+ },
+ "090600000326": {
+  "FULL_NAME_FOUND": "USA Gold Cigarettes, 100s",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "USA Gold",
+  "SIZE": "",
+  "EAN": "0090600000326",
+  "STATUS": "MATCHED"
+ },
+ "090600000388": {
+  "FULL_NAME_FOUND": "Fortuna Red King Box",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Household Supplies",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0090600000388",
+  "STATUS": "MATCHED"
+ },
+ "090600000395": {
+  "FULL_NAME_FOUND": "Fortuna Blue King Box",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0090600000395",
+  "STATUS": "MATCHED"
+ },
+ "090600000425": {
+  "FULL_NAME_FOUND": "Pest Control Fortuna Lt Blu 100 Bx Pack",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Pest Control",
+  "BRAND": "Pest Control",
+  "SIZE": "",
+  "EAN": "0090600000425",
+  "STATUS": "MATCHED"
+ },
+ "090600000449": {
+  "FULL_NAME_FOUND": "Fortuna Menthol Cigarette, 100's, Box",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Fortuna",
+  "SIZE": "",
+  "EAN": "0090600000449",
+  "STATUS": "MATCHED"
+ },
+ "090600000692": {
+  "FULL_NAME_FOUND": "Sonoma Menthol 100 S",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0090600000692",
+  "STATUS": "MATCHED"
  }
 }

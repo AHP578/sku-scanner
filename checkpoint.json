@@ -78712,5 +78712,95 @@
   "SIZE": "",
   "EAN": "0090500000952",
   "STATUS": "MATCHED"
+ },
+ "090500000976": {
+  "FULL_NAME_FOUND": "Winston Cigarettes, Select Blend, Kings Box",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Winston",
+  "SIZE": "",
+  "EAN": "0090500000976",
+  "STATUS": "MATCHED"
+ },
+ "090500010005": {
+  "FULL_NAME_FOUND": "Kool Box Bx Kings Pk .50 Off",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Kool Box",
+  "SIZE": "",
+  "EAN": "0090500010005",
+  "STATUS": "MATCHED"
+ },
+ "090500010074": {
+  "FULL_NAME_FOUND": "Winston Red Box 50¬¢ Off",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Winston",
+  "SIZE": "",
+  "EAN": "0090500010074",
+  "STATUS": "MATCHED"
+ },
+ "090500010128": {
+  "FULL_NAME_FOUND": "Winston .50 Off Pack Red 100's Box",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0090500010128",
+  "STATUS": "MATCHED"
+ },
+ "090500010166": {
+  "FULL_NAME_FOUND": "Winston Menthol Box $1 Off",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Winston",
+  "SIZE": "",
+  "EAN": "0090500010166",
+  "STATUS": "MATCHED"
+ },
+ "090500010265": {
+  "FULL_NAME_FOUND": "Kool Mild Blue Box 50c Off",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Kool",
+  "SIZE": "",
+  "EAN": "0090500010265",
+  "STATUS": "MATCHED"
+ },
+ "090500010319": {
+  "FULL_NAME_FOUND": "Winston Gold Box $1 Off",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0090500010319",
+  "STATUS": "MATCHED"
+ },
+ "090500010531": {
+  "FULL_NAME_FOUND": "Kool Luxe Smooth 1$off",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0090500010531",
+  "STATUS": "MATCHED"
+ },
+ "090600000128": {
+  "FULL_NAME_FOUND": "USA Gold Cigarettes",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "USA Gold",
+  "SIZE": "",
+  "EAN": "0090600000128",
+  "STATUS": "MATCHED"
+ },
+ "090600000135": {
+  "FULL_NAME_FOUND": "Usa Gold Blue 100's Cigarettes",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Usa Gold",
+  "SIZE": "",
+  "EAN": "0090600000135",
+  "STATUS": "MATCHED"
  }
 }

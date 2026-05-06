@@ -80170,5 +80170,83 @@
  },
  "120001726256": {
   "STATUS": "UNMATCHED"
+ },
+ "012000184208": {
+  "FULL_NAME_FOUND": "Pepsi Cola Mango Soda Pop 20 Fl Oz Bottle",
+  "DESCRIPTION": "Enjoy an ice cold Pepsi, the bold, refreshing cola. Pepsi is the official soft drink of the National Football League, Major League Baseball, and cola lovers everywhere. Pepsi was born in New Bern, NC in 1898 and is still bottled in the USA today. Perfect for parties, meals, and anywhere you need to make a big impression. This 20oz bottle is perfect for sharing refreshing Pepsi anytime, anywhere. Enjoy the refreshing cola taste right out of the can, over ice, or with a twist of lemon or lime. For a classic treat, try serving with a scoop of vanilla ice cream!",
+  "CATEGORY": "Soda",
+  "BRAND": "Pepsi",
+  "SIZE": "591 mL",
+  "EAN": "0012000184208",
+  "STATUS": "MATCHED"
+ },
+ "012000204951": {
+  "FULL_NAME_FOUND": "Mtn Dew Soda, Major Melon 20 Fl Oz",
+  "DESCRIPTION": "Mtn Dew is original, the one that started it all. This green magic will quench your thirst every day of the week. Can, bottle, or glass, it is always a good time for a DEW. Try new Mtn Dew Major Melon, Dew charged with life changing Watermelon flavor. Do the Dew.",
+  "CATEGORY": "Soda",
+  "BRAND": "Mtn Dew",
+  "SIZE": "591 mL",
+  "EAN": "0012000204951",
+  "STATUS": "MATCHED"
+ },
+ "012000210655": {
+  "FULL_NAME_FOUND": "Brisk Blood Orange Iced Tea - 1 Liter",
+  "DESCRIPTION": "Brisk has become the badge of creative hustlers everywhere. By bringing in-your-face flavors and vibrant colors to the juice drink and iced tea game we help you make your mark on the world.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Brisk",
+  "SIZE": "1000 mL",
+  "EAN": "0012000210655",
+  "STATUS": "MATCHED"
+ },
+ "012000220920": {
+  "FULL_NAME_FOUND": "Rockstar Punched Strawberry Peach Energy Drink - 16 Fl Oz Can",
+  "DESCRIPTION": "NEW Rockstar Punched Energy Drink in a Strawberry Peach flavor. This KNOCKOUT FLAVOR is a blend of B-vitamins, guarana extract, and 240mg caffeine. Grab a can today to taste the new bold, unapologetic flavor for your daily caffeine boost. Perfect for grab and go energy whenever your body needs it.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Rockstar",
+  "SIZE": "473 mL",
+  "EAN": "0012000220920",
+  "STATUS": "MATCHED"
+ },
+ "012000221767": {
+  "FULL_NAME_FOUND": "Starbucks Energy Coffee Beverage, Caramel, Doubleshot 15 Fl Oz",
+  "DESCRIPTION": "Nothing delivers like the unmistakably rich taste of bold Starbucks coffee in this Starbucks Doubleshot Energy drink. Rich, bold Starbucks coffee with our classic caramel flavor makes quite the dynamic duo. Blended with B vitamins, guarana and ginseng, to give you a tasty kick to own the day. Drink up. Cheers to the possibilities. Experience a new burst of flavor. .",
+  "CATEGORY": "Coffee",
+  "BRAND": "Starbucks",
+  "SIZE": "444 mL",
+  "EAN": "0012000221767",
+  "STATUS": "MATCHED"
+ },
+ "012000223037": {
+  "FULL_NAME_FOUND": "Mountain Dew Mtn Summer Freeze Soda - 20 Fl Oz Bottle",
+  "DESCRIPTION": "MTN DEW doesn’t have to be green. Our broad flavor collection has something for everyone. Contains 0% juice. Try the limited time Mtn Dew Summer Freeze, DEW with a blast of Summer Americana. This flavor will quench your thirst every day of the week. Can, bottle, or glass, it is always a good time for a DEW®.",
+  "CATEGORY": "Soda",
+  "BRAND": "Mountain Dew",
+  "SIZE": "591 mL",
+  "EAN": "0012000223037",
+  "STATUS": "MATCHED"
+ },
+ "012000384196": {
+  "FULL_NAME_FOUND": "Brisk Juice Drink Pink Lemonade 1 Liter",
+  "DESCRIPTION": "Experience the delightful taste of Brisk Pink Lemonade Juice Drink, a refreshing beverage that is perfect for any occasion. This 1 liter bottle is filled with a delicious blend of sweet and tangy flavors, making it an ideal thirst quencher for hot summer days, picnics, or casual gatherings. Enjoy it chilled or over ice for a revitalizing drink that everyone will love.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Brisk",
+  "SIZE": "1000 mL",
+  "EAN": "0012000384196",
+  "STATUS": "MATCHED"
+ },
+ "120110000070": {
+  "STATUS": "UNMATCHED"
+ },
+ "012044000274": {
+  "FULL_NAME_FOUND": "Old Spice Aluminum Free Deodorant For Men High Endurance, Pure Sport Long Lasting Stick",
+  "DESCRIPTION": "Pure Sport is the crisp, clean scent of achievement. Old Spice Men's Deodorant overpowers even the burliest stink with overwhelming good-smellingness.",
+  "CATEGORY": "Deodorant",
+  "BRAND": "Old Spice",
+  "SIZE": "",
+  "EAN": "0012044000274",
+  "STATUS": "MATCHED"
+ },
+ "121200008006": {
+  "STATUS": "UNMATCHED"
  }
 }

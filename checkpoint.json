@@ -79888,5 +79888,89 @@
   "SIZE": "1420 mL",
   "EAN": "0098794213041",
   "STATUS": "MATCHED"
+ },
+ "098794313048": {
+  "FULL_NAME_FOUND": "Stewart's Original Fountain Classics Root Beer",
+  "DESCRIPTION": "Stewart's Soda Fountain Classics Original Root BeerCarbonated Water, High Fructose Corn Syrup, Caramel Color, Natural and Artificial Flavor, Sodium Benzoate (A Preservative), Citric Acid, Quillaia Extract, Gum Acacia, Yucca Extract.Cold brewed draft n Contains no caffeine.",
+  "CATEGORY": "Soda",
+  "BRAND": "Stewart's",
+  "SIZE": "1420 mL",
+  "EAN": "0098794313048",
+  "STATUS": "MATCHED"
+ },
+ "098794505009": {
+  "FULL_NAME_FOUND": "Stewart's Root Beer, Diet",
+  "DESCRIPTION": "Stewart's Diet Root Beer has the same barrel aged flavor of Stewart's Original Root Beer, but with no sugar or calories. A rich and creamy root beer that is sweetened with aspartame.",
+  "CATEGORY": "Soda",
+  "BRAND": "Stewart's",
+  "SIZE": "325 mL",
+  "EAN": "0098794505009",
+  "STATUS": "MATCHED"
+ },
+ "098794803006": {
+  "FULL_NAME_FOUND": "Stewart's Fountain Classics Soda, Orange 'N Cream",
+  "DESCRIPTION": "Stewart's Orange N Cream is a non-dairy, caffeine and gluten-free super-premium soda, featuring a rich orange-and-cream blend that will remind you of those tasty, two-toned ice cream pops you had when you were a kid. It starts with a buoyant vanilla nose followed by smooth, creamy texture and sweet orange taste riding on light carbonation. It’s just delicious, without the sour or salty tastes that you might find in similar products. This is a rare, thirst-quenching soda! Brewed in small batches from the original recipe, which dates to the 1920s, Stewart's Orange Cream Soda and other Fountain Classics tie back to the original Stewart’s Restaurants, which were a chain of root beer stands founded in 1924 in Mansfield, Ohio. Stewart’s Orange Cream Soda – nothing comes close to the original!",
+  "CATEGORY": "Soda",
+  "BRAND": "Stewart's",
+  "SIZE": "355 mL",
+  "EAN": "0098794803006",
+  "STATUS": "MATCHED"
+ },
+ "098794813043": {
+  "FULL_NAME_FOUND": "Stewart's Fountain Classics Soda, Orange 'n Cream",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Soda",
+  "BRAND": "Stewart's",
+  "SIZE": "1420 mL",
+  "EAN": "0098794813043",
+  "STATUS": "MATCHED"
+ },
+ "099555040920": {
+  "STATUS": "UNMATCHED"
+ },
+ "099555043327": {
+  "FULL_NAME_FOUND": "Green Mountain Coffee Roasters Ground Our Blend - Light/Mild - 100 / Carton",
+  "DESCRIPTION": "Smooth, aromatic and mild Featuring a classic house blend of beans, this coffee appeals to a wide range of palates. Well balanced and complete.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Green Mountain Coffee",
+  "SIZE": "65 mL",
+  "EAN": "0099555043327",
+  "STATUS": "MATCHED"
+ },
+ "099555044324": {
+  "FULL_NAME_FOUND": "Green Mountain Coffee Breakfast Blend Fraction Packs, 2.2 Oz, 100/Carton GMT4432",
+  "DESCRIPTION": "Always rich, balanced and smooth, never too weak, never too strong, gourmet Green Mountain® Breakfast Blend will please anyone. In each cup, you'll find the perfect, wakeful harmony of crisp, citrusy Central American and sweet, full-bodied Indonesian beans. A harmony that, in 2006, brought home one of the first bronze medals that an American company has ever won from the London-based Guild of Fine Food Retailers.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Green Mountain Coffee",
+  "SIZE": "65 mL",
+  "EAN": "0099555044324",
+  "STATUS": "MATCHED"
+ },
+ "099555047325": {
+  "FULL_NAME_FOUND": "Green Mountain Coffee French Vanilla Fraction Packs, 2.2 Oz, 50/Carton GMT4732",
+  "DESCRIPTION": "A bright, light roast with a round and smooth, full-bodied flavor. This coffee is truly a study in contradictions. Inspired by the aromas and tastes of an artisan bakery, significant amounts of time and energy were spent striking the perfect balance so that each time you brew, you'll be sure to enjoy a lusciously rich and complex cup with an abundant vanilla-cream flavor. If you want something sweet that you can savor every day, we have the coffee for you. Packaged in convenient, pre-measured fraction packs for both commercial brewers and standard drip coffee makers. Each fraction pack makes up to 12 standardized cups. 100% Arabica beans.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Green Mountain Coffee",
+  "SIZE": "65 mL",
+  "EAN": "0099555047325",
+  "STATUS": "MATCHED"
+ },
+ "099555047929": {
+  "FULL_NAME_FOUND": "Green Mountain Coffee Hazelnut Fraction Packs, 2.2oz, 50/Carton GMT4792",
+  "DESCRIPTION": "Lighter roasted coffee enhanced with the sweet, buttery, rich taste of hazelnuts. Great for a morning pick-me-up!.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Green Mountain Coffee",
+  "SIZE": "65 mL",
+  "EAN": "0099555047929",
+  "STATUS": "MATCHED"
+ },
+ "099555051612": {
+  "FULL_NAME_FOUND": "Green Mountain Coffee Vermont Country Blend Decaf Fraction Packs, 2.2oz",
+  "DESCRIPTION": "If you desire a brisk and bright but undeniably smooth cup of coffee that reveals itself in layers, try Vermont Country Blend®. It's a meticulously balanced blend of light- and dark-roasted coffees with a wonderful aroma, an eye-opening bite and a robust flavor. Vacuum-sealed, stay-fresh fraction packs simplify the brewing process.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Green Mountain Coffee",
+  "SIZE": "65 mL",
+  "EAN": "0099555051612",
+  "STATUS": "MATCHED"
  }
 }

@@ -80392,5 +80392,77 @@
   "SIZE": "",
   "EAN": "0013600000103",
   "STATUS": "MATCHED"
+ },
+ "013700984518": {
+  "FULL_NAME_FOUND": "Hefty ECOSAVE Compostable Paper Plates 10-1/8 Inch",
+  "DESCRIPTION": "Hefty ECOSAVE Compostable Plates makes cleanup easy. Made without added PFAS and with durable and microwave-safe plant-based material these disposable plates are compostable in commercial facilities. Load up these large paper plates with casserole mac and cheese ribs and more; signature strength delivers the heavy duty quality you’ve come to expect from a Hefty plate.",
+  "CATEGORY": "Printer & Copier Paper",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0013700984518",
+  "STATUS": "MATCHED"
+ },
+ "014200002566": {
+  "FULL_NAME_FOUND": "Charms Blow Pop, Super, Strawberry",
+  "DESCRIPTION": "Super Blow Pop® lollipops offer two delicious treats in one. Chewy bubble gum centers surrounded by delicious hard candy shells provide your customers with a variety of fruity flavors including watermelon, cherry, Blue Razz Berry®, sour apple, strawberry, and grape.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Charms",
+  "SIZE": "",
+  "EAN": "0014200002566",
+  "STATUS": "MATCHED"
+ },
+ "014200533107": {
+  "FULL_NAME_FOUND": "Sugar Babies Milk Caramels, Candy Coated",
+  "DESCRIPTION": "A blast from the past - Sugar Babies! That sweet, buttery flavor of soft caramel wrapped in a thin candy shell will be even better than you remember, with each bite bringing you back to carefree days gone by of special trips to the corner store. Get yourself and your friends some of these little packets chock full of memories and share in the nostalgia.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Sugar Babies",
+  "SIZE": "",
+  "EAN": "0014200533107",
+  "STATUS": "MATCHED"
+ },
+ "156271260121": {
+  "STATUS": "UNMATCHED"
+ },
+ "156271260152": {
+  "STATUS": "UNMATCHED"
+ },
+ "156271263023": {
+  "STATUS": "UNMATCHED"
+ },
+ "158012039492": {
+  "FULL_NAME_FOUND": "Mr. Vapor Disposable Pod Device Cool Mint",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Handheld Devices",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0158012039492",
+  "STATUS": "MATCHED"
+ },
+ "158012039591": {
+  "FULL_NAME_FOUND": "Mr. Vapor Disposable Vape",
+  "DESCRIPTION": "Mr. Vapor Disposable. Mr Vapor Disposables are available in many different flavors and have a nicotine strength of 5% Salt Nicotine. Each disposable holds 1.3ml of nicotine salt vape juice. With an efficient design that gives a tight draw with strong vapor production, this is an extremely convenient and enjoyable way to vape. A favorite among Nic Salt fans, the Mr Vapor collection is full of a variety of pure fruit flavors and mentholated masterpieces.",
+  "CATEGORY": "Tobacco Products",
+  "BRAND": "Mr. Vapor",
+  "SIZE": "",
+  "EAN": "0158012039591",
+  "STATUS": "MATCHED"
+ },
+ "016000170032": {
+  "FULL_NAME_FOUND": "Cheerios General Mills Oat Cereal, Toasted Whole Grain, Family Size",
+  "DESCRIPTION": "Cheerios has been a family favorite for years. Its wholesome goodness is perfect for toddlers to adults and everyone in between. Made from whole grain oats, and without artificial flavors or colors, theyre naturally low in fat and cholesterol free. These wholesome little os have only one gram of sugar.",
+  "CATEGORY": "Cereal & Granola",
+  "BRAND": "Cheerios",
+  "SIZE": "",
+  "EAN": "0016000170032",
+  "STATUS": "MATCHED"
+ },
+ "016000275263": {
+  "FULL_NAME_FOUND": "Cheerios General Mills Toasted Whole Grain Oat Cereal",
+  "DESCRIPTION": "Cheerios is a wholesome, gluten-free breakfast cereal made from 100% whole grain oats. Its signature toasted \"O\" shape and mild, lightly nutty flavor make it a favorite for all ages. With a simple ingredient list and no artificial flavors or colors, Cheerios offers a heart-healthy option that fits into a balanced diet. Each serving is low in sugar and rich in essential nutrients like iron, fiber, and B vitamins, making it a smart choice for those looking to start their day with energy and nutrition. Whether enjoyed with milk, topped with fresh fruit, or eaten straight from the box as a snack, Cheerios delivers a satisfying crunch in every bite.",
+  "CATEGORY": "Cereal & Granola",
+  "BRAND": "Cheerios",
+  "SIZE": "",
+  "EAN": "0016000275263",
+  "STATUS": "MATCHED"
  }
 }

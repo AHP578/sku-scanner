@@ -81136,5 +81136,95 @@
   "SIZE": "",
   "EAN": "0024300014017",
   "STATUS": "MATCHED"
+ },
+ "024300015076": {
+  "FULL_NAME_FOUND": "Drake's Funnybones",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "Drake's",
+  "SIZE": "",
+  "EAN": "0024300015076",
+  "STATUS": "MATCHED"
+ },
+ "024300016035": {
+  "FULL_NAME_FOUND": "Drake's Ring Dings, Food Cakes",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Rings",
+  "BRAND": "Drake's",
+  "SIZE": "",
+  "EAN": "0024300016035",
+  "STATUS": "MATCHED"
+ },
+ "024300016073": {
+  "FULL_NAME_FOUND": "Drake's Frosted Creme Filled Funny Bones",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Snack Cakes",
+  "BRAND": "Drake's",
+  "SIZE": "",
+  "EAN": "0024300016073",
+  "STATUS": "MATCHED"
+ },
+ "024300017056": {
+  "FULL_NAME_FOUND": "Drake's Apple Fruit Pie",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Pastries & Scones",
+  "BRAND": "Drake's",
+  "SIZE": "",
+  "EAN": "0024300017056",
+  "STATUS": "MATCHED"
+ },
+ "024300017063": {
+  "FULL_NAME_FOUND": "Drake's Cherry Fruit Pie",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Pies & Tarts",
+  "BRAND": "Drake's",
+  "SIZE": "",
+  "EAN": "0024300017063",
+  "STATUS": "MATCHED"
+ },
+ "024300805097": {
+  "FULL_NAME_FOUND": "Little Deb Ld Banana Marshmallow Pie",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Pies & Tarts",
+  "BRAND": "Little Deb",
+  "SIZE": "",
+  "EAN": "0024300805097",
+  "STATUS": "MATCHED"
+ },
+ "024300807657": {
+  "FULL_NAME_FOUND": "Little Debbie Cake, Spring Party Pre-Priced",
+  "DESCRIPTION": "Whether you’re planting a garden, doing a little spring cleaning, or just making memories, these Little Debbie Spring Party Cakes are sure to complement any springtime activity. Two pieces of yellow cake are layered with a vanilla flavored creme and covered with white icing. A sprinkling of yellow, green and pink sugar crystals top off this delightful springtime snack. 1 Cake per packageIndividually wrappedCertified Kosher by the Orthodox Union.",
+  "CATEGORY": "Snack Cakes",
+  "BRAND": "Little Debbie",
+  "SIZE": "",
+  "EAN": "0024300807657",
+  "STATUS": "MATCHED"
+ },
+ "024300808388": {
+  "FULL_NAME_FOUND": "Little Debbie Honey Bun",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Breads & Buns",
+  "BRAND": "Little Debbie",
+  "SIZE": "",
+  "EAN": "0024300808388",
+  "STATUS": "MATCHED"
+ },
+ "024300808845": {
+  "FULL_NAME_FOUND": "Little Debbie Zebra Cake Roll",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Snack Cakes",
+  "BRAND": "Little Debbie",
+  "SIZE": "",
+  "EAN": "0024300808845",
+  "STATUS": "MATCHED"
+ },
+ "024300808869": {
+  "FULL_NAME_FOUND": "Little Debbie Cosmic Brownie With Chocolate Chip Candy 2.3 Oz",
+  "DESCRIPTION": "Have you tried a Little Debbie Cosmic Brownie? It's covered with chocolate chip candies and has a rich and decadent chocolate taste. Add this single serving treat to your cart for a little well-deserved break in the day.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Little Debbie",
+  "SIZE": "",
+  "EAN": "0024300808869",
+  "STATUS": "MATCHED"
  }
 }

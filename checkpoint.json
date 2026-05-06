@@ -78892,5 +78892,95 @@
   "SIZE": "",
   "EAN": "0090600000692",
   "STATUS": "MATCHED"
+ },
+ "090600000777": {
+  "FULL_NAME_FOUND": "Sonoma Red",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0090600000777",
+  "STATUS": "MATCHED"
+ },
+ "090600000784": {
+  "FULL_NAME_FOUND": "Sonoma Menthol Gold 100",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0090600000784",
+  "STATUS": "MATCHED"
+ },
+ "090600000807": {
+  "FULL_NAME_FOUND": "Sonoma Blue 100's",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0090600000807",
+  "STATUS": "MATCHED"
+ },
+ "090600000845": {
+  "FULL_NAME_FOUND": "USA Gold Cigarettes, Class A",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "USA Gold",
+  "SIZE": "",
+  "EAN": "0090600000845",
+  "STATUS": "MATCHED"
+ },
+ "090600000852": {
+  "FULL_NAME_FOUND": "USA Gold Cigarettes, Class A, 100s",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "USA Gold",
+  "SIZE": "",
+  "EAN": "0090600000852",
+  "STATUS": "MATCHED"
+ },
+ "090600000890": {
+  "FULL_NAME_FOUND": "Fortuna Red 100's Box",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Fortuna",
+  "SIZE": "",
+  "EAN": "0090600000890",
+  "STATUS": "MATCHED"
+ },
+ "090600000937": {
+  "FULL_NAME_FOUND": "Montclair Black 100 B",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0090600000937",
+  "STATUS": "MATCHED"
+ },
+ "090600000951": {
+  "FULL_NAME_FOUND": "Montclair Blue",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0090600000951",
+  "STATUS": "MATCHED"
+ },
+ "090600000968": {
+  "FULL_NAME_FOUND": "Montclair Silver",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0090600000968",
+  "STATUS": "MATCHED"
+ },
+ "090600000975": {
+  "FULL_NAME_FOUND": "Montclair Menthol Gold",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0090600000975",
+  "STATUS": "MATCHED"
  }
 }

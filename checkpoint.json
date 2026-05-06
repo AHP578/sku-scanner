@@ -79066,5 +79066,71 @@
   "SIZE": "",
   "EAN": "0091585029623",
   "STATUS": "MATCHED"
+ },
+ "091752021207": {
+  "FULL_NAME_FOUND": "Otis Spunkmeyer Muffins, Chocolate Chip",
+  "DESCRIPTION": "Luxuriously moist chocolate muffins filled with smooth, semi-sweet chocolate chips. Shipped frozenContains milk, eggs, wheat, soy, soybeanMay contain peanutsKosher Dairy0 g Trans fat.",
+  "CATEGORY": "Muffins",
+  "BRAND": "Otis Spunkmeyer",
+  "SIZE": "",
+  "EAN": "0091752021207",
+  "STATUS": "MATCHED"
+ },
+ "091806257064": {
+  "FULL_NAME_FOUND": "Target ShedRain Vented Auto Open/Close Compact Umbrella 47.3 Inch Arc",
+  "DESCRIPTION": "Rain, sleet, and snow protection umbrella designed with remarkable attention to detail.",
+  "CATEGORY": "Umbrella Sleeves & Cases",
+  "BRAND": "Target",
+  "SIZE": "",
+  "EAN": "0091806257064",
+  "STATUS": "MATCHED"
+ },
+ "091806257071": {
+  "STATUS": "UNMATCHED"
+ },
+ "092919191924": {
+  "STATUS": "UNMATCHED"
+ },
+ "093770329006": {
+  "STATUS": "UNMATCHED"
+ },
+ "093770330040": {
+  "STATUS": "UNMATCHED"
+ },
+ "093922500666": {
+  "FULL_NAME_FOUND": "Now & Later Chews, Long Lasting, Original",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Now & Later",
+  "SIZE": "",
+  "EAN": "0093922500666",
+  "STATUS": "MATCHED"
+ },
+ "093922500680": {
+  "FULL_NAME_FOUND": "Now & Later Chews, Long Lasting, Wild Fruits",
+  "DESCRIPTION": "Tropical punch flavour Now & Later Chewy in mini six piece packs - each chew is individually wrapped, and bursting with fruity flavour. Now & Later Chewy has all the bold flavour of the original, just chewier!",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Now & Later",
+  "SIZE": "",
+  "EAN": "0093922500680",
+  "STATUS": "MATCHED"
+ },
+ "094187012161": {
+  "FULL_NAME_FOUND": "Convenience Valet Dramamine Motion Sickness Relief",
+  "DESCRIPTION": "Dimenhydrinate tablets/antiemetic. Convenient chewable tablets for children and adults. 2 orange flavor tablets (50 mg each). Package not child-resistant. Use as directed. Repackaged and distributed by Convenience Valet Melrose Park, IL 60160. Made in Canada.",
+  "CATEGORY": "Personal Care",
+  "BRAND": "Convenience Valet",
+  "SIZE": "",
+  "EAN": "0094187012161",
+  "STATUS": "MATCHED"
+ },
+ "094187012413": {
+  "FULL_NAME_FOUND": "Convenience Valet Excedrin Extra Strength",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Personal Care",
+  "BRAND": "Convenience Valet",
+  "SIZE": "",
+  "EAN": "0094187012413",
+  "STATUS": "MATCHED"
  }
 }

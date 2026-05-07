@@ -83332,5 +83332,95 @@
   "SIZE": "",
   "EAN": "0031700058091",
   "STATUS": "MATCHED"
+ },
+ "031700058114": {
+  "FULL_NAME_FOUND": "Game Cigarillos, Natural Leaf, Diamond",
+  "DESCRIPTION": "Enjoy great value with Game Tobacco Large Cigar – 2/$1.29. Elevate your smoking experience with this affordable option. Get it now!",
+  "CATEGORY": "Games",
+  "BRAND": "Game",
+  "SIZE": "",
+  "EAN": "0031700058114",
+  "STATUS": "MATCHED"
+ },
+ "031700058459": {
+  "FULL_NAME_FOUND": "Game Leaf Dark Rum 2pk 1.29",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Rum",
+  "BRAND": "Game",
+  "SIZE": "",
+  "EAN": "0031700058459",
+  "STATUS": "MATCHED"
+ },
+ "031700058824": {
+  "FULL_NAME_FOUND": "Game Leaf Tropical Reserve",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Games",
+  "BRAND": "Game",
+  "SIZE": "",
+  "EAN": "0031700058824",
+  "STATUS": "MATCHED"
+ },
+ "031700059517": {
+  "FULL_NAME_FOUND": "Game MVP White Russian 1.29",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Game",
+  "SIZE": "",
+  "EAN": "0031700059517",
+  "STATUS": "MATCHED"
+ },
+ "031700059937": {
+  "FULL_NAME_FOUND": "Game Wht Russ Pp2.19",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Games",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0031700059937",
+  "STATUS": "MATCHED"
+ },
+ "323900010765": {
+  "FULL_NAME_FOUND": "Vicks Vapo Drops Cough Suppressant/Oral Anesthetic, Menthol, Cherry Flavor",
+  "DESCRIPTION": "Cough relief. Vicks VapoDrops provide fast and effective relief. Each drop contains effective medicine to suppress your impulse to cough as it dissolves into a soothing syrup to relieve your sore throat.",
+  "CATEGORY": "Health & Beauty",
+  "BRAND": "Vicks",
+  "SIZE": "",
+  "EAN": "0323900010765",
+  "STATUS": "MATCHED"
+ },
+ "323900010772": {
+  "FULL_NAME_FOUND": "Vicks Cough Suppressant Drops, Menthol Flavor Drops",
+  "DESCRIPTION": "Vicks Cough Suppressant Drops with Menthol temporarily relieves sore throat and coughs due to colds or inhaled irritants. Vicks Cough Drops provide fast and effective relief. Each drop contains effective medicine to suppress your impulse to cough as it dissolves into a soothing syrup to relieve your sore throat. Vicks Cough Drops relieve sore throats, throat irritation, and cough commonly associated with a cold. Vicks Cough Drops contain effective medicine to suppress your impulse to cough as they dissolve to relieve your sore throat. Vicks Cough Drops use Vicks trusted ingredients to soothe your sore throat. Cough Drops are available in two flavors: menthol and cherry.",
+  "CATEGORY": "Medicine & Drugs",
+  "BRAND": "Vicks",
+  "SIZE": "",
+  "EAN": "0323900010772",
+  "STATUS": "MATCHED"
+ },
+ "323900038158": {
+  "FULL_NAME_FOUND": "Vicks NyQuil Max Strength Severe Cold & Flu Nighttime Relief Liquid, 12 Fl Oz",
+  "DESCRIPTION": "Maximum strength nighttime relief for aches, fever, sore throat, minor aches and pains, nasal congestion, sinus pressure, sneezing, runny nose and cough. With acetaminophen, phenylephrine HCI, doxylamine succinate and dextromethorphan HBr.",
+  "CATEGORY": "Health & Beauty",
+  "BRAND": "Vicks",
+  "SIZE": "",
+  "EAN": "0323900038158",
+  "STATUS": "MATCHED"
+ },
+ "323900042100": {
+  "FULL_NAME_FOUND": "Vick's NyQuil Severe Cold & Flu Liquid, 1 Oz",
+  "DESCRIPTION": "Experience maximum strength, nighttime relief with Vicks NyQuil SEVERE Cold & Flu Liquid medicine, now available in a convenient 1 oz size for traveling. With just one dose, you'll feel a fast-acting relief from 9 of the toughest cold and flu symptoms. Don't let a pesky cold bring you down - trust in Vicks NyQuil SEVERE to provide effective treatment for headaches, fevers, congestion, and more. Get the rest you need to conquer the day, thanks to Vicks NyQuil SEVERE.",
+  "CATEGORY": "Medicine & Drugs",
+  "BRAND": "Vick's",
+  "SIZE": "",
+  "EAN": "0323900042100",
+  "STATUS": "MATCHED"
+ },
+ "323900042407": {
+  "FULL_NAME_FOUND": "Vicks Vaporub Ointment",
+  "DESCRIPTION": "Vicks Vaporub is a soothing topical ointment that helps to relieve coughs and congestion associated with colds and flu. This product is formulated with a blend of active ingredients, including camphor, menthol, and eucalyptus oil, which work together to help relieve chest and throat discomfort.",
+  "CATEGORY": "Health & Beauty",
+  "BRAND": "Vicks",
+  "SIZE": "",
+  "EAN": "0323900042407",
+  "STATUS": "MATCHED"
  }
 }

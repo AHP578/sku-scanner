@@ -82078,5 +82078,95 @@
   "SIZE": "",
   "EAN": "0028400331609",
   "STATUS": "MATCHED"
+ },
+ "028400516327": {
+  "FULL_NAME_FOUND": "Doritos Salsa Verde Tortilla Chips - 9.25oz",
+  "DESCRIPTION": "Doritos Salsa Verde offers a tangy, mildly spicy take on the classic tortilla chip. Inspired by Mexican green salsa (“salsa verde”), it blends zesty jalapeño and tomato notes with a touch of citrus, delivering a refreshing and flavorful crunch experience. 🧾.",
+  "CATEGORY": "Chips",
+  "BRAND": "Doritos",
+  "SIZE": "",
+  "EAN": "0028400516327",
+  "STATUS": "MATCHED"
+ },
+ "028400516686": {
+  "FULL_NAME_FOUND": "Ruffles Brand Original Potato Chips - 8.5 Ounce",
+  "DESCRIPTION": "in the day chips were flat and that was boring. So we made a chip that zigged and zagged and shared it with the world.",
+  "CATEGORY": "Chips",
+  "BRAND": "Ruffles",
+  "SIZE": "",
+  "EAN": "0028400516686",
+  "STATUS": "MATCHED"
+ },
+ "028400516853": {
+  "FULL_NAME_FOUND": "Ruffles Brand Sour Cream & Onion Flavored Potato Chips - 8 Ounce",
+  "DESCRIPTION": "Frito Lay Ruffles Sour Cream & Onion chips feature thick, ridged potato slices seasoned with a creamy sour cream and tangy onion blend. Their hearty texture enhances dipping and delivers a robust flavor profile, making them an excellent choice for those seeking a satisfying, flavorful snack with added crunch.",
+  "CATEGORY": "Chips",
+  "BRAND": "Ruffles",
+  "SIZE": "",
+  "EAN": "0028400516853",
+  "STATUS": "MATCHED"
+ },
+ "028400517980": {
+  "FULL_NAME_FOUND": "Tostitos Original Crispy Rounds Tortilla Chips - 12 Ounce",
+  "DESCRIPTION": "TOSTITOS are more than tortilla chips and dips—they're an invitation to catch up with friends, so Get Together Already! TOSTITOS Tortilla Chips come in a variety of shapes, sizes and flavors, but they all have two things in common - they're completely dippable and totally delicious. Tostitos salsas are made with real chunks of garden vegetables, and Tostitos dips are so creamy, you can't resist either! Nothing pairs better with TOSTITOS Tortilla Chips, except maybe a group of friends.",
+  "CATEGORY": "Chips",
+  "BRAND": "Tostitos",
+  "SIZE": "",
+  "EAN": "0028400517980",
+  "STATUS": "MATCHED"
+ },
+ "028400619714": {
+  "FULL_NAME_FOUND": "Doritos Tortilla Chips, Taco Flavor - 9.25 Ounce",
+  "DESCRIPTION": "The DORITOS brand is all about boldness. If you’re up to the challenge, grab a bag of DORITOS tortilla chips and get ready to make some memories you won’t soon forget. It’s a bold experience in snacking and beyond.",
+  "CATEGORY": "Chips",
+  "BRAND": "Doritos",
+  "SIZE": "",
+  "EAN": "0028400619714",
+  "STATUS": "MATCHED"
+ },
+ "028400683739": {
+  "FULL_NAME_FOUND": "Ruffles Smokehouse Barbecue Potato Chips",
+  "DESCRIPTION": "With crunchy ridges made to stand up to even the thickest dips, RUFFLES potato chips bring epic flavor and snack satisfaction to any get-together.",
+  "CATEGORY": "Chips",
+  "BRAND": "Ruffles",
+  "SIZE": "",
+  "EAN": "0028400683739",
+  "STATUS": "MATCHED"
+ },
+ "028400686846": {
+  "FULL_NAME_FOUND": "Doritos Tortilla Chips, Tangy Pickle - 9.25 Ounce",
+  "DESCRIPTION": "The DORITOS brand is all about boldness. If you’re up to the challenge, grab a bag of DORITOS tortilla chips and get ready to make some memories you won’t soon forget. It’s a bold experience in snacking and beyond.",
+  "CATEGORY": "Chips",
+  "BRAND": "Doritos",
+  "SIZE": "",
+  "EAN": "0028400686846",
+  "STATUS": "MATCHED"
+ },
+ "028400688901": {
+  "FULL_NAME_FOUND": "Ruffles Flamin' Hot Cheddar Sour Cream Potato Chips - 8oz",
+  "DESCRIPTION": "Includes 1 bag of Ruffles Potato Chips, Flamin' Hot Cheddar & Sour Cream flavor. A blend of rich, velvety cheddar with smooth, creamy sour cream flavor meets the classic hot & spicy Flamin' Hot flavor. A thicker, sturdier potato chip with Ruffles trademarked ridges. Back in the day chips were flat and that was boring. So we made a chip that zigged and zagged and shared it with the world. When you have ridges, the crunches are crunchier and the dipping strength multiplies, and your chips become Ruffles.",
+  "CATEGORY": "Chips",
+  "BRAND": "Ruffles",
+  "SIZE": "",
+  "EAN": "0028400688901",
+  "STATUS": "MATCHED"
+ },
+ "028400695640": {
+  "FULL_NAME_FOUND": "Smartfood XXVL Doritos Nacho Cheese Flavored Popcorn - 2oz",
+  "DESCRIPTION": "There are people out there who would keep you and your beloved popcorn totally separate from Doritos. We are not those people. A new snack that will have you cheesin’. Grab a bag of the limited flavor Smartfood Doritos Nacho Cheese flavored popcorn today. Who comes up with these flavors? Geniuses, that’s who. After all, smart is in our name.",
+  "CATEGORY": "Popcorn",
+  "BRAND": "Smartfood",
+  "SIZE": "",
+  "EAN": "0028400695640",
+  "STATUS": "MATCHED"
+ },
+ "028400695688": {
+  "FULL_NAME_FOUND": "Smartfood Doritos Nacho Cheese Flavored Popcorn - 6.25oz",
+  "DESCRIPTION": "There are people out there who would keep you and your beloved popcorn totally separate from Doritos. We are not those people. A new snack that will have you cheesin’. Grab a bag of the limited flavor Smartfood Doritos Nacho Cheese flavored popcorn today. Who comes up with these flavors? Geniuses, that’s who. After all, smart is in our name.",
+  "CATEGORY": "Popcorn",
+  "BRAND": "Smartfood",
+  "SIZE": "",
+  "EAN": "0028400695688",
+  "STATUS": "MATCHED"
  }
 }

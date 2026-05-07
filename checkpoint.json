@@ -81580,5 +81580,89 @@
   "SIZE": "",
   "EAN": "0024682313128",
   "STATUS": "MATCHED"
+ },
+ "024682313197": {
+  "FULL_NAME_FOUND": "DLPS Food Service Lowfat, Vanilla Ice Cream Sandwich",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Sandwich Makers",
+  "BRAND": "DLPS Food Service",
+  "SIZE": "",
+  "EAN": "0024682313197",
+  "STATUS": "MATCHED"
+ },
+ "024682313333": {
+  "FULL_NAME_FOUND": "Hersheys Chocolate Sundae Cup",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "Hersheys",
+  "SIZE": "",
+  "EAN": "0024682313333",
+  "STATUS": "MATCHED"
+ },
+ "024682313340": {
+  "FULL_NAME_FOUND": "Hershey's Strawberry Sundae Cup",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "Hershey's",
+  "SIZE": "",
+  "EAN": "0024682313340",
+  "STATUS": "MATCHED"
+ },
+ "024682313418": {
+  "FULL_NAME_FOUND": "Hershey's Giant Vanilla Premium Ice Cream Sandwich",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Frozen Desserts & Novelties",
+  "BRAND": "Hershey's",
+  "SIZE": "",
+  "EAN": "0024682313418",
+  "STATUS": "MATCHED"
+ },
+ "024682400019": {
+  "FULL_NAME_FOUND": "DLPS Food Service Hershey Monster Push Pop",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Push & Pull Toys",
+  "BRAND": "DLPS Food Service",
+  "SIZE": "",
+  "EAN": "0024682400019",
+  "STATUS": "MATCHED"
+ },
+ "025000030291": {
+  "FULL_NAME_FOUND": "Minute Maid Juice, Watermelon Punch 20 Fl Oz",
+  "DESCRIPTION": "Quench your thirst with Minute Maid's refreshing Watermelon Punch. Made with real fruit juice, this 591ml bottle packs a punch of 100% natural flavor. Stay hydrated and satisfied with the perfect blend of sweet and juicy watermelon goodness in every sip.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Minute Maid",
+  "SIZE": "591 mL",
+  "EAN": "0025000030291",
+  "STATUS": "MATCHED"
+ },
+ "025000052002": {
+  "FULL_NAME_FOUND": "Minute Maid Cranberry Grape Juice Drink Bottle, 12 Fl Oz",
+  "DESCRIPTION": "Experience the refreshing taste of Minute Maid Cranberry Grape Fruit Juice! Perfectly blended for a delightful balance of tart cranberry and sweet grape flavors, this juice is a delicious way to hydrate and enjoy a burst of fruity goodness. Each 12 fluid ounce bottle is packed with essential vitamins and nutrients, making it an ideal choice for any time of the day. Whether you are enjoying it at breakfast, as a midday snack, or as a refreshing drink during a gathering, Minute Maid Cranberry Grape Fruit Juice is sure to please.",
+  "CATEGORY": "Juice",
+  "BRAND": "Minute Maid",
+  "SIZE": "355 mL",
+  "EAN": "0025000052002",
+  "STATUS": "MATCHED"
+ },
+ "025000058073": {
+  "FULL_NAME_FOUND": "Minute Maid Lemonade Made W/ Real Lemons, 12 Fl Oz",
+  "DESCRIPTION": "Classics never go out of style. Made with the goodness of real lemons, Minute Maid Lemonade is the quintessential refreshing beverage with the great taste of a simpler time.",
+  "CATEGORY": "Juice",
+  "BRAND": "Minute Maid",
+  "SIZE": "355 mL",
+  "EAN": "0025000058073",
+  "STATUS": "MATCHED"
+ },
+ "025000058868": {
+  "FULL_NAME_FOUND": "Minute Maid Pink Lemonade, Fruit Drink 20 Fl Oz",
+  "DESCRIPTION": "Experience the refreshing taste of Minute Maid Pink Lemonade! Perfect for quenching your thirst on a hot day, this delightful beverage combines the classic flavor of lemonade with a hint of sweetness. Each 20 ounce bottle is packed with vibrant flavor, making it an ideal choice for picnics, barbecues, or simply enjoying at home.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Minute Maid",
+  "SIZE": "591 mL",
+  "EAN": "0025000058868",
+  "STATUS": "MATCHED"
+ },
+ "251748106022": {
+  "STATUS": "UNMATCHED"
  }
 }

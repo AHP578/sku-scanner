@@ -81490,5 +81490,95 @@
   "SIZE": "",
   "EAN": "0024682312312",
   "STATUS": "MATCHED"
+ },
+ "024682312619": {
+  "FULL_NAME_FOUND": "Hersheys Hershey Vanilla Cup",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "Hersheys",
+  "SIZE": "",
+  "EAN": "0024682312619",
+  "STATUS": "MATCHED"
+ },
+ "024682312671": {
+  "FULL_NAME_FOUND": "Cookie And Cream Ice Cream",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Frozen Desserts & Novelties",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0024682312671",
+  "STATUS": "MATCHED"
+ },
+ "024682312688": {
+  "FULL_NAME_FOUND": "Hersheys Hershey Cotton Candy Cup",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "Hersheys",
+  "SIZE": "",
+  "EAN": "0024682312688",
+  "STATUS": "MATCHED"
+ },
+ "024682312695": {
+  "FULL_NAME_FOUND": "Hershey's Midnight Caramel River",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Frozen Desserts & Novelties",
+  "BRAND": "Hershey's",
+  "SIZE": "",
+  "EAN": "0024682312695",
+  "STATUS": "MATCHED"
+ },
+ "024682312800": {
+  "FULL_NAME_FOUND": "Hershey's Premium Ice Cream Sandwich",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "Hershey's",
+  "SIZE": "",
+  "EAN": "0024682312800",
+  "STATUS": "MATCHED"
+ },
+ "024682312855": {
+  "FULL_NAME_FOUND": "Hershey Creamery Sandwich Cookies&Cream Polar Bear",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Ice Cream Novelties",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0024682312855",
+  "STATUS": "MATCHED"
+ },
+ "024682312909": {
+  "FULL_NAME_FOUND": "Polar Bear Brwnie Bttr Ic Sndwch",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0024682312909",
+  "STATUS": "MATCHED"
+ },
+ "024682313012": {
+  "FULL_NAME_FOUND": "Hershey's Super Cookies & Cream Cone 4 Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Ice Cream Cones",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0024682313012",
+  "STATUS": "MATCHED"
+ },
+ "024682313050": {
+  "FULL_NAME_FOUND": "Hershey's Reader Rabbit Personalized Math 4-6 Deluxe",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "Hershey's",
+  "SIZE": "",
+  "EAN": "0024682313050",
+  "STATUS": "MATCHED"
+ },
+ "024682313128": {
+  "FULL_NAME_FOUND": "Hershey's Incredible Cone",
+  "DESCRIPTION": "Проверить халяль, кошерстатусШоколадное мороженое \"Хёрши\" с ванилью и шоколадом, с шоколадными посыпками, 170 г. Это из США, от компании Hershey's, и относится к категории мороженого.",
+  "CATEGORY": "Traffic Cones & Barrels",
+  "BRAND": "Hershey's",
+  "SIZE": "",
+  "EAN": "0024682313128",
+  "STATUS": "MATCHED"
  }
 }

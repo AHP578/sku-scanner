@@ -81406,5 +81406,89 @@
   "SIZE": "",
   "EAN": "0024682005061",
   "STATUS": "MATCHED"
+ },
+ "024682005085": {
+  "FULL_NAME_FOUND": "Hersheys Choc Chip Cook Dough",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "Hersheys",
+  "SIZE": "",
+  "EAN": "0024682005085",
+  "STATUS": "MATCHED"
+ },
+ "024682005108": {
+  "FULL_NAME_FOUND": "Hershey's Strawberry Cheesecake",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "Hershey's",
+  "SIZE": "",
+  "EAN": "0024682005108",
+  "STATUS": "MATCHED"
+ },
+ "024682005153": {
+  "FULL_NAME_FOUND": "Hershey's Birthday Cake",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "Hershey's",
+  "SIZE": "",
+  "EAN": "0024682005153",
+  "STATUS": "MATCHED"
+ },
+ "024682005184": {
+  "FULL_NAME_FOUND": "Hershey's Ice Cream Cappuccino Crunch",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "Hershey's",
+  "SIZE": "",
+  "EAN": "0024682005184",
+  "STATUS": "MATCHED"
+ },
+ "024682005207": {
+  "FULL_NAME_FOUND": "Hersheys Coconut Chocolate Almond Ice Cream 16oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "Hersheys",
+  "SIZE": "",
+  "EAN": "0024682005207",
+  "STATUS": "MATCHED"
+ },
+ "024682005818": {
+  "FULL_NAME_FOUND": "Cookie Butter Premium Ice Cream",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cookies",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0024682005818",
+  "STATUS": "MATCHED"
+ },
+ "024682005931": {
+  "STATUS": "UNMATCHED"
+ },
+ "024682312077": {
+  "FULL_NAME_FOUND": "Hershey's Chocolate Eclair",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "Hershey's",
+  "SIZE": "",
+  "EAN": "0024682312077",
+  "STATUS": "MATCHED"
+ },
+ "024682312114": {
+  "FULL_NAME_FOUND": "Hersheys Banana Pudding Bar",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0024682312114",
+  "STATUS": "MATCHED"
+ },
+ "024682312312": {
+  "FULL_NAME_FOUND": "Tropi-kool Coconut Cream",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Frozen Desserts & Novelties",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0024682312312",
+  "STATUS": "MATCHED"
  }
 }

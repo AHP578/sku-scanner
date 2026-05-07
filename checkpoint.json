@@ -81664,5 +81664,89 @@
  },
  "251748106022": {
   "STATUS": "UNMATCHED"
+ },
+ "251748110029": {
+  "STATUS": "UNMATCHED"
+ },
+ "025415261006": {
+  "FULL_NAME_FOUND": "Hopkins SubZero 2610XB Extender Snow Broom, 48 In OAL, Assorted",
+  "DESCRIPTION": "Wide blade and broom extend to 48 in and provides up to 100% longer reach. Great for larger vehicles.",
+  "CATEGORY": "Brooms",
+  "BRAND": "Hopkins",
+  "SIZE": "",
+  "EAN": "0025415261006",
+  "STATUS": "MATCHED"
+ },
+ "025900206277": {
+  "FULL_NAME_FOUND": "Swisher Sweets Grape 2pk",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Sweet Potatoes",
+  "BRAND": "Swisher",
+  "SIZE": "",
+  "EAN": "0025900206277",
+  "STATUS": "MATCHED"
+ },
+ "025900207465": {
+  "FULL_NAME_FOUND": "Swisher Sweets Blunt Cigarillos Classic",
+  "DESCRIPTION": "Save on 2 cigars. 2 pack resealable foil pouch. www.Swishersweets.com. Made in Dominican Republic.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Swisher Sweets",
+  "SIZE": "",
+  "EAN": "0025900207465",
+  "STATUS": "MATCHED"
+ },
+ "025900445546": {
+  "FULL_NAME_FOUND": "Swisher Sweets Grape 2 For 1.39",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Swisher Sweets",
+  "SIZE": "",
+  "EAN": "0025900445546",
+  "STATUS": "MATCHED"
+ },
+ "026100004243": {
+  "FULL_NAME_FOUND": "Kent Deluxe 100's Cigarettes",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Kent",
+  "SIZE": "",
+  "EAN": "0026100004243",
+  "STATUS": "MATCHED"
+ },
+ "026100006605": {
+  "FULL_NAME_FOUND": "Newport Cigarettes, Non Menthol, Gold Box",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Newport",
+  "SIZE": "",
+  "EAN": "0026100006605",
+  "STATUS": "MATCHED"
+ },
+ "026200101927": {
+  "FULL_NAME_FOUND": "Slim Jim Snack Sized Smoked Meat Sticks, Original Flavor, 0.28 Oz",
+  "DESCRIPTION": "Original flavor smoked pork, chicken, & beef stick with spices for a full, intense flavor. A great source of protein. Ideal for snacking anytime.",
+  "CATEGORY": "Jerky",
+  "BRAND": "Slim Jim",
+  "SIZE": "",
+  "EAN": "0026200101927",
+  "STATUS": "MATCHED"
+ },
+ "026200117409": {
+  "FULL_NAME_FOUND": "Slim Jim Giant Smoked Snack Stick Nacho Flavored",
+  "DESCRIPTION": "The Slim Jim Giant Nacho Meat Stick is a delicious snack option that is rich in protein. It is excellent for enjoying on the go. The bulk case with 6 packs of Slim Jim Meat Sticks is ideal for cafeterias, pantries, and retail stores.",
+  "CATEGORY": "Jerky",
+  "BRAND": "Slim Jim",
+  "SIZE": "",
+  "EAN": "0026200117409",
+  "STATUS": "MATCHED"
+ },
+ "026200144771": {
+  "FULL_NAME_FOUND": "Slim Jim Savage Original Flavor Smoked Meat Snack Stick",
+  "DESCRIPTION": "The Slim Jim Savage Original Flavor Smoked Meat Stick is a delicious ready-to-eat snack. Made of beef, pork, and chicken, it is a good source of protein. This meat stick is inspected and passed by the USDA. With 6 packs, the bulk case is suitable for cafeterias, vending machines, and supermarkets.",
+  "CATEGORY": "Meat",
+  "BRAND": "Slim Jim",
+  "SIZE": "",
+  "EAN": "0026200144771",
+  "STATUS": "MATCHED"
  }
 }

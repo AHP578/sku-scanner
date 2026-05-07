@@ -81922,5 +81922,71 @@
   "SIZE": "",
   "EAN": "0028200009593",
   "STATUS": "MATCHED"
+ },
+ "028200174321": {
+  "FULL_NAME_FOUND": "Marlboro Black $1 Off",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200174321",
+  "STATUS": "MATCHED"
+ },
+ "028200177025": {
+  "FULL_NAME_FOUND": "Marlboro Rich Blue 100 Bx .50 Off",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Tobacco Products",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0028200177025",
+  "STATUS": "MATCHED"
+ },
+ "028200300928": {
+  "FULL_NAME_FOUND": "Merit Cigarettes, Class A, Gold Pack",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Merit",
+  "SIZE": "",
+  "EAN": "0028200300928",
+  "STATUS": "MATCHED"
+ },
+ "282003139288": {
+  "STATUS": "UNMATCHED"
+ },
+ "282003140246": {
+  "STATUS": "UNMATCHED"
+ },
+ "283572000078": {
+  "STATUS": "UNMATCHED"
+ },
+ "283632000086": {
+  "STATUS": "UNMATCHED"
+ },
+ "028400014588": {
+  "FULL_NAME_FOUND": "Doritos Nacho Cheese Chips 92.1g",
+  "DESCRIPTION": "The DORITOS brand is all about boldness. If you’re up to the challenge, grab a bag of DORITOS tortilla chips and get ready to make some memories you won’t soon forget. It’s a bold experience in snacking and beyond.",
+  "CATEGORY": "Chips",
+  "BRAND": "Doritos",
+  "SIZE": "",
+  "EAN": "0028400014588",
+  "STATUS": "MATCHED"
+ },
+ "028400014618": {
+  "FULL_NAME_FOUND": "Cheetos Crunchy Cheese Snacks",
+  "DESCRIPTION": "Die Chätitos Cheese aus den USA gehören zu den beliebtesten Chips der ganzen Welt! Die knusprigen Crunchies überzeugen mit ihrem einzigartig, leckeren Käsegeschmack, durch den die amerikanischen Chätitos weltweit bekannt geworden sind. Diese Chips machen süchtig und garantiert kein Chips-Fan wird ihnen widerstehen können!",
+  "CATEGORY": "Chips",
+  "BRAND": "Cheetos",
+  "SIZE": "",
+  "EAN": "0028400014618",
+  "STATUS": "MATCHED"
+ },
+ "028400035996": {
+  "FULL_NAME_FOUND": "Lay's Chesapeake Bay Crab Spice Potato Chips",
+  "DESCRIPTION": "Wherever celebrations and good times happen, the Lay's brand will be there just as it has been for more than 75 years. With flavors almost as rich as our history, we have a potato chip or crisp flavor guaranteed to bring a smile on your face.",
+  "CATEGORY": "Chips",
+  "BRAND": "Lay's",
+  "SIZE": "",
+  "EAN": "0028400035996",
+  "STATUS": "MATCHED"
  }
 }

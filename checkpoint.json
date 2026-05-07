@@ -81832,5 +81832,95 @@
   "SIZE": "",
   "EAN": "0027854080255",
   "STATUS": "MATCHED"
+ },
+ "028000231750": {
+  "FULL_NAME_FOUND": "Nesquik Nestle Protein Milk Beverage, Strawberry 14 Fl Oz",
+  "DESCRIPTION": "Start your day off right with Nesquik Protein Power Strawberry Milk. Get twenty-three grams of protein without compromising taste. Just chill this shelf-stable Nesquik strawberry flavored milk in the fridge, then shake for a sweet and nostalgic protein drink. It’s the perfect protein milk beverage. Any way or anywhere you sweeten up your day, you can feel good about sipping this great tasting protein drink, with 64% more protein than regular Nesquik. This Nesquik ready-to-drink protein milk beverage is made with one hundred percent real milk.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Nesquik",
+  "SIZE": "414 mL",
+  "EAN": "0028000231750",
+  "STATUS": "MATCHED"
+ },
+ "028000276393": {
+  "FULL_NAME_FOUND": "Nesquik Nestlé Chocolate Protein Plus Enhanced Milk Beverage, 14 Fl Oz",
+  "DESCRIPTION": "Start your day off right with Nesquik Protein Power Chocolate Milk. Get twenty-three grams of protein without compromising taste. Go further with a delicious Nesquik Protein Power. Just chill this shelf-stable Nesquik chocolate milk in the fridge, then shake for a sweet and nostalgic protein drink. It’s the perfect protein milk. Any way or anywhere you sweeten up your day, you can feel good about sipping this great tasting protein drink, with 64% more protein than regular Nesquik. This Nesquik ready-to-drink protein milk is made with one hundred percent real milk.",
+  "CATEGORY": "Milk",
+  "BRAND": "Nesquik",
+  "SIZE": "414 mL",
+  "EAN": "0028000276393",
+  "STATUS": "MATCHED"
+ },
+ "028000466312": {
+  "FULL_NAME_FOUND": "Nescafe Dark Roast Rich & Bold Flavor Instant Coffee 7 Oz",
+  "DESCRIPTION": "NESCAFÉ CLÁSICO Dark Roast Instant Coffee delivers rich, bold flavor on the go and in an instant with quality you know and love in every sip. This distinctive and oh-so-delicious dark roast is crafted with 100% real coffee. We use only the finest-quality, respectfully grown Robusta and Arabica coffee beans, carefully roasting them to capture each blend's flavor and aroma for you to enjoy sip after sip. Savor an irresistible cup of coffee instantly with the world’s best-selling coffee brand,* NESCAFÉ. Start your day strong and make your world with NESCAFÉ CLÁSICO. *Based on 2023 global retail sales data reported by Euromonitor..",
+  "CATEGORY": "Coffee",
+  "BRAND": "Nescafe",
+  "SIZE": "207 mL",
+  "EAN": "0028000466312",
+  "STATUS": "MATCHED"
+ },
+ "028000714567": {
+  "FULL_NAME_FOUND": "Nescafe Coffee Beverage, Instant, Cinnamon, Cafe De Olla - 6.7 Ounce",
+  "DESCRIPTION": "Nescafe Cafe de Olla Instant Coffee Beverage delivers the authentic Mexican flavor of a traditional blend of coffee and a touch of cinnamon flavor. Indulge in an aromatic spice-flavored coffee in seconds. It all starts with a Nescafe.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Nescafe",
+  "SIZE": "198 mL",
+  "EAN": "0028000714567",
+  "STATUS": "MATCHED"
+ },
+ "028000919603": {
+  "FULL_NAME_FOUND": "Nescafe Clasico Brazil Instant Coffee 7 Oz. Jar",
+  "DESCRIPTION": "Growing in between the massive granite rocks of the Brazilian Natural Monument, Pontões Capixabas, our NESCAFÉ CLÁSICO Brazil coffee beans bear the strong, rich and delicious taste of Espirito Santo unique flora and fauna, representing the journey of an enriching coffee experience. Crafted with 100% real coffee, NESCAFÉ CLÁSICO Brazil delivers robust, earthy flavor in every cup. We use only the highest quality, responsibly sourced arabica and robusta coffee beans and carefully roast them to capture each blend’s full flavor and aroma. Savor a fresh cup of coffee, instantly with the world’s best-selling coffee brand, NESCAFE. Based on 2019 global retail sales data reported by independent research company comparing brands of coffee.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Nescafe",
+  "SIZE": "207 mL",
+  "EAN": "0028000919603",
+  "STATUS": "MATCHED"
+ },
+ "028200007445": {
+  "FULL_NAME_FOUND": "Virginia Slims Cigarettes, Menthol, Silver Pack",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Virginia Slims",
+  "SIZE": "",
+  "EAN": "0028200007445",
+  "STATUS": "MATCHED"
+ },
+ "028200008176": {
+  "FULL_NAME_FOUND": "Parliament Menthol Box King 1",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Parliament",
+  "SIZE": "",
+  "EAN": "0028200008176",
+  "STATUS": "MATCHED"
+ },
+ "028200008879": {
+  "FULL_NAME_FOUND": "Marlboro Cigarettes, Class A, Black, Gold Pack",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200008879",
+  "STATUS": "MATCHED"
+ },
+ "028200009531": {
+  "FULL_NAME_FOUND": "Marlboro Cigarettes, Black 100's, Special Blend",
+  "DESCRIPTION": "Bold flavor. Class A cigarettes. Nothing about this cigarette, packaging, or color should be interpreted to mean safer. For special offers MarlboroBlack.com. Limited to eligible smokers 21+. Please don't litter.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Marlboro",
+  "SIZE": "",
+  "EAN": "0028200009531",
+  "STATUS": "MATCHED"
+ },
+ "028200009593": {
+  "FULL_NAME_FOUND": "Virginia Slims Cigarettes, Class A, 120's, Menthol Silver Pack",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Virginia Slims",
+  "SIZE": "",
+  "EAN": "0028200009593",
+  "STATUS": "MATCHED"
  }
 }

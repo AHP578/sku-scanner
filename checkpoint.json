@@ -84466,5 +84466,95 @@
   "SIZE": "450 mL",
   "EAN": "0048500008607",
   "STATUS": "MATCHED"
+ },
+ "048500008683": {
+  "FULL_NAME_FOUND": "Tropicana Juice Beverage, Pineapple Orange 15.2 Fl Oz",
+  "DESCRIPTION": "Includes 12 bottles of Tropicana Pineapple Orange juice drink. Vitamin C nutrition you need. Delicious, sweet pineapple orange flavor. Enjoy at home, work, or on the go.",
+  "CATEGORY": "Juice",
+  "BRAND": "Tropicana",
+  "SIZE": "450 mL",
+  "EAN": "0048500008683",
+  "STATUS": "MATCHED"
+ },
+ "048500009406": {
+  "FULL_NAME_FOUND": "Tropicana Juice Beverage, Ruby Red Grapefruit 15.2 Fl Oz",
+  "DESCRIPTION": "Includes 12 bottles of Tropicana Ruby Red Grapefruit juice drink. Vitamin C nutrition you need. Tart, tangy Ruby Red Grapefruit flavor. Enjoy at home, work, or on the go.",
+  "CATEGORY": "Juice",
+  "BRAND": "Tropicana",
+  "SIZE": "450 mL",
+  "EAN": "0048500009406",
+  "STATUS": "MATCHED"
+ },
+ "048500206928": {
+  "FULL_NAME_FOUND": "Tropicana 100% Juice, Orange Blend 15.2 Fl Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Juice",
+  "BRAND": "Tropicana",
+  "SIZE": "450 mL",
+  "EAN": "0048500206928",
+  "STATUS": "MATCHED"
+ },
+ "048500206942": {
+  "FULL_NAME_FOUND": "Tropicana 100% Juice, Orange Blend",
+  "DESCRIPTION": "Keep a bottle of Tropicana Orange Juice around and you'll always be ready to party. Wonderful by itself as a morning pick-up, Tropicana Orange Juice also blends easily with your favorite tequila, rum, or vodka. The smooth, tangy flavor of Tropicana Orange Juice will mix well with almost any liquor to turn your usual drink into something wonderfully new and flavorful.",
+  "CATEGORY": "Juice",
+  "BRAND": "Tropicana",
+  "SIZE": "946 mL",
+  "EAN": "0048500206942",
+  "STATUS": "MATCHED"
+ },
+ "049000026276": {
+  "FULL_NAME_FOUND": "Fanta Grape Soda Fruit Flavored Soft Drink, 20 Fl Oz",
+  "DESCRIPTION": "Premier Cacique formerly Montrachet. A strong fermenter with good alcohol tolerance that is useful in producing dry, full bodied red and white wines. Will leave a wine with intense color and excellent flavor complexity while preserving tannin content. This yeast will produce hydrogen sulfide gas in the presence of excess sulfur compounds and therefore should not be used to ferment grapes that contain residual sulfur dust.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Fanta",
+  "SIZE": "591 mL",
+  "EAN": "0049000026276",
+  "STATUS": "MATCHED"
+ },
+ "049000037197": {
+  "FULL_NAME_FOUND": "Sprite Zero Sugar Lemon Lime Diet Soda Pop Soft Drink, 20 Fl Oz",
+  "DESCRIPTION": "Sprite Zero is the iconic great taste of Sprite with zero sugar. It's a delicious zero sugar, caffeine-free take on the iconic flavor of Sprite and never fails to deliver an extremely satisfying taste. With 100% natural flavors, and zero calories to be found, you can enjoy whenever, wherever.",
+  "CATEGORY": "Soda",
+  "BRAND": "Sprite",
+  "SIZE": "591 mL",
+  "EAN": "0049000037197",
+  "STATUS": "MATCHED"
+ },
+ "049000047547": {
+  "FULL_NAME_FOUND": "Coca-Cola Zero Sugar Cherry Diet Soda Soft Drink 20 Fl Oz",
+  "DESCRIPTION": "Whatever you call it, nothing compares to the refreshing, crisp taste of Coca-Cola Zero Sugar Cherry. A little flavor can make a lot of magic happen and Coca-Cola Zero Sugar Cherry is here to make your taste buds happy. Enjoy with friends, on the go or with a meal. Whatever the occasion, Coca-Cola Zero Sugar Cherry makes life’s special moments a little bit better. A delicious combination of flavors, Coca-Cola Zero Sugar Cherry blends a familiar taste of Coca-Cola Zero Sugar with something unexpected, creating more ways for you to enjoy Coca-Cola. Between that perfect taste and refreshing fizz, it’s sure to give you that “ahhh” moment whenever you want it. Coca-Cola is available in many different options, including Coca-Cola Original Taste, including a variety of all-time favorite flavors like Coca-Cola Zero Sugar Vanilla and Coca-Cola Zero Sugar Cherry Vanilla. Looking for something caffeine free? Then look no further than Coca-Cola Original Taste Caffeine Free. Whatever you’re looking for, there’s a Coca-Cola to satisfy your taste buds. Every sip, every “ahhh,” every smile—find that feeling with Coca-Cola Zero Sugar Cherry. Best enjoyed ice-cold for maximum refreshment. Grab a Coca-Cola Zero Sugar Cherry and find your “ahhh” moment.",
+  "CATEGORY": "Soda",
+  "BRAND": "Coca-Cola Zero Sugar",
+  "SIZE": "591 mL",
+  "EAN": "0049000047547",
+  "STATUS": "MATCHED"
+ },
+ "049000072372": {
+  "FULL_NAME_FOUND": "Dunkin' Donuts Original Iced Coffee Bottle, 13.7 Fl Oz",
+  "DESCRIPTION": "Refreshing and full of flavor, Original Iced Coffee is a quick pick-me-up any time of day. And with 171 mg of caffeine per bottle, youre getting more than one cup o joes worth of pep in your step. Make sure to sip this iced coffee cold to maximize its delicious potential. Grab a bottle today for that tasty boost you need to keep on running.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Dunkin'",
+  "SIZE": "405 mL",
+  "EAN": "0049000072372",
+  "STATUS": "MATCHED"
+ },
+ "049000072389": {
+  "FULL_NAME_FOUND": "Dunkin' Donuts Mocha Iced Coffee Bottle, 13.7 Fl Oz",
+  "DESCRIPTION": "Dunkin' Donuts® Iced Coffee Mocha. Rich, smooth coffee taste. Coffee + milk bottled beverage.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Dunkin'",
+  "SIZE": "405 mL",
+  "EAN": "0049000072389",
+  "STATUS": "MATCHED"
+ },
+ "049000072396": {
+  "FULL_NAME_FOUND": "Dunkin' Donuts French Vanilla Iced Coffee Bottle, 13.7 Fl Oz",
+  "DESCRIPTION": "This smooth and flavorful French vanilla iced coffee is just the thing for that quick, cold, and satisfying boost to help keep you going. With 184 mg of caffeine per bottle, you're getting more than one cup 'o joe's worth of pep in your step.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Dunkin'",
+  "SIZE": "405 mL",
+  "EAN": "0049000072396",
+  "STATUS": "MATCHED"
  }
 }

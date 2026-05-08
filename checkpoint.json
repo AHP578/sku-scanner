@@ -85318,5 +85318,95 @@
   "SIZE": "",
   "EAN": "0602652207020",
   "STATUS": "MATCHED"
+ },
+ "602652207037": {
+  "FULL_NAME_FOUND": "Kind Protein Bar, Toasted Caramel Nut",
+  "DESCRIPTION": "Rich toasted caramel and crunchy whole almonds and peanuts come together for a snack that only tastes like dessert. With 12g of protein, this bar is a snack that’s both satisfying and delicious.",
+  "CATEGORY": "Cereal & Granola Bars",
+  "BRAND": "Kind",
+  "SIZE": "",
+  "EAN": "0602652207037",
+  "STATUS": "MATCHED"
+ },
+ "602652241017": {
+  "FULL_NAME_FOUND": "Kind Pressed Mango Apple Chia Fruit Bar 1.2 Oz. Wrapper",
+  "DESCRIPTION": "Drinking an exotic fruit smoothie is tasty, refreshing, and way too hard to do every day. At least for us. That’s why we’ve pressed the goodness of sweet mangoes and apples into delicious bars for a not-so-standard fruit snack that’s as easy as it is amazing.",
+  "CATEGORY": "Snack Foods",
+  "BRAND": "Kind",
+  "SIZE": "",
+  "EAN": "0602652241017",
+  "STATUS": "MATCHED"
+ },
+ "602652241024": {
+  "FULL_NAME_FOUND": "Kind Pressed Fruit Bar, Cherry Apple Chia",
+  "DESCRIPTION": "This is the pressed goodness of fruits into delicious bars for a not-so-standard fruit snack that's as easy as it is amazing. Variety of flavors for every taste palette.",
+  "CATEGORY": "Snack Foods",
+  "BRAND": "Kind",
+  "SIZE": "",
+  "EAN": "0602652241024",
+  "STATUS": "MATCHED"
+ },
+ "602652252044": {
+  "FULL_NAME_FOUND": "Kind Bar - Dark Chocolate & Sea Salt",
+  "DESCRIPTION": "With 5g of sugar, this bar is a simple flavor combination of sea salt sprinkled over whole nuts and dark chocolate - a satisfying nutty snack that only seems indulgent.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Kind",
+  "SIZE": "",
+  "EAN": "0602652252044",
+  "STATUS": "MATCHED"
+ },
+ "602652252051": {
+  "FULL_NAME_FOUND": "Kind Bar - Salted Caramel Dark Chocolate Almond",
+  "DESCRIPTION": "Smooth caramel, rich dark chocolate, loads of nuts and a sprinkle of sea salt will have you savoring every bite. And with 5 grams of sugar, it only seems indulgent.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Kind",
+  "SIZE": "",
+  "EAN": "0602652252051",
+  "STATUS": "MATCHED"
+ },
+ "602652281990": {
+  "FULL_NAME_FOUND": "Kind Bar, Energy, Chocolate Chunk",
+  "DESCRIPTION": "Customers looking for a boost of energy will be drawn to the benefits of KIND Chocolate Chunk Energy bars. Made with 100% whole grains, 10 grams of protein, and rich chocolate chunks, KIND energy bars also are low sugar. Perfect for today's lifestyle trends. The boxes with instantly-recognizable branding grab shopper's attention while the multiple health callouts seal the deal.",
+  "CATEGORY": "Cereal & Granola",
+  "BRAND": "Kind",
+  "SIZE": "",
+  "EAN": "0602652281990",
+  "STATUS": "MATCHED"
+ },
+ "602652282003": {
+  "FULL_NAME_FOUND": "Kind Energy Bar, Dark Chocolate Peanut Butter 2.1 Oz",
+  "DESCRIPTION": "Customers looking for a boost of energy will be drawn to the benefits of KIND Dark Chocolate Peanut Butter Energy bars. Made with 100% whole grains, 10 grams of protein, rich dark chocolate chunks and creamy peanut butter, KIND energy bars also are low sugar. Perfect for today's lifestyle trends. The boxes with instantly-recognizable branding grab shopper's attention while the multiple health callouts seal the deal.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Kind",
+  "SIZE": "",
+  "EAN": "0602652282003",
+  "STATUS": "MATCHED"
+ },
+ "602652283444": {
+  "FULL_NAME_FOUND": "Kind Bar, Extra Dark Chocolate Nuts & Sea Salt",
+  "DESCRIPTION": "KIND is a sustainable chocolate brand creating unique snacks that are made with health in mind. KIND Extra Dark Chocolate Nuts and Sea Salt Bar starts with whole almonds and peanuts that are sweetened with honey, mixed with cacao nibs and enrobed in decadent dark chocolate. KIND Extra Dark Chocolate Nuts and Sea Salt Bar is a convenient, well balanced and flavorful snacking option. Packaged in 12 count branded boxes for point of sale display.",
+  "CATEGORY": "Cereal & Granola Bars",
+  "BRAND": "Kind",
+  "SIZE": "",
+  "EAN": "0602652283444",
+  "STATUS": "MATCHED"
+ },
+ "602652430299": {
+  "FULL_NAME_FOUND": "Kind Dark Chocolate Almond & Sea Salt With Peanuts Bar",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "Kind",
+  "SIZE": "",
+  "EAN": "0602652430299",
+  "STATUS": "MATCHED"
+ },
+ "602652430305": {
+  "FULL_NAME_FOUND": "Kind Organic Salted Caramel Dark Chocolate Nut With Peanuts Bar",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "Kind",
+  "SIZE": "",
+  "EAN": "0602652430305",
+  "STATUS": "MATCHED"
  }
 }

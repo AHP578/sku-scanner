@@ -85486,5 +85486,59 @@
  },
  "608539228973": {
   "STATUS": "UNMATCHED"
+ },
+ "608819356686": {
+  "STATUS": "UNMATCHED"
+ },
+ "608819356693": {
+  "FULL_NAME_FOUND": "Honey Roasted Peanuts",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0608819356693",
+  "STATUS": "MATCHED"
+ },
+ "608819356709": {
+  "STATUS": "UNMATCHED"
+ },
+ "608819356716": {
+  "FULL_NAME_FOUND": "Pumpkin Seeds",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0608819356716",
+  "STATUS": "MATCHED"
+ },
+ "608819356723": {
+  "STATUS": "UNMATCHED"
+ },
+ "608819356730": {
+  "STATUS": "UNMATCHED"
+ },
+ "608819356747": {
+  "STATUS": "UNMATCHED"
+ },
+ "608866335801": {
+  "STATUS": "UNMATCHED"
+ },
+ "609249920423": {
+  "FULL_NAME_FOUND": "Zyn Nicotine Pouches Chill 6mg 5ct",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Tobacco Products",
+  "BRAND": "Zyn",
+  "SIZE": "",
+  "EAN": "0609249920423",
+  "STATUS": "MATCHED"
+ },
+ "609465954400": {
+  "FULL_NAME_FOUND": "BlueRigger RCA Audio Subwoofer Cable",
+  "DESCRIPTION": "About this item 【Compatibilty】Connect subwoofer speakers to audio components, such as stereo receivers or sound system, or other compatible audio devices. Compatible with devices with RCA port; works with S/Pdif, digital, and composite video interfaces 【Hi-Fi Audio】Low-loss, wide spectrum Subwoofer cable great for the.",
+  "CATEGORY": "Cables",
+  "BRAND": "BlueRigger",
+  "SIZE": "",
+  "EAN": "0609465954400",
+  "STATUS": "MATCHED"
  }
 }

@@ -85162,5 +85162,71 @@
   "SIZE": "",
   "EAN": "0564651160013",
   "STATUS": "MATCHED"
+ },
+ "598327438168": {
+  "STATUS": "UNMATCHED"
+ },
+ "598327438182": {
+  "STATUS": "UNMATCHED"
+ },
+ "598327438199": {
+  "STATUS": "UNMATCHED"
+ },
+ "598327438243": {
+  "STATUS": "UNMATCHED"
+ },
+ "600209837010": {
+  "FULL_NAME_FOUND": "Beamer Hemp Wraps",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Tortillas & Wraps",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0600209837010",
+  "STATUS": "MATCHED"
+ },
+ "600699661027": {
+  "FULL_NAME_FOUND": "Jet-Puffed Kraft Original Marshmallows, 10 Oz Bag",
+  "DESCRIPTION": "Jet-Puffed Marshmallows are a delicious and versatile dessert topping. These classic marshmallows deliver the sweet taste and fluffy texture you know and love. With 0 grams of trans fat and 0 grams of total fat per serving marshmallows make a fun snack for kids or a mouthwatering addition to your favorite dessert recipes. Use fluffy marshmallows to make rice cereal treats or add marshmallows to your hot chocolate. Perfect for camping trips try putting toasted campfire marshmallows and chocolate on graham crackers to make s mores. The marshmallows come packaged in a sealed 10 ounce bag for lasting freshness until you re ready to enjoy.",
+  "CATEGORY": "Marshmallows",
+  "BRAND": "Jet-Puffed",
+  "SIZE": "",
+  "EAN": "0600699661027",
+  "STATUS": "MATCHED"
+ },
+ "601577513810": {
+  "FULL_NAME_FOUND": "Red Mamba Extreme 500k Single Male Enhancement 24ct",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Vitamins & Supplements",
+  "BRAND": "Red Mamba",
+  "SIZE": "",
+  "EAN": "0601577513810",
+  "STATUS": "MATCHED"
+ },
+ "602652170041": {
+  "FULL_NAME_FOUND": "Kind Delight Fruit And Nut Bar",
+  "DESCRIPTION": "A satisfying union of chewy dried fruit and crunchy whole nuts. Made from ingredients you can see and pronounce. Each bar is packed with protein and contains no cholesterol. Gluten-free, non-GMO and all natural ingredients. Available in a variety of delicious flavor combinations.",
+  "CATEGORY": "Personal Care",
+  "BRAND": "Kind",
+  "SIZE": "",
+  "EAN": "0602652170041",
+  "STATUS": "MATCHED"
+ },
+ "602652170058": {
+  "FULL_NAME_FOUND": "Kind Fruit & Nut Bar Almond & Apricot",
+  "DESCRIPTION": "Case of twelve 1.4-ounce almond and apricot snack bars. Made from 100 natural almonds, apricots, honey, and shredded coconut. Dairy, wheat, and gluten-free, non GMO, no trans fat or cholesterol; five grams of fiber and three grams of protein per serving. Full of premium whole nuts and the taste and goodness of real fruit flavor. Handmade in Australia by PeaceWorks, which donates 5 of its profits to OneVoice, a foundation supporting co-existence in the Middle East.",
+  "CATEGORY": "Personal Care",
+  "BRAND": "Kind",
+  "SIZE": "",
+  "EAN": "0602652170058",
+  "STATUS": "MATCHED"
+ },
+ "602652170119": {
+  "FULL_NAME_FOUND": "Kind Plus Cranberry Almond + Antioxidants With Macadamia Nuts Nutrition Bar 1.4 Oz",
+  "DESCRIPTION": "KIND Cranberry Almond + Antioxidants is a delicious blend of tangy cranberries and whole almonds. Each bar contains 50% of the recommended daily intake of Vitamins A, C, and E.",
+  "CATEGORY": "Fitness & Nutrition",
+  "BRAND": "Kind",
+  "SIZE": "",
+  "EAN": "0602652170119",
+  "STATUS": "MATCHED"
  }
 }

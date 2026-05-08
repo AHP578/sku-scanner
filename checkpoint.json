@@ -84292,5 +84292,89 @@
   "SIZE": "",
   "EAN": "0043300000042",
   "STATUS": "MATCHED"
+ },
+ "043300000127": {
+  "FULL_NAME_FOUND": "Lucky Strike",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0043300000127",
+  "STATUS": "MATCHED"
+ },
+ "043300000363": {
+  "FULL_NAME_FOUND": "Carlton Menthol 100`s",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Carlton",
+  "SIZE": "",
+  "EAN": "0043300000363",
+  "STATUS": "MATCHED"
+ },
+ "043807416322": {
+  "FULL_NAME_FOUND": "Expert Grill Charcoal Lighter Fluid Odorless Lighter Fuel 32 Oz",
+  "DESCRIPTION": "Expert Grill Charcoal Lighter Fluid Premium Odorless Lighter Fuel 64 Oz. This Lighter Fluid is great at making the process of lighting charcoal that much more simple. Use Expert Grill lighter fluid to help your next cookout get off without a hitch!",
+  "CATEGORY": "Fuel",
+  "BRAND": "Expert Grill",
+  "SIZE": "",
+  "EAN": "0043807416322",
+  "STATUS": "MATCHED"
+ },
+ "044000033385": {
+  "FULL_NAME_FOUND": "Chips Ahoy! Original Chocolate Chip Cookies Family Size, 18.2 Ounce",
+  "DESCRIPTION": "CHIPS AHOY! Chewy Chocolate Chip Cookies are the CHIPS AHOY! classic cookies you know and love, but baked to be perfectly soft and chewy. These soft cookies are baked to perfection for maximum chewy goodness. Enjoy the comforting taste of these cookies that are sure to become a household favorite treat. Make lunches at school or work more exciting by including CHIPS AHOY! chocolate chip cookies, or serve these chewy cookies as birthday cookies or ice cream toppers at your next party. Regardless of the occasion, these cookies make a simply delicious treat or dessert when a sweet craving strikes. The lift tab makes this package of soft baked cookies easy to open and close for convenient storage.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Chips Ahoy!",
+  "SIZE": "",
+  "EAN": "0044000033385",
+  "STATUS": "MATCHED"
+ },
+ "044000036096": {
+  "FULL_NAME_FOUND": "Belvita Breakfast Biscuits, Cinnamon Brown Sugar, 1.76 Oz Pack, 25 Packs/Carton",
+  "DESCRIPTION": "Lightly sweetened, tasty, crunchy biscuits provide a steady stream of energy for up to four hours, fueling you all morning long. Whole grain ingredients keep you full and energized while also delivering essential fiber, vitamins and minerals. Try them with fruit, yogurt and a hot beverage for the perfectly balanced, deliciously nutritious breakfast.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Belvita",
+  "SIZE": "",
+  "EAN": "0044000036096",
+  "STATUS": "MATCHED"
+ },
+ "044000036584": {
+  "FULL_NAME_FOUND": "Nutter Butter Peanut King Size! Sandwich Cookies",
+  "DESCRIPTION": "Try something deliciously nutty. Crispy peanut butter sandwich cookies filled with sweet peanut butter cream satisfy both your salty and sweet cravings.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Nutter Butter",
+  "SIZE": "",
+  "EAN": "0044000036584",
+  "STATUS": "MATCHED"
+ },
+ "044000042417": {
+  "FULL_NAME_FOUND": "Ritz Original Crackers, 18 Stacks",
+  "DESCRIPTION": "Buttery and flaky texture. No trans fat or cholesterol, no sugars added. Stay-fresh packs to ensure quality.",
+  "CATEGORY": "Crackers",
+  "BRAND": "Ritz",
+  "SIZE": "",
+  "EAN": "0044000042417",
+  "STATUS": "MATCHED"
+ },
+ "044000060114": {
+  "FULL_NAME_FOUND": "Oreo Original Chocolate Sandwich Cookies - 13.29 Ounce",
+  "DESCRIPTION": "Take a delicious break with OREO Chocolate Sandwich Cookies, America's favorite sandwich cookie for over 100 years. Supremely dunkable, OREO cookies sandwich a rich creme filling between the bold taste of two chocolate wafers--making them milk's favorite cookie. Original OREO chocolate sandwich cookies are great for serving as a dessert, with ice cream, as party snacks at your next gathering or for packing sweet snacks with lunch at school or work. You can even mix these bulk cookies into your favorite dessert recipe or cheesecake recipe for something a little extra special. The resealable package of OREO cookies with easy-pull tab keeps chocolate cookies fresh and is great for snacking, sharing or traveling.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Oreo",
+  "SIZE": "",
+  "EAN": "0044000060114",
+  "STATUS": "MATCHED"
+ },
+ "044000081713": {
+  "FULL_NAME_FOUND": "Oreo Selena's Gomez Chocolate & Cinnamon Creme Sandwich Cookies",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Oreo",
+  "SIZE": "",
+  "EAN": "0044000081713",
+  "STATUS": "MATCHED"
+ },
+ "452548007117": {
+  "STATUS": "UNMATCHED"
  }
 }

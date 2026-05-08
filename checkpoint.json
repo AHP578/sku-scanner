@@ -85072,5 +85072,95 @@
   "SIZE": "4732 mL",
   "EAN": "0052000208054",
   "STATUS": "MATCHED"
+ },
+ "052000208061": {
+  "FULL_NAME_FOUND": "Gatorade Fruit Punch Thirst Quencher - 8 Pack Bottles",
+  "DESCRIPTION": "The proven classic. With a legacy of over 50 years in the making, it's the most scientifically researched and game-tested way to replace electrolytes lost in sweat. Gatorade Thirst Quencher is specifically made to help keep you hydrated, which is why it's trusted by some of the world's best athletes.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Gatorade",
+  "SIZE": "591 mL",
+  "EAN": "0052000208061",
+  "STATUS": "MATCHED"
+ },
+ "052000208078": {
+  "FULL_NAME_FOUND": "Gatorade Orange Thirst Quencher Sports Drink 20 Oz 8 Pack Bottles",
+  "DESCRIPTION": "The proven classic. With a legacy of over 50 years in the making, it is the most scientifically researched and game-tested way to replace electrolytes lost in sweat. Gatorade Thirst Quencher is specifically made to help keep you hydrated, which is why it's trusted by some of the world's best athletes.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Gatorade",
+  "SIZE": "591 mL",
+  "EAN": "0052000208078",
+  "STATUS": "MATCHED"
+ },
+ "052000208085": {
+  "FULL_NAME_FOUND": "Gatorade Frost Thirst Quencher Sports Drink, Glacier Freeze, 20 Oz Bottles",
+  "DESCRIPTION": "The one and only. With a legacy over 50 years in the making, it's the most scientifically researched and game-tested way to replace electrolytes lost in sweat. Gatorade Frost has a light, crisp flavor and is made to keep you hydrated, which is why it's trusted by some of the world's best athletes.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Gatorade",
+  "SIZE": "591 mL",
+  "EAN": "0052000208085",
+  "STATUS": "MATCHED"
+ },
+ "052000208429": {
+  "FULL_NAME_FOUND": "Gatorade Fierce Thirst Quencher Grape Sports Drink 8-20 Fl. Oz. Bottles",
+  "DESCRIPTION": "Packed with bold grape flavour, Gatorade Cool Fierce Grape helps refuel and rehydrate with essential electrolytes. This 24-pack of 591ml bottles is perfect for athletes, workouts, or keeping refreshed on the go. A powerful burst of hydration when you need it most.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Gatorade",
+  "SIZE": "591 mL",
+  "EAN": "0052000208429",
+  "STATUS": "MATCHED"
+ },
+ "052000208443": {
+  "FULL_NAME_FOUND": "Gatorade Thirst Quencher Cool Blue Sports Drink",
+  "DESCRIPTION": "The proven classic. With a legacy of over 50 years in the making, it's the most scientifically researched and game-tested way to replace electrolytes lost in sweat. Gatorade Thirst Quencher is specifically made to help keep you hydrated, which is why it's trusted by some of the world's best athletes.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Gatorade",
+  "SIZE": "591 mL",
+  "EAN": "0052000208443",
+  "STATUS": "MATCHED"
+ },
+ "052110104307": {
+  "FULL_NAME_FOUND": "Krystal Kleer O'Reilly Windshield Washer Fluid - GAL+32",
+  "DESCRIPTION": "The Krystal Kleer 1 Gal. Summer Formula Windshield Washer Fluid is specially formulated to work in warm weather conditions. The streak-free formula cuts through road film and bugs for improved visibility.",
+  "CATEGORY": "Vehicle Parts & Accessories",
+  "BRAND": "Krystal Kleer",
+  "SIZE": "",
+  "EAN": "0052110104307",
+  "STATUS": "MATCHED"
+ },
+ "055500017263": {
+  "FULL_NAME_FOUND": "Clorox 01726 Original Concentrated Bleach, 1.27 L, Liquid, Bleach",
+  "DESCRIPTION": "Clorox® Original Concentrated Bleach, the bleach you’ve known and trusted for generations with the power to clean, whiten, and deodorize. Clorox® Original Concentrated Bleach makes stain removal easier. The easy to handle bottle allows you to grip the handle and pour without the mess of spillage. Clorox® Regular-Bleach works with both traditional and high-efficiency washing machines. For a healthy home and to keep whites at their whitest use Clorox® Bleach. Use as directed.",
+  "CATEGORY": "Bleach",
+  "BRAND": "Clorox",
+  "SIZE": "",
+  "EAN": "0055500017263",
+  "STATUS": "MATCHED"
+ },
+ "564651080014": {
+  "FULL_NAME_FOUND": "Great Value 8 Fl. Oz. Hand Sanitizer",
+  "DESCRIPTION": "Blessed is aged for 19 months in a blend of Woodford Reserve double-oaked bourbon barrels, Heaven Hill barrels, and Willett bourbon barrels. It is then finished on Madagascar vanilla beans and raw as well as toasted coconut.",
+  "CATEGORY": "Bath & Body",
+  "BRAND": "Great Value",
+  "SIZE": "",
+  "EAN": "0564651080014",
+  "STATUS": "MATCHED"
+ },
+ "564651120130": {
+  "FULL_NAME_FOUND": "Alcohol Biomax/Isopropyl/Swan White 70% 16Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Dry Boxes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0564651120130",
+  "STATUS": "MATCHED"
+ },
+ "564651160013": {
+  "FULL_NAME_FOUND": "RPI Rubbing Alcohol 50",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Health & Beauty",
+  "BRAND": "RPI",
+  "SIZE": "",
+  "EAN": "0564651160013",
+  "STATUS": "MATCHED"
  }
 }

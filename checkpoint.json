@@ -84556,5 +84556,83 @@
   "SIZE": "405 mL",
   "EAN": "0049000072396",
   "STATUS": "MATCHED"
+ },
+ "490000753042": {
+  "STATUS": "UNMATCHED"
+ },
+ "490000753110": {
+  "STATUS": "UNMATCHED"
+ },
+ "049000079319": {
+  "FULL_NAME_FOUND": "Powerade Zero Grape Electrolyte Sports Drink Bottle, 28 Fl Oz",
+  "DESCRIPTION": "When you're pushing your limits, it takes more than just willpower to succeed. POWERADE Zero Grape sports drinks are here to power your drive with zero sugar and zero calories. This hydration drink is packed with 50% more electrolytes versus the leading sports drink*, so you can stay focused on your goals without compromise.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Powerade",
+  "SIZE": "828 mL",
+  "EAN": "0049000079319",
+  "STATUS": "MATCHED"
+ },
+ "049000079326": {
+  "FULL_NAME_FOUND": "Powerade Zero Sugar Mixed Berry Electrolyte Sports Drink, 28 Fl Oz Bottle",
+  "DESCRIPTION": "Powered by unique ION4 Advanced Electrolyte System to help replenish the four electrolytes you lose when you sweat: sodium, potassium, calcium and magnesium. Zero sugar means sugar-free. All the hydration you need with none of the calories.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Powerade",
+  "SIZE": "828 mL",
+  "EAN": "0049000079326",
+  "STATUS": "MATCHED"
+ },
+ "049000079333": {
+  "FULL_NAME_FOUND": "Powerade Zero Sugar Orange Electrolyte Sports Drink, 28 Fl Oz Bottle",
+  "DESCRIPTION": "Powerade Zero Sugar Sports Drink. is the perfect hydration solution for athletes and active individuals looking to replenish electrolytes without the added sugar. This refreshing orange-flavored drink is designed to keep you energized and hydrated during workouts, sports events, or any physical activity. With its convenient 28 fluid ounce size, it is easy to carry and consume on the go.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Powerade",
+  "SIZE": "828 mL",
+  "EAN": "0049000079333",
+  "STATUS": "MATCHED"
+ },
+ "049000079357": {
+  "FULL_NAME_FOUND": "Powerade Mountain Berry Blast Electrolyte Sports Drink Bottle 28 Fl Oz",
+  "DESCRIPTION": "Premium sports drink with vitamins B3, B6, and B12. Advanced formula full of electrolytes for energy and hydration. Sports bottle is great for trips to the gym, sporting events, and more. Mountain Berry Blast flavor. Contains 28 ounces per unit. Bulk pack includes 15 units. By Powerade.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Powerade",
+  "SIZE": "828 mL",
+  "EAN": "0049000079357",
+  "STATUS": "MATCHED"
+ },
+ "049000079364": {
+  "FULL_NAME_FOUND": "Powerade Orange Electrolyte Sports Drink, 28 Fl Oz Bottle",
+  "DESCRIPTION": "Powerade Sports Drink in Orange Flavor. is the perfect hydration solution for athletes and active individuals. This refreshing beverage is designed to replenish electrolytes lost during intense physical activity, making it an essential addition to your workout routine. With a convenient 28 fluid ounce single bottle, you can easily take it on the go, ensuring you stay hydrated wherever you are.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Powerade",
+  "SIZE": "828 mL",
+  "EAN": "0049000079364",
+  "STATUS": "MATCHED"
+ },
+ "049000079371": {
+  "FULL_NAME_FOUND": "Powerade Lemon Lime Electrolyte Sports Drink Bottle, 28 Fl Oz",
+  "DESCRIPTION": "Experience the refreshing taste of POWERADE Lemon Lime Sports Drink! Designed to replenish electrolytes lost during physical activity, this 28 fluid ounce bottle is perfect for athletes and active individuals alike. With its invigorating lemon-lime flavor, it not only quenches your thirst but also provides essential hydration to keep you performing at your best.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Powerade",
+  "SIZE": "828 mL",
+  "EAN": "0049000079371",
+  "STATUS": "MATCHED"
+ },
+ "049000079388": {
+  "FULL_NAME_FOUND": "Powerade Fruit Punch Electrolyte Sports Drink Bottle, 28 Fl Oz",
+  "DESCRIPTION": "Everything a sports drink should be, plus vitamins B3, B6 and B12. Sweat, hydrate, help replenish electrolytes, repeat. A 6% carbohydrate solution gives you the energy to power through. Hydrating your game with the taste of fruit punch.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Powerade",
+  "SIZE": "828 mL",
+  "EAN": "0049000079388",
+  "STATUS": "MATCHED"
+ },
+ "049000079395": {
+  "FULL_NAME_FOUND": "Powerade Strawberry Lemonade Electrolyte Sports Drink Bottle, 28 Fl Oz",
+  "DESCRIPTION": "Sweat, hydrate, help replenish electrolytes, repeat. Everything a sports drink should be, plus vitamins B3, B6 and B12. Hydrating your game with the taste of strawberry lemonade. A 6% carbohydrate solution gives you the energy to power through.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Powerade",
+  "SIZE": "828 mL",
+  "EAN": "0049000079395",
+  "STATUS": "MATCHED"
  }
 }

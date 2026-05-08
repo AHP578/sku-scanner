@@ -83944,5 +83944,83 @@
  },
  "388000208054": {
   "STATUS": "UNMATCHED"
+ },
+ "038900009144": {
+  "FULL_NAME_FOUND": "Dole Pineapple Juice, 6 Ounce -- 48 Per Case",
+  "DESCRIPTION": "Made from the highest quality pineapple concentrate. This pineapple juice is excellent for marinades and mixed drinks.",
+  "CATEGORY": "Juice",
+  "BRAND": "Dole",
+  "SIZE": "177 mL",
+  "EAN": "0038900009144",
+  "STATUS": "MATCHED"
+ },
+ "038900009632": {
+  "FULL_NAME_FOUND": "Dole 100% Juice Pineapple Paradise 8.4 Fl Oz Can",
+  "DESCRIPTION": "Dole Pineapple Juice - Beat the summer heat Dole Pineapple Juice contains essential vitamins that help boost your metabolism and keep you nutrition even in the scorching heat. Available in pack of 8, these are the ideal potion for enjoying summers to the fullest.",
+  "CATEGORY": "Juice",
+  "BRAND": "Dole",
+  "SIZE": "248 mL",
+  "EAN": "0038900009632",
+  "STATUS": "MATCHED"
+ },
+ "040000001102": {
+  "FULL_NAME_FOUND": "Munch Peanut Candy Bar",
+  "DESCRIPTION": "For those who crave peanuts with a sweet and salty taste, MUNCH® Peanut Bars are an irresistible snack. MUNCH® Peanut Bars consists of simple all-natural ingredients that provide plenty of flavor. They are protein packed, so you can merchandise with meal replacements, protein bars, health foods or even alongside your best-selling candy bars.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Munch",
+  "SIZE": "",
+  "EAN": "0040000001102",
+  "STATUS": "MATCHED"
+ },
+ "040000001447": {
+  "FULL_NAME_FOUND": "M&M's Peanut Butter Chocolate Candies 1.63 Oz Bag",
+  "DESCRIPTION": "Enjoy the classic thats loved around the world! M&M'S have been one of the most famous candy treats in the world since 1941. The bite-sized pieces of chocolate in a colorful candy shell are instantly recognizable all over the globe. Perfect for Parties, Celebrations, Baking, Traveling. If you can name it, its better with M&MS Chocolate Candies!",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "M&M's",
+  "SIZE": "",
+  "EAN": "0040000001447",
+  "STATUS": "MATCHED"
+ },
+ "040000017325": {
+  "FULL_NAME_FOUND": "M & M M&M's Peanut Chocolate Candy Peg Bag 150.3 G",
+  "DESCRIPTION": "M&M'S Peanut Chocolate Candy is a little nutty, a lot tasty and always full of fun. Enjoy roasted peanuts covered in delicious chocolate and a colorful candy shell. These snack-sized chocolate candies make great to-go snacks, add-ins for baking and gift baskets. Remember M&M'S Candy for your next event or celebration!",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "M & M",
+  "SIZE": "",
+  "EAN": "0040000017325",
+  "STATUS": "MATCHED"
+ },
+ "400002509578": {
+  "STATUS": "UNMATCHED"
+ },
+ "400002511212": {
+  "FULL_NAME_FOUND": "Clear S/M Disposable Vinyl Gloves, 100 Ct",
+  "DESCRIPTION": "Clear disposable vinyl gloves are great for cleaning up around the house or office. These gloves are made non-latex to accommodate most skin types. A formula made to enhance softness and fitness and higher tensile strength with more tactile sensitivity.",
+  "CATEGORY": "First Aid",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0400002511212",
+  "STATUS": "MATCHED"
+ },
+ "040000581376": {
+  "FULL_NAME_FOUND": "Milky Way Bars, Cookie Dough, Share Size",
+  "DESCRIPTION": "With creamy caramel and cookie dough flavoured nougat, this Milky Way is hugely popular! Try it once and you’ll definitely want to try many more. This King Size pack comes with two bars which makes it perfect for sharing!",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Milky Way",
+  "SIZE": "",
+  "EAN": "0040000581376",
+  "STATUS": "MATCHED"
+ },
+ "040000641674": {
+  "FULL_NAME_FOUND": "Snickers Extreme Share Size Candy 3.1oz - 24ct",
+  "DESCRIPTION": "Snickers Extreme Share Size Candy takes the classic Snickers experience to the next level with even more of what fans love. Each 3.1oz bar is loaded with roasted peanuts, rich caramel, and smooth milk chocolate for a bold, satisfying bite. Designed in a convenient share-size format, it’s perfect for splitting with friends, stocking retail displays, or enjoying when a serious chocolate craving hits. This 24-count case is ideal for convenience stores, candy aisles, and bulk buyers looking for a top-selling, recognizable brand.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Snickers",
+  "SIZE": "",
+  "EAN": "0040000641674",
+  "STATUS": "MATCHED"
+ },
+ "400994780115": {
+  "STATUS": "UNMATCHED"
  }
 }

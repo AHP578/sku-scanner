@@ -89704,5 +89704,53 @@
   "SIZE": "",
   "EAN": "0700987799347",
   "STATUS": "MATCHED"
+ },
+ "700987799903": {
+  "STATUS": "UNMATCHED"
+ },
+ "700987799910": {
+  "STATUS": "UNMATCHED"
+ },
+ "700987799927": {
+  "STATUS": "UNMATCHED"
+ },
+ "700987799934": {
+  "STATUS": "UNMATCHED"
+ },
+ "700987799941": {
+  "STATUS": "UNMATCHED"
+ },
+ "700987799958": {
+  "STATUS": "UNMATCHED"
+ },
+ "701233670397": {
+  "STATUS": "UNMATCHED"
+ },
+ "070137105381": {
+  "FULL_NAME_FOUND": "Black & Mild Select Single",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Black & Mild",
+  "SIZE": "",
+  "EAN": "0070137105381",
+  "STATUS": "MATCHED"
+ },
+ "070137114918": {
+  "FULL_NAME_FOUND": "Black & Mild Cigars Sweets Plastic Tip",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Black & Mild Cigars",
+  "SIZE": "",
+  "EAN": "0070137114918",
+  "STATUS": "MATCHED"
+ },
+ "070137114925": {
+  "FULL_NAME_FOUND": "Black & Mild Cigars B&M Wood Tip Swt 119",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Food, Beverages & Tobacco",
+  "BRAND": "Black & Mild Cigars",
+  "SIZE": "",
+  "EAN": "0070137114925",
+  "STATUS": "MATCHED"
  }
 }

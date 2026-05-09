@@ -89320,5 +89320,47 @@
  },
  "694026460124": {
   "STATUS": "UNMATCHED"
+ },
+ "694026460148": {
+  "STATUS": "UNMATCHED"
+ },
+ "694026460162": {
+  "STATUS": "UNMATCHED"
+ },
+ "694026460186": {
+  "STATUS": "UNMATCHED"
+ },
+ "694026460209": {
+  "STATUS": "UNMATCHED"
+ },
+ "694026460223": {
+  "STATUS": "UNMATCHED"
+ },
+ "694026460247": {
+  "STATUS": "UNMATCHED"
+ },
+ "694026460261": {
+  "STATUS": "UNMATCHED"
+ },
+ "694026460285": {
+  "STATUS": "UNMATCHED"
+ },
+ "694411001192": {
+  "FULL_NAME_FOUND": "Daisys Pound Cake Tropical Pnapl 5 Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Snack Cakes",
+  "BRAND": "Daisys",
+  "SIZE": "",
+  "EAN": "0694411001192",
+  "STATUS": "MATCHED"
+ },
+ "694411001222": {
+  "FULL_NAME_FOUND": "Daisy's Bakery Walnut Poiun Cake Slice",
+  "DESCRIPTION": "No description found",
+  "CATEGORY": "",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0694411001222",
+  "STATUS": "MATCHED"
  }
 }

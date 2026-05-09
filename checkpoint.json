@@ -87964,5 +87964,71 @@
   "SIZE": "500 mL",
   "EAN": "0657622510747",
   "STATUS": "MATCHED"
+ },
+ "657622527790": {
+  "FULL_NAME_FOUND": "Honest Tea, Organic, Peach 16.9 Oz",
+  "DESCRIPTION": "Honest Tea Organic Peach Tea is a sweetened, organic certified flavor that is made with fair trade black tea and organic cane sugar. The front of the label also features their new EGCG antioxidant meter.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Honest",
+  "SIZE": "500 mL",
+  "EAN": "0657622527790",
+  "STATUS": "MATCHED"
+ },
+ "657622529121": {
+  "STATUS": "UNMATCHED"
+ },
+ "657622531551": {
+  "FULL_NAME_FOUND": "Honest Half Tea & Lemonade",
+  "DESCRIPTION": "Honest Tea Half Tea & Half Lemonade—when you combine two tasty drinks, you get an even tastier one. And even better, it’s made with real-brewed black tea leaves, organic lemonade and cane sugar.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Honest",
+  "SIZE": "500 mL",
+  "EAN": "0657622531551",
+  "STATUS": "MATCHED"
+ },
+ "657622718679": {
+  "FULL_NAME_FOUND": "Honest Herbal Tea, Organic, Pomegranate Blue Flavored 16.9 Oz",
+  "DESCRIPTION": "Honest Tea seeks to create and promote great-tasting, organic beverages and extend economic opportunities to communities in need. Founded in 1998 in Bethesda, MD, Honest Tea is the nation's top-selling organic bottled tea company, specializing in beverages that are Just a Tad Sweet®.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Honest",
+  "SIZE": "500 mL",
+  "EAN": "0657622718679",
+  "STATUS": "MATCHED"
+ },
+ "657622730855": {
+  "FULL_NAME_FOUND": "Honest Oolong Tea, Organic, Peach 16.9 Fl Oz",
+  "DESCRIPTION": "Honest Tea seeks to create and promote great-tasting, truly healthy, organic beverages. We strive to grow our business with the same honesty and integrity we use to craft our products, with sustainability and great taste for all. In addition to creating a healthy alternative beverage with a lot less sugar than most bottled drinks, Honest Tea seeks to create honest relationships with our employees, suppliers, customers and with the communities in which we do business.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Honest",
+  "SIZE": "500 mL",
+  "EAN": "0657622730855",
+  "STATUS": "MATCHED"
+ },
+ "657622916167": {
+  "STATUS": "UNMATCHED"
+ },
+ "657664505459": {
+  "STATUS": "UNMATCHED"
+ },
+ "657699627324": {
+  "FULL_NAME_FOUND": "Amalie Motor Oil Pro Two-Cycle TC-W3 RL 8 Oz",
+  "DESCRIPTION": "Amalie Pro Two-Cycle TC-W3 RL engine oil provides the highest level of protection for high performance, high horsepower, two cycle marine engines. This oil is certified NMMA (BIA) and it is formulated to combat wear, scuffing and deposits. It is truly a high-temperature oxidation resistant oil which protects against corrosion, ensures cleanliness, and provides lubricity for long engine life. This is an ash-less formulation that prevents carbon deposit build-up on engine parts, and protects against ring sticking. It is certified RL which means it has high film strength for improved lubricity that results in increased engine efficiency, reduced bearing wear and cleaner emissions with less smoke. Amalie Pro Two-Cycle TC-W 3 RL oil is recommended for all water cooled two cycle engines, including the performance demands of Mercury, OMC Johnson/Evinrude, Yamaha, Honda, Kawasaki and many other engines requiring NMMA TC-W 3, TC-W 2, or TC-W type oils. These oils may be used in other air-cooled and water-cooled applications, such as snowmobiles, personal water craft (PWC), jet skis, lawn mowers, snow blowers, all-terrain vehicles and many others requiring API service category TC.",
+  "CATEGORY": "Cooking Oils",
+  "BRAND": "Amalie",
+  "SIZE": "",
+  "EAN": "0657699627324",
+  "STATUS": "MATCHED"
+ },
+ "657815021579": {
+  "STATUS": "UNMATCHED"
+ },
+ "658331008051": {
+  "FULL_NAME_FOUND": "DayQuil Cold & Flu",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Medicine & Drugs",
+  "BRAND": "DayQuil",
+  "SIZE": "",
+  "EAN": "0658331008051",
+  "STATUS": "MATCHED"
  }
 }

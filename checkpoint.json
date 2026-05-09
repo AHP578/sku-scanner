@@ -87712,5 +87712,65 @@
   "SIZE": "",
   "EAN": "0652474100283",
   "STATUS": "MATCHED"
+ },
+ "652729102451": {
+  "FULL_NAME_FOUND": "Magnolia Sweetened Condensed Milk, 14 Ounce",
+  "DESCRIPTION": "Magnolia Sweetened Condensed Milk is a versatile, creamy, and rich milk product that is perfect for sweetening desserts, drinks, and other recipes. Made with real milk and pure cane sugar, this classic ingredient adds a delectable sweetness to your cooking and baking.",
+  "CATEGORY": "Milk",
+  "BRAND": "Magnolia",
+  "SIZE": "414 mL",
+  "EAN": "0652729102451",
+  "STATUS": "MATCHED"
+ },
+ "653046214247": {
+  "STATUS": "UNMATCHED"
+ },
+ "653046304597": {
+  "STATUS": "UNMATCHED"
+ },
+ "653046342988": {
+  "STATUS": "UNMATCHED"
+ },
+ "654690403322": {
+  "FULL_NAME_FOUND": "Cali Plus Disposable - Strawberry Banana",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Bananas",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0654690403322",
+  "STATUS": "MATCHED"
+ },
+ "654690842213": {
+  "FULL_NAME_FOUND": "Cali Plus Disposable - Frozen Mixed Berries",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Mixed Herd Feed",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0654690842213",
+  "STATUS": "MATCHED"
+ },
+ "655100269538": {
+  "STATUS": "UNMATCHED"
+ },
+ "655360063105": {
+  "FULL_NAME_FOUND": "Cali XXL Disposable - Frozen Peach",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Peaches & Nectarines",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0655360063105",
+  "STATUS": "MATCHED"
+ },
+ "655360064539": {
+  "FULL_NAME_FOUND": "Cali XXL Disposable - Frozen Melon",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Melons",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0655360064539",
+  "STATUS": "MATCHED"
+ },
+ "655360130296": {
+  "STATUS": "UNMATCHED"
  }
 }

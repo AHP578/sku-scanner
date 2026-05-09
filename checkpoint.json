@@ -87508,5 +87508,59 @@
   "SIZE": "",
   "EAN": "0645759005229",
   "STATUS": "MATCHED"
+ },
+ "645759664334": {
+  "FULL_NAME_FOUND": "Kozyard Magnum Xxl 500 K",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Canopies & Gazebos",
+  "BRAND": "Kozyard",
+  "SIZE": "",
+  "EAN": "0645759664334",
+  "STATUS": "MATCHED"
+ },
+ "646117715040": {
+  "FULL_NAME_FOUND": "Ploox X Portal Hookah Nest – Resin Orange",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Flavored Alcoholic Beverages",
+  "BRAND": "Ploox",
+  "SIZE": "",
+  "EAN": "0646117715040",
+  "STATUS": "MATCHED"
+ },
+ "646512464130": {
+  "STATUS": "UNMATCHED"
+ },
+ "647297988750": {
+  "STATUS": "UNMATCHED"
+ },
+ "647297988972": {
+  "STATUS": "UNMATCHED"
+ },
+ "647297988989": {
+  "STATUS": "UNMATCHED"
+ },
+ "647297989016": {
+  "STATUS": "UNMATCHED"
+ },
+ "647297989030": {
+  "STATUS": "UNMATCHED"
+ },
+ "647865100010": {
+  "FULL_NAME_FOUND": "Airborne Zesty Orange Immune Support Supplement Original Effervescent Tablets 10 Ct Box",
+  "DESCRIPTION": "Immune support supplement contains a blast of Vitamin C plus 13 other vitamins, minerals and herbs. Effervescent tablets can be added to your favorite beverage. HPIS Code 999_200_40_0 Healthcare Providers Only No Latex Free No OTC Type Tablet UNSPSC 51000000.",
+  "CATEGORY": "Vitamins & Supplements",
+  "BRAND": "Airborne",
+  "SIZE": "",
+  "EAN": "0647865100010",
+  "STATUS": "MATCHED"
+ },
+ "647865203346": {
+  "FULL_NAME_FOUND": "Airborne Citrus Chewable Tablets, 32 Count - 1000mg Of Vitamin C - Immune Support Supplement (Packaging May Vary)",
+  "DESCRIPTION": "Immune Support Chewable Tablets, 32 Tablets/BoxNo water needed. 0 - 0.",
+  "CATEGORY": "Health & Beauty",
+  "BRAND": "Airborne",
+  "SIZE": "",
+  "EAN": "0647865203346",
+  "STATUS": "MATCHED"
  }
 }

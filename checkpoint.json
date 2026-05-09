@@ -89122,5 +89122,83 @@
   "SIZE": "",
   "EAN": "0689490002475",
   "STATUS": "MATCHED"
+ },
+ "689490002505": {
+  "FULL_NAME_FOUND": "This Silver Cigarettes",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0689490002505",
+  "STATUS": "MATCHED"
+ },
+ "689490002536": {
+  "FULL_NAME_FOUND": "This Menthol Box",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "This",
+  "SIZE": "",
+  "EAN": "0689490002536",
+  "STATUS": "MATCHED"
+ },
+ "689585635212": {
+  "FULL_NAME_FOUND": "Cali Plus Disposable - Frozen Blue Raspberry",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0689585635212",
+  "STATUS": "MATCHED"
+ },
+ "689585635229": {
+  "STATUS": "UNMATCHED"
+ },
+ "689585635243": {
+  "STATUS": "UNMATCHED"
+ },
+ "689585635274": {
+  "FULL_NAME_FOUND": "Cali Plus Disposable - Frozen Kiwi Lemonade",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Kiwis",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0689585635274",
+  "STATUS": "MATCHED"
+ },
+ "689585635298": {
+  "FULL_NAME_FOUND": "Cali Plus Disposable - Frozen Lush",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0689585635298",
+  "STATUS": "MATCHED"
+ },
+ "689585635304": {
+  "FULL_NAME_FOUND": "Cali Plus Disposable - Frozen Pineapple",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0689585635304",
+  "STATUS": "MATCHED"
+ },
+ "689674014744": {
+  "FULL_NAME_FOUND": "Macanudo Hampton Court Cafe Alum Tube",
+  "DESCRIPTION": "Only Macanudo grows, cures and ages its own Connecticut Shade wrapper and ages the wrapper leaves twice, just as it used to be done in Cuba decades ago. This corona cigar has a natural deep brown wrapper that provides a full yet mellow flavor. Comes sealed in cedar lined aluminium tubes for great taste and freshness.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Macanudo",
+  "SIZE": "",
+  "EAN": "0689674014744",
+  "STATUS": "MATCHED"
+ },
+ "689674020868": {
+  "FULL_NAME_FOUND": "Macanudo Cafe Crystal Tube",
+  "DESCRIPTION": "This smooth, mild Robusto cigar comes sealed in a crystal tube to preserve freshness. Macanudo Cafe Crystals make the perfect gift for beginners.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Macanudo",
+  "SIZE": "",
+  "EAN": "0689674020868",
+  "STATUS": "MATCHED"
  }
 }

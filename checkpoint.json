@@ -88954,5 +88954,83 @@
   "SIZE": "",
   "EAN": "0688149260020",
   "STATUS": "MATCHED"
+ },
+ "688267158179": {
+  "FULL_NAME_FOUND": "Guaranteed Value Heavy Duty Assorted Cutlery White",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Tableware",
+  "BRAND": "Guaranteed Value",
+  "SIZE": "",
+  "EAN": "0688267158179",
+  "STATUS": "MATCHED"
+ },
+ "688267171284": {
+  "FULL_NAME_FOUND": "Guaranteed Value Plastic Forks White",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Forks",
+  "BRAND": "Guaranteed Value",
+  "SIZE": "",
+  "EAN": "0688267171284",
+  "STATUS": "MATCHED"
+ },
+ "689076935425": {
+  "STATUS": "UNMATCHED"
+ },
+ "689076936026": {
+  "FULL_NAME_FOUND": "Bluntville Blueberry 25ct",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0689076936026",
+  "STATUS": "MATCHED"
+ },
+ "689076936224": {
+  "STATUS": "UNMATCHED"
+ },
+ "689466796865": {
+  "FULL_NAME_FOUND": "Lola Snacks Probiotic Cranberry Almond Bar 1.76 Oz",
+  "DESCRIPTION": "The classic combo of Dark Chocolate and Cherry is a craveable flavor sensation, that brings the hero bar to a whole new level of deliciousness. Gluten-free probiotic bars are a terrific grab and go option for your point of sale, meal replacement selections, and a serve-yourself breakfast bar must-have. Ideal for adding to an assortment at convenience, grocers, pro shops, hotel pantries, and corporate dining venues Brightly colored packaging with call outs is sure to be noticed. Plant based, gluten-free, vegan, soy free, and non-GMO.",
+  "CATEGORY": "Cereal & Granola",
+  "BRAND": "Lola Snacks",
+  "SIZE": "",
+  "EAN": "0689466796865",
+  "STATUS": "MATCHED"
+ },
+ "689490000006": {
+  "FULL_NAME_FOUND": "Timeless Time Red Box 1",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Timeless",
+  "SIZE": "",
+  "EAN": "0689490000006",
+  "STATUS": "MATCHED"
+ },
+ "689490000877": {
+  "FULL_NAME_FOUND": "Timeless Time Blue Carton",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Timeless",
+  "SIZE": "",
+  "EAN": "0689490000877",
+  "STATUS": "MATCHED"
+ },
+ "689490000907": {
+  "FULL_NAME_FOUND": "Timeless Time Silver Bx",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0689490000907",
+  "STATUS": "MATCHED"
+ },
+ "689490000938": {
+  "FULL_NAME_FOUND": "Timeless Time Menthol Kg Box",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0689490000938",
+  "STATUS": "MATCHED"
  }
 }

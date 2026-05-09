@@ -89752,5 +89752,89 @@
   "SIZE": "",
   "EAN": "0070137114925",
   "STATUS": "MATCHED"
+ },
+ "070137213376": {
+  "FULL_NAME_FOUND": "Black & Mild Cigars, Pipe-Tobacco, Filter Tips",
+  "DESCRIPTION": "Black & Mild's famous combination of smooth taste & pleasant aroma comes from the storied tradition of Middleton's pipe tobacco. That's the reason why you can have a cigar or you can enjoy a Black and Mild. These cigars are predominantly natural tobacco with non-tobacco ingredients added. Filler is 100% pipe tobacco. Sale only allowed in the United States. Please don't litter.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Black & Mild",
+  "SIZE": "",
+  "EAN": "0070137213376",
+  "STATUS": "MATCHED"
+ },
+ "070137215592": {
+  "FULL_NAME_FOUND": "Black & Mild Jazz Pt",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0070137215592",
+  "STATUS": "MATCHED"
+ },
+ "070137215639": {
+  "FULL_NAME_FOUND": "Black & Mild Sweets Wt Single",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0070137215639",
+  "STATUS": "MATCHED"
+ },
+ "070137839729": {
+  "FULL_NAME_FOUND": "Black & Mild Wine",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Wine",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0070137839729",
+  "STATUS": "MATCHED"
+ },
+ "701806689368": {
+  "FULL_NAME_FOUND": "Eknel Foods Inc. Uncle Bill's Cotton Candy",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Eknel Foods Inc.",
+  "SIZE": "",
+  "EAN": "0701806689368",
+  "STATUS": "MATCHED"
+ },
+ "070235000359": {
+  "FULL_NAME_FOUND": "Phillies Blunt Cigar",
+  "DESCRIPTION": "These cigars are predominantly natural tobacco with non-tobacco ingredients added.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Phillies",
+  "SIZE": "",
+  "EAN": "0070235000359",
+  "STATUS": "MATCHED"
+ },
+ "070235108512": {
+  "FULL_NAME_FOUND": "Phillies Cigars - Blunt 5",
+  "DESCRIPTION": "Phillies Blunt cigars are a good everyday cigar. They are mellow in strength. Perfect for a first time cigar smoker, but also a classic for cigar enthusiast!",
+  "CATEGORY": "Cigars",
+  "BRAND": "Phillies",
+  "SIZE": "",
+  "EAN": "0070235108512",
+  "STATUS": "MATCHED"
+ },
+ "702565899937": {
+  "STATUS": "UNMATCHED"
+ },
+ "070330604599": {
+  "FULL_NAME_FOUND": "Bic Geometric Design Lighter 1",
+  "DESCRIPTION": "Bic Special Edition Favorite Series Lighters, Pocket Style, Safe Child-Resistant, Assorted Colors (Packaging May Vary), 1-Count.",
+  "CATEGORY": "Food, Beverages & Tobacco",
+  "BRAND": "Bic",
+  "SIZE": "",
+  "EAN": "0070330604599",
+  "STATUS": "MATCHED"
+ },
+ "070330618022": {
+  "FULL_NAME_FOUND": "BIC York Jets NFL Officially Licensed Cigarette Lighters",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Sports Fan Accessories",
+  "BRAND": "BIC",
+  "SIZE": "",
+  "EAN": "0070330618022",
+  "STATUS": "MATCHED"
  }
 }

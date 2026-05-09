@@ -89200,5 +89200,83 @@
   "SIZE": "",
   "EAN": "0689674020868",
   "STATUS": "MATCHED"
+ },
+ "069000147702": {
+  "FULL_NAME_FOUND": "Starbucks Frappuccino Mocha Coffee Drink, 405 Millilitre",
+  "DESCRIPTION": "Every bottle of mocha flavoured Starbucks Frappucino coffee drink contains 260 calories.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Starbucks",
+  "SIZE": "405 mL",
+  "EAN": "0069000147702",
+  "STATUS": "MATCHED"
+ },
+ "069000148969": {
+  "FULL_NAME_FOUND": "Starbucks Frappuccino Caramel Coffee Drink, 405 Millilitre",
+  "DESCRIPTION": "Every bottle of caramel flavoured Starbucks Frappucino coffee drink contains 290 calories.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Starbucks",
+  "SIZE": "405 mL",
+  "EAN": "0069000148969",
+  "STATUS": "MATCHED"
+ },
+ "690102091282": {
+  "STATUS": "UNMATCHED"
+ },
+ "690102091299": {
+  "STATUS": "UNMATCHED"
+ },
+ "690102096461": {
+  "FULL_NAME_FOUND": "Stress Gear Ge Sld Color Spinner",
+  "DESCRIPTION": "6+ ages. Office. Home. School. CE listed. Please recycle. Helps focus. Relieves boredom, anxiety and stress. Great for ADD, ADHD and autism. Made in China.",
+  "CATEGORY": "Electronics",
+  "BRAND": "Stress Gear",
+  "SIZE": "",
+  "EAN": "0690102096461",
+  "STATUS": "MATCHED"
+ },
+ "691535501010": {
+  "FULL_NAME_FOUND": "Nu Go Nutrition - To Protein Bar Chocolate - 1 Oz",
+  "DESCRIPTION": "Who doesn’t love real, delicious milk chocolate? This product has everyone in the family asking for more chocolate bars – and moms say ok. This certified gluten free and low-glycemic bar is low in fat, high in protein, and loaded with vitamins.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Nu Go",
+  "SIZE": "",
+  "EAN": "0691535501010",
+  "STATUS": "MATCHED"
+ },
+ "691535503014": {
+  "FULL_NAME_FOUND": "NuGo Original Peanut Butter Chocolate Nutrition Bar 1.76 Oz",
+  "DESCRIPTION": "Home To Go Protein BarNuGo Nutrition To Go Protein Bar Peanut Butter Chocolate made delicious with real milk chocolate! Enjoy the luscious blend of peanut butter and real, delicious milk chocolate. This certified low-glycemic bar is low in fat, high in protein, loaded with vitamins, and 100% natural.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "NuGo",
+  "SIZE": "",
+  "EAN": "0691535503014",
+  "STATUS": "MATCHED"
+ },
+ "691535505018": {
+  "FULL_NAME_FOUND": "NuGo Original Vanilla Yogurt Nutrition Bar 1.76 Oz",
+  "DESCRIPTION": "Nugo protein bar, vanilla yogurt is nutrition to-go. This product is high in protein, low in fat and covered in luscious, vanilla yogurt, contains 11 g. Protein per bar and only uses ingredients that have not genetically modified. Nugo protein bar, vanilla yogurt is gluten-free and packaged for your convenience in a packet containing one protein bar.",
+  "CATEGORY": "Nutrition Bars",
+  "BRAND": "NuGo",
+  "SIZE": "",
+  "EAN": "0691535505018",
+  "STATUS": "MATCHED"
+ },
+ "691535521018": {
+  "FULL_NAME_FOUND": "NuGo 12g Protein Bar - Dark Chocolate Chip",
+  "DESCRIPTION": "Treat yourself to chocolate wrapped in chocolate. Rich, indulgent, and deliciously real. This chocolate chip bar is covered in decadent real dark chocolate. Nothing will curb your dark chocolate cravings like this vegan bar with 12g of plant-based protein. Did we mention it's gluten free, non-GMO, and OU Kosher pareve?",
+  "CATEGORY": "Chips",
+  "BRAND": "NuGo",
+  "SIZE": "",
+  "EAN": "0691535521018",
+  "STATUS": "MATCHED"
+ },
+ "691535529014": {
+  "FULL_NAME_FOUND": "NuGo Dark Protein Bar, Chocolate Pretzel With Sea Salt",
+  "DESCRIPTION": "Life is full of hard choices, choosing between salty and sweet shouldn't be one of them. The delicious flavor of rich dark chocolate sprinkled with sea salt combined with the satisfying crunch of pretzels will please all your senses. Each NuGo Dark bar has 12g plant protein and is certified gluten free, vegan and OU Kosher Pareve. It's no wonder this is our best-selling NuGo bar!",
+  "CATEGORY": "Vitamins & Supplements",
+  "BRAND": "NuGo",
+  "SIZE": "",
+  "EAN": "0691535529014",
+  "STATUS": "MATCHED"
  }
 }

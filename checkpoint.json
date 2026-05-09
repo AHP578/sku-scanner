@@ -88240,5 +88240,95 @@
   "SIZE": "",
   "EAN": "0674074002026",
   "STATUS": "MATCHED"
+ },
+ "674074002040": {
+  "FULL_NAME_FOUND": "Sweet Rainbow Candy & Nuts",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0674074002040",
+  "STATUS": "MATCHED"
+ },
+ "674074002248": {
+  "FULL_NAME_FOUND": "Sr Unsalted Cashews",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0674074002248",
+  "STATUS": "MATCHED"
+ },
+ "674074002309": {
+  "FULL_NAME_FOUND": "Sr Raw Cashew",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Raw Candle Wax",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0674074002309",
+  "STATUS": "MATCHED"
+ },
+ "674074002385": {
+  "FULL_NAME_FOUND": "Sweet Rainbow Candy & Nuts Gummy Bears Candy",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0674074002385",
+  "STATUS": "MATCHED"
+ },
+ "674074002408": {
+  "FULL_NAME_FOUND": "N/a Gummy Peach",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "N/a",
+  "SIZE": "",
+  "EAN": "0674074002408",
+  "STATUS": "MATCHED"
+ },
+ "674074002446": {
+  "FULL_NAME_FOUND": "Sr Soft Mint",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Sweet Potatoes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0674074002446",
+  "STATUS": "MATCHED"
+ },
+ "674074002453": {
+  "FULL_NAME_FOUND": "Sweet Rainbow Sesame Crunch / 3 Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Sweet Potatoes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0674074002453",
+  "STATUS": "MATCHED"
+ },
+ "674074002583": {
+  "FULL_NAME_FOUND": "Sr Honey Peanuts",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Honey",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0674074002583",
+  "STATUS": "MATCHED"
+ },
+ "674074002613": {
+  "FULL_NAME_FOUND": "Sr Trail Mix",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Trail & Snack Mixes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0674074002613",
+  "STATUS": "MATCHED"
+ },
+ "674074002620": {
+  "FULL_NAME_FOUND": "Sr Healthy Mix",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cocktail Mixes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0674074002620",
+  "STATUS": "MATCHED"
  }
 }

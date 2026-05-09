@@ -89362,5 +89362,77 @@
   "SIZE": "",
   "EAN": "0694411001222",
   "STATUS": "MATCHED"
+ },
+ "694411001239": {
+  "FULL_NAME_FOUND": "Daisy s Bakery Gourmet Cream Cheese Pound Cake 5 Oz",
+  "DESCRIPTION": "Daisy s Gourmet Cream Cheese Pound Cake. This classic treat is perfectly baked to a moist dense texture that melts in your mouth. With its golden crust and tender crumb every bite is a delightful blend of sweet and savory flavors. Whether you re enjoying it for breakfast dessert or a mid-day snack this pound cake is sure to satisfy your cravings.",
+  "CATEGORY": "Cream Cheese",
+  "BRAND": "Daisy s Bakery",
+  "SIZE": "",
+  "EAN": "0694411001239",
+  "STATUS": "MATCHED"
+ },
+ "694411001260": {
+  "FULL_NAME_FOUND": "Daisy s Bakery Iced Gourmet Lemon Pound Cake 5 Oz",
+  "DESCRIPTION": "Daisy s Iced Gourmet Lemon Pound Cake. This classic treat is perfectly baked to a moist dense texture that melts in your mouth. With its golden crust and tender crumb every bite is a delightful blend of sweet and savory flavors. Whether you re enjoying it for breakfast dessert or a mid-day snack this pound cake is sure to satisfy your cravings.",
+  "CATEGORY": "Bakery",
+  "BRAND": "Daisy s Bakery",
+  "SIZE": "",
+  "EAN": "0694411001260",
+  "STATUS": "MATCHED"
+ },
+ "694411001314": {
+  "FULL_NAME_FOUND": "Daisys Coffee Cake Gourmet 5 Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Coffee Cakes",
+  "BRAND": "Daisys",
+  "SIZE": "",
+  "EAN": "0694411001314",
+  "STATUS": "MATCHED"
+ },
+ "694411001376": {
+  "FULL_NAME_FOUND": "Daisys Chocolate Chip Muffin",
+  "DESCRIPTION": "This classic treat is perfectly baked that melts in your mouth. Whether you re enjoying it for breakfast dessert or a mid-day snack this muffin is sure to satisfy your cravings.",
+  "CATEGORY": "Muffins",
+  "BRAND": "Daisys",
+  "SIZE": "",
+  "EAN": "0694411001376",
+  "STATUS": "MATCHED"
+ },
+ "694411001703": {
+  "FULL_NAME_FOUND": "Daisy Bakery: Iced Apple Danish 12 Ct",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Snack Cakes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0694411001703",
+  "STATUS": "MATCHED"
+ },
+ "694411001710": {
+  "STATUS": "UNMATCHED"
+ },
+ "694411001789": {
+  "STATUS": "UNMATCHED"
+ },
+ "694411001932": {
+  "FULL_NAME_FOUND": "Daisys Blueberry Cake Single",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Snack Cakes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0694411001932",
+  "STATUS": "MATCHED"
+ },
+ "694411005329": {
+  "FULL_NAME_FOUND": "Daisy's Bakery: Iced Honey Buns 12 Ct",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0694411005329",
+  "STATUS": "MATCHED"
+ },
+ "694411005336": {
+  "STATUS": "UNMATCHED"
  }
 }

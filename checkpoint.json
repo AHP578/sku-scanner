@@ -88066,5 +88066,53 @@
  },
  "658515972291": {
   "STATUS": "UNMATCHED"
+ },
+ "658515972550": {
+  "STATUS": "UNMATCHED"
+ },
+ "658515972598": {
+  "STATUS": "UNMATCHED"
+ },
+ "658751944892": {
+  "STATUS": "UNMATCHED"
+ },
+ "658751944908": {
+  "STATUS": "UNMATCHED"
+ },
+ "658751944915": {
+  "STATUS": "UNMATCHED"
+ },
+ "658751944922": {
+  "STATUS": "UNMATCHED"
+ },
+ "658751944939": {
+  "STATUS": "UNMATCHED"
+ },
+ "660355242298": {
+  "FULL_NAME_FOUND": "Cali Plus Disposable - Frozen Peach Lemonade",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Peaches & Nectarines",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0660355242298",
+  "STATUS": "MATCHED"
+ },
+ "660355297175": {
+  "FULL_NAME_FOUND": "Cali Plus Disposable - Strawberry Lemonade",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Flavored Alcoholic Beverages",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0660355297175",
+  "STATUS": "MATCHED"
+ },
+ "660355447600": {
+  "FULL_NAME_FOUND": "Cali Plus Disposable - Frozen Tangerine",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0660355447600",
+  "STATUS": "MATCHED"
  }
 }

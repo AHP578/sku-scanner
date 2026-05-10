@@ -91114,5 +91114,83 @@
   "SIZE": "",
   "EAN": "0720495928831",
   "STATUS": "MATCHED"
+ },
+ "720495929074": {
+  "FULL_NAME_FOUND": "TGI Fridays Potato Skin Snack Chips, Bacon Ranch",
+  "DESCRIPTION": "TGI Fridays Bacon Ranch Potato Skins brings you the mouthwatering flavor combination of a smooth and savory taste sensation that will have you coming back for more.",
+  "CATEGORY": "Chips",
+  "BRAND": "TGI Fridays",
+  "SIZE": "",
+  "EAN": "0720495929074",
+  "STATUS": "MATCHED"
+ },
+ "720495929081": {
+  "FULL_NAME_FOUND": "T.G.I. Friday's Potato Skns Bby Rib 3 Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Chips",
+  "BRAND": "T.G.I. Friday's",
+  "SIZE": "",
+  "EAN": "0720495929081",
+  "STATUS": "MATCHED"
+ },
+ "720495990098": {
+  "FULL_NAME_FOUND": "Nathan's Famous Crinkle Fries, Crunchy, Cheddar Cheese",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Chips",
+  "BRAND": "Nathan's",
+  "SIZE": "",
+  "EAN": "0720495990098",
+  "STATUS": "MATCHED"
+ },
+ "720495990111": {
+  "FULL_NAME_FOUND": "Nathan's Famous Crinkle Fries, Crunchy, Honey Mustard",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Grains, Rice & Cereal",
+  "BRAND": "Nathan's",
+  "SIZE": "",
+  "EAN": "0720495990111",
+  "STATUS": "MATCHED"
+ },
+ "720495990135": {
+  "FULL_NAME_FOUND": "Nathan's Famous Crinkle Fries, Crunchy, Chili Cheese",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Prepared Foods",
+  "BRAND": "Nathan's",
+  "SIZE": "",
+  "EAN": "0720495990135",
+  "STATUS": "MATCHED"
+ },
+ "720707206955": {
+  "FULL_NAME_FOUND": "Red Bull Male Enhancement Honey 15ct",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0720707206955",
+  "STATUS": "MATCHED"
+ },
+ "720707766596": {
+  "FULL_NAME_FOUND": "Rhino King Gold 50000",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Health Care",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0720707766596",
+  "STATUS": "MATCHED"
+ },
+ "720707833380": {
+  "STATUS": "UNMATCHED"
+ },
+ "720707834868": {
+  "STATUS": "UNMATCHED"
+ },
+ "072133001001": {
+  "FULL_NAME_FOUND": "Wiffle Ball And Bat Set Plastic Yellow 32 Inch 2 Piece",
+  "DESCRIPTION": "Discover the Yellow Plastic Wiffle Ball and Bat Set 2 Piece for sunny outdoor play. Built from sturdy plastic with a vibrant yellow finish, this duo is lightweight and safe for young players. Perfect for backyard games, picnics, and park outings, it adds lively energy to family time. Benefits for active families: This easy to set up set motivates kids to move, helping develop hand eye coordination through playful competition. The lightweight build makes swinging comfortable for little hands, so outdoor sessions stay fun and frustration free.",
+  "CATEGORY": "Toys & Games",
+  "BRAND": "Wiffle",
+  "SIZE": "",
+  "EAN": "0072133001001",
+  "STATUS": "MATCHED"
  }
 }

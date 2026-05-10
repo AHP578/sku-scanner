@@ -91774,5 +91774,71 @@
  },
  "074000001008": {
   "STATUS": "UNMATCHED"
+ },
+ "740016995845": {
+  "FULL_NAME_FOUND": "Yogurt Trail Mix",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Trail & Snack Mixes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0740016995845",
+  "STATUS": "MATCHED"
+ },
+ "740016995852": {
+  "FULL_NAME_FOUND": "Premium Trail Mix Cranberry",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Trail & Snack Mixes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0740016995852",
+  "STATUS": "MATCHED"
+ },
+ "740016995869": {
+  "STATUS": "UNMATCHED"
+ },
+ "740016995876": {
+  "STATUS": "UNMATCHED"
+ },
+ "740016995906": {
+  "FULL_NAME_FOUND": "Stone Creek Sour Cherry Gummies 2.75Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Snack Foods",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0740016995906",
+  "STATUS": "MATCHED"
+ },
+ "740016995920": {
+  "FULL_NAME_FOUND": "Neon Sour Bears",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0740016995920",
+  "STATUS": "MATCHED"
+ },
+ "740016996026": {
+  "FULL_NAME_FOUND": "Stone Creek Premium Trail Mix Cranberry 2.25Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Trail & Snack Mixes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0740016996026",
+  "STATUS": "MATCHED"
+ },
+ "740016997023": {
+  "STATUS": "UNMATCHED"
+ },
+ "740235511024": {
+  "STATUS": "UNMATCHED"
+ },
+ "740235511048": {
+  "FULL_NAME_FOUND": "Carleys Soft Bake Peanut Butter 2.5 Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Nut Butters",
+  "BRAND": "Carleys",
+  "SIZE": "",
+  "EAN": "0740235511048",
+  "STATUS": "MATCHED"
  }
 }

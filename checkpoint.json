@@ -91840,5 +91840,77 @@
   "SIZE": "",
   "EAN": "0740235511048",
   "STATUS": "MATCHED"
+ },
+ "740235511512": {
+  "FULL_NAME_FOUND": "Carlys Duplex Sandw Cookie",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cookies",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0740235511512",
+  "STATUS": "MATCHED"
+ },
+ "740235511529": {
+  "FULL_NAME_FOUND": "Carlys Lemon Sanw Cookie",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cookies",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0740235511529",
+  "STATUS": "MATCHED"
+ },
+ "740235511536": {
+  "FULL_NAME_FOUND": "Carlys Sandw Van Cookie",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cookies",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0740235511536",
+  "STATUS": "MATCHED"
+ },
+ "741459479572": {
+  "STATUS": "UNMATCHED"
+ },
+ "074182270933": {
+  "FULL_NAME_FOUND": "Softsoap Liquid Hand Pump - Fresh Breeze - 7.5 Fl Oz",
+  "DESCRIPTION": "Liquid hand soap's gentle formula washes away germs while caring for your skin. Rich lathering soap. Dermatologist tested, pH balanced for skin and formulated without phthalates.",
+  "CATEGORY": "Liquid Hand Soap",
+  "BRAND": "Softsoap",
+  "SIZE": "",
+  "EAN": "0074182270933",
+  "STATUS": "MATCHED"
+ },
+ "742137605382": {
+  "STATUS": "UNMATCHED"
+ },
+ "742832051828": {
+  "FULL_NAME_FOUND": "Tuty Samurai Mix Nut Bar Display",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Trail & Snack Mixes",
+  "BRAND": "Tuty",
+  "SIZE": "",
+  "EAN": "0742832051828",
+  "STATUS": "MATCHED"
+ },
+ "074323511024": {
+  "FULL_NAME_FOUND": "Bimbo Vanilla Conchas Sabor Fine Pastry",
+  "DESCRIPTION": "Bimbo Conchas are great for breakfast, merienda, and beyond. There are two parts to Conchas; the bread is slightly sweet, fluffy, topped with soft and crumbly vanilla sugar, and baked with love like all Bimbo breads and pastries. Wrapped for freshness, Conchas are great to pack in lunchboxes, to enjoy as an after-school snack, or to enjoy as a treat any time you need a sweet to brighten your day. They are perfect to eat as is or they can be warmed for a fresh-from-the-oven taste. Try slicing them open and adding a little jam and whipped cream for an easy dessert that cant be beat. There is no wrong way or time to savor the flavor of one of Mexicos most beloved pastry. Bimbo has been bringing families together for four generations. A family owned business since 1945, Bimbo Bakeries USA is the leading baking company in America, bringing families quality baked goods they can share with the ones they love.",
+  "CATEGORY": "Pastries & Scones",
+  "BRAND": "Bimbo",
+  "SIZE": "",
+  "EAN": "0074323511024",
+  "STATUS": "MATCHED"
+ },
+ "743724512946": {
+  "STATUS": "UNMATCHED"
+ },
+ "074471000500": {
+  "FULL_NAME_FOUND": "Cafe Bustelo Café Espresso Style Dark Roast Ground Coffee, 10 Oz. Can",
+  "DESCRIPTION": "Café Bustelo is a beloved Latin coffee brand known for its bold, rich, and full-bodied espresso-style flavor. Available in ground, brick, and instant varieties, it’s perfect for making traditional cafecitos, lattes, or a strong everyday brew.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Cafe Bustelo",
+  "SIZE": "296 mL",
+  "EAN": "0074471000500",
+  "STATUS": "MATCHED"
  }
 }

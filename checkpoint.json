@@ -93106,5 +93106,83 @@
   "SIZE": "",
   "EAN": "0768210100087",
   "STATUS": "MATCHED"
+ },
+ "768210100117": {
+  "FULL_NAME_FOUND": "Richies Italian Ice Blue Raspberry",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "Richies",
+  "SIZE": "",
+  "EAN": "0768210100117",
+  "STATUS": "MATCHED"
+ },
+ "768210100124": {
+  "FULL_NAME_FOUND": "Richie's Super Premium Italian Ice Root Beer",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Soda",
+  "BRAND": "Richie's",
+  "SIZE": "",
+  "EAN": "0768210100124",
+  "STATUS": "MATCHED"
+ },
+ "768210252090": {
+  "STATUS": "UNMATCHED"
+ },
+ "768210252229": {
+  "STATUS": "UNMATCHED"
+ },
+ "076828048630": {
+  "FULL_NAME_FOUND": "Wet Ones Sensitive Skin Extra Gentle Hand And Face Fragrance Free Wipes",
+  "DESCRIPTION": "Wet Ones Sensitive Skin Hand Wipes deliver effective cleansing without compromising skin integrity. This dermatologist-tested formulation eliminates dirt and germs while remaining gentle enough for reactive or compromised skin barriers. The fragrance-free composition excludes drying alcohols and irritating additives, instead incorporating aloe vera and witch hazel to provide antimicrobial benefits alongside skin conditioning. The enriched moisturizer blend prevents the tightness and irritation commonly associated with sanitizing products. Each resealable 20-count pack offers convenient portability for travel, vehicles, diaper bags, and workplace use. Ideal for individuals with eczema, rosacea, or other dermatological sensitivities requiring non-irritating hygiene solutions.",
+  "CATEGORY": "Hand Sanitizers & Wipes",
+  "BRAND": "Wet Ones",
+  "SIZE": "",
+  "EAN": "0076828048630",
+  "STATUS": "MATCHED"
+ },
+ "076828138515": {
+  "FULL_NAME_FOUND": "Wet Ones Antibacterial Hand Wipes Lavender - 20ct",
+  "DESCRIPTION": "Enjoy 8 hours of moisturization, leaving your hands feeling smooth and soft—never dry or uncomfortable. Wet Ones Moisturizing Lavender Scented Antibacterial Hand Wipes are tough on germs and gentle on skin, killing 99.99% of germs* while wiping away dirt and messes. Leaving behind only a light lavender scent with no sticky residue, these hypoallergenic, lavender wipes—made with a touch of aloe—are pediatrician tested and paraben free. The convenient canister makes these hand wipes perfect for the home, car, office, or wherever germs and messes pop up, and the secure click-top makes sure your antibacterial hand wipes won’t dry out between uses.",
+  "CATEGORY": "Hand Sanitizers & Wipes",
+  "BRAND": "Wet Ones",
+  "SIZE": "",
+  "EAN": "0076828138515",
+  "STATUS": "MATCHED"
+ },
+ "770981536026": {
+  "FULL_NAME_FOUND": "Chips Ahoy! Muffins - 57g",
+  "DESCRIPTION": "2” wide palomino premium polyester elastic webbing has medium elasticity and provides reliable support and comfort throughout the day, 2” wide silver finish metal sliding size adjusters hold webbing in place and allow for a custom fit, Heavy-duty clip-on waist attachments to secure to jeans or heavy pants, Work design in X-Back pattern.",
+  "CATEGORY": "Muffins",
+  "BRAND": "Chips Ahoy!",
+  "SIZE": "",
+  "EAN": "0770981536026",
+  "STATUS": "MATCHED"
+ },
+ "770981805320": {
+  "FULL_NAME_FOUND": "Oreo Muffins 226g",
+  "DESCRIPTION": "¡Los Oreo Mini Muffins es la solución perfecta para todas tus meriendas! Una excelente combinación de tus sabores favoritos, el chocolate dulce o las galletas Oreo mezcladas en un muffin suave, serán las favoritas de toda tu familia. Este gran regalo está envuelto individualmente y es perfecto para llevar a todos los eventos.",
+  "CATEGORY": "Muffins",
+  "BRAND": "Oreo",
+  "SIZE": "",
+  "EAN": "0770981805320",
+  "STATUS": "MATCHED"
+ },
+ "077170122429": {
+  "FULL_NAME_FOUND": "OCB Unbleached Bamboo Cone 1 1/4 Size Cones 6pk",
+  "DESCRIPTION": "America’s first bamboo rolling papers, pre-rolled into easy-to-use cones. Expertly crafted with sustainably grown, responsibly harvested bamboo fibers and natural acacia gum, sustainable rolling has never been this simple.",
+  "CATEGORY": "Traffic Cones & Barrels",
+  "BRAND": "OCB",
+  "SIZE": "",
+  "EAN": "0077170122429",
+  "STATUS": "MATCHED"
+ },
+ "077170510004": {
+  "FULL_NAME_FOUND": "Top Fine Gummed Cigarette Papers",
+  "DESCRIPTION": "Top 1 Paper offers a classic and reliable smoking experience. These papers are made from high-quality materials, providing a smooth and enjoyable smoke. Each pack contains top-notch papers that burn evenly, preserving the natural flavors of your smoking blend. Elevate your smoking ritual with these user-friendly and versatile rolling papers.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Top",
+  "SIZE": "",
+  "EAN": "0077170510004",
+  "STATUS": "MATCHED"
  }
 }

@@ -90346,5 +90346,83 @@
   "SIZE": "",
   "EAN": "0711841879518",
   "STATUS": "MATCHED"
+ },
+ "712073961354": {
+  "STATUS": "UNMATCHED"
+ },
+ "712276150159": {
+  "FULL_NAME_FOUND": "Hot Big Beef Chevy",
+  "DESCRIPTION": "We Packed our Hot .5 ounce, Rolet's Beef Chevy Sticks in a special 6 pack Candy Cane Cello Package and top it off with a Rolet's Keychain keepsake. It makes a great stocking stuffer for the ultimate Role's Beef Chevy fan! Rolets Big Beef Chevy sticks are made from 100% real beef. We do not use any mechanically separated chicken or pork that other meat sticks contain. We still use the Original Rolets Big Beef Chevy recipe we developed back when we began our business on Bogart Street in Brooklyn New York. Since then, it’s grown to be one of the most sort out products in the communities of New York City. It’s the meatiest treat that travels easily. Each Big Beef Chevy stick & Super Big Beef Chevy Stick is individually wrapped. So pop some in your pocket for a good protein treat throughout your day. Made with Real Beef, For Real Snacking, for a real good feeling. Rolets Big Beef Chevy Sticks are Beef Sticks, - Not Meat Sticks! Grab some today.",
+  "CATEGORY": "Meat",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0712276150159",
+  "STATUS": "MATCHED"
+ },
+ "712276200205": {
+  "FULL_NAME_FOUND": "99 Wise Potato Mania",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Potatoes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0712276200205",
+  "STATUS": "MATCHED"
+ },
+ "712276200304": {
+  "FULL_NAME_FOUND": "Potato Stix",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Potatoes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0712276200304",
+  "STATUS": "MATCHED"
+ },
+ "715030587451": {
+  "STATUS": "UNMATCHED"
+ },
+ "715141503494": {
+  "FULL_NAME_FOUND": "Eggland's Best Large Classic White Eggs - 2 Ounce",
+  "DESCRIPTION": "Excellent source of - Vitamins D; E; B2; B12; B5. Plus - 125 mg omega 3; 25% less saturated fat than regular eggs. Per Egg - See nutrition facts for cholesterol content.",
+  "CATEGORY": "Eggs",
+  "BRAND": "Eggland's Best",
+  "SIZE": "",
+  "EAN": "0715141503494",
+  "STATUS": "MATCHED"
+ },
+ "715256900058": {
+  "FULL_NAME_FOUND": "Ready In Case Rubbing Alcohol Isopropyl 70% 2",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "First Aid",
+  "BRAND": "Ready In Case",
+  "SIZE": "",
+  "EAN": "0715256900058",
+  "STATUS": "MATCHED"
+ },
+ "071537020359": {
+  "FULL_NAME_FOUND": "Polar Premium Lime Seltzer 33.8 Fl Oz",
+  "DESCRIPTION": "Polar Seltzer Lime is lean, crisp and classic…nothing more, nothing less. Pure water, zillions of tiny bubbles to tingle your taste buds, and great tasting fruit flavor to satisfy cravings. Why be flat when you can sparkle? Enjoy naturally calorie-free refreshment made with nothing but water, bubbles and natural fruit essence.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Polar",
+  "SIZE": "1000 mL",
+  "EAN": "0071537020359",
+  "STATUS": "MATCHED"
+ },
+ "071603004481": {
+  "FULL_NAME_FOUND": "Trim Neat Feet Deluxe Toenail Clipper With File",
+  "DESCRIPTION": "TRIM deluxe fingernail clipper clips nails evenly and cleanly. Includes a file for removing sharp edges.",
+  "CATEGORY": "Nails",
+  "BRAND": "Trim",
+  "SIZE": "",
+  "EAN": "0071603004481",
+  "STATUS": "MATCHED"
+ },
+ "071603469006": {
+  "FULL_NAME_FOUND": "Trim Clipper, Toenail, Enlarged Opening",
+  "DESCRIPTION": "Stylish hand and foot nail clipper and trimmer, made of stainless steel with a brushed metallic finish and innovative curved shape.",
+  "CATEGORY": "Nail Care",
+  "BRAND": "Trim",
+  "SIZE": "",
+  "EAN": "0071603469006",
+  "STATUS": "MATCHED"
  }
 }

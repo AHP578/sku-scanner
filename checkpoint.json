@@ -91912,5 +91912,59 @@
   "SIZE": "296 mL",
   "EAN": "0074471000500",
   "STATUS": "MATCHED"
+ },
+ "074471017201": {
+  "FULL_NAME_FOUND": "Cafe Bustelo Café Espresso Style Dark Roast Ground Coffee, Vacuum-Packed 10 Oz. Brick",
+  "DESCRIPTION": "Cafe Bustelo coffee has an irresistible aroma and rich taste. It is a deliciously versatile coffee that can be prepared using you preferred method: drip brewed, cappuccino, espresso or cold with ice to satisfy all tastes.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Cafe Bustelo",
+  "SIZE": "296 mL",
+  "EAN": "0074471017201",
+  "STATUS": "MATCHED"
+ },
+ "074471769803": {
+  "FULL_NAME_FOUND": "Cafe Bustelo Con Dulce De Leche Espresso Style Beverage With Milk - 11 Fl Oz",
+  "DESCRIPTION": "Savor Latin flavor anywhere with Café Bustelo ready to drink coffee in convenient single-serve cans. Every sip of this Café con Dulce de Leche iced coffee beverage indulges your taste buds with smooth, creamy notes of sweetened milk and caramel. Grab a can from your fridge and love it as-is, or pour it over ice to make it even more refreshing — either way, our delicious espresso style coffee will stand up to the task. After all, Café Bustelo coffee has been crafted with passion for nearly 100 years, serving the Latin community with a vibrant energy and thirst for life that’s become truly iconic. These irresistible coffee drinks are your invitation to join the celebration, whether you’re enjoying them at home or on the go. ¡Bienvenidos a La Vida Sabrosa!",
+  "CATEGORY": "Milk",
+  "BRAND": "Cafe Bustelo",
+  "SIZE": "325 mL",
+  "EAN": "0074471769803",
+  "STATUS": "MATCHED"
+ },
+ "074471914807": {
+  "FULL_NAME_FOUND": "Cafe Bustelo Con Leche Espresso Style Beverage With Milk - 11 Fl Oz",
+  "DESCRIPTION": "Savor bold flavor anywhere with Café Bustelo ready to drink coffee in convenient single-serve cans. Every sip of this full-bodied Café con Leche iced coffee beverage indulges your taste buds with rich and creamy flavor notes. Grab a can from your fridge and love it as-is, or pour it over ice to make it even more refreshing — either way, this delicious espresso style coffee will stand up to the task. After all, Café Bustelo coffee has been crafted with passion for nearly 100 years, serving the Latin community with a vibrant energy and thirst for life that’s become truly iconic. These irresistible coffee drinks are your invitation to join the celebration, whether you’re enjoying them at home or on the go. ¡Bienvenidos a La Vida Sabrosa!",
+  "CATEGORY": "Milk",
+  "BRAND": "Cafe Bustelo",
+  "SIZE": "325 mL",
+  "EAN": "0074471914807",
+  "STATUS": "MATCHED"
+ },
+ "745202328742": {
+  "STATUS": "UNMATCHED"
+ },
+ "745202328766": {
+  "STATUS": "UNMATCHED"
+ },
+ "745202328780": {
+  "STATUS": "UNMATCHED"
+ },
+ "745202328803": {
+  "STATUS": "UNMATCHED"
+ },
+ "746805290672": {
+  "STATUS": "UNMATCHED"
+ },
+ "746805403607": {
+  "STATUS": "UNMATCHED"
+ },
+ "748927058437": {
+  "FULL_NAME_FOUND": "Optimum Nutrition Protein Almonds Cinnamon Roll 1.5 Oz. 181258",
+  "DESCRIPTION": "Chocolate coated almonds just got better. With twice the protein of regular coated almonds, ON Protein Almonds provide 10 grams of protein in a whey enriched confection coating dusted with cocoa. These delectably dipped almonds in 3 tempting flavors will have you coming back for more.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "Optimum Nutrition",
+  "SIZE": "",
+  "EAN": "0748927058437",
+  "STATUS": "MATCHED"
  }
 }

@@ -90856,5 +90856,89 @@
   "SIZE": "",
   "EAN": "0071924446182",
   "STATUS": "MATCHED"
+ },
+ "719410140014": {
+  "FULL_NAME_FOUND": "Five Hour Energy Drink, Pink Lemonade, 12 Count Display",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Five Hour Energy",
+  "SIZE": "",
+  "EAN": "0719410140014",
+  "STATUS": "MATCHED"
+ },
+ "719410140113": {
+  "FULL_NAME_FOUND": "5-Hour Energy Regular Strength Pink Lemonade Shot",
+  "DESCRIPTION": "Zero sugar and herbal stimulants, only four calories, 5 hours of energy with no crash. Contains as much caffeine as a cup of the leading premium coffee. Takes just seconds to drink, light and portable, and no refrigeration required.",
+  "CATEGORY": "Personal Care",
+  "BRAND": "5-Hour Energy",
+  "SIZE": "",
+  "EAN": "0719410140113",
+  "STATUS": "MATCHED"
+ },
+ "719410175016": {
+  "FULL_NAME_FOUND": "5 Hour Energy Regular Strength Watermelon",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "5 Hour Energy",
+  "SIZE": "57 mL",
+  "EAN": "0719410175016",
+  "STATUS": "MATCHED"
+ },
+ "719410281007": {
+  "FULL_NAME_FOUND": "5-Hour Energy Tea, Peach Tree",
+  "DESCRIPTION": "New sugar-free lemonade tea, available only from 7-Eleven!. Natural caffeine from green tea leaves (200 mg) equivalent to a cup of premium coffee. Helps you feel alert and energized for hours. Amazing taste of lemonade tea. Mix of vitamins, nutrients and caffeine.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "5-Hour Energy",
+  "SIZE": "57 mL",
+  "EAN": "0719410281007",
+  "STATUS": "MATCHED"
+ },
+ "719410300012": {
+  "FULL_NAME_FOUND": "5-Hour Energy Shot, Extra Strength, Grape, 1.93 Oz",
+  "DESCRIPTION": "With B-vitamins for energy and amino acids for alertness and focus. Zero sugar, zero herbal stimulants, and only as much caffeine as a cup of premium coffee. Takes seconds to drink and lasts for hours.",
+  "CATEGORY": "Personal Care",
+  "BRAND": "5-Hour Energy",
+  "SIZE": "",
+  "EAN": "0719410300012",
+  "STATUS": "MATCHED"
+ },
+ "719410400019": {
+  "FULL_NAME_FOUND": "5 Hour Energy Shot, Regular Strength, Citrus Lime Flavor",
+  "DESCRIPTION": "With B-vitamins for energy and amino acids for alertness and focus. Zero sugar, zero herbal stimulants, and only as much caffeine as a cup of premium coffee. Takes seconds to drink and lasts for hours.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "5 Hour Energy",
+  "SIZE": "59 mL",
+  "EAN": "0719410400019",
+  "STATUS": "MATCHED"
+ },
+ "719410707002": {
+  "FULL_NAME_FOUND": "5-Hour Energy Shot, Extra Strength, Apple Pie Flavor",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "5-Hour Energy",
+  "SIZE": "57 mL",
+  "EAN": "0719410707002",
+  "STATUS": "MATCHED"
+ },
+ "719410789008": {
+  "FULL_NAME_FOUND": "5 Hour Energy Shot, Extra Strength, Cool Mint Lemonade",
+  "DESCRIPTION": "Sugar free. Four calories. Vitamins, nutrients and about as much caffeine as 12 ounces of the leading premium coffee. Drink it in seconds, feel it in minutes, lasts for hours. Portable, and requires no refrigeration.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "5 Hour Energy",
+  "SIZE": "57 mL",
+  "EAN": "0719410789008",
+  "STATUS": "MATCHED"
+ },
+ "719441004576": {
+  "STATUS": "UNMATCHED"
+ },
+ "071948100152": {
+  "FULL_NAME_FOUND": "Gumout Fuel System Treatment, 6 Ounce Bottle For Engine Performance And Maintenance",
+  "DESCRIPTION": "Carbon buildup across the fuel system can reduce the efficiency of engine combustion. Gumout fuel system cleaner removes carbon deposits from engine parts to maximize engine performance and fuel economy.Find the 2X FUEL SYS CLEANER at Ace.",
+  "CATEGORY": "Fuel",
+  "BRAND": "Gumout",
+  "SIZE": "",
+  "EAN": "0071948100152",
+  "STATUS": "MATCHED"
  }
 }

@@ -93022,5 +93022,89 @@
  },
  "767461444018": {
   "STATUS": "UNMATCHED"
+ },
+ "767461444056": {
+  "STATUS": "UNMATCHED"
+ },
+ "767556840015": {
+  "FULL_NAME_FOUND": "Black Umbrella",
+  "DESCRIPTION": "Stay dry and stylish with our durable, wind-resistant umbrella. Compact, lightweight, and perfect for any weather.",
+  "CATEGORY": "Parasols & Rain Umbrellas",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0767556840015",
+  "STATUS": "MATCHED"
+ },
+ "767556867289": {
+  "FULL_NAME_FOUND": "Birthday Candles",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Birthday Candles",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0767556867289",
+  "STATUS": "MATCHED"
+ },
+ "076809300504": {
+  "FULL_NAME_FOUND": "Linden's Cookies Chocolate",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cookies",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0076809300504",
+  "STATUS": "MATCHED"
+ },
+ "768210100018": {
+  "FULL_NAME_FOUND": "Richie's Super Premium Italian Ice Lemon",
+  "DESCRIPTION": "Richie's® Super Premium Italian Ice™ Lemon. Since 1956. Fat free. Cholesterol free. Lactose free. Nutritious. 10 fl. oz. (296 ml).",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "Richie's",
+  "SIZE": "",
+  "EAN": "0768210100018",
+  "STATUS": "MATCHED"
+ },
+ "768210100025": {
+  "FULL_NAME_FOUND": "Richie's Super Premium Italian Ice Watermelon",
+  "DESCRIPTION": "My family has been making Richie's classic Italian Ice in the Boston area since 1956. Today, I run the company my dad started all those years ago. So it's important to me that every container of Richie's classic Italian ice has the same quality and good taste people have enjoyed for years. In fact, we still sell it out of our original store - on the Revere Beach Parkway in Everett.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "Richie's",
+  "SIZE": "",
+  "EAN": "0768210100025",
+  "STATUS": "MATCHED"
+ },
+ "768210100032": {
+  "FULL_NAME_FOUND": "Richie's Super Premium Italian Ice Cherry",
+  "DESCRIPTION": "My family has been making Richie's Classic Italian Ice in the Boston area since 1956. Today, I run the company my dad started all those years ago. So it's important to me that every container of Richie's Classic Italian Ice has the same quality and good taste people have enjoyed for years. In fact, we still sell it out of our original store - on the revere beach parkway in Everett. It's an Italian family tradition.",
+  "CATEGORY": "Ice Cream & Frozen Yogurt",
+  "BRAND": "Richie's",
+  "SIZE": "",
+  "EAN": "0768210100032",
+  "STATUS": "MATCHED"
+ },
+ "768210100056": {
+  "FULL_NAME_FOUND": "Richie's Super Premium Italian Ice Blue Vanilla",
+  "DESCRIPTION": "My family has been making Richie's classic Italian Ice in the Boston area since 1956. Today, I run the company my dad started all those years ago. So it's important to me that every container of Richie's classic Italian Ice has the same quality and good taste people have enjoyed for years. In fact, we still sell it out of our original store - on the revere beach parkway in Everett.",
+  "CATEGORY": "Cars, Trucks & Vans",
+  "BRAND": "Richie's",
+  "SIZE": "",
+  "EAN": "0768210100056",
+  "STATUS": "MATCHED"
+ },
+ "768210100070": {
+  "FULL_NAME_FOUND": "Richies Super Premium Italian Ice Cotton Candy",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Richies",
+  "SIZE": "",
+  "EAN": "0768210100070",
+  "STATUS": "MATCHED"
+ },
+ "768210100087": {
+  "FULL_NAME_FOUND": "Richie's Super Premium Italian Ice Mango",
+  "DESCRIPTION": "My family has been making Richie's classic Italian ice in the Boston area since 1956. Today, I run the company my dad started all those years ago. So it's important to me that every container of Richie's Classic Italian ice has the same quality and good taste people have enjoyed for years. In fact, we still sell it out of our original store - on the Revere Beach Parkway in Everett. It's an Italian family tradition.",
+  "CATEGORY": "Mangoes",
+  "BRAND": "Richie's",
+  "SIZE": "",
+  "EAN": "0768210100087",
+  "STATUS": "MATCHED"
  }
 }

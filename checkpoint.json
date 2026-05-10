@@ -92788,5 +92788,95 @@
   "SIZE": "",
   "EAN": "0076183003336",
   "STATUS": "MATCHED"
+ },
+ "076183202005": {
+  "FULL_NAME_FOUND": "Snapple Lemon Tea, 20 Fl Oz Recycled Plastic Bottle",
+  "DESCRIPTION": "All natural. Natural lemon flavor with other natural flavors. Made from green & black tea leaves. Made from the best stuff on Earth. Snapple is made from the Best Stuff on Earth (we're not tooting our own horn; it's right on the bottle). We use green and black tea leaves with natural antioxidants (Contains 71 mg per 1 cup serving/175 mg per bottle of natural antioxidants [as tea polyphenols]) and filtered water. Put it all together and you've got a taste worth bragging about.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Snapple",
+  "SIZE": "591 mL",
+  "EAN": "0076183202005",
+  "STATUS": "MATCHED"
+ },
+ "076183202036": {
+  "FULL_NAME_FOUND": "Snapple Drink Tea Kiwi Strawberry Plastic Bottle",
+  "DESCRIPTION": "Experience the refreshing taste of Snapple Kiwi Strawberry Iced Tea! Indulge in the delightful blend of kiwi and strawberry flavors that make this iced tea a perfect thirst quencher for any occasion. Each carton contains 24 bottles of this delicious beverage, ideal for sharing with friends and family or enjoying on your own. Snapple is known for its quality ingredients and unique flavors, making it a favorite among iced tea lovers.",
+  "CATEGORY": "Juice",
+  "BRAND": "Snapple",
+  "SIZE": "591 mL",
+  "EAN": "0076183202036",
+  "STATUS": "MATCHED"
+ },
+ "076183202043": {
+  "FULL_NAME_FOUND": "Snapple Juice Drink, Mango Madness 20 Oz",
+  "DESCRIPTION": "You're probably wondering why our mangos are mad. Well, we'll tell you. They were living the good life as an under-the-radar fruit, until Snapple started bottling up their flavor to make this delicious fruit drink blend.",
+  "CATEGORY": "Juice",
+  "BRAND": "Snapple",
+  "SIZE": "591 mL",
+  "EAN": "0076183202043",
+  "STATUS": "MATCHED"
+ },
+ "076183202081": {
+  "FULL_NAME_FOUND": "Snapple Juice Drink, Apple",
+  "DESCRIPTION": "The crisp fruit flavor of a ripe red apple begs to be bottled up. We're happy to oblige. You can't spell Snapple without apple.This juice drink combines sweet apple juice concentrate with pear juice concentrate and natural flavors for a taste that's just so juicy!",
+  "CATEGORY": "Juice",
+  "BRAND": "Snapple",
+  "SIZE": "591 mL",
+  "EAN": "0076183202081",
+  "STATUS": "MATCHED"
+ },
+ "076183323571": {
+  "FULL_NAME_FOUND": "Snapple Zero Sugar Peach Tea, 32 Fl Oz Bottle",
+  "DESCRIPTION": "One 32 fluid ounce bottle. Made from the Best Stuff on Earth. Low in calories. Made from green and black tea leaves.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Snapple",
+  "SIZE": "946 mL",
+  "EAN": "0076183323571",
+  "STATUS": "MATCHED"
+ },
+ "076183323762": {
+  "FULL_NAME_FOUND": "Snapple Diet Lemon Tea - Single Bottle 32.00 Fl Oz",
+  "DESCRIPTION": "What do you do when life gives you lemons? You pick the best ones and blend their lemon flavor with delicious tea. Big on flavor and low in calories, Snapple Zero Sugar Lemon Tea is made from the finest blend of black and green tea leaves and the perfect citrus flavor of lemons. Do yourself a flavor! Snapple Zero Sugar Lemon Tea contains zero sugar and is low in calories, gluten-free, and naturally flavored. Even better, our 16oz and 20oz bottles are recyclable and made from 100% recycled plastic, excluding the cap and label. Snapple always brings the flavor. That's what we have been doing ever since we were a small brand created by three friends in the New York area. We started out by selling our apple juice to health clubs in 1973. Since then, we have expanded our flavor portfolio throughout the 80s into teas, fruit drinks, and lemonades. Snapple went national in the early 90s, and now you can find us in more than 30 flavors and in all 50 states across the country. And for an extra dose of fun, don't forget to check out our Snapple 'Real Facts' under our caps!",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Snapple",
+  "SIZE": "946 mL",
+  "EAN": "0076183323762",
+  "STATUS": "MATCHED"
+ },
+ "761898619902": {
+  "FULL_NAME_FOUND": "Fremo Shangrila Aloe Drink, 16.9 Fl Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Juice",
+  "BRAND": "Fremo",
+  "SIZE": "500 mL",
+  "EAN": "0761898619902",
+  "STATUS": "MATCHED"
+ },
+ "761898632888": {
+  "FULL_NAME_FOUND": "Fremo Aloe Vera Drink Kiwi 500ML",
+  "DESCRIPTION": "فريمو كيوي ألو فيرا دريك هو مشروب جاهز للشرب بسعة ٥٠٠ مل، يتكوّن من عصير الكيوي الطبيعي، مستخلص ألو فيرا، محلي طبيعي، فيتامين C، ومواد حافظة طبيعية. يوفّر دعم هضم خفيف، ترطيب، ونكهة منعشة. ما فيه ألوان أو نكهات صناعية، سعرات منخفضة، ومعبّأ في PET قابل لإعادة التدوير. مناسب للاستهلاك اليومي كمشروب صحي.",
+  "CATEGORY": "Soda",
+  "BRAND": "Fremo",
+  "SIZE": "500 mL",
+  "EAN": "0761898632888",
+  "STATUS": "MATCHED"
+ },
+ "761898632901": {
+  "FULL_NAME_FOUND": "Fremo Aloe Vera Peach 500ml",
+  "DESCRIPTION": "The primary ingredient of Fremo Aloe Vera drink is aloe vera gel, which provides a rich supplement to healthy nutrition. Drinking Fremo aloe vera on a daily basis can help to assist digestion and alsorption of nutrients. Aloe vera gal contains plenty of vitamin C with promote a healthy lifestyle.",
+  "CATEGORY": "Soda",
+  "BRAND": "Fremo",
+  "SIZE": "500 mL",
+  "EAN": "0761898632901",
+  "STATUS": "MATCHED"
+ },
+ "761898637982": {
+  "FULL_NAME_FOUND": "500ml Fremo Aloe Vera Pomegranate",
+  "DESCRIPTION": "مشروب جاهز للشرب سعة 500 مل، يتكوّن من عصير رمان طبيعي، مستخلص الألوة فيرا، ونكهات فواكه. غني بالفيتامين C، البوتاسيوم، ومضادات الأكسدة. خالٍ من الألوان الصناعية، المواد الحافظة، ومنخفض السعرات الحرارية، يساعد على الترطيب، هضم الأكل، ودعم المناعة.",
+  "CATEGORY": "Pomegranates",
+  "BRAND": "500ml",
+  "SIZE": "",
+  "EAN": "0761898637982",
+  "STATUS": "MATCHED"
  }
 }

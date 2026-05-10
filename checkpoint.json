@@ -91282,5 +91282,77 @@
   "SIZE": "",
   "EAN": "0722252301062",
   "STATUS": "MATCHED"
+ },
+ "722429320506": {
+  "FULL_NAME_FOUND": "LA's Totally Awesome Window Cleaner Spray Bottle",
+  "DESCRIPTION": "This Awesome Products 223 Window Cleaner is designed to provide a crystal-clear finish on all glass surfaces. With its powerful formula, it effectively removes dirt, grime, and fingerprints, leaving your windows sparkling clean. The 32-ounce bottle is perfect for both residential and commercial use, making it a versatile addition to your cleaning supplies.",
+  "CATEGORY": "Glass Cleaners",
+  "BRAND": "LA's Totally Awesome",
+  "SIZE": "",
+  "EAN": "0722429320506",
+  "STATUS": "MATCHED"
+ },
+ "722430110165": {
+  "FULL_NAME_FOUND": "Synergy GTu002639s Trilogy Organic Vegan Raw Kombucha – 16 Fl Oz",
+  "DESCRIPTION": "SYNERGY Real Kombucha Trilogy delivers delicious bursts of tart raspberry combined with bright squeezes of lemon and a bite of fresh-pressed ginger for a flavor as unique as you.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Synergy",
+  "SIZE": "473 mL",
+  "EAN": "0722430110165",
+  "STATUS": "MATCHED"
+ },
+ "722776200018": {
+  "FULL_NAME_FOUND": "Splenda Zero Calorie Sweetener Packets",
+  "DESCRIPTION": "Each packet sweetens just like two teaspoons of sugar without all the calories. Sprinkle Splenda® Packets in more ways than you ever imagined!",
+  "CATEGORY": "Sugar & Sweeteners",
+  "BRAND": "Splenda",
+  "SIZE": "",
+  "EAN": "0722776200018",
+  "STATUS": "MATCHED"
+ },
+ "724696072959": {
+  "FULL_NAME_FOUND": "Fidget Spinner Hand Finger Toy Stress Reducer Tri-spinner Mix Colors 2-pieces",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Toys",
+  "BRAND": "Fidget Spinner",
+  "SIZE": "",
+  "EAN": "0724696072959",
+  "STATUS": "MATCHED"
+ },
+ "072578525971": {
+  "STATUS": "UNMATCHED"
+ },
+ "725896541757": {
+  "STATUS": "UNMATCHED"
+ },
+ "072600032583": {
+  "FULL_NAME_FOUND": "Herr's Ketchup Potato Chips",
+  "DESCRIPTION": "Herr's® Ketchup Potato Chips. Artificially flavored potato chips. Delicious, high-quality and great tasting snacks. This product is free from gluten.",
+  "CATEGORY": "Chips",
+  "BRAND": "Herr's",
+  "SIZE": "",
+  "EAN": "0072600032583",
+  "STATUS": "MATCHED"
+ },
+ "726152343160": {
+  "STATUS": "UNMATCHED"
+ },
+ "727351022030": {
+  "FULL_NAME_FOUND": "Prime Source Stirrer Coffee Birchwood Round End 7.25",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Prime Source",
+  "SIZE": "",
+  "EAN": "0727351022030",
+  "STATUS": "MATCHED"
+ },
+ "728488843970": {
+  "FULL_NAME_FOUND": "Rhino King",
+  "DESCRIPTION": "Rhino Gummy 50000 Royal Grape should be used only as directed. For best results, take with at least 8 oz of water and stay hydrated.",
+  "CATEGORY": "Health & Beauty",
+  "BRAND": "Rhino",
+  "SIZE": "",
+  "EAN": "0728488843970",
+  "STATUS": "MATCHED"
  }
 }

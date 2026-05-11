@@ -94930,5 +94930,77 @@
   "SIZE": "",
   "EAN": "0810029020138",
   "STATUS": "MATCHED"
+ },
+ "810029020381": {
+  "FULL_NAME_FOUND": "##itemmfg## Star Fire Windshild Washer Fld",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Washers",
+  "BRAND": "##itemmfg##",
+  "SIZE": "",
+  "EAN": "0810029020381",
+  "STATUS": "MATCHED"
+ },
+ "810029021906": {
+  "STATUS": "UNMATCHED"
+ },
+ "810029022866": {
+  "FULL_NAME_FOUND": "Power Steering Fluid",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Vehicle Power Steering Fluid",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0810029022866",
+  "STATUS": "MATCHED"
+ },
+ "810029802000": {
+  "FULL_NAME_FOUND": "ArtNaturals Hand Sanitizer, Scent Free, 32 Fl Oz / 946 mL",
+  "DESCRIPTION": "Free of formaldehyde and the most common allergy causing preservatives such as benzalkonium chloride, formaldehyde, benzophenone, methyldibromo glutaronitrile, MCI/MI and others.",
+  "CATEGORY": "Personal Care",
+  "BRAND": "ArtNaturals",
+  "SIZE": "",
+  "EAN": "0810029802000",
+  "STATUS": "MATCHED"
+ },
+ "810031200429": {
+  "FULL_NAME_FOUND": "Perfect Hydration Alkaline Water",
+  "DESCRIPTION": "Perfect Hydration Alkaline Water is purified through a proprietary 9-stage filtration process, then ionized to a 9.5+ pH level. Perfect Hydration is crisp and refreshing water, always offered in sustainable packages, so you can hydrate right and stay active.",
+  "CATEGORY": "Water",
+  "BRAND": "Perfect Hydration",
+  "SIZE": "500 mL",
+  "EAN": "0810031200429",
+  "STATUS": "MATCHED"
+ },
+ "810033267598": {
+  "FULL_NAME_FOUND": "Car Multi Mount",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0810033267598",
+  "STATUS": "MATCHED"
+ },
+ "810036522182": {
+  "FULL_NAME_FOUND": "Kalibloom Delta 8 Diposable Gelato41",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Electronic Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0810036522182",
+  "STATUS": "MATCHED"
+ },
+ "810036522465": {
+  "FULL_NAME_FOUND": "KaliBloom Delta 8 Diposable Gorilla Glue",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Electronic Cigarettes",
+  "BRAND": "KaliBloom",
+  "SIZE": "",
+  "EAN": "0810036522465",
+  "STATUS": "MATCHED"
+ },
+ "810036524049": {
+  "STATUS": "UNMATCHED"
+ },
+ "810036524070": {
+  "STATUS": "UNMATCHED"
  }
 }

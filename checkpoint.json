@@ -95512,5 +95512,89 @@
   "SIZE": "",
   "EAN": "0810125438240",
   "STATUS": "MATCHED"
+ },
+ "810128526333": {
+  "FULL_NAME_FOUND": "Ghost Energy Faze Up",
+  "DESCRIPTION": "GHOST Energy is the fully transparent fully loaded energy drink we’ve all been waiting for. Our legendary energy drink features zero sugar no artificial colors and authentic Faze Pop flavor. It contains 200mg of Natural Caffeine from coffee beans which has been found anecdotally to deliver a smooth feel-good energy with less jitters and no crash when compared to other forms of caffeine. GHOST Energy also combines the nootropics of Carnipure L-Carnitine Alpha-GPC Neurofactor and AstraGin to help your body convert fatty acids into energy support brain and cognitive function and absorb a wide range of nutrients.*.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Ghost",
+  "SIZE": "473 mL",
+  "EAN": "0810128526333",
+  "STATUS": "MATCHED"
+ },
+ "810174016932": {
+  "FULL_NAME_FOUND": "Radz My Little Pony Candy Dispenser",
+  "DESCRIPTION": "Radz, Candy + Dispenser is manufactured by Radz Brands, Llc with a suggested serving size of 1 Pack (20 G) and has 70 calories per serving.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Radz",
+  "SIZE": "",
+  "EAN": "0810174016932",
+  "STATUS": "MATCHED"
+ },
+ "810219031500": {
+  "FULL_NAME_FOUND": "Flipz Stuff'd Milk Chocolate Peanut Butter Filled Pretzels",
+  "DESCRIPTION": "Flipz Stuff'd are bite-sized pretzel nuggets filled with creamy peanut butter and coated in sweet milk chocolate. It's double the flavor in each poppable bite and the perfect balance of salty, sweet, and crunchy that is known from Flipz! Great size bag for sharing with friendz!",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Flipz",
+  "SIZE": "",
+  "EAN": "0810219031500",
+  "STATUS": "MATCHED"
+ },
+ "810219031579": {
+  "FULL_NAME_FOUND": "Flipz Bites Milk Chocolate, Caramel & Pretzels 3 Pieces",
+  "DESCRIPTION": "Gooey caramel and crunchy salted pretzel balls coated in sweet milk chocolate that deliver the perfect, salty, sweet, and crunchy combination in an on-the-go bar.Each bar contains 3 snackable clusters- perfect for celebrating grateful moments and daily victories.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Flipz",
+  "SIZE": "",
+  "EAN": "0810219031579",
+  "STATUS": "MATCHED"
+ },
+ "810291001088": {
+  "FULL_NAME_FOUND": "Tate's Bake Shop Gluten Free Chocolate Chip Cookies 7 Oz Bag - 12ct Case",
+  "DESCRIPTION": "So delicious, they won't be able to tell the difference. We've baked our famous chocolate chip cookies with rice flour for this gluten-free treat. Send one to a favorite dessert lover on a restricted diet for a birthday, housewarming, or any reason at all.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Tate's Bake Shop",
+  "SIZE": "",
+  "EAN": "0810291001088",
+  "STATUS": "MATCHED"
+ },
+ "810291003679": {
+  "FULL_NAME_FOUND": "Tate's Bake Shop Lemon Cookies - Limited Edition - 7oz",
+  "DESCRIPTION": "Treat yourself to a bake shop quality snack with Tate's Bake Shop Lemon Cookies. These lemon cookies wake up your taste buds with fresh lemon flavor. Deeply delicious, these thin cookies are uniquely crispy with a delightfully crunchy texture. Add a refreshing flavor to your party snacks when you fill your cookie trays with these kosher cookies. Share the delicious fruity treat with your family and friends, or use these baked cookies as the base for your favorite lemon dessert recipes. This 7 ounce bag is reclosable to keep these crispy cookies fresh.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Tate's Bake Shop",
+  "SIZE": "",
+  "EAN": "0810291003679",
+  "STATUS": "MATCHED"
+ },
+ "810291008940": {
+  "FULL_NAME_FOUND": "Tate's Bake Shop Soft Baked Chocolate Chip Cookies 8oz",
+  "DESCRIPTION": "Enjoy a craft-baked, deeply delicious treat with Tate's Bake Shop Soft Baked Chocolate Chip Cookies. With a delightfully chewy texture, these soft baked cookies offer tasty chocolate in every bite. Fantastic when paired with wine, coffee, or ice cream for an elevated dessert experience, these delectable cookies transform ordinary evenings into something extraordinary.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Tate's",
+  "SIZE": "",
+  "EAN": "0810291008940",
+  "STATUS": "MATCHED"
+ },
+ "810607023100": {
+  "FULL_NAME_FOUND": "PopCorners Popped Corn Snack, Sea Salt 3 Oz",
+  "DESCRIPTION": "It’s the simple things in life that bring the most joy. We can’t imagine doing ONE BETTER than real sea salt harvested directly from the Pacific Ocean.",
+  "CATEGORY": "Chips",
+  "BRAND": "PopCorners",
+  "SIZE": "",
+  "EAN": "0810607023100",
+  "STATUS": "MATCHED"
+ },
+ "810607023117": {
+  "FULL_NAME_FOUND": "PopCorners Sweet & Salty Kettle Corn, Popped-Corn Snack",
+  "DESCRIPTION": "Never fried. When it's balanced you need, sweet and salty always delivers. We've perfected a carnival classic with just the right combination of sunflower oil, cane sugar and sea salt.",
+  "CATEGORY": "Chips",
+  "BRAND": "PopCorners",
+  "SIZE": "",
+  "EAN": "0810607023117",
+  "STATUS": "MATCHED"
+ },
+ "810618039824": {
+  "STATUS": "UNMATCHED"
  }
 }

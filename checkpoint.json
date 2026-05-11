@@ -95074,5 +95074,83 @@
   "SIZE": "",
   "EAN": "0810036529068",
   "STATUS": "MATCHED"
+ },
+ "810036529549": {
+  "STATUS": "UNMATCHED"
+ },
+ "810036529556": {
+  "FULL_NAME_FOUND": "Kik 2 Gram Exotic Blend",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "Kik",
+  "SIZE": "",
+  "EAN": "0810036529556",
+  "STATUS": "MATCHED"
+ },
+ "810036529594": {
+  "STATUS": "UNMATCHED"
+ },
+ "810037810028": {
+  "FULL_NAME_FOUND": "Express Chef Woo Chicken Flavor Ramen, 2.25 Oz",
+  "DESCRIPTION": "Made in USARamen Express offers a wide variety of delicious ramen that are made in the USA. Ramen Express instant ramen noodles are vegetarian, dairy-free, egg-free, have no MSG, and are Kosher and Halal-certified. Stock up and enjoy anytime, anywhere! If you don’t have anything that’s already cooked, you can fry up a piece of beef, chicken or pork and add it to your ramen. Or, if you slice it thin enough, raw meat will cook in less than a minute if you add it to the hot broth when the noodles are done. Even lunch meat will work, for those of you without a stove top. What Sauce is Good With Ramen Noodles? – Soy sauce, Oyster sauce, Rice vinegar, Brown sugar, or Chili sauce, like sambal oelek or sriracha. To make instant noodles more healthful, you can also cook-up some protein of your choice. You can add an egg to the noodle soup or choose a hard-boiled egg (sliced in half), poached egg or even a fried egg. If egg is not your cup of tea, you can try adding in some sliced lean pork or beef.",
+  "CATEGORY": "Soups & Broths",
+  "BRAND": "Express",
+  "SIZE": "",
+  "EAN": "0810037810028",
+  "STATUS": "MATCHED"
+ },
+ "810037810035": {
+  "FULL_NAME_FOUND": "Ramen Express Chef Woo Beef Flavor 2.25 Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Meat",
+  "BRAND": "Ramen Express",
+  "SIZE": "",
+  "EAN": "0810037810035",
+  "STATUS": "MATCHED"
+ },
+ "810037810042": {
+  "FULL_NAME_FOUND": "Express Ramen, Chicken Flavor",
+  "DESCRIPTION": "Curl up to that flavor you know and love, but with an extra wholesome twist of being fully animal-free. Vegetarian noodles bursting with that classic chicken flavor.",
+  "CATEGORY": "Soups & Broths",
+  "BRAND": "Express",
+  "SIZE": "",
+  "EAN": "0810037810042",
+  "STATUS": "MATCHED"
+ },
+ "810046933916": {
+  "FULL_NAME_FOUND": "Myle Mylé Mini - Grape Ice",
+  "DESCRIPTION": "Be sure to remove the rubber stopper from the top & the bottom sticker of the Device before using.",
+  "CATEGORY": "Vaporizers & Electronic Cigarettes",
+  "BRAND": "Myle",
+  "SIZE": "",
+  "EAN": "0810046933916",
+  "STATUS": "MATCHED"
+ },
+ "810046933961": {
+  "FULL_NAME_FOUND": "Myle Mini Mix Berries 50mg 1.2ml Disposable Device",
+  "DESCRIPTION": "Be sure to remove the rubber stopper from the top & the bottom sticker of the Device before using.",
+  "CATEGORY": "Vaporizers & Electronic Cigarettes",
+  "BRAND": "Myle",
+  "SIZE": "",
+  "EAN": "0810046933961",
+  "STATUS": "MATCHED"
+ },
+ "810046933978": {
+  "FULL_NAME_FOUND": "Myle Mini Disposable Device",
+  "DESCRIPTION": "Be sure to remove the rubber stopper from the top & the bottom sticker of the Device before using.",
+  "CATEGORY": "Vaporizers & Electronic Cigarettes",
+  "BRAND": "Myle",
+  "SIZE": "",
+  "EAN": "0810046933978",
+  "STATUS": "MATCHED"
+ },
+ "810046933985": {
+  "FULL_NAME_FOUND": "Myle Mini Strawberry Mango Ice 50mg 1.2ml Disposable Device",
+  "DESCRIPTION": "Be sure to remove the rubber stopper from the top & the bottom sticker of the Device before using.",
+  "CATEGORY": "Vaporizers & Electronic Cigarettes",
+  "BRAND": "Myle",
+  "SIZE": "",
+  "EAN": "0810046933985",
+  "STATUS": "MATCHED"
  }
 }

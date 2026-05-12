@@ -97570,5 +97570,59 @@
  },
  "819466010078": {
   "STATUS": "UNMATCHED"
+ },
+ "819466010306": {
+  "STATUS": "UNMATCHED"
+ },
+ "819466010498": {
+  "STATUS": "UNMATCHED"
+ },
+ "819466010740": {
+  "STATUS": "UNMATCHED"
+ },
+ "819466010764": {
+  "FULL_NAME_FOUND": "Hype Purple Wave 4/.99 15ct",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Hot Sauce",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0819466010764",
+  "STATUS": "MATCHED"
+ },
+ "819466010801": {
+  "STATUS": "UNMATCHED"
+ },
+ "819466010818": {
+  "STATUS": "UNMATCHED"
+ },
+ "819525010247": {
+  "FULL_NAME_FOUND": "Savor Street",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Snack Foods",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0819525010247",
+  "STATUS": "MATCHED"
+ },
+ "819525010377": {
+  "STATUS": "UNMATCHED"
+ },
+ "819525010384": {
+  "FULL_NAME_FOUND": "Savor Street Foods Pretzel Rods",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Pretzels",
+  "BRAND": "Savor Street Foods",
+  "SIZE": "",
+  "EAN": "0819525010384",
+  "STATUS": "MATCHED"
+ },
+ "819721010324": {
+  "FULL_NAME_FOUND": "Bluntville - White Vanilla",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0819721010324",
+  "STATUS": "MATCHED"
  }
 }

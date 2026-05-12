@@ -97330,5 +97330,77 @@
   "SIZE": "473 mL",
   "EAN": "0818094008556",
   "STATUS": "MATCHED"
+ },
+ "818094008754": {
+  "FULL_NAME_FOUND": "Rockstar Recovery Pineapple Coconut Energy Drink - 16 Fl Oz Can",
+  "DESCRIPTION": "There’s a rockstar for every hustle. Rockstar Recovery Pineapple Coconut Energy drink is a new exciting flavor under our Recovery subline that provides additional benefits with ingredients such as Coconut Water, Collagen, and Vitamin C. Rockstar Recovery is our only non-carbonated drink, formulated with electrolytes for taste, 100% daily dose of Vitamin B, and 160mg caffeine to help you reset for the next hustle.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Rockstar",
+  "SIZE": "473 mL",
+  "EAN": "0818094008754",
+  "STATUS": "MATCHED"
+ },
+ "818094009201": {
+  "FULL_NAME_FOUND": "Rockstar Passionfruit Energy Drink - 12 Fl Oz Can",
+  "DESCRIPTION": "Rockstar Unplugged is formulated to help relax your mind and lift your mood. With 80mg of caffeine and B-vitamins, you will still feel the Rockstar signature boost of energy but in a more balanced and low-key way. Rockstar Unplugged contains hemp seed, a calming blend of herbal lemon balm and spearmint and contains zero sugar and zero calories.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Rockstar",
+  "SIZE": "355 mL",
+  "EAN": "0818094009201",
+  "STATUS": "MATCHED"
+ },
+ "818094009270": {
+  "FULL_NAME_FOUND": "Rockstar Energy Drink, Sugar Free, Blueberry, Hemp Seed",
+  "DESCRIPTION": "Rockstar Unplugged is formulated to help relax your mind and lift your mood. With 80mg of caffeine and B-vitamins, you will still feel the Rockstar signature boost of energy but in a more balanced and low-key way. Rockstar Unplugged contains hemp seed, a calming blend of herbal lemon balm and spearmint and contains zero sugar and zero calories.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Rockstar",
+  "SIZE": "355 mL",
+  "EAN": "0818094009270",
+  "STATUS": "MATCHED"
+ },
+ "818094009713": {
+  "FULL_NAME_FOUND": "Rockstar Punched Watermelon Energy Drink - 16 Fl Oz Can",
+  "DESCRIPTION": "Bigger. Better. Faster. Stronger. ROCKSTAR is the world's most powerful energy drink. Rockstar Energy Drink is designed for those who lead busy and active lifestyles - from Athletes to Rock Stars. Rockstar supports the Rockstar lifestyle across the globe through Action Sports, Motor Sports, and Live Music. ROCKSTAR is enhanced with the potent herbal blend of Guarana, Ginkgo, Ginseng and Milk Thistle.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Rockstar",
+  "SIZE": "473 mL",
+  "EAN": "0818094009713",
+  "STATUS": "MATCHED"
+ },
+ "818159010005": {
+  "FULL_NAME_FOUND": "Health Smart Rubbing Alcohol",
+  "DESCRIPTION": "Health Smart 50% isopropyl rubbing alcohol. Ideal to use for a variety of first aid and disinfecting applications.",
+  "CATEGORY": "Health & Beauty",
+  "BRAND": "Health Smart",
+  "SIZE": "",
+  "EAN": "0818159010005",
+  "STATUS": "MATCHED"
+ },
+ "818187010756": {
+  "FULL_NAME_FOUND": "Menu Working Gloves Latex Black Large",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Hardware",
+  "BRAND": "Menu",
+  "SIZE": "",
+  "EAN": "0818187010756",
+  "STATUS": "MATCHED"
+ },
+ "818214010018": {
+  "STATUS": "UNMATCHED"
+ },
+ "818214010025": {
+  "STATUS": "UNMATCHED"
+ },
+ "818228000678": {
+  "STATUS": "UNMATCHED"
+ },
+ "818290010711": {
+  "FULL_NAME_FOUND": "Chobani Flip Carrot Cake Creation Low-Fat Greek Yogurt 5.3 Oz. Cup",
+  "DESCRIPTION": "1.5% milkfat. Sweet carrot low-fat Greek Yogurt with oatmeal cookie crumbles, frosted cinnamon crunch, & walnuts. Made with milk from cows not treated with rBST. According to the FDA, no significant difference has been found between milk derived from rBST-treated and non-rBST-treated cows. Only natural non-GMO ingredients.",
+  "CATEGORY": "Yogurt",
+  "BRAND": "Chobani",
+  "SIZE": "",
+  "EAN": "0818290010711",
+  "STATUS": "MATCHED"
  }
 }

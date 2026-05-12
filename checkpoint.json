@@ -97402,5 +97402,95 @@
   "SIZE": "",
   "EAN": "0818290010711",
   "STATUS": "MATCHED"
+ },
+ "818290012487": {
+  "FULL_NAME_FOUND": "Chobani Flip Yogurt, Greek, Low-Fat, Pistachio Paradise",
+  "DESCRIPTION": "Pistachio-flavored low-fat yogurt with pistachios, vanilla cookies, and dried cranberries. 1.5% milkfat. Only natural non-GMO ingredients. New. Made with milk from cows not treated with rBST. According to the FDA, no significant difference has been found between milk derived from rBST-treated and non-rBST treated cows. Grade A. Excellent source of protein. Questions or comments? 1 877 847 6181. Facebook. Twitter. chobani.com.",
+  "CATEGORY": "Yogurt",
+  "BRAND": "Chobani",
+  "SIZE": "",
+  "EAN": "0818290012487",
+  "STATUS": "MATCHED"
+ },
+ "818290012609": {
+  "FULL_NAME_FOUND": "Chobani Flip Banana Cream Pie Greek Yogurt - 4.5oz",
+  "DESCRIPTION": "Only natural ingredients Greek yogurt. Made with milk from cows not treated with rBST. Milk from rBST-treated cows is not significantly different.",
+  "CATEGORY": "Yogurt",
+  "BRAND": "Chobani",
+  "SIZE": "",
+  "EAN": "0818290012609",
+  "STATUS": "MATCHED"
+ },
+ "818368027849": {
+  "FULL_NAME_FOUND": "Stig Mango Bomb",
+  "DESCRIPTION": "Enjoy a tropical escape with the Iced Mango Bomb flavor from STIG. This flavor features the luscious and sweet taste of ripe mangoes, enhanced with a cool menthol twist, delivering a refreshing and fruity vaping experience.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Stig",
+  "SIZE": "",
+  "EAN": "0818368027849",
+  "STATUS": "MATCHED"
+ },
+ "818368028136": {
+  "FULL_NAME_FOUND": "Stig Tropical Mango",
+  "DESCRIPTION": "Take a trip to the beach with STIG Tropical Mango by VGOD. This ranks high with fans because the mango flavor is mild, while bringing a heavy hit thanks to a 6% nicotine formula. The small profile of STIG devices is also a key feature.",
+  "CATEGORY": "Mangoes",
+  "BRAND": "Stig",
+  "SIZE": "",
+  "EAN": "0818368028136",
+  "STATUS": "MATCHED"
+ },
+ "818368028143": {
+  "FULL_NAME_FOUND": "Stig VGOD Mighty Mint Disposable Vape Pod",
+  "DESCRIPTION": "Immerse yourself in the refreshing and invigorating flavor of Mighty Mint with STIG. This flavor delivers a strong and icy blast of mint, leaving you feeling refreshed and revitalized with every puff.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Stig",
+  "SIZE": "",
+  "EAN": "0818368028143",
+  "STATUS": "MATCHED"
+ },
+ "818368029591": {
+  "FULL_NAME_FOUND": "Vgod Stig Cubano 3pck",
+  "DESCRIPTION": "Experience the rich and robust flavor of Cubano with STIG. This flavor combines the smooth and earthy notes of tobacco with a hint of sweetness, creating a bold and indulgent vaping experience.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Vgod",
+  "SIZE": "",
+  "EAN": "0818368029591",
+  "STATUS": "MATCHED"
+ },
+ "818368029614": {
+  "FULL_NAME_FOUND": "Stig Lush Ice Disposable Pod",
+  "DESCRIPTION": "Cool down with the icy and exhilarating flavor of Lush Ice from STIG. This flavor combines the sweetness of juicy watermelon with a chilling menthol sensation, providing a refreshing and satisfying vaping experience.",
+  "CATEGORY": "Ice Bins",
+  "BRAND": "Stig",
+  "SIZE": "",
+  "EAN": "0818368029614",
+  "STATUS": "MATCHED"
+ },
+ "818433012510": {
+  "FULL_NAME_FOUND": "West Port Orig Cigars",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0818433012510",
+  "STATUS": "MATCHED"
+ },
+ "818480010002": {
+  "FULL_NAME_FOUND": "Yumy Yumy Gummy Candy Watermelon Slices",
+  "DESCRIPTION": "Yumy Yumy Gummy Candy Watermelon Slices, Fat Free, Made With Fruit Juice.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Yumy Yumy",
+  "SIZE": "",
+  "EAN": "0818480010002",
+  "STATUS": "MATCHED"
+ },
+ "818480015175": {
+  "FULL_NAME_FOUND": "Sunkist Fruit Gummie Bag Berries Blast 3",
+  "DESCRIPTION": "100% DV Vitamin C. High in Antioxidant. Peanut & Fat Free. No High Fructose Corn Syrup. Made with real fruit ingredients. May contain traces of gluten. Product of Turkey.",
+  "CATEGORY": "Fruits & Vegetables",
+  "BRAND": "Sunkist",
+  "SIZE": "",
+  "EAN": "0818480015175",
+  "STATUS": "MATCHED"
  }
 }

@@ -97786,5 +97786,77 @@
   "SIZE": "",
   "EAN": "0819913012471",
   "STATUS": "MATCHED"
+ },
+ "819913012686": {
+  "FULL_NAME_FOUND": "Juul Pods Classic Tobacco",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Juul",
+  "SIZE": "",
+  "EAN": "0819913012686",
+  "STATUS": "MATCHED"
+ },
+ "819913012693": {
+  "FULL_NAME_FOUND": "Juul Labs Pods 4pk Classic Tobacco 3",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Juul Labs",
+  "SIZE": "",
+  "EAN": "0819913012693",
+  "STATUS": "MATCHED"
+ },
+ "819913014147": {
+  "STATUS": "UNMATCHED"
+ },
+ "819913014987": {
+  "FULL_NAME_FOUND": "Juul Virginia Tobacco 3.0% 2 Pods",
+  "DESCRIPTION": "Shop Juul 2-8CT 3% Virginia Tobacco at NEPA Wholesale! A premium vaping option offering smooth tobacco flavor and 3% nicotine. Ideal for retailers and vapers.",
+  "CATEGORY": "Loose Tobacco",
+  "BRAND": "Juul",
+  "SIZE": "",
+  "EAN": "0819913014987",
+  "STATUS": "MATCHED"
+ },
+ "819913015120": {
+  "FULL_NAME_FOUND": "Juul Pod Cartridges Clsc 5% 2 Pk",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Loose Tobacco",
+  "BRAND": "Juul",
+  "SIZE": "",
+  "EAN": "0819913015120",
+  "STATUS": "MATCHED"
+ },
+ "819913015168": {
+  "FULL_NAME_FOUND": "Juul Mango 5 Nicotine Strength Juulpod",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Mangoes",
+  "BRAND": "Juul",
+  "SIZE": "",
+  "EAN": "0819913015168",
+  "STATUS": "MATCHED"
+ },
+ "819913015175": {
+  "FULL_NAME_FOUND": "Juul Starter Kit",
+  "DESCRIPTION": "JUUL Pod Starter Kit – Everything a smoker needs to make the switch. Includes JUUL device + USB charging dock + 2 pods. Easy to use. No buttons or switches.Just insert the pod to get started.",
+  "CATEGORY": "Computer Starter Kits",
+  "BRAND": "Juul",
+  "SIZE": "",
+  "EAN": "0819913015175",
+  "STATUS": "MATCHED"
+ },
+ "819913015212": {
+  "FULL_NAME_FOUND": "Juul Mint 5% 2pods",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Toner & Inkjet Cartridges",
+  "BRAND": "Juul",
+  "SIZE": "",
+  "EAN": "0819913015212",
+  "STATUS": "MATCHED"
+ },
+ "819913015229": {
+  "STATUS": "UNMATCHED"
+ },
+ "819913015427": {
+  "STATUS": "UNMATCHED"
  }
 }

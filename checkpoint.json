@@ -96262,5 +96262,95 @@
   "SIZE": "296 mL",
   "EAN": "0813993004494",
   "STATUS": "MATCHED"
+ },
+ "813993004593": {
+  "FULL_NAME_FOUND": "FReal F'real Smoothie Mango 10 Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Personal Care",
+  "BRAND": "FReal",
+  "SIZE": "",
+  "EAN": "0813993004593",
+  "STATUS": "MATCHED"
+ },
+ "814057001008": {
+  "FULL_NAME_FOUND": "Shield King Box Red",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0814057001008",
+  "STATUS": "MATCHED"
+ },
+ "814057001206": {
+  "FULL_NAME_FOUND": "Shield King Box Blue",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0814057001206",
+  "STATUS": "MATCHED"
+ },
+ "814057001305": {
+  "FULL_NAME_FOUND": "Shield King Box Menthol",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0814057001305",
+  "STATUS": "MATCHED"
+ },
+ "814057002104": {
+  "FULL_NAME_FOUND": "Shield 100’s Box Red",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0814057002104",
+  "STATUS": "MATCHED"
+ },
+ "814057002500": {
+  "FULL_NAME_FOUND": "Shield Menthol Green Box",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0814057002500",
+  "STATUS": "MATCHED"
+ },
+ "814057002906": {
+  "FULL_NAME_FOUND": "Shield 100’s Box Silver",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0814057002906",
+  "STATUS": "MATCHED"
+ },
+ "814057200708": {
+  "FULL_NAME_FOUND": "Shield Full Flavor King Box",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Electronics Films & Shields",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0814057200708",
+  "STATUS": "MATCHED"
+ },
+ "814057300705": {
+  "FULL_NAME_FOUND": "Shields Blue Bx Kg Pack",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Garment Shields",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0814057300705",
+  "STATUS": "MATCHED"
+ },
+ "814057400702": {
+  "FULL_NAME_FOUND": "Shield Mn Grn Bx Kg Pack",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Electronics Films & Shields",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0814057400702",
+  "STATUS": "MATCHED"
  }
 }

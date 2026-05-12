@@ -96610,5 +96610,83 @@
   "SIZE": "",
   "EAN": "0815058022450",
   "STATUS": "MATCHED"
+ },
+ "815058022511": {
+  "FULL_NAME_FOUND": "LOGIC PRO LIQUID CAPSULES STRAWBERRY",
+  "DESCRIPTION": "UPC 815058022511",
+  "CATEGORY": "",
+  "BRAND": "BOOZE OUTLET",
+  "SIZE": "",
+  "EAN": "0815058022511",
+  "STATUS": "MATCHED"
+ },
+ "815058022528": {
+  "FULL_NAME_FOUND": "Logic Berry Mint Pro Capsules - 20mg 1",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Food, Beverages & Tobacco",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0815058022528",
+  "STATUS": "MATCHED"
+ },
+ "815058022634": {
+  "STATUS": "UNMATCHED"
+ },
+ "815058022658": {
+  "STATUS": "UNMATCHED"
+ },
+ "815099020194": {
+  "FULL_NAME_FOUND": "Late July Snacks Multigrain Tortilla Chips, Sea Salt",
+  "DESCRIPTION": "Late July is the sweet spot of summer. Each bite of our Organic Sea Salt by the Seashore Multigrain Tortilla Chips takes us back to that carefree time with friends and family. With a mild mix of seeds like chia and flax combined with a flavorful blend of whole grains like corn, brown rice, millet, quinoa and amaranth, our organic multigrain tortilla chips are the original (and still the best!). Perfect for dipping or eating on their own, these versatile and delicious chips will satisfy everyone in the family. Since 2003, we have remained devoted to transforming the food industry by creating the most delicious snacks in the world using organic and non-GMO ingredients. Thank you for helping us with our mission.",
+  "CATEGORY": "Chips",
+  "BRAND": "Late July Snacks",
+  "SIZE": "",
+  "EAN": "0815099020194",
+  "STATUS": "MATCHED"
+ },
+ "815099020224": {
+  "FULL_NAME_FOUND": "Late July Snacks Bacon Habanero Tortilla Chips 2.000 Oz",
+  "DESCRIPTION": "Tortilla chips inspired by the amazingly delicious flavors served up at our favorite taco trucks. Big, bold, delicious Bacon Habanero flavor. Made with Organic, Non-GMO Corn. Vegan, Kosher, Certified Gluten-Free, Non-GMO Project Verified, Made in a Facility that Does Not Process Peanuts, and 100 Whole Grain. 6 convenient, 2 oz. bags, perfect for on-the-go snacking.",
+  "CATEGORY": "Chips",
+  "BRAND": "Late July",
+  "SIZE": "",
+  "EAN": "0815099020224",
+  "STATUS": "MATCHED"
+ },
+ "815099020231": {
+  "FULL_NAME_FOUND": "Late July Snacks Chips Tortilla Clasico Buffalo Queso",
+  "DESCRIPTION": "Our Buffalo Queso chips are made with whole ground yellow corn and seasoned to perfection with hot and savory buffalo spices blended with organic cheddar cheese. We're obsessed with the amazingly delicious flavors served up at our favorite taco trucks, so we had them in mind as we created our Clasico Tortilla Chips. Made with organic, non-GMO whole ground corn, each flavor was inspired by the sauces and peppers that are offered on the side with every order. We hope you find our Clasicos as fantastico as we do! Late July is the sweet spot of summer. It's a moment in time when life is simple, pure & good. It's also our name and philosophy on snack-making. We care deeply about using organic and non-GMO ingredients and no artificial preservatives.",
+  "CATEGORY": "Chips",
+  "BRAND": "Late July Snacks",
+  "SIZE": "",
+  "EAN": "0815099020231",
+  "STATUS": "MATCHED"
+ },
+ "815099020248": {
+  "FULL_NAME_FOUND": "Late July Sriracha",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Popcorn",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0815099020248",
+  "STATUS": "MATCHED"
+ },
+ "815154020114": {
+  "FULL_NAME_FOUND": "NOS High Performance Cherried Out Energy Drink - 16 Fl Oz Can",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "NOS",
+  "SIZE": "473 mL",
+  "EAN": "0815154020114",
+  "STATUS": "MATCHED"
+ },
+ "815154020138": {
+  "FULL_NAME_FOUND": "NOS High Performance Citrus Charged Energy Drink - 16 Fl Oz Can",
+  "DESCRIPTION": "Citrus flavored with other natural & artificial flavors. High performance energy drink + enhanced mental focus. CMPLX6. Taurine. Caffeine. Inositol. Vitamin B6. Guarana. Vitamin B12.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "NOS",
+  "SIZE": "473 mL",
+  "EAN": "0815154020138",
+  "STATUS": "MATCHED"
  }
 }

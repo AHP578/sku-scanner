@@ -96868,5 +96868,95 @@
   "SIZE": "",
   "EAN": "0815216018042",
   "STATUS": "MATCHED"
+ },
+ "815216018165": {
+  "FULL_NAME_FOUND": "Classic Soft Baked Cookie M&M Chocolate Chip",
+  "DESCRIPTION": "Double your cookie experience with the Classic Soft Baked Cookie M&M Chocolate Chip. Taste what happens when greatness collides, a soft baked, chocolate chip cookie that is unbelievably chewy, tender, and filled with the incredible and always delicious M and M candy! Every bite has that soft texture and the incredible crunch of M&M's candy. It's a classic for sure and a must-eat cookie for any cookie monster around! These American Snacks are made using only real butter, the most decadent chocolate, the finest cinnamons, vanillas, raisins, and nuts. Happily, spoil your dinner with the remarkable taste of the Classic Soft Baked Cookie M&M Chocolate Chip!",
+  "CATEGORY": "Cookies",
+  "BRAND": "Classic",
+  "SIZE": "",
+  "EAN": "0815216018165",
+  "STATUS": "MATCHED"
+ },
+ "815216018202": {
+  "FULL_NAME_FOUND": "Classic Cookie Soft Baked Brownie With Hershey's Candy Chips - 3oz",
+  "DESCRIPTION": "Experience the ultimate indulgence with our Classic Cookie Soft Baked! Each delectable bite is a blend of soft-baked perfection and timeless flavors, featuring delightful hints of Cinnabon swirls alongside chunks of Reese’s and M&M candies. The result is a cookie that’s irresistibly chewy and richly flavored, with every mouthful offering a satisfying mix of sweet and comforting goodness. Whether you’re savoring it solo or sharing with friends, our Classic Cookie Soft Baked promises a delicious escape from the ordinary. Enjoy a treat that combines classic charm with a burst of indulgent flavors, making each bite a moment of pure bliss!",
+  "CATEGORY": "Cookies",
+  "BRAND": "Classic Cookie",
+  "SIZE": "",
+  "EAN": "0815216018202",
+  "STATUS": "MATCHED"
+ },
+ "815296020874": {
+  "FULL_NAME_FOUND": "Krave Gourmet Beef Cuts Chili Lime Jerky",
+  "DESCRIPTION": "Entice your customers with Krave® beef jerky made from all-natural and glutton free ingredients. Perfect for grab-and-go snacking, these delicious chili-lime flavored jerky treats offer your patrons the chewy protein hit they crave. A great addition to your check out displays, these eye-catching peg bags allow easy vertical merchandising.",
+  "CATEGORY": "Meat",
+  "BRAND": "Krave",
+  "SIZE": "",
+  "EAN": "0815296020874",
+  "STATUS": "MATCHED"
+ },
+ "815296021338": {
+  "FULL_NAME_FOUND": "Krave Jerky Sweet Chipotle Beef - 2.7oz",
+  "DESCRIPTION": "Have you ever wondered why KRAVE is unlike any other? It all started in Sonoma where we dreamt up a super snack that will delight your taste buds. We marinate it for maximum flavor, cook it low and slow, slice it and spice it with delectable seasoning like smoky southwestern style chipotle and a hint of honey. The end result is so tender - it'll make you want to take a bite out of life.",
+  "CATEGORY": "Jerky",
+  "BRAND": "Krave Jerky",
+  "SIZE": "",
+  "EAN": "0815296021338",
+  "STATUS": "MATCHED"
+ },
+ "815298020025": {
+  "FULL_NAME_FOUND": "Live Kombucha Soda Raw Organic Culture Cola 12 Oz",
+  "DESCRIPTION": "Our Culture Cola brings you a new take on the classic, with that crisp + refreshing cola taste and a whole lotta feel good to go with it. Our version is more than just another soft drink: it's a probiotic powerhouse.Now that's refreshing!",
+  "CATEGORY": "Beverages",
+  "BRAND": "Live Kombucha",
+  "SIZE": "355 mL",
+  "EAN": "0815298020025",
+  "STATUS": "MATCHED"
+ },
+ "815298020032": {
+  "FULL_NAME_FOUND": "Live Kombucha Soda, Raw & Organic, Pure Doctor 12 Oz",
+  "DESCRIPTION": "Sweet with a touch of spice, our Pure Doctor packs a peppery punch. This brew is crafted with delicious notes of sweet cherry, spicy clove, caramel and molasses. One sip and you'll feel like you've been to Dublin, Texas!The goodness doesn't stop there - with billions of probiotics, enzymes and electrolytes, it's just what the doctor ordered.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Live Kombucha",
+  "SIZE": "355 mL",
+  "EAN": "0815298020032",
+  "STATUS": "MATCHED"
+ },
+ "815298020049": {
+  "FULL_NAME_FOUND": "Live Probiotic Kombucha, Sparking, Root Beer 12 Fl Oz",
+  "DESCRIPTION": "New-fashioned. Raw kombucha. Vintage root beer flavor with smooth wintergreen. Clove and vanilla notes. Live Kombucha was created to be a tastier and easier step in the right direction toward better living. Cold-brewed, high in probiotics and big on natural taste. Live means you can make a healthier choice that feels more like a daily indulgence. Cold brewed. 99.7% pure kombucha.",
+  "CATEGORY": "Soda",
+  "BRAND": "Live",
+  "SIZE": "355 mL",
+  "EAN": "0815298020049",
+  "STATUS": "MATCHED"
+ },
+ "815368020337": {
+  "FULL_NAME_FOUND": "Njoy Daily Watermelon Disposable E-cigar",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0815368020337",
+  "STATUS": "MATCHED"
+ },
+ "815368021426": {
+  "FULL_NAME_FOUND": "Njoy E Cig, Rich Tobacco",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Food, Beverages & Tobacco",
+  "BRAND": "Njoy",
+  "SIZE": "",
+  "EAN": "0815368021426",
+  "STATUS": "MATCHED"
+ },
+ "815368021488": {
+  "FULL_NAME_FOUND": "Njoy Daily Menthol 6",
+  "DESCRIPTION": "Product Overview. Experience the smooth and satisfying vapor of NJOY Daily e-cigarettes, available in rich tobacco and refreshing menthol flavors. Designed for convenience and style, each NJOY Daily comes in a sleek, compact package that fits comfortably in your hand or pocket.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Njoy",
+  "SIZE": "",
+  "EAN": "0815368021488",
+  "STATUS": "MATCHED"
  }
 }

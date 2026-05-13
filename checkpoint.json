@@ -99946,5 +99946,89 @@
   "SIZE": "",
   "EAN": "0850011745960",
   "STATUS": "MATCHED"
+ },
+ "850012538318": {
+  "FULL_NAME_FOUND": "Double Dare All Purpose Sanitizing Wipes, 10 Wipes",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Hand Sanitizers & Wipes",
+  "BRAND": "Double Dare",
+  "SIZE": "",
+  "EAN": "0850012538318",
+  "STATUS": "MATCHED"
+ },
+ "850016330451": {
+  "FULL_NAME_FOUND": "Pocas Bowl Noodle Soup, Spaghetti Ramen, 3.88 Ounce",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Soups & Broths",
+  "BRAND": "Pocas",
+  "SIZE": "",
+  "EAN": "0850016330451",
+  "STATUS": "MATCHED"
+ },
+ "850017589032": {
+  "FULL_NAME_FOUND": "Hi-Chew Plus Fruit Sunrise Mix Peg Bag 2.82oz (80g)",
+  "DESCRIPTION": "Hi-Chew Candy is a colorful and chewy treat. With unique fruit combinations of strawberry, red apple, tangerine and orange, Hi-Chew Plus Fruit Mix is a delightful taste and texture experience.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Hi-Chew",
+  "SIZE": "",
+  "EAN": "0850017589032",
+  "STATUS": "MATCHED"
+ },
+ "850017589223": {
+  "FULL_NAME_FOUND": "Hi-Chew Fi-Being Hard Candy Passion Fruit And Elderberry 1.76 Oz. Bag",
+  "DESCRIPTION": "From The Makers Of Hi-Chew Comes A New Hard Candy, Fi-Being. Mouthwatering Fruit Flavors Of Elderberry And Passion Fruit Melt Slowly And Deliciously! Our Unique Formulation Uses Dietary Fiber (Inulin) And Other.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Hi-Chew",
+  "SIZE": "",
+  "EAN": "0850017589223",
+  "STATUS": "MATCHED"
+ },
+ "850017589445": {
+  "FULL_NAME_FOUND": "Hi-Chew Bites Chewy Candy Original Mix 2.12 Ounce Pack",
+  "DESCRIPTION": "New Hi-Chew Bites Unwrapped Hi-Chew Pieces Make It A Convenient Pick-Me-Up Snack For On-The-Go Consumption. Flavors Include Mango, Green Apple, And Strawberry.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Hi-Chew",
+  "SIZE": "",
+  "EAN": "0850017589445",
+  "STATUS": "MATCHED"
+ },
+ "850017589476": {
+  "FULL_NAME_FOUND": "Morinaga Hi Chew Gummies Original Peg Bag 4.24oz - 9ct",
+  "DESCRIPTION": "Discover the delightful world of HI-CHEW Gummies Original Mix! Each gummy features a chewy exterior and a flavour-packed, jelly-like center, delivering an explosion of deliciousness in every bite. Enjoy the perfect blend of taste and texture with HI-CHEW Gummies.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Morinaga",
+  "SIZE": "",
+  "EAN": "0850017589476",
+  "STATUS": "MATCHED"
+ },
+ "850018987479": {
+  "FULL_NAME_FOUND": "King Palm 2 Mini Rolls Mango OG 20ct",
+  "DESCRIPTION": "King Palm Flavors Mini Size Cones – 20 Pack, Display. These Mango OG flavoured King Palm leaves are empty tubes that allow for a very easy filling process with the included bamboo packing stick. These Cordia leaves are tobacco free and do not contain any preservatives, artificial flavours, or glue. The installed corn-husk filter is flexible and allows you to squeeze or bite them as hard as you want to create a flavourful, tighter and cooler draw when smoking.",
+  "CATEGORY": "Tortillas & Wraps",
+  "BRAND": "King Palm",
+  "SIZE": "",
+  "EAN": "0850018987479",
+  "STATUS": "MATCHED"
+ },
+ "850020210046": {
+  "STATUS": "UNMATCHED"
+ },
+ "850021015329": {
+  "FULL_NAME_FOUND": "Zoa Wild Orange Zero Sugar Energy Drink - 12 Fl Oz Can",
+  "DESCRIPTION": "ZOA is designed to support healthy immunity while providing a boost of energy and hydration. It contains a unique blend of 100% DV Vitamin C from natural sources including Camu Camu and Acerola plus B-vitamins and electrolytes. ZOA is about healthy, positive energy that helps us all focus, be productive, and get stronger together.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Zoa",
+  "SIZE": "355 mL",
+  "EAN": "0850021015329",
+  "STATUS": "MATCHED"
+ },
+ "850021015435": {
+  "FULL_NAME_FOUND": "Zoa Tropical Punch Zero Sugar Energy Drink - 12 Fl Oz Can",
+  "DESCRIPTION": "ZOA is designed to support healthy immunity while providing a boost of energy and hydration. It contains a unique blend of 100% DV Vitamin C from natural sources including Camu Camu and Acerola plus B-vitamins and electrolytes. ZOA is about healthy, positive energy that helps us all focus, be productive, and get stronger together.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Zoa",
+  "SIZE": "355 mL",
+  "EAN": "0850021015435",
+  "STATUS": "MATCHED"
  }
 }

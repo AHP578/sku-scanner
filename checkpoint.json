@@ -100030,5 +100030,83 @@
   "SIZE": "355 mL",
   "EAN": "0850021015435",
   "STATUS": "MATCHED"
+ },
+ "850021015442": {
+  "FULL_NAME_FOUND": "Zoa White Peach Zero Sugar Energy Drink - 12 Fl Oz Can",
+  "DESCRIPTION": "ZOA is designed to support healthy immunity while providing a boost of energy and hydration. It contains a unique blend of 100% DV Vitamin C from natural sources including Camu Camu and Acerola plus B-vitamins and electrolytes. ZOA is about healthy, positive energy that helps us all focus, be productive, and get stronger together.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Zoa",
+  "SIZE": "355 mL",
+  "EAN": "0850021015442",
+  "STATUS": "MATCHED"
+ },
+ "850023073570": {
+  "FULL_NAME_FOUND": "Solely Fruit Gummies, Mango & Passion Fruit, Organic 2.5 Oz",
+  "DESCRIPTION": "Solely® Organic Mango Passion Fruit Gummies are made with only 2 ingredients: organic mango and organic passion fruit. Yes, really. They believe in transparency, and they use whole and simple ingredients listed on the front of their package. Never added sugar, preservatives or from concentrate. Craveable, but not junk food. Naturally sweet and satisfying- they gently cold-press the fruit to lock in nutrients to ensure they are delivering fruit that matches their standard of fresh.",
+  "CATEGORY": "Fruits & Vegetables",
+  "BRAND": "Solely",
+  "SIZE": "",
+  "EAN": "0850023073570",
+  "STATUS": "MATCHED"
+ },
+ "850023073686": {
+  "FULL_NAME_FOUND": "Solely Organic Fruit Gummies, Mango & Guava",
+  "DESCRIPTION": "Whole fruit gummy three ingredients, these delicious gummies only have three ingredients - organic mango, organic guava, and vitamin c! Whole fruit, made with whole organic mango and organic guava, plus each pouch has one full serving of fruit! Vegan fruit snacks, who says you need sugar and gelatin to make delicious gummies?",
+  "CATEGORY": "Guavas",
+  "BRAND": "Solely",
+  "SIZE": "",
+  "EAN": "0850023073686",
+  "STATUS": "MATCHED"
+ },
+ "850025025287": {
+  "FULL_NAME_FOUND": "Chipoys Fire Red Hot 4oz Spicy Rolled Tortilla Chips",
+  "DESCRIPTION": "Authentic Flavor, Bold Crunch. Chipoy’s Rolled Tortilla Chips are carefully handcrafted, using only the finest, premium Mexican maiz corn. We honor the tradition of small-batch crafted cornsticks while adding a contemporary twist to create an unforgettable snacking experience. Every bite offers a perfect balance of authenticity and bold flavor, making Chipoy your go-to snack for any occasion. Live loudly, snack boldly, and indulge in Chipoy’s irresistible crunch.",
+  "CATEGORY": "Chips",
+  "BRAND": "Chipoys",
+  "SIZE": "",
+  "EAN": "0850025025287",
+  "STATUS": "MATCHED"
+ },
+ "850025025300": {
+  "FULL_NAME_FOUND": "Chipoys Chile Limon Rolled Tortilla Chips",
+  "DESCRIPTION": "Authentic Flavor, Bold Crunch. Chipoy’s Rolled Tortilla Chips are carefully handcrafted, using only the finest, premium Mexican maiz corn. We honor the tradition of small-batch crafted cornsticks while adding a contemporary twist to create an unforgettable snacking experience. Every bite offers a perfect balance of authenticity and bold flavor, making Chipoy your go-to snack for any occasion. Live loudly, snack boldly, and indulge in Chipoy’s irresistible crunch.",
+  "CATEGORY": "Chips",
+  "BRAND": "Chipoys",
+  "SIZE": "",
+  "EAN": "0850025025300",
+  "STATUS": "MATCHED"
+ },
+ "850025025355": {
+  "FULL_NAME_FOUND": "Chipoys Fire Red Hot Tortilla Chips 56.7 G",
+  "DESCRIPTION": "Extreme Heat & Flavor - Chipoys Rolled Tortillas are bursting with heat and flavor in every bite. Each individual chip is coated with fiery tangy seasonings with added heat which leaves you with the best flavor profile possible.",
+  "CATEGORY": "Chips",
+  "BRAND": "Chipoys",
+  "SIZE": "",
+  "EAN": "0850025025355",
+  "STATUS": "MATCHED"
+ },
+ "850025025379": {
+  "FULL_NAME_FOUND": "Chipoys Chile Limon Tortilla Chips 56.7 G",
+  "DESCRIPTION": "Extreme Heat & Flavor - Chipoys Rolled Tortillas are bursting with heat and flavor in every bite. Each individual chip is coated with fiery tangy seasonings with added heat which leaves you with the best flavor profile possible.",
+  "CATEGORY": "Chips",
+  "BRAND": "Chipoys",
+  "SIZE": "",
+  "EAN": "0850025025379",
+  "STATUS": "MATCHED"
+ },
+ "850025025799": {
+  "FULL_NAME_FOUND": "Chipoys Original Chips 113,4g",
+  "DESCRIPTION": "Authentic Flavor, Bold Crunch. Chipoy’s Rolled Tortilla Chips are carefully handcrafted, using only the finest, premium Mexican maiz corn. We honor the tradition of small-batch crafted cornsticks while adding a contemporary twist to create an unforgettable snacking experience. Every bite offers a perfect balance of authenticity and bold flavor, making Chipoy your go-to snack for any occasion. Live loudly, snack boldly, and indulge in Chipoy’s irresistible crunch.",
+  "CATEGORY": "Chips",
+  "BRAND": "Chipoys",
+  "SIZE": "",
+  "EAN": "0850025025799",
+  "STATUS": "MATCHED"
+ },
+ "850025435925": {
+  "STATUS": "UNMATCHED"
+ },
+ "850025435932": {
+  "STATUS": "UNMATCHED"
  }
 }

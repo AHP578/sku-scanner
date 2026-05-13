@@ -99016,5 +99016,83 @@
   "SIZE": "",
   "EAN": "0845514041077",
   "STATUS": "MATCHED"
+ },
+ "845772048573": {
+  "FULL_NAME_FOUND": "Earthling Organic Bar Goji, 1 Oz",
+  "DESCRIPTION": "Rawnola small batch granola bars and cereals are comprised of the finest organic ingredients and enlivened with Goji Berry, Matcha (Green Tea), heirloom Cacao and pure ground Vanilla beans. Almonds and pumpkin seeds are sprouted to assist digestion and enhance absorption of nutrients. The bars are then gently dried at low temperatures for the nutritional properties to remain intact.",
+  "CATEGORY": "Snack Foods",
+  "BRAND": "Earthling",
+  "SIZE": "",
+  "EAN": "0845772048573",
+  "STATUS": "MATCHED"
+ },
+ "845772048610": {
+  "FULL_NAME_FOUND": "Earthling Organic Bar Cacao, 1 Oz",
+  "DESCRIPTION": "Rawnola small batch granola bars and cereals are comprised of the finest organic ingredients and enlivened with Goji Berry, Matcha (Green Tea), heirloom Cacao and pure ground Vanilla beans. Almonds and pumpkin seeds are sprouted to assist digestion and enhance absorption of nutrients. The bars are then gently dried at low temperatures for the nutritional properties to remain intact.",
+  "CATEGORY": "Snack Foods",
+  "BRAND": "Earthling",
+  "SIZE": "",
+  "EAN": "0845772048610",
+  "STATUS": "MATCHED"
+ },
+ "846076101803": {
+  "STATUS": "UNMATCHED"
+ },
+ "846351017201": {
+  "FULL_NAME_FOUND": "Motor Oil Vantage 10w40 (api Sn)",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Motor Vehicles",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0846351017201",
+  "STATUS": "MATCHED"
+ },
+ "846351071036": {
+  "FULL_NAME_FOUND": "Smb Flat Out Instant Tire Inflator & Sealer 15oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Impulse Sealers",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0846351071036",
+  "STATUS": "MATCHED"
+ },
+ "846351077007": {
+  "FULL_NAME_FOUND": "SMB Instant Starting Fluid 110z",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Lighter Fluid",
+  "BRAND": "SMB",
+  "SIZE": "",
+  "EAN": "0846351077007",
+  "STATUS": "MATCHED"
+ },
+ "846351091324": {
+  "STATUS": "UNMATCHED"
+ },
+ "846548070170": {
+  "FULL_NAME_FOUND": "Nature's Garden Cranberry Health Mix Single Serve 1.2 Oz",
+  "DESCRIPTION": "Elevate your snacking experience with Nature’s Garden Cranberry Health Mix, a wholesome blend of nuts, seeds, and dried fruits designed to fuel your body with nutritious goodness. Packed with the tart sweetness of cranberries, the crunch of almonds and walnuts, and the wholesome goodness of pumpkin seeds and sunflower seeds, this mix offers a delicious combination of flavors and textures in every bite. Rich in antioxidants, vitamins, and minerals, Nature’s Garden Cranberry Health Mix is the perfect snack choice for anyone looking to support their overall health and well-being. Enjoy it straight out of the bag for a convenient on-the-go snack, sprinkle it over yogurt or salads for added crunch and flavor, or incorporate it into your baking recipes for a nutritious twist. With its delicious taste and nutritional benefits, Nature’s Garden Cranberry Health Mix is sure to become a favorite snack option for the whole family. Treat yourself to the goodness of nature with Nature’s Garden Cranberry Health Mix and nourish your body with every bite.",
+  "CATEGORY": "Trail & Snack Mixes",
+  "BRAND": "Nature's Garden",
+  "SIZE": "",
+  "EAN": "0846548070170",
+  "STATUS": "MATCHED"
+ },
+ "846548070194": {
+  "FULL_NAME_FOUND": "Nature's Garden Omega 3 Deluxe Mix",
+  "DESCRIPTION": "Introducing Nature’s Garden Omega 3 Deluxe Mix, a nutritious and delicious blend of premium nuts and seeds, packed with essential omega-3 fatty acids. This wholesome mix includes walnuts, almonds, pecans, and pumpkin seeds, offering a perfect balance of flavors and textures. Ideal for snacking on the go, adding to your favorite recipes, or enjoying as a healthy treat, Nature’s Garden Omega 3 Deluxe Mix provides a satisfying and heart-healthy option. Made with high-quality, natural ingredients, this mix is free from artificial additives and preservatives. Enjoy the crunchy, nutty goodness of Nature’s Garden Omega 3 Deluxe Mix, perfect for supporting a balanced and nutritious diet.",
+  "CATEGORY": "Trail & Snack Mixes",
+  "BRAND": "Nature's Garden",
+  "SIZE": "",
+  "EAN": "0846548070194",
+  "STATUS": "MATCHED"
+ },
+ "846548070200": {
+  "FULL_NAME_FOUND": "Costco Nature's Garden Trail Mix",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Trail & Snack Mixes",
+  "BRAND": "Costco",
+  "SIZE": "",
+  "EAN": "0846548070200",
+  "STATUS": "MATCHED"
  }
 }

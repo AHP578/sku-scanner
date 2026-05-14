@@ -100846,5 +100846,59 @@
   "SIZE": "340 mL",
   "EAN": "0852311004631",
   "STATUS": "MATCHED"
+ },
+ "085239240434": {
+  "FULL_NAME_FOUND": "Good & Gather Fresh Grade A Large Eggs",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Meat, Seafood & Eggs",
+  "BRAND": "Good & Gather",
+  "SIZE": "",
+  "EAN": "0085239240434",
+  "STATUS": "MATCHED"
+ },
+ "085239284056": {
+  "FULL_NAME_FOUND": "Good & Gather Vitamin D Whole Milk 1gal",
+  "DESCRIPTION": "This 1% Low Fat Milk from Good & Gather™ is a must-have in your fridge for making all your favorite recipes or enjoying with homemade cookies. This grade A 1% low fat milk is pasteurized and homogenized, along with having vitamins A and D added. Coming from cows that are not treated with rBST, this milk can be added to your favorite recipes so you and your family can enjoy them while getting protein and calcium. Simply use this 1% low fat milk to make all your favorites — from mac and cheese to scrambled eggs to homemade buttercream frosting. Packaging may vary.Our farmers pledge not to treat their cows with rBST. No significant difference has been shown between milk derived from rBST treated cows and non-rBST treated cows. Every product that carries the Good & Gather™ name starts with quality ingredients that deliver great taste, making it easier for you and your family to eat well, every day. We promise you’ll love each bite, or your money back. All Good & Gather products are made without artificial flavors, synthetic colors, artificial sweeteners, and high-fructose corn syrup. Some are specially formulated while others never contained these ingredients.",
+  "CATEGORY": "Milk",
+  "BRAND": "Good & Gather",
+  "SIZE": "3780 mL",
+  "EAN": "0085239284056",
+  "STATUS": "MATCHED"
+ },
+ "085239939451": {
+  "FULL_NAME_FOUND": "Good & Gather Grade A Large Eggs 12ct (Packaging May Vary)",
+  "DESCRIPTION": "Grade A Large Eggs make an excellent staple in your kitchen — they're a convenient and versatile addition to everyday meals, and they're a breeze to whip up and include in a range of recipes for the whole family to enjoy. These fresh, large eggs are USDA Grade A certified eggs from a certified United Egg Producer facility, and they make a good source of protein for a food you can feel good about. They're a delicious choice for many breakfast recipes — whip up a delicious quiche with eggs, salmon and dill for a gourmet addition to breakfast or brunch, go for classic over-easy eggs with a side of toast, hash browns and turkey bacon, or scramble and add to a breakfast burrito for an on-the-go twist. For a quick and hearty afternoon snack, slice up some hard-boiled eggs, sprinkle with salt and pepper and add to a platter with fresh tomatoes, cucumbers and hummus. No matter how you prefer to incorporate eggs into your daily diet, they're a great choice for stocking in your fridge. BRAND AND PACKAGING MAY VARY.",
+  "CATEGORY": "Eggs",
+  "BRAND": "Good & Gather",
+  "SIZE": "",
+  "EAN": "0085239939451",
+  "STATUS": "MATCHED"
+ },
+ "852614646491": {
+  "STATUS": "UNMATCHED"
+ },
+ "852616541329": {
+  "STATUS": "UNMATCHED"
+ },
+ "852616554152": {
+  "STATUS": "UNMATCHED"
+ },
+ "852616946490": {
+  "STATUS": "UNMATCHED"
+ },
+ "852622348516": {
+  "STATUS": "UNMATCHED"
+ },
+ "852634689416": {
+  "STATUS": "UNMATCHED"
+ },
+ "085264043703": {
+  "FULL_NAME_FOUND": "Big Texas Cinnamon Rolls - 4 Oz. Individual Roll",
+  "DESCRIPTION": "Indulge in the rich, sweet flavor of the Cloverhill Big Texas Cinnamon Roll! This 4oz pastry features a soft, fluffy roll generously swirled with cinnamon and topped with a sweet glaze. Perfect for breakfast, an afternoon snack, or a delicious dessert, this cinnamon roll offers a delightful combination of comforting flavors and textures that will satisfy your sweet tooth.",
+  "CATEGORY": "Pastries & Scones",
+  "BRAND": "Big Texas",
+  "SIZE": "",
+  "EAN": "0085264043703",
+  "STATUS": "MATCHED"
  }
 }

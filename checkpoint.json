@@ -100600,5 +100600,71 @@
   "SIZE": "",
   "EAN": "0851458001121",
   "STATUS": "MATCHED"
+ },
+ "851458001138": {
+  "FULL_NAME_FOUND": "Uncle Eds Heart Healthy Mix 4oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0851458001138",
+  "STATUS": "MATCHED"
+ },
+ "851458001299": {
+  "STATUS": "UNMATCHED"
+ },
+ "851458001589": {
+  "FULL_NAME_FOUND": "NCD Delaware December 2022",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Yogurt",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0851458001589",
+  "STATUS": "MATCHED"
+ },
+ "851458001596": {
+  "FULL_NAME_FOUND": "NCD Delaware December 2022",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0851458001596",
+  "STATUS": "MATCHED"
+ },
+ "851458001602": {
+  "FULL_NAME_FOUND": "NCD Delaware December 2022",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0851458001602",
+  "STATUS": "MATCHED"
+ },
+ "851458001701": {
+  "STATUS": "UNMATCHED"
+ },
+ "851458001732": {
+  "STATUS": "UNMATCHED"
+ },
+ "851458001763": {
+  "STATUS": "UNMATCHED"
+ },
+ "851681008683": {
+  "FULL_NAME_FOUND": "Hi-Chew Fruit Combos Smoothie Mix 3 Oz Peg Bag",
+  "DESCRIPTION": "Morinaga(r) Hi-Chew(r) immensely fruity and intensely chewy combos smoothie mix fruit chews transport your customers to the tropics. Mouthwatering fruit flavored candy is inspired by tropical smoothie favorites, passion fruit and mango, and pineapple and coconut. Japanese candy favorites make a bold impression in your assortment. Japanese candies enjoy a huge fan following here in the United States. Terrific for point of sale display with a convenient peg bag in bold colors with recognizable Hi-Chew branding.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Hi-Chew",
+  "SIZE": "",
+  "EAN": "0851681008683",
+  "STATUS": "MATCHED"
+ },
+ "851724008229": {
+  "FULL_NAME_FOUND": "Fulfil Chocolate Brownie Flavored Vitamins And Protein Bar",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Flavored Alcoholic Beverages",
+  "BRAND": "Fulfil",
+  "SIZE": "",
+  "EAN": "0851724008229",
+  "STATUS": "MATCHED"
  }
 }

@@ -101158,5 +101158,89 @@
   "SIZE": "",
   "EAN": "0852662558333",
   "STATUS": "MATCHED"
+ },
+ "852662558371": {
+  "FULL_NAME_FOUND": "Puff Bar Melon Ice",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Melons",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0852662558371",
+  "STATUS": "MATCHED"
+ },
+ "852662558418": {
+  "FULL_NAME_FOUND": "Puff Bar Strawberry Banana",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Bananas",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0852662558418",
+  "STATUS": "MATCHED"
+ },
+ "852662558425": {
+  "FULL_NAME_FOUND": "Одноразовая ЭС PUFF Bar Plus 800",
+  "DESCRIPTION": "Одноразовые электронные сигареты PUFF Bar Plus, с яркими и разнообразными вкусами! Устройство может выдать до 800 затяжек, однако точный показатель зависит от ваших затяжек и их стиля.",
+  "CATEGORY": "Bananas",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0852662558425",
+  "STATUS": "MATCHED"
+ },
+ "852662558630": {
+  "FULL_NAME_FOUND": "Marken Puff Bar Plus",
+  "DESCRIPTION": "Одноразовые электронные сигареты PUFF Bar Plus, с яркими и разнообразными вкусами! Устройство может выдать до 800 затяжек, однако точный показатель зависит от ваших затяжек и их стиля.",
+  "CATEGORY": "Buttons & Snaps",
+  "BRAND": "Marken",
+  "SIZE": "",
+  "EAN": "0852662558630",
+  "STATUS": "MATCHED"
+ },
+ "852662558654": {
+  "FULL_NAME_FOUND": "Одноразовая ЭС PUFF Bar Plus 800",
+  "DESCRIPTION": "Одноразовые электронные сигареты PUFF Bar Plus, с яркими и разнообразными вкусами! Устройство может выдать до 800 затяжек, однако точный показатель зависит от ваших затяжек и их стиля.",
+  "CATEGORY": "Nutrition Bars",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0852662558654",
+  "STATUS": "MATCHED"
+ },
+ "852662559095": {
+  "FULL_NAME_FOUND": "Puff Bar Plus",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Granola Bars",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0852662559095",
+  "STATUS": "MATCHED"
+ },
+ "852662559453": {
+  "STATUS": "UNMATCHED"
+ },
+ "852662564006": {
+  "FULL_NAME_FOUND": "Puff Glow Strawberry Donut",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Donuts",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0852662564006",
+  "STATUS": "MATCHED"
+ },
+ "852662564044": {
+  "FULL_NAME_FOUND": "Puff Glo Peach Ice",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Peaches & Nectarines",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0852662564044",
+  "STATUS": "MATCHED"
+ },
+ "852662564167": {
+  "FULL_NAME_FOUND": "Puff Plus Peach Ice",
+  "DESCRIPTION": "Одноразовые электронные сигареты PUFF Bar Plus, с яркими и разнообразными вкусами! Устройство может выдать до 800 затяжек, однако точный показатель зависит от ваших затяжек и их стиля.",
+  "CATEGORY": "Nutrition Bars",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0852662564167",
+  "STATUS": "MATCHED"
  }
 }

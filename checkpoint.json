@@ -100420,5 +100420,95 @@
   "SIZE": "",
   "EAN": "0850906005032",
   "STATUS": "MATCHED"
+ },
+ "850906005261": {
+  "FULL_NAME_FOUND": "Keep Hlth Chocolate Strawberry",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0850906005261",
+  "STATUS": "MATCHED"
+ },
+ "850906005438": {
+  "FULL_NAME_FOUND": "Keep Healthy, Inc Fruitkies Mango Almond Bar",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Grains, Rice & Cereal",
+  "BRAND": "Keep Healthy, Inc",
+  "SIZE": "",
+  "EAN": "0850906005438",
+  "STATUS": "MATCHED"
+ },
+ "850906005445": {
+  "FULL_NAME_FOUND": "Keephlthppayacashw",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0850906005445",
+  "STATUS": "MATCHED"
+ },
+ "850906005469": {
+  "FULL_NAME_FOUND": "Keep Hlth Pinap Coco",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0850906005469",
+  "STATUS": "MATCHED"
+ },
+ "850906005513": {
+  "FULL_NAME_FOUND": "Keep Healthy Fruitkies Cranberry Pumpkinseed Bar",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Nutrition Drinks & Shakes",
+  "BRAND": "Keep Healthy",
+  "SIZE": "",
+  "EAN": "0850906005513",
+  "STATUS": "MATCHED"
+ },
+ "851112007728": {
+  "FULL_NAME_FOUND": "Xtra Fresh Lemon Dish Soap",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Dish Detergent & Soap",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0851112007728",
+  "STATUS": "MATCHED"
+ },
+ "851112007773": {
+  "FULL_NAME_FOUND": "Xtra Apple Blossom Dishwashing Liquid Soap",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Dish Detergent & Soap",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0851112007773",
+  "STATUS": "MATCHED"
+ },
+ "851112007858": {
+  "FULL_NAME_FOUND": "Xtra Dishwashing Liquid Soap Crystal",
+  "DESCRIPTION": "Xtra dish detergent leaves dish clean and is twice as likely to remove grease. It measures 25oz and has a great scent.",
+  "CATEGORY": "Dish Detergent & Soap",
+  "BRAND": "Xtra",
+  "SIZE": "",
+  "EAN": "0851112007858",
+  "STATUS": "MATCHED"
+ },
+ "851166007002": {
+  "FULL_NAME_FOUND": "Crunchsters Mung Beans, Simply Sea Salt, Crunchy",
+  "DESCRIPTION": "Crunchsters Sprouted Protein Snack Sea Salt Lightly Salted is a Healthy and Delicious Snack Option. This Product is Gluten-Free Non-Gmo and Vegan Friendly.",
+  "CATEGORY": "Chips",
+  "BRAND": "Crunchsters",
+  "SIZE": "",
+  "EAN": "0851166007002",
+  "STATUS": "MATCHED"
+ },
+ "851166007125": {
+  "FULL_NAME_FOUND": "Crunchsters Mung Beans, Sweet Heat Barbeque, Crunchy",
+  "DESCRIPTION": "Made with seasoned sprouted mung beans, Barbecue Crunchsters is a crunchy, spicy and salty snack mix to sprinkle on salads, add to queso or eat right out of the bag. Barbecue Crunchsters is a vegan protein source that is gluten and nut free. Perfect to pack for on the go snacking, Barbecue Crunchsters make healthy snacking easy and delicious.",
+  "CATEGORY": "Beans",
+  "BRAND": "Crunchsters",
+  "SIZE": "",
+  "EAN": "0851166007125",
+  "STATUS": "MATCHED"
  }
 }

@@ -100900,5 +100900,83 @@
   "SIZE": "",
   "EAN": "0085264043703",
   "STATUS": "MATCHED"
+ },
+ "085264221606": {
+  "FULL_NAME_FOUND": "Cloverhill Bakery Cheese Danish 4oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Donuts",
+  "BRAND": "Cloverhill Bakery",
+  "SIZE": "",
+  "EAN": "0085264221606",
+  "STATUS": "MATCHED"
+ },
+ "085264311000": {
+  "FULL_NAME_FOUND": "Cloverhill Bakery Bear Claw, Blueberry Cheese",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Bakery",
+  "BRAND": "Cloverhill Bakery",
+  "SIZE": "",
+  "EAN": "0085264311000",
+  "STATUS": "MATCHED"
+ },
+ "085264341007": {
+  "FULL_NAME_FOUND": "Cloverhill Bakery Bear Claw Danish Dutch Apple 4.25oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Bakery",
+  "BRAND": "Cloverhill Bakery",
+  "SIZE": "",
+  "EAN": "0085264341007",
+  "STATUS": "MATCHED"
+ },
+ "852661616836": {
+  "STATUS": "UNMATCHED"
+ },
+ "852662555035": {
+  "FULL_NAME_FOUND": "Одноразовая ЭС PUFF Bar Plus 800",
+  "DESCRIPTION": "Disposable Vape Pre-filled with an ejuice capacity of 1.3ml and 5% of nicotine, the Puff Bar Tangerine Ice disposable vaporizer delivers approximately 300 puffs in a compact, light, and portable design. With a 280mAh battery, the Puff Bar Tangerine Ice disposable vaporizer has enough power to deliver excellent flavor without any charging or complicated settings. Being disposable, the vape device requires no filling, charging and pod swapping. After your Puff Bar Tangerine Ice vaporizer runs out of juice and/or battery, simply purchase a replacement. The Puff Bar Tangerine Ice disposable vape device is perfect for someone transitioning into vaping and also offers enough performance and flavor to satisfy even the pickiest of vapers. Easy to use, just open the Puff vape package and puff away.",
+  "CATEGORY": "Nutrition Bars",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0852662555035",
+  "STATUS": "MATCHED"
+ },
+ "852662555400": {
+  "FULL_NAME_FOUND": "no Puff Bar Tangerine Ice",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Bar Ice Picks",
+  "BRAND": "no",
+  "SIZE": "",
+  "EAN": "0852662555400",
+  "STATUS": "MATCHED"
+ },
+ "852662557190": {
+  "STATUS": "UNMATCHED"
+ },
+ "852662557237": {
+  "FULL_NAME_FOUND": "Puff Glow Apple Peach",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Apples",
+  "BRAND": "Puff Glow",
+  "SIZE": "",
+  "EAN": "0852662557237",
+  "STATUS": "MATCHED"
+ },
+ "852662557275": {
+  "FULL_NAME_FOUND": "Puff Glow Mango Apple Pear",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Pears",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0852662557275",
+  "STATUS": "MATCHED"
+ },
+ "852662557312": {
+  "FULL_NAME_FOUND": "Puff Bar Glow Nanna Ice",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Bar Ice Picks",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0852662557312",
+  "STATUS": "MATCHED"
  }
 }

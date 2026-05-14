@@ -100666,5 +100666,95 @@
   "SIZE": "",
   "EAN": "0851724008229",
   "STATUS": "MATCHED"
+ },
+ "851724008236": {
+  "FULL_NAME_FOUND": "Fulfil Chocolate Peanut Butter Flavor Vitamin & Protein Bar 1.41 Oz",
+  "DESCRIPTION": "A deliciously smooth peanut butter centre with a soft creamy layer, surrounded in an indulgent milk chocolate coating and topped with a crunchy layer of peanuts.",
+  "CATEGORY": "Nutrition Bars",
+  "BRAND": "Fulfil",
+  "SIZE": "",
+  "EAN": "0851724008236",
+  "STATUS": "MATCHED"
+ },
+ "851724008243": {
+  "FULL_NAME_FOUND": "Fulfil Protein Bar, Chocolate Salted Caramel Flavor, 1.41 Ounce",
+  "DESCRIPTION": "Fuel your everyday adventures with Fulfil s heavenly blend of salted caramel and chocolate flavors. This protein bar’s soft & chewy nougat center is surrounded by miniature crispies and covered by two layers of chocolatey goodness. Best of all it has 15 grams of protein 1 gram of sugar 3 grams net carbs and is an excellent source of eight different vitamins.",
+  "CATEGORY": "Nutrition Bars",
+  "BRAND": "Fulfil",
+  "SIZE": "",
+  "EAN": "0851724008243",
+  "STATUS": "MATCHED"
+ },
+ "851724008250": {
+  "FULL_NAME_FOUND": "Fulfil Bar, Vitamin & Protein, Chocolate Peanut Caramel Flavor - 1.41 Ounce",
+  "DESCRIPTION": "Fuel your everyday adventures with this luscious triple-layered treat. This bar's peanut-flavored nougat center is topped by a caramel-flavored crème layer, covered by a double layer of chocolatey goodness and topped with real peanut pieces. Best of all, it has 15 grams of protein, 1 gram of sugar, 2 grams net carbs, and is at least an excellent source of eight different vitamins.",
+  "CATEGORY": "Vitamins & Supplements",
+  "BRAND": "Fulfil",
+  "SIZE": "",
+  "EAN": "0851724008250",
+  "STATUS": "MATCHED"
+ },
+ "851779005006": {
+  "FULL_NAME_FOUND": "No Bake Cookie Cookies, Original Chocolate 4.3 Oz",
+  "DESCRIPTION": "At The No-Bake Cookie Co. we produce only the best quality cookies with clean and simple ingredients. We believe in our products and are confident you will too.",
+  "CATEGORY": "Cookies",
+  "BRAND": "No Bake Cookie",
+  "SIZE": "",
+  "EAN": "0851779005006",
+  "STATUS": "MATCHED"
+ },
+ "851779005013": {
+  "FULL_NAME_FOUND": "The No-Bake Cookie Co. Cookies, Creamy Peanut Butter",
+  "DESCRIPTION": "This classic, old-fashioned favorite is a peanut butter delight! Creamy peanut butter loaded with wholesome chewy oats. All clean ingredients and gluten-free.",
+  "CATEGORY": "Cookies",
+  "BRAND": "The No-Bake Cookie Co.",
+  "SIZE": "",
+  "EAN": "0851779005013",
+  "STATUS": "MATCHED"
+ },
+ "852109004638": {
+  "FULL_NAME_FOUND": "Enlightened Bada Bean - Mesquite Bbq",
+  "DESCRIPTION": "Shop ENLIGHTENED Crisps Broad Bean Roasted Mesquite Bbq Pouch - 3 Oz from tomthumb. Browse our wide selection of Dried Vegetables for Delivery or Drive Up & Go to pick up at the store!",
+  "CATEGORY": "Beans",
+  "BRAND": "Enlightened",
+  "SIZE": "",
+  "EAN": "0852109004638",
+  "STATUS": "MATCHED"
+ },
+ "852109004645": {
+  "FULL_NAME_FOUND": "Enlightened Broad Beans, Sweet Sriracha, Crunchy 3 Oz",
+  "DESCRIPTION": "Our snacks are made from broad beans (also known as fava beans), roasted and seasoned to perfection. Tear open a bag of this protein-packed snack and savor the flavor. Sometimes good snacking is just that simple. Bada bean, bada boom. Gluten freeHigh fiberNo soyNon-GMO Project VerifiedVegan100 calories per serving21 grams of protein per bag.",
+  "CATEGORY": "Beans",
+  "BRAND": "Enlightened",
+  "SIZE": "",
+  "EAN": "0852109004645",
+  "STATUS": "MATCHED"
+ },
+ "852109004652": {
+  "FULL_NAME_FOUND": "Enlightened Enl Bada Bean Bada Boom 3oz",
+  "DESCRIPTION": "Crunchy Broad Beans. 21g Protein per Bag. 100 Calories per Serving. Gluten Free. High Fiber. No Soy. The Snack You Cant Refuse. Your Plant-Based Powerhouse. Bold, Crunchy. Satisfying. Our Snacks Are Made From Broad Beans (Aka Fava Beans), Roasted and Seasoned To Perfection. Tear Open A Bag Of This Protein-Packed Snack And Savor The Flavor. Sometimes Good Snacking Is Just That Simple. Bada Bean, Bada Boom.",
+  "CATEGORY": "Chips",
+  "BRAND": "Enlightened",
+  "SIZE": "",
+  "EAN": "0852109004652",
+  "STATUS": "MATCHED"
+ },
+ "852251000083": {
+  "FULL_NAME_FOUND": "Hershey's Chocolate Lowfat Milk 12 Fl. Oz. Bottle",
+  "DESCRIPTION": "Leche uht hersheys de chocolate 12 oz. Lleva a casa los mejores ingredientes para las más deliciosas recetas y haz de cada momento algo inolvidable.",
+  "CATEGORY": "Milk",
+  "BRAND": "Hershey's",
+  "SIZE": "355 mL",
+  "EAN": "0852251000083",
+  "STATUS": "MATCHED"
+ },
+ "852251000106": {
+  "FULL_NAME_FOUND": "Hershey's Cookies 'n' Creme Flavored Milk Shake - 12 Fl Oz",
+  "DESCRIPTION": "HERSHEY'S® Cookies ‘n’ Crème Milkshake is extra thick and deliciously creamy, packed with cookies ‘n’ crème flavor. In a convenient, ready to drink 12 ounce size, HERSHEY'S Milk and Milkshakes are the perfect on the go treat. Available in three varieties, there’s something for everyone in the family. Try all three milk and milkshakes today!",
+  "CATEGORY": "Milk",
+  "BRAND": "Hershey's",
+  "SIZE": "355 mL",
+  "EAN": "0852251000106",
+  "STATUS": "MATCHED"
  }
 }

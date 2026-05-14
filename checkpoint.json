@@ -102154,5 +102154,89 @@
   "SIZE": "355 mL",
   "EAN": "0853444008008",
   "STATUS": "MATCHED"
+ },
+ "853444008015": {
+  "FULL_NAME_FOUND": "Sprig CBD Zero Citrus Soda 12oz Can",
+  "DESCRIPTION": "Sprig CBD Citrus Zero Sugar is Citrus Original’s cooler, younger sister. Citrus Zero Sugar offers the same great taste as Citrus Original, but with only 5 calories! Made with natural sweeteners, Citrus Zero Sugar is.",
+  "CATEGORY": "Soda",
+  "BRAND": "",
+  "SIZE": "355 mL",
+  "EAN": "0853444008015",
+  "STATUS": "MATCHED"
+ },
+ "853444008022": {
+  "FULL_NAME_FOUND": "Sprig - Beverage - Zero Sugar Melon 12oz",
+  "DESCRIPTION": "Sprig CBD Melon Zero Sugar is quickly becoming a fan favorite. It’s been likened to that of a Watermelon Jolly Rancher, but in a can.",
+  "CATEGORY": "Melons",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0853444008022",
+  "STATUS": "MATCHED"
+ },
+ "853444008039": {
+  "FULL_NAME_FOUND": "Sprig Lemon Tea Zero",
+  "DESCRIPTION": "Sprig CBD Lemon Tea Zero Sugar is everyone’s cup can of tea. This non-caffeinated, sparkling lemon tea has the carbonated bite of a soda, but with the soothing taste of tea, perfect for a sunny day by the pool. Regar.",
+  "CATEGORY": "Soda",
+  "BRAND": "",
+  "SIZE": "355 mL",
+  "EAN": "0853444008039",
+  "STATUS": "MATCHED"
+ },
+ "853607001013": {
+  "FULL_NAME_FOUND": "Kona Deep Drinking Water",
+  "DESCRIPTION": "Kona Deep is deep ocean water, desalinated and bottled at the source in Kona Hawaii. Kona Deep offers a unique hydration experience unlike any other on the planet because of our source, it’s unique blend of naturally occurring deep ocean minerals and electrolytes, and our ability to responsibly utilize the largest renewable source of water on our planet.",
+  "CATEGORY": "Water",
+  "BRAND": "Kona Deep",
+  "SIZE": "500 mL",
+  "EAN": "0853607001013",
+  "STATUS": "MATCHED"
+ },
+ "853607001457": {
+  "FULL_NAME_FOUND": "Kona Deep Water Ocean, 50.7 Fl Oz",
+  "DESCRIPTION": "Kona Deep comes from an extraordinary deep ocean current, formed long ago from glacial water. That water sunk to the ocean floor due to differences in salinity, density and weight, creating a current that still flows today. This current undergoes a 1000 year journey as it flows around the globe. Along the way, it travels over underwater volcanic fissures, soaking up beneficial electrolytes and minerals before arriving at the Island of Hawaii.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Kona Deep",
+  "SIZE": "1499 mL",
+  "EAN": "0853607001457",
+  "STATUS": "MATCHED"
+ },
+ "853762002009": {
+  "FULL_NAME_FOUND": "Gourmet Basics Smart Fries Classic Sea Salt 1 Oz Bag",
+  "DESCRIPTION": "Consumers of all ages love the crispy crunch and delicious flavor of these better-for-you smart fries in classic sea salt flavor from Gourmet Basics®. With 80 percent less fat than regular potato chips and only 110 calories per serving, these all natural air-popped potato sticks deliver a heart-smart crisp that appeals to all your customers. Vibrant packages with health-benefit callouts stand out on your snack aisles.",
+  "CATEGORY": "Fresh & Frozen Vegetables",
+  "BRAND": "Gourmet Basics",
+  "SIZE": "",
+  "EAN": "0853762002009",
+  "STATUS": "MATCHED"
+ },
+ "853762002108": {
+  "FULL_NAME_FOUND": "Gourmet Basics Smart Fries Sweet Jalapeno, 1-ounce Bags",
+  "DESCRIPTION": "Entice your customers with the better-for-you snack option of Jalapeno Trio Smart Fries from Gourmet Basics® that contain 80 percent less fat than regular potato chips. Deliciously crunchy with only 110 calories per serving and expertly crafted from a blend of Jalapeno and red and green bell peppers, these snacks deliver big on flavor. Eye-catching bags feature health-benefit callouts such as all natural and low fat.",
+  "CATEGORY": "Books",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "",
+  "STATUS": "MATCHED"
+ },
+ "853861008834": {
+  "STATUS": "UNMATCHED"
+ },
+ "853861008858": {
+  "FULL_NAME_FOUND": "Platinum Hempherb Pineapple 1000mg",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0853861008858",
+  "STATUS": "MATCHED"
+ },
+ "853861008865": {
+  "FULL_NAME_FOUND": "Platinum Hempherb Apple 1000mg",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Health & Beauty",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0853861008865",
+  "STATUS": "MATCHED"
  }
 }

@@ -101326,5 +101326,89 @@
  },
  "852662564563": {
   "STATUS": "UNMATCHED"
+ },
+ "852662564600": {
+  "FULL_NAME_FOUND": "Puff Flow Kiwi Strawberry",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Kiwis",
+  "BRAND": "Puff Flow",
+  "SIZE": "",
+  "EAN": "0852662564600",
+  "STATUS": "MATCHED"
+ },
+ "852662564648": {
+  "FULL_NAME_FOUND": "Puff Flow Guava Ice",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Guavas",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0852662564648",
+  "STATUS": "MATCHED"
+ },
+ "852662564686": {
+  "FULL_NAME_FOUND": "Puff Flow Grape Apple Pear",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Pears",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0852662564686",
+  "STATUS": "MATCHED"
+ },
+ "852662564723": {
+  "FULL_NAME_FOUND": "Puff Bar Flow Peach Ice",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Bar Ice Picks",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0852662564723",
+  "STATUS": "MATCHED"
+ },
+ "852662564761": {
+  "FULL_NAME_FOUND": "Puff Bar Flow Lychee Ice",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Lychees",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0852662564761",
+  "STATUS": "MATCHED"
+ },
+ "852662564808": {
+  "FULL_NAME_FOUND": "Puff Bar Flow Nana Papaya",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Papayas",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0852662564808",
+  "STATUS": "MATCHED"
+ },
+ "852662564846": {
+  "FULL_NAME_FOUND": "Hyppe Bar Puff Flow Aloe Mango Melon Ice",
+  "DESCRIPTION": "HYPPE Bar Disposable Salt Device 10pk is portable, flavor-packed disposables. Perfect for on-the-go use, each disposable features an internal 280mAh battery that powers through 1.3mL of 5% (50MG) Salt Nic E-Liquid. That offers users approximately 300 puffs. The HYPPE Bar Disposables require no maintenance, charging, or recharge. These disposables are available ten in a pack. Choose from 25 flavors Pear Ice, Peach Soda, and much more.",
+  "CATEGORY": "Melons",
+  "BRAND": "Hyppe Bar",
+  "SIZE": "",
+  "EAN": "0852662564846",
+  "STATUS": "MATCHED"
+ },
+ "852662564983": {
+  "FULL_NAME_FOUND": "Puff Bar Plus",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Granola Bars",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0852662564983",
+  "STATUS": "MATCHED"
+ },
+ "852662566581": {
+  "FULL_NAME_FOUND": "Puff Plus Mango",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Mangoes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0852662566581",
+  "STATUS": "MATCHED"
+ },
+ "852662566871": {
+  "STATUS": "UNMATCHED"
  }
 }

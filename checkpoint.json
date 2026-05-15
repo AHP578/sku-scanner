@@ -104194,5 +104194,89 @@
   "SIZE": "",
   "EAN": "0882166001288",
   "STATUS": "MATCHED"
+ },
+ "883315090221": {
+  "FULL_NAME_FOUND": "Tum E Yummies Water Drink, Fruit Flavored, Fruitabulous Punch 10.1 Oz",
+  "DESCRIPTION": "Naturally flavored with other natural flavors. 100% daily value vitamin C. 50 calories per bottle. Questions? 1.800.388.8366. Please recycle. Gluten free. SmartLabel. 100% daily value vitamins C, B6 & B12. No sodium. 13 g sugar. Contains 0% juice.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Tum E Yummies",
+  "SIZE": "299 mL",
+  "EAN": "0883315090221",
+  "STATUS": "MATCHED"
+ },
+ "883315090245": {
+  "FULL_NAME_FOUND": "Tum E Yummies Tum-E Greentastic Apple Bottle, 10.1 Fl Oz",
+  "DESCRIPTION": "A naturally and artificially flavored beverage. 50 calories per bottle. 100% vitamin C daily value. Contains 0% juice.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Tum E Yummies",
+  "SIZE": "299 mL",
+  "EAN": "0883315090245",
+  "STATUS": "MATCHED"
+ },
+ "884154977025": {
+  "STATUS": "UNMATCHED"
+ },
+ "884394000378": {
+  "FULL_NAME_FOUND": "OKF Pomegranate Aloe Vera King",
+  "DESCRIPTION": "Discover the refreshing blend of Aloe Vera King Pomegranate, a revitalizing beverage that combines the natural benefits of aloe vera with the rich and fruity taste of pomegranate. Each sip offers a harmonious fusion of floral sweetness and tart pomegranate flavor, providing a deliciously satisfying drinking experience. Made with real aloe vera gel and natural pomegranate flavor, Aloe Vera King Pomegranate not only quenches your thirst but also offers potential health benefits. Whether you’re enjoying a leisurely afternoon at home, on the go, or seeking a hydrating beverage after a workout, Aloe Vera King Pomegranate is the perfect choice. Its convenient 500ml size ensures you have plenty to enjoy, and its easy-to-use packaging allows for instant refreshment whenever you need it. Treat yourself to the rejuvenating taste of aloe vera and pomegranate with Aloe Vera King Pomegranate, your go-to beverage for revitalization and hydration.",
+  "CATEGORY": "Pomegranates",
+  "BRAND": "OKF",
+  "SIZE": "",
+  "EAN": "0884394000378",
+  "STATUS": "MATCHED"
+ },
+ "884394000538": {
+  "FULL_NAME_FOUND": "OKF Coconut Drink, Coco, Pure Premium",
+  "DESCRIPTION": "Enjoy this tasty and high-quality OKF Coco Drink. Those who try it find it has a sweet and fresh appeal. It is a natural coconut drink with chewy coconut jelly.",
+  "CATEGORY": "Beverages",
+  "BRAND": "OKF",
+  "SIZE": "500 mL",
+  "EAN": "0884394000538",
+  "STATUS": "MATCHED"
+ },
+ "884394007285": {
+  "FULL_NAME_FOUND": "OKF Farmers Aloe Vera Original Drink",
+  "DESCRIPTION": "Aloe vera juice is jam-packed with nutrients. Drinking it is an excellent way to make sure you don't become deficient. It contains important vitamins and minerals like vitamins B, C, E, and folic acid.",
+  "CATEGORY": "Juice",
+  "BRAND": "OKF",
+  "SIZE": "500 mL",
+  "EAN": "0884394007285",
+  "STATUS": "MATCHED"
+ },
+ "884394007339": {
+  "FULL_NAME_FOUND": "OKF Farmers Aloe Vera Mango Drink",
+  "DESCRIPTION": "Farmer’s Aloe Drink contains 20% of Aloe in an excellent Aloe Vera drink. No Fat. Farmer’s is an award-winning product 2018 from Monde selection. Each Aloe Vera drink is fat-free, low sodium, vegan, gluten-free, and free from artificial colors to ensure a refreshing and true taste, a perfect addition to your healthy diet.",
+  "CATEGORY": "Juice",
+  "BRAND": "OKF",
+  "SIZE": "500 mL",
+  "EAN": "0884394007339",
+  "STATUS": "MATCHED"
+ },
+ "884394007353": {
+  "FULL_NAME_FOUND": "OKF Farmers Aloe Pomegranate",
+  "DESCRIPTION": "Aloe Vera contains internal benefits for the body. Aloe Vera juice contains leaf pulp that is rich in natural nutrients and fiber. This well-known herbal remedy for the skin also has many benefits for internal healing, cleansing and repair when ingested as a nutritional drink. Enjoy these delicious beverages while getting the benefits of Aloe! Available in Six DELICIOUS FLAVORS - Original, Mango, Pineapple, Pomegranate, Strawberry, and Watermelon- Try them all!",
+  "CATEGORY": "Juice",
+  "BRAND": "OKF",
+  "SIZE": "500 mL",
+  "EAN": "0884394007353",
+  "STATUS": "MATCHED"
+ },
+ "884394007377": {
+  "FULL_NAME_FOUND": "OKF Farmers Aloe Pineapple",
+  "DESCRIPTION": "Aloe Vera contains internal benefits for the body. Aloe Vera juice contains leaf pulp that is rich in natural nutrients and fiber. This well-known herbal remedy for the skin also has many benefits for internal healing, cleansing and repair when ingested as a nutritional drink. Enjoy these delicious beverages while getting the benefits of Aloe! Available in Six DELICIOUS FLAVORS - Original, Mango, Pineapple, Pomegranate, Strawberry, and Watermelon- Try them all!",
+  "CATEGORY": "Juice",
+  "BRAND": "OKF",
+  "SIZE": "500 mL",
+  "EAN": "0884394007377",
+  "STATUS": "MATCHED"
+ },
+ "884394007391": {
+  "FULL_NAME_FOUND": "OKF Farmer's Aloe Drink Strawberry 500ml",
+  "DESCRIPTION": "Loaded with natural ingredients and organic Aloe Vera, you enjoy the delicious blend of aloe vera and strawberries in every sip. The best thirst-quenching refreshing drink which is packed and sealed carefully.",
+  "CATEGORY": "Juice",
+  "BRAND": "OKF",
+  "SIZE": "500 mL",
+  "EAN": "0884394007391",
+  "STATUS": "MATCHED"
  }
 }

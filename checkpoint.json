@@ -103438,5 +103438,59 @@
   "SIZE": "591 mL",
   "EAN": "0859964007002",
   "STATUS": "MATCHED"
+ },
+ "859986004102": {
+  "STATUS": "UNMATCHED"
+ },
+ "860000023900": {
+  "FULL_NAME_FOUND": "Liquid Death 100% Mountain Water - 16.9 Fl Oz Can",
+  "DESCRIPTION": "Discover the pure, refreshing taste of Liquid Death 100% Mountain Water! Originating from the majestic Alps, this premium mountain water is not only thirst-quenching but also environmentally friendly, packaged in a sleek aluminum can that is infinitely recyclable. Perfect for hydration on-the-go, Liquid Death is the ideal choice for those who appreciate quality and sustainability in their beverage choices.",
+  "CATEGORY": "Water",
+  "BRAND": "Liquid Death",
+  "SIZE": "500 mL",
+  "EAN": "0860000023900",
+  "STATUS": "MATCHED"
+ },
+ "860000023924": {
+  "FULL_NAME_FOUND": "Liquid Death 100% Sparkling Mountain Water - 16.9 Fl Oz Can",
+  "DESCRIPTION": "Unlike standard sparkling waters, Liquid Death comes in aluminum cans instead of plastic bottles, reducing environmental impact. Its ultra-pure water source and effervescent texture offer a superior taste experience, and the brand’s edgy, fun personality makes hydration exciting and memorable. It’s a health-conscious and eco-friendly choice that stands out from ordinary sparkling waters.",
+  "CATEGORY": "Water",
+  "BRAND": "Liquid Death",
+  "SIZE": "500 mL",
+  "EAN": "0860000023924",
+  "STATUS": "MATCHED"
+ },
+ "860000515306": {
+  "STATUS": "UNMATCHED"
+ },
+ "860000515313": {
+  "STATUS": "UNMATCHED"
+ },
+ "860000515320": {
+  "STATUS": "UNMATCHED"
+ },
+ "860000606905": {
+  "FULL_NAME_FOUND": "CanDo Keto Krisp Almond Butter Protein Bar - Case Of 12/1.8 Oz",
+  "DESCRIPTION": "Discover the perfect balance of taste and nutrition with Can Do Keto Crisp Almond Butter Protein Bar. Made with premium quality ingredients, this protein bar delivers a delicious blend of nutty almond butter flavor and crunchy texture. At only 1.8 oz per bar, it's a perfect snack that can help you meet your keto and low-carb diet needs, while also providing you with essential protein, fiber, and healthy fats. This protein bar is a perfect option for those who are looking for a convenient, healthy snack that can be enjoyed anytime, anywhere. The case of 12 bars is perfect for those who want to have a healthy snack option available at all times. Add Can Do Keto Crisp Almond Butter Protein Bar to your snack routine today and enjoy the delicious taste and nutritional benefits it has to offer!",
+  "CATEGORY": "Nutrition Bars",
+  "BRAND": "CanDo",
+  "SIZE": "",
+  "EAN": "0860000606905",
+  "STATUS": "MATCHED"
+ },
+ "860001437188": {
+  "FULL_NAME_FOUND": "Proper Wild Strawberry Kiwi, Clean Energy Shot",
+  "DESCRIPTION": "Boost your energy levels with the invigorating Everyday Supply Co's Proper Wild Strawberry Kiwi Energy Drink. Packed in a convenient 2.5oz size, these 12 packs are perfect for on-the-go lifestyles. Savor the vibrant flavors of strawberry and kiwi, expertly blended to provide a unique taste. Ideal for sports enthusiasts, it serves as a quick energy fix. Trust Everyday Supply Co for your daily essentials and experience quality like never before.",
+  "CATEGORY": "Kiwis",
+  "BRAND": "Proper Wild",
+  "SIZE": "",
+  "EAN": "0860001437188",
+  "STATUS": "MATCHED"
+ },
+ "860003611128": {
+  "STATUS": "UNMATCHED"
+ },
+ "860003611142": {
+  "STATUS": "UNMATCHED"
  }
 }

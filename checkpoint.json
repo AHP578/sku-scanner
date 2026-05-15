@@ -102724,5 +102724,89 @@
   "SIZE": "",
   "EAN": "0856424000108",
   "STATUS": "MATCHED"
+ },
+ "856424000115": {
+  "FULL_NAME_FOUND": "Pressel's Sesame Thin & Crispy Baked Pretzel Chips",
+  "DESCRIPTION": "Baked with the finest ingredients, Pressels Sesame Pretzels offer a better-for-you option to traditional fried snacks. Pressels Sesame Pretzels are thin, crispy, and studded with sesame seeds imported from India, providing a nutty flavor. Pressels Sesame Pretzels can be used to make a unique snack mix or eaten right out of the bag.",
+  "CATEGORY": "Chips",
+  "BRAND": "Pressel's",
+  "SIZE": "",
+  "EAN": "0856424000115",
+  "STATUS": "MATCHED"
+ },
+ "856424000122": {
+  "FULL_NAME_FOUND": "Pressel's Pretzel Chips Everything 7.1 Oz Bag 12ct Case",
+  "DESCRIPTION": "Baked with the finest ingredients, Pressels Everything Pretzels offer a better for you option to traditional fried snacks and carb laden bagels. Pressels Everything Pretzels are thin, crispy and studded with garlic, sesame seed, onion and caraway seeds for a twist on the classic flavor. Pressels Everything Pretzels can be used to make a unique brunch appetizer plate or eaten right out of the bag.",
+  "CATEGORY": "Chips",
+  "BRAND": "Pressel's",
+  "SIZE": "",
+  "EAN": "0856424000122",
+  "STATUS": "MATCHED"
+ },
+ "856424000139": {
+  "FULL_NAME_FOUND": "Pressels Pretzel Chips Original 2.1oz",
+  "DESCRIPTION": "A healthier snack, both crunchy and tasty, with less fat and much less sodium than all other pretzels in the market. PRESSELS!",
+  "CATEGORY": "Chips",
+  "BRAND": "Pressels",
+  "SIZE": "",
+  "EAN": "0856424000139",
+  "STATUS": "MATCHED"
+ },
+ "856424000153": {
+  "FULL_NAME_FOUND": "Pressels Everything 2.1 Oz Pouch",
+  "DESCRIPTION": "Baked with the finest ingredients, Pressels Everything Pretzels offer a better for you option to traditional fried snacks and carb laden bagels. Pressels Everything Pretzels are thin, crispy and studded with garlic, sesame seed, onion and caraway seeds for a twist on the classic flavor. Pressels Everything Pretzels can be used to make a unique brunch appetizer plate or eaten right out of the bag.",
+  "CATEGORY": "Chips",
+  "BRAND": "Pressels",
+  "SIZE": "",
+  "EAN": "0856424000153",
+  "STATUS": "MATCHED"
+ },
+ "856513002075": {
+  "FULL_NAME_FOUND": "Nogii High Protein Bar, Peanut Butter & Chocolate 1.93 Oz",
+  "DESCRIPTION": "About this item NoGii Bar Peanut Butter 'N Chocolate Bars were created to provide a NO GLUTEN alternative for active lifestyles. Whether you are on-the-go, at play, or in the gym, NoGii bars are formulated to give you and your family good, clean, gluten-free nutritional food choices.",
+  "CATEGORY": "Cereal & Granola Bars",
+  "BRAND": "Nogii",
+  "SIZE": "",
+  "EAN": "0856513002075",
+  "STATUS": "MATCHED"
+ },
+ "856513002808": {
+  "FULL_NAME_FOUND": "Nogii High Protein Bar, Cocoa Brownie 1.93 Oz",
+  "DESCRIPTION": "Elisabeth Hasselbeck's. All-natural. 20 g protein. No gluten. Certified gluten-free. www.nogii.com. Gluten-free solutions for healthy families! The day is busy; the demands are high. Whether I am training for a 5K race, pushing through a long day of work, or getting the kids from school to practice and back - I rely on Nogii bars to keep me fueled, energized, and ready to tackle it all! I created the Nogii [noh-jee] bar as a solution to my research for a lower calorie, no gluten, no guilt, high-protein, all-natural healthy snack on the go with quality carbs for sustained energy. It goes wherever I go.",
+  "CATEGORY": "Personal Care",
+  "BRAND": "Nogii",
+  "SIZE": "",
+  "EAN": "0856513002808",
+  "STATUS": "MATCHED"
+ },
+ "856577006682": {
+  "STATUS": "UNMATCHED"
+ },
+ "856579002170": {
+  "FULL_NAME_FOUND": "Spindrift Sparkling Water Grapefruit Single Can",
+  "DESCRIPTION": "We’ve taken this pink, tangy citrus fruit and added sparkle. We use real squeezed grapefruits, alongside touches of orange and lemon to highlight the flavor of the grapefruit. If you like eating grapefruits—we think you’ll love drinking Spindrift Grapefruit.",
+  "CATEGORY": "Grapefruits",
+  "BRAND": "Spindrift",
+  "SIZE": "",
+  "EAN": "0856579002170",
+  "STATUS": "MATCHED"
+ },
+ "856579002194": {
+  "FULL_NAME_FOUND": "Spindrift Sparkling Water Lemon Single Can",
+  "DESCRIPTION": "Spindrift Lemon Sparkling Water is made with real squeezed lemon and no added sugar. A bright, tart, and refreshing twist on classic citrus with 3% real juice.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Spindrift",
+  "SIZE": "355 mL",
+  "EAN": "0856579002194",
+  "STATUS": "MATCHED"
+ },
+ "856579002804": {
+  "FULL_NAME_FOUND": "Spindrift Sparkling Water Lime",
+  "DESCRIPTION": "Isn’t it time someone used real limes in lime sparkling water? We use real squeezed lime juice - never from concentrate - that comes from the best tasting, ripest limes. Refreshing on its own or added to your favorite cocktail.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Spindrift",
+  "SIZE": "355 mL",
+  "EAN": "0856579002804",
+  "STATUS": "MATCHED"
  }
 }

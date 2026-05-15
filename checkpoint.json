@@ -103492,5 +103492,47 @@
  },
  "860003611142": {
   "STATUS": "UNMATCHED"
+ },
+ "860004895015": {
+  "STATUS": "UNMATCHED"
+ },
+ "860004895046": {
+  "STATUS": "UNMATCHED"
+ },
+ "860007487309": {
+  "FULL_NAME_FOUND": "Muddy Bites Milk Chocolate Waffle Cone Snacks",
+  "DESCRIPTION": "Eat them straight out of the bag, in a bowl of ice cream, or topped on desserts like cupcakes or cookies. Introducing Muddy Bites, the first ever bite-sized waffle cone snack filled with creamy milk chocolate. You’ll love this non-GMO & Kosher treat.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Muddy Bites",
+  "SIZE": "",
+  "EAN": "0860007487309",
+  "STATUS": "MATCHED"
+ },
+ "860007487316": {
+  "FULL_NAME_FOUND": "Muddy Bites Dark Chocolate Waffle Cone Snacks - 2.33oz",
+  "DESCRIPTION": "Introducing Muddy Bites, the first ever bite-sized waffle cone snack filled with creamy dark chocolate. You’ll love this non-GMO & Kosher treat. Eat them straight out of the bag, in a bowl of ice cream, or topped on desserts like cupcakes or cookies. With a treat this versatile and delicious, the possibilities are endless!",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Muddy Bites",
+  "SIZE": "",
+  "EAN": "0860007487316",
+  "STATUS": "MATCHED"
+ },
+ "086034300033": {
+  "STATUS": "UNMATCHED"
+ },
+ "086034300057": {
+  "STATUS": "UNMATCHED"
+ },
+ "086034300064": {
+  "STATUS": "UNMATCHED"
+ },
+ "086034300071": {
+  "STATUS": "UNMATCHED"
+ },
+ "086034300095": {
+  "STATUS": "UNMATCHED"
+ },
+ "086034300101": {
+  "STATUS": "UNMATCHED"
  }
 }

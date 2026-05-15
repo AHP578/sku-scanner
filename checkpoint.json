@@ -103648,5 +103648,83 @@
  },
  "868509000132": {
   "STATUS": "UNMATCHED"
+ },
+ "868654151000": {
+  "STATUS": "UNMATCHED"
+ },
+ "868654151048": {
+  "FULL_NAME_FOUND": "Royal Peanuts",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0868654151048",
+  "STATUS": "MATCHED"
+ },
+ "868654151086": {
+  "FULL_NAME_FOUND": "Royal Snacks Raw Almonds",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "Royal Snacks",
+  "SIZE": "",
+  "EAN": "0868654151086",
+  "STATUS": "MATCHED"
+ },
+ "868654152038": {
+  "FULL_NAME_FOUND": "Royal Snacks Royals Hero's Mix",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Trail & Snack Mixes",
+  "BRAND": "Royal Snacks",
+  "SIZE": "",
+  "EAN": "0868654152038",
+  "STATUS": "MATCHED"
+ },
+ "868654153042": {
+  "FULL_NAME_FOUND": "Royal Choc Pretzels",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Pretzels",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0868654153042",
+  "STATUS": "MATCHED"
+ },
+ "868654154124": {
+  "FULL_NAME_FOUND": "Royal Fruit Slices",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Fruits & Vegetables",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0868654154124",
+  "STATUS": "MATCHED"
+ },
+ "868654154155": {
+  "FULL_NAME_FOUND": "Royal Snacks Sour Balls",
+  "DESCRIPTION": "Royal Snacks, Sour Balls Candy is manufactured by Other with a suggested serving size of 11 Pcs. (41 G) and has 140 calories per serving.",
+  "CATEGORY": "Snack Foods",
+  "BRAND": "Royal Snacks",
+  "SIZE": "",
+  "EAN": "0868654154155",
+  "STATUS": "MATCHED"
+ },
+ "868654154186": {
+  "FULL_NAME_FOUND": "Royal Snacks Spice Drops",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Seasonings & Spices",
+  "BRAND": "Royal Snacks",
+  "SIZE": "",
+  "EAN": "0868654154186",
+  "STATUS": "MATCHED"
+ },
+ "868654154322": {
+  "STATUS": "UNMATCHED"
+ },
+ "868654155008": {
+  "FULL_NAME_FOUND": "Royal Snacks Asst Candy",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0868654155008",
+  "STATUS": "MATCHED"
  }
 }

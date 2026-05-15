@@ -102808,5 +102808,83 @@
   "SIZE": "355 mL",
   "EAN": "0856579002804",
   "STATUS": "MATCHED"
+ },
+ "857209006124": {
+  "STATUS": "UNMATCHED"
+ },
+ "857209006131": {
+  "STATUS": "UNMATCHED"
+ },
+ "857416006856": {
+  "FULL_NAME_FOUND": "Koe Kombucha, Organic, Blueberry Ginger 12 Fl Oz",
+  "DESCRIPTION": "Koe blends organic fruit juice, live probiotics, and refreshing sparkling water into a craveable drink with real benefits. It’s kombucha, only better! No weird vinegar taste, no weird textures, yet every can has billions of live probiotic cultures and over 200% of the RDA of vitamin C to support the immune system, optimal gut health, and more. Koe is for dreamers, doers and adventurers who deserve BETTER!",
+  "CATEGORY": "Beverages",
+  "BRAND": "Koe",
+  "SIZE": "355 mL",
+  "EAN": "0857416006856",
+  "STATUS": "MATCHED"
+ },
+ "857493007265": {
+  "FULL_NAME_FOUND": "Ooze Panther Black Twist Slim Pen Adjustable Voltage Battery",
+  "DESCRIPTION": "The Ooze Slim Twist Pen Battery is a powerful vape pen used to vape your favorite 510-thread cartridges. The Slim Twist Pen features a dial on the bottom that twists to select a precise voltage between 3.3-4.8V. With this handy feature, it's super easy to find your cartridge's sweet spot. Hold down the button while inhaling to take a hit, and the battery will shut off after 15 seconds of inhaling to protect against overheating. Activate preheat mode by clicking the button twice and the battery will heat for 15 seconds without needing to press the button down. You can also inhale while the cart is preheating. This is a 320mAh device that includes an Ooze smart USB charger with built-in overcharge protection. The charger automatically shuts off as soon as the battery reaches a full charge, greatly extending the overall life of the battery.",
+  "CATEGORY": "Batteries",
+  "BRAND": "Ooze",
+  "SIZE": "",
+  "EAN": "0857493007265",
+  "STATUS": "MATCHED"
+ },
+ "857493007289": {
+  "FULL_NAME_FOUND": "Ooze Slim Pen Twist Battery Cosmic Chrome",
+  "DESCRIPTION": "The Ooze Slim Pen Twist battery is a game changer for all other vape devices. The Slim Pen Twist Battery has a new preheat mode (15 seconds of continuous heating without pressing the button) and adjustable temperature settings, making it ideal for those just starting out with cartridges or those who've been using them for a while. The battery is compatible with all oil, concentrate, and essential oil cartridges with a 510 thread, and the voltage ranges from 3.3V to 4.8V.",
+  "CATEGORY": "Batteries",
+  "BRAND": "Ooze",
+  "SIZE": "",
+  "EAN": "0857493007289",
+  "STATUS": "MATCHED"
+ },
+ "857493007968": {
+  "FULL_NAME_FOUND": "Ooze Twist Slim 2.0 Pen Green",
+  "DESCRIPTION": "Ooze Slim Pen Twist battery destroys any remaining vaporizers! Featuring the new preheat mode (15 seconds of nonstop warming without holding the catch) and customizable temperature settings, the Slim Pen Twist Battery is ideal for anybody simply beginning to utilize cartridges or your ordinary veteran. Viable with all oil, concentrate, and fundamental oil cartridges with a 510 string, and voltage settings range from 3.3V to 4.8V.",
+  "CATEGORY": "Pens",
+  "BRAND": "Ooze",
+  "SIZE": "",
+  "EAN": "0857493007968",
+  "STATUS": "MATCHED"
+ },
+ "857558007346": {
+  "FULL_NAME_FOUND": "Vapegear Vape Gear Twist Pro Battery",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Batteries",
+  "BRAND": "Vapegear",
+  "SIZE": "",
+  "EAN": "0857558007346",
+  "STATUS": "MATCHED"
+ },
+ "857558007506": {
+  "FULL_NAME_FOUND": "Xpress Gear 5ft-iphone- Black",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cables",
+  "BRAND": "Xpress Gear",
+  "SIZE": "",
+  "EAN": "0857558007506",
+  "STATUS": "MATCHED"
+ },
+ "857741002400": {
+  "FULL_NAME_FOUND": "Marley's Coffee Drink, Coffee 9.5 Oz",
+  "DESCRIPTION": "Coffee drink blended with real Jamaican coffee. Wake up & live! All natural. Bob Marley is a global icon and musical prophet, whose words and vision continue to change the world. Marley's One Drop, created with the family of Bob Marley, pays homage with a coffee drink for people who care about more than just great coffee. Our delicious all-natural blend of gourmet coffee uses beans sourced from the mountains of Jamaica, which are renowned for producing the best tasting coffee in the world. A percentage of every purchase of Marley's One Drop is donated to 1Love.org, a non-profit initiative sparked by the Marley family. 1Love.org is a flame that burns for youth, planet and peace, supporting charities that empower people to take action for sustainable and responsible living. With every sip of Marley's One Drop, you are helping the flame burn brighter. Manufactured in the USA.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Marley's",
+  "SIZE": "281 mL",
+  "EAN": "0857741002400",
+  "STATUS": "MATCHED"
+ },
+ "857741002431": {
+  "FULL_NAME_FOUND": "Marley's Coffee Drink, Mocha 9.5 Oz",
+  "DESCRIPTION": "Coffee drink blended with real Jamaican coffee. Wake up & live! All natural. Bob Marley is a global icon and musical prophet, whose words and vision continue to change the world. Marley's One Drop, created with the family of Bob Marley, pays homage with a coffee drink for people who care about more than just great coffee. Our delicious all-natural blend of gourmet coffee uses beans sourced from the mountains of Jamaica, which are renowned for producing the best tasting coffee in the world. A percentage of every purchase of Marley's One Drop is donated to 1Love.org, a non-profit initiative sparked by the Marley family. 1Love.org is a flame that burns for youth, planet and peace, supporting charities that empower people to take action for sustainable and responsible living. With every sip of Marley's One Drop, you are helping the flame burn brighter. Manufactured in the USA.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Marley's",
+  "SIZE": "281 mL",
+  "EAN": "0857741002431",
+  "STATUS": "MATCHED"
  }
 }

@@ -103948,5 +103948,95 @@
  },
  "875422007537": {
   "STATUS": "UNMATCHED"
+ },
+ "875754000015": {
+  "FULL_NAME_FOUND": "Bauducco Chocolate Wafer",
+  "DESCRIPTION": "Everything started with a small bakery 65 years ago. Now the Bauducco family is proudly baking its wafers following the same original recipe as when they first started! Our delicious triple layered wafer recipe is unique because it is crispy, delicate and backed with the finest ingredients. No Artificial Colors or Flavors and no High Fructose corn syrup, Vegan, Lactose Free, Peanut Free, Kosher certified.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Bauducco",
+  "SIZE": "",
+  "EAN": "0875754000015",
+  "STATUS": "MATCHED"
+ },
+ "875754000022": {
+  "FULL_NAME_FOUND": "Bauducco Strawberry Wafers - 5.82oz",
+  "DESCRIPTION": "Everything started with a small bakery 65 years ago. Now the Bauducco family is proudly baking its wafers following the same original recipe as when they first started! Our delicious triple layered wafer recipe is unique because it is crispy, delicate and backed with the finest ingredients. No Artificial Colors or Flavors and no High Fructose corn syrup, Vegan, Lactose Free, Peanut Free, Kosher certified.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Bauducco",
+  "SIZE": "",
+  "EAN": "0875754000022",
+  "STATUS": "MATCHED"
+ },
+ "875754000039": {
+  "FULL_NAME_FOUND": "Bauducco Vanilla Wafers - Crispy Wafer Cookies With 3 Delicious",
+  "DESCRIPTION": "Everything started with a small bakery 65 years ago. Now the Bauducco family is proudly baking it’s wafers in the USA following the same original recipe. Our delicious triple layered wafer recipe is unique because it is crispy, delicate and backed with the finest ingredients. No Artificial Colors or Flavors and no High Fructose corn syrup, Vegan, Lactose Free, Peanut Free, Kosher certified.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Bauducco",
+  "SIZE": "",
+  "EAN": "0875754000039",
+  "STATUS": "MATCHED"
+ },
+ "875754000046": {
+  "FULL_NAME_FOUND": "Bauducco Wafer Selects Dulce De Leche",
+  "DESCRIPTION": "Wafer, Dulce de Leche, Selects, Wrapper 4.94 OZ Wafer with dulce de leche naturally flavored filling.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Bauducco",
+  "SIZE": "",
+  "EAN": "0875754000046",
+  "STATUS": "MATCHED"
+ },
+ "875754008301": {
+  "FULL_NAME_FOUND": "Bauducco Vanilla Wafer Cookie",
+  "DESCRIPTION": "Everything started with a small bakery 70 years ago. Now the Bauducco its wafers in the USA, following the same original recipe. Our delicious triple layered wafer recipe is unique because it is crispy, delicate and baked with the finest ingredients.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Bauducco",
+  "SIZE": "",
+  "EAN": "0875754008301",
+  "STATUS": "MATCHED"
+ },
+ "875754008318": {
+  "FULL_NAME_FOUND": "Bauducco Cookie Wafer Chocolate",
+  "DESCRIPTION": "Everything started with a small bakery 70 years ago. Now the Bauducco family is proudly baking its wafers in the USA following the same original recipe. Our delicious triple layered wafer recipe is unique because it is crispy delicate and baked with the finest ingredients. No high fructose corn syrup (made with real cane sugar).",
+  "CATEGORY": "Cookies",
+  "BRAND": "Bauducco",
+  "SIZE": "",
+  "EAN": "0875754008318",
+  "STATUS": "MATCHED"
+ },
+ "876045004057": {
+  "FULL_NAME_FOUND": "Guy Fieri Barbeque Sauce Sriracha Sweet & Spicy",
+  "DESCRIPTION": "Sweet and spicy Sriracha bbq sauce. From the hit series 'Diners, Drive-Ins, and Dives'. Guy Fieri front-and-center. Whether your customers prefer Guy Fieri® Sriracha barbecue sauce for dippin' chips or to jazz up grill night the off-the-hook flavor of this gourmet sauce encourages repeat performances. Eye-catching labels featuring Guy Fieri from 'Diners, Drive-Ins, and Dives' front-and-center maximizes the selling potential of this gourmet sweet and spicy bbq sauce.",
+  "CATEGORY": "Condiments & Sauces",
+  "BRAND": "Guy Fieri",
+  "SIZE": "",
+  "EAN": "0876045004057",
+  "STATUS": "MATCHED"
+ },
+ "876045004064": {
+  "FULL_NAME_FOUND": "Guy Fieri Barbecue Sauce, Apple",
+  "DESCRIPTION": "Smokey and sweet flavor profile. From the hit series Diners, Drive-Ins, and Dives. Gourmet apple bbq sauce is also gluten-free. With an off-the-hook combination of fruit flavors and smoke, Guy Fieri apple barbecue sauce is the perfect complement to chicken or pork. The wild and wicked flavor profile encourages repeat purchases and the eye-catching labels, featuring Guy Fieri from Diners, Drive-Ins, and Dives maximizes selling potential merchandised next to other brand favorites from this hit television series.",
+  "CATEGORY": "Condiments & Sauces",
+  "BRAND": "Guy Fieri",
+  "SIZE": "",
+  "EAN": "0876045004064",
+  "STATUS": "MATCHED"
+ },
+ "876063002035": {
+  "FULL_NAME_FOUND": "Muscle Milk Protein Shake, Zero Sugar, Non Dairy, Banana Creme 14 Fl Oz",
+  "DESCRIPTION": "Muscle Milk Genuine is an energizing protein shake that can be consumed as an on-the-go breakfast or anytime snack or to support post-workout recovery and muscle growth. It contains a combination of slow releasing and fast releasing proteins to help increase amino acid levels. These essential amino acids play a role in muscle growth. Also try adding your protein shake to coffee, smoothies or even oatmeal when you’re looking for a protein boost.",
+  "CATEGORY": "Bananas",
+  "BRAND": "Muscle Milk",
+  "SIZE": "",
+  "EAN": "0876063002035",
+  "STATUS": "MATCHED"
+ },
+ "876063002097": {
+  "FULL_NAME_FOUND": "Muscle Milk Protein Shake, Strawberries 'N Creme, Zero Sugar 14 Fl Oz",
+  "DESCRIPTION": "Muscle Milk Genuine is an energizing protein shake that can be consumed as an on-the-go breakfast or anytime snack or to support post-workout recovery and muscle growth. It contains a combination of slow releasing and fast releasing proteins to help increase amino acid levels. These essential amino acids play a role in muscle growth. Also try adding your protein shake to coffee, smoothies or even oatmeal when you’re looking for a protein boost.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Muscle Milk",
+  "SIZE": "12000 mL",
+  "EAN": "0876063002097",
+  "STATUS": "MATCHED"
  }
 }

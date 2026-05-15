@@ -102658,5 +102658,71 @@
   "SIZE": "",
   "EAN": "0855765001607",
   "STATUS": "MATCHED"
+ },
+ "855765001652": {
+  "FULL_NAME_FOUND": "Scent Bomb Air Freshener Fragrance Oil Tangerine Blast 30ml",
+  "DESCRIPTION": "Refreshing splashes of cooling tangerine power this sweet, juicy treat. Clean and fresh citrus joy! Extremely potent 100% pure oil formula makes any area smell amazing for days. 100% free of enhancers and alcohols. Lasts up to 300% longer than department store sprays.",
+  "CATEGORY": "Air Fresheners",
+  "BRAND": "Scent Bomb",
+  "SIZE": "",
+  "EAN": "0855765001652",
+  "STATUS": "MATCHED"
+ },
+ "855919003136": {
+  "STATUS": "UNMATCHED"
+ },
+ "856312002207": {
+  "FULL_NAME_FOUND": "Core Power Milk Shake, High Protein, Chocolate",
+  "DESCRIPTION": "Core Power is a delicious high protein milk shake made from simple ingredients. What makes Core Power one-of-a-kind is pure, fresh fairlife ultra-filtered milk. With high quality complete protein and all 9 essential amino acids, Core Power helps build lean muscle and supports healthy workout recovery. Core Power 26g is available in Chocolate, Vanilla, Strawberry Banana, and Banana. And if you're looking for more protein, try Core Power Elite with 42g of high quality complete protein available in Chocolate and Vanilla.",
+  "CATEGORY": "Nutrition Drinks & Shakes",
+  "BRAND": "Core Power",
+  "SIZE": "",
+  "EAN": "0856312002207",
+  "STATUS": "MATCHED"
+ },
+ "856312002221": {
+  "FULL_NAME_FOUND": "Core Power Milk Shake, High Protein, Vanilla 11.5 Oz",
+  "DESCRIPTION": "Core Power is a delicious high protein milk shake made from simple ingredients. What makes Core Power one-of-a-kind is pure, fresh fairlife ultra-filtered milk. With high quality complete protein and all 9 essential amino acids, Core Power helps build lean muscle and supports healthy workout recovery. Core Power 26g is available in Chocolate, Vanilla, Strawberry Banana, and Banana. And if you're looking for more protein, try Core Power Elite with 42g of high quality complete protein available in Chocolate and Vanilla.",
+  "CATEGORY": "Nutrition Drinks & Shakes",
+  "BRAND": "Core Power",
+  "SIZE": "",
+  "EAN": "0856312002221",
+  "STATUS": "MATCHED"
+ },
+ "856312002238": {
+  "FULL_NAME_FOUND": "Core Power Milk Shake, High Protein, Strawberry Banana 11.5 Oz",
+  "DESCRIPTION": "Core Power is a delicious high protein milk shake made from simple ingredients. What makes Core Power one-of-a-kind is pure, fresh fairlife ultra-filtered milk. With high quality complete protein and all 9 essential amino acids, Core Power helps build lean muscle and supports healthy workout recovery. Core Power 26g is available in Chocolate, Vanilla, Strawberry Banana, and Banana. And if you're looking for more protein, try Core Power Elite with 42g of high quality complete protein available in Chocolate and Vanilla.",
+  "CATEGORY": "Nutrition Drinks & Shakes",
+  "BRAND": "Core Power",
+  "SIZE": "",
+  "EAN": "0856312002238",
+  "STATUS": "MATCHED"
+ },
+ "856342004004": {
+  "STATUS": "UNMATCHED"
+ },
+ "856342004011": {
+  "STATUS": "UNMATCHED"
+ },
+ "856342004028": {
+  "STATUS": "UNMATCHED"
+ },
+ "856414001955": {
+  "FULL_NAME_FOUND": "Mayte Plantain Strips, Salted 2.5 Oz",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Chips",
+  "BRAND": "Mayte",
+  "SIZE": "",
+  "EAN": "0856414001955",
+  "STATUS": "MATCHED"
+ },
+ "856424000108": {
+  "FULL_NAME_FOUND": "Pressel's Dream Pretzels Original Thin & Crispy Chips - Case Of 12/7.1 Oz",
+  "DESCRIPTION": "Baked with the finest ingredients, Pressels Sea Salt Pretzels offer a better-for-you option to traditional fried snacks. Pressels Sea Salt Pretzels are thin, crispy, and studded with sea salt granules for a classic but bold flavor. Pressels Sea Salt Pretzels can be used to make a unique party mix or eaten right out of the bag.",
+  "CATEGORY": "Pretzels",
+  "BRAND": "Pressel's",
+  "SIZE": "",
+  "EAN": "0856424000108",
+  "STATUS": "MATCHED"
  }
 }

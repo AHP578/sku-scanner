@@ -103582,5 +103582,71 @@
   "SIZE": "",
   "EAN": "0861007240321",
   "STATUS": "MATCHED"
+ },
+ "862871000332": {
+  "FULL_NAME_FOUND": "Caulipower Stone Fired Cauliflower Crust Veggie Pizza 11.85 Oz",
+  "DESCRIPTION": "Ripe red, yellow and green peppers top a thick bed of melty mozzarella cheese and rich, savory sauce made with vine-ripened tomatoes, garlic, extra virgin olive oil and spices. All on a cauliflower-based crust!",
+  "CATEGORY": "Prepared Foods",
+  "BRAND": "Caulipower",
+  "SIZE": "",
+  "EAN": "0862871000332",
+  "STATUS": "MATCHED"
+ },
+ "865891000108": {
+  "FULL_NAME_FOUND": "Kitu Super Coffee Protein + MCT Oil Original",
+  "DESCRIPTION": "Sunniva Super Coffee Coffee Black Brew Bottle. For Use For Automatic Drip & Single Serve Coffeemakers. This product is manufactured in United States.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Kitu",
+  "SIZE": "200 mL",
+  "EAN": "0865891000108",
+  "STATUS": "MATCHED"
+ },
+ "865891000122": {
+  "FULL_NAME_FOUND": "Super Coffee Positive Energy Enhanced Hazelnut Latte 12 Fl Oz",
+  "DESCRIPTION": "Super Coffee is a delicious blend of real ingredients for all day energy. Sugar free, lactose free, soy free, and gluten free, with 10 grams of protein. Cheers to energy that inspires your best you!",
+  "CATEGORY": "Coffee",
+  "BRAND": "Super Coffee",
+  "SIZE": "355 mL",
+  "EAN": "0865891000122",
+  "STATUS": "MATCHED"
+ },
+ "865891000146": {
+  "FULL_NAME_FOUND": "Super Coffee Positive Energy Enhanced Vanilla Latte 12 Fl Oz",
+  "DESCRIPTION": "Vanilla Latte Super Coffee is packed with 200mg of caffeine, 10g of plant-based protein and 0g of added sugar. The perfect keto coffee for a low carb, high protein diet. While other bottled coffees load up on added sugar and other unhealthy ingredients, Super Coffee combines iced coffee, added protein, MCT oil and just a touch of monk fruit and stevia, to bring you the latest in latte innovation. This smart protein coffee will give you sustained energy to keep you fueled all day.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Super Coffee",
+  "SIZE": "355 mL",
+  "EAN": "0865891000146",
+  "STATUS": "MATCHED"
+ },
+ "865891000153": {
+  "FULL_NAME_FOUND": "Super Coffee Positive Energy Enhanced Mocha Latte 12 Fl Oz",
+  "DESCRIPTION": "Mocha Latte Super Coffee is packed with 200mg of caffeine, 10g of plant-based protein and 0g of added sugar. The perfect keto coffee for a low carb, high protein diet. While other bottled coffees load up on added sugar and other unhealthy ingredients, Super Coffee combines iced coffee, added protein, MCT oil and just a touch of monk fruit and stevia, to bring you the latest in latte innovation. This smart protein coffee will give you sustained energy to keep you fueled all day.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Super Coffee",
+  "SIZE": "355 mL",
+  "EAN": "0865891000153",
+  "STATUS": "MATCHED"
+ },
+ "866630000335": {
+  "STATUS": "UNMATCHED"
+ },
+ "866630000380": {
+  "FULL_NAME_FOUND": "Myle Like Juul-device Pod Vape E Cig-device + Charger One Pod",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Massage & Relaxation",
+  "BRAND": "Myle",
+  "SIZE": "",
+  "EAN": "0866630000380",
+  "STATUS": "MATCHED"
+ },
+ "868509000101": {
+  "STATUS": "UNMATCHED"
+ },
+ "868509000125": {
+  "STATUS": "UNMATCHED"
+ },
+ "868509000132": {
+  "STATUS": "UNMATCHED"
  }
 }

@@ -103726,5 +103726,83 @@
   "SIZE": "",
   "EAN": "0868654155008",
   "STATUS": "MATCHED"
+ },
+ "868654155107": {
+  "FULL_NAME_FOUND": "Royal Snacks Assorted Fruit Chews - 44 Calories",
+  "DESCRIPTION": "Royal Snacks, Assorted Fruit Chews is manufactured by Other with a suggested serving size of 10 Grm (10 G) and has 44 calories per serving.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Royal Snacks",
+  "SIZE": "",
+  "EAN": "0868654155107",
+  "STATUS": "MATCHED"
+ },
+ "868654251038": {
+  "FULL_NAME_FOUND": "Royal Snacks Roasted & Salted Pistachios",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "Royal Snacks",
+  "SIZE": "",
+  "EAN": "0868654251038",
+  "STATUS": "MATCHED"
+ },
+ "868654251083": {
+  "FULL_NAME_FOUND": "Royal Snacks Raw Almonds",
+  "DESCRIPTION": "Raw Almonds is manufactured by Other with a suggested serving size of 1 Onz (28 G) and has 160 calories per serving.",
+  "CATEGORY": "Nuts & Seeds",
+  "BRAND": "Royal Snacks",
+  "SIZE": "",
+  "EAN": "0868654251083",
+  "STATUS": "MATCHED"
+ },
+ "868654254138": {
+  "FULL_NAME_FOUND": "Royal Orange Slices",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0868654254138",
+  "STATUS": "MATCHED"
+ },
+ "868654254213": {
+  "STATUS": "UNMATCHED"
+ },
+ "868654254282": {
+  "STATUS": "UNMATCHED"
+ },
+ "868654255005": {
+  "FULL_NAME_FOUND": "Assorted Jolly Rancher",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0868654255005",
+  "STATUS": "MATCHED"
+ },
+ "868654255043": {
+  "FULL_NAME_FOUND": "Mint Puffs - 60 Calories",
+  "DESCRIPTION": "Mint Puffs is manufactured by Other with a suggested serving size of 15 Grm (15 G) and has 60 calories per serving.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0868654255043",
+  "STATUS": "MATCHED"
+ },
+ "868654255067": {
+  "FULL_NAME_FOUND": "Royal Starlight Mints",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0868654255067",
+  "STATUS": "MATCHED"
+ },
+ "868654255081": {
+  "FULL_NAME_FOUND": "Royal Asst Saltwater Taffy",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0868654255081",
+  "STATUS": "MATCHED"
  }
 }

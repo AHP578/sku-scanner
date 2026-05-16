@@ -107458,5 +107458,95 @@
   "SIZE": "665 mL",
   "EAN": "0613008735012",
   "STATUS": "MATCHED"
+ },
+ "613008735302": {
+  "FULL_NAME_FOUND": "AriZona Arnold Palmer Strawberry Half & Half, Iced Tea/Lemonade",
+  "DESCRIPTION": "The great taste of Arizona in all their 37 unique flavours. Sure to make your tastebuds freak with flavour.",
+  "CATEGORY": "Beverages",
+  "BRAND": "AriZona",
+  "SIZE": "710 mL",
+  "EAN": "0613008735302",
+  "STATUS": "MATCHED"
+ },
+ "613008735470": {
+  "FULL_NAME_FOUND": "AriZona Ice Tea With Raspberry Flavor 680 Ml",
+  "DESCRIPTION": "Made with real raspberry juice and 100% premium brewed tea, it's the perfect balance of sweet and brisk. A flavorful twist on ordinary tea. Arizona Raspberry Tea is the product you want to have in the fridge when you're seeking instant refreshment.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "AriZona",
+  "SIZE": "680 mL",
+  "EAN": "0613008735470",
+  "STATUS": "MATCHED"
+ },
+ "613008745905": {
+  "FULL_NAME_FOUND": "AriZona Green Tea, Cucumber, With Citrus",
+  "DESCRIPTION": "AriZona Green Tea is looking and tasting cool as a cucumber with this revamp. Cucumber Green Tea with Citrus is light and refreshing with a clean finish, keeping you well hydrated while getting your Green Tea fix.",
+  "CATEGORY": "Cucumbers",
+  "BRAND": "AriZona",
+  "SIZE": "",
+  "EAN": "0613008745905",
+  "STATUS": "MATCHED"
+ },
+ "613008756420": {
+  "FULL_NAME_FOUND": "AriZona Green Tea, With Ginseng And Honey, Real Brewed 23 Fl Oz",
+  "DESCRIPTION": "Born in the heart of Brooklyn, AriZona Beverages came onto the scene with a fresh take on iced tea, which has now taken the world by storm. Since 1992, we've made it our mission to bring our customers great-tasting products, using top-quality ingredients, presented in uniquely designed packaging. All of which has been skillfully produced and made affordable to everyone.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "AriZona",
+  "SIZE": "680 mL",
+  "EAN": "0613008756420",
+  "STATUS": "MATCHED"
+ },
+ "613008756444": {
+  "FULL_NAME_FOUND": "AriZona Herbal Tonic, Rx Energy",
+  "DESCRIPTION": "Arizona 22oz Non-Prcd RX Energy Herbal T, wholesale, bulk - Unit per pack 24.",
+  "CATEGORY": "Beverages",
+  "BRAND": "AriZona",
+  "SIZE": "680 mL",
+  "EAN": "0613008756444",
+  "STATUS": "MATCHED"
+ },
+ "613008756499": {
+  "FULL_NAME_FOUND": "AriZona Iced Tea With Lemon Flavor 22oz Can",
+  "DESCRIPTION": "This is the tea that put Arizona on the map. The secret to our success? We keep it simple. Arizona Lemon Tea is made from real black tea and natural lemon flavor that help to create the slightly sweet, refreshing flavor of sun brewed tea style. When you drink Arizona Lemon Tea, you’ll experience a perfectly balanced blend of tea and lemon. This tasty beverage is stored in a 23 Oz big can that will be more than enough to quench your thirst. Arizona Lemon Tea is the product you want to have in the fridge when you’re seeking instant refreshment.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "AriZona",
+  "SIZE": "680 mL",
+  "EAN": "0613008756499",
+  "STATUS": "MATCHED"
+ },
+ "613008766733": {
+  "FULL_NAME_FOUND": "Arizona 680 mL Green Tea With Ginseng & Honey",
+  "DESCRIPTION": "Arizona Green Tea with Ginseng and Honey (680mL) is a harmonious blend of green tea, revitalizing ginseng, and sweet honey. This iconic beverage offers a refreshing and energizing experience with every sip, combining the natural benefits of green tea and ginseng with the delightful sweetness of honey. Perfectly balanced in a generous 680mL size, it’s an invigorating choice for any occasion, whether you’re relaxing at home or on the move.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "Arizona",
+  "SIZE": "680 mL",
+  "EAN": "0613008766733",
+  "STATUS": "MATCHED"
+ },
+ "613008771713": {
+  "FULL_NAME_FOUND": "AriZona Frost ChillZicle Juice Cocktail",
+  "DESCRIPTION": "A frosty fusion of tart and sweet berries, the beloved ChillZicle juice adds a hint of vanilla flavor for a cool and refreshing contrast.",
+  "CATEGORY": "Juice",
+  "BRAND": "AriZona",
+  "SIZE": "651 mL",
+  "EAN": "0613008771713",
+  "STATUS": "MATCHED"
+ },
+ "613008773014": {
+  "FULL_NAME_FOUND": "AriZona 22 Fl. Oz. Dragonfruit Mango Juice Cocktail",
+  "DESCRIPTION": "Arizona Dragonfruit Mango is a tropical explosion of flavor – sweet mango meets exotic dragon fruit in this refreshing iced tea. Naturally flavored, made with real fruit juice and packed in Arizona’s iconic tall can, this drink is perfect for those who crave fruity refreshment without caffeine.",
+  "CATEGORY": "Juice",
+  "BRAND": "AriZona",
+  "SIZE": "650 mL",
+  "EAN": "0613008773014",
+  "STATUS": "MATCHED"
+ },
+ "613008774110": {
+  "FULL_NAME_FOUND": "AriZona 22 Fl. Oz. Whipped Pineapple Orange Fruit Juice Cocktail",
+  "DESCRIPTION": "An extra creamy swirl of milk brings the smoothie taste out of Whipped Pineapple Orange Juice Cocktail, made with real juice for a fresh, tropical blend of tarty fruits and dessert-level sweetness.",
+  "CATEGORY": "Juice",
+  "BRAND": "AriZona",
+  "SIZE": "651 mL",
+  "EAN": "0613008774110",
+  "STATUS": "MATCHED"
  }
 }

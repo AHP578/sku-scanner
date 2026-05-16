@@ -105658,5 +105658,83 @@
  },
  "891164002999": {
   "STATUS": "UNMATCHED"
+ },
+ "891672000029": {
+  "FULL_NAME_FOUND": "Bemar Fried Pork Skins",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Chips",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0891672000029",
+  "STATUS": "MATCHED"
+ },
+ "891672000036": {
+  "FULL_NAME_FOUND": "Bemar Snacks Fried Pork Skins",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Pork Rinds",
+  "BRAND": "Bemar Snacks",
+  "SIZE": "",
+  "EAN": "0891672000036",
+  "STATUS": "MATCHED"
+ },
+ "891672000074": {
+  "FULL_NAME_FOUND": "Mofongo Chip",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Chips",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0891672000074",
+  "STATUS": "MATCHED"
+ },
+ "891672000081": {
+  "FULL_NAME_FOUND": "Bemar Snacks Party Mix",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Snack Foods",
+  "BRAND": "Bemar Snacks",
+  "SIZE": "",
+  "EAN": "0891672000081",
+  "STATUS": "MATCHED"
+ },
+ "891672000104": {
+  "FULL_NAME_FOUND": "Bemar Pork Cracklins",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Chips",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0891672000104",
+  "STATUS": "MATCHED"
+ },
+ "891672000159": {
+  "FULL_NAME_FOUND": "Bemar Snacks Plantain Salted",
+  "DESCRIPTION": "Brand Bemar Snacks Flavor Salted Unit Count 24.00 Count Number of Items 24 Type Potato Chip. Returns and refunds will only be issued for damaged products and photos must be provided.",
+  "CATEGORY": "Chips",
+  "BRAND": "Bemar Snacks",
+  "SIZE": "",
+  "EAN": "0891672000159",
+  "STATUS": "MATCHED"
+ },
+ "891672000166": {
+  "FULL_NAME_FOUND": "Bemar Snacks Sweet Plantain - 3 Oz. - Box: 24 Units - Loc: P2",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Chips",
+  "BRAND": "Bemar Snacks",
+  "SIZE": "",
+  "EAN": "0891672000166",
+  "STATUS": "MATCHED"
+ },
+ "891672000173": {
+  "FULL_NAME_FOUND": "Bemar Snacks Plantain Garlic",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Chips",
+  "BRAND": "Bemar Snacks",
+  "SIZE": "",
+  "EAN": "0891672000173",
+  "STATUS": "MATCHED"
+ },
+ "891672000180": {
+  "STATUS": "UNMATCHED"
+ },
+ "891672000210": {
+  "STATUS": "UNMATCHED"
  }
 }

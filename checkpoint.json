@@ -106540,5 +106540,59 @@
  },
  "978681273917": {
   "STATUS": "UNMATCHED"
+ },
+ "098000100127": {
+  "FULL_NAME_FOUND": "Brisk Iced Tea, Blueberry Pomegranate",
+  "DESCRIPTION": "Brisk Iced Tea 1 Ltr Blueberry Pomegr, wholesale, bulk - Unit per pack 15.",
+  "CATEGORY": "Pomegranates",
+  "BRAND": "Brisk",
+  "SIZE": "",
+  "EAN": "0098000100127",
+  "STATUS": "MATCHED"
+ },
+ "098100100423": {
+  "FULL_NAME_FOUND": "Starbucks Coffee Beverage, Energy, Rich Vanilla, Triple Blend 11 Fl Oz",
+  "DESCRIPTION": "Savor the bold, irresistible flavor of Starbucks coffee drinks—each sip a testament to the rich, familiar tastes you love. Whether it's the classic brew or a specialty blend, this indulgence brings the Starbucks experience to you, wherever you are. Elevate your moment with the unmistakable taste of Starbucks, proving that a touch of coffee perfection is always within reach.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Starbucks",
+  "SIZE": "325 mL",
+  "EAN": "0098100100423",
+  "STATUS": "MATCHED"
+ },
+ "983274381931": {
+  "STATUS": "UNMATCHED"
+ },
+ "987654321098": {
+  "FULL_NAME_FOUND": "Wiseco Sun Gak Crackers",
+  "DESCRIPTION": "Indulge in our premium Choco Special Date Balls, a sophisticated confection that marries traditional Middle Eastern flavors with contemporary chocolate craftsmanship. Each 500g box contains exquisite date-based centers infused with aromatic cardamom and precious saffron, enrobed in rich chocolate. The creamy filling delivers a luxurious mouthfeel while the warm spice notes create an elegant complexity. Perfect for gifting or personal enjoyment, these artisanal treats showcase the finest ingredients and meticulous preparation. An exceptional choice for those who appreciate refined taste and authentic flavor profiles.",
+  "CATEGORY": "Motor Vehicle Engine Parts",
+  "BRAND": "Wiseco",
+  "SIZE": "",
+  "EAN": "0987654321098",
+  "STATUS": "MATCHED"
+ },
+ "099900801008": {
+  "FULL_NAME_FOUND": "Baby Ruth Candy Bar 2 Piece Share Pack (Case Of 18)",
+  "DESCRIPTION": "Present in 189 countries around the world, with more than 2000 brands ranging from global icons to local favourites. Created In 1920, Baby Ruth is an American candy bar made of peanuts, caramel, and milk chocolate-flavoured nougat, covered in compound chocolate.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Baby Ruth",
+  "SIZE": "",
+  "EAN": "0099900801008",
+  "STATUS": "MATCHED"
+ },
+ "999919403111": {
+  "STATUS": "UNMATCHED"
+ },
+ "999919405412": {
+  "STATUS": "UNMATCHED"
+ },
+ "999919407119": {
+  "STATUS": "UNMATCHED"
+ },
+ "999919407614": {
+  "STATUS": "UNMATCHED"
+ },
+ "999919407713": {
+  "STATUS": "UNMATCHED"
  }
 }

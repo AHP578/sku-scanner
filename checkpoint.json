@@ -105244,5 +105244,95 @@
   "SIZE": "",
   "EAN": "0888109256050",
   "STATUS": "MATCHED"
+ },
+ "888109300241": {
+  "FULL_NAME_FOUND": "Dolly Madison Golden Creme Cake",
+  "DESCRIPTION": "Verifica Halalestado dePastel de crema dorada individual Dolly Madison, 2.7 onzas. Es de Singapur, de la marca DOLLY, y se clasifica como Despensa, Comidas listas para consumir y Pastel.",
+  "CATEGORY": "Snack Cakes",
+  "BRAND": "Dolly Madison",
+  "SIZE": "",
+  "EAN": "0888109300241",
+  "STATUS": "MATCHED"
+ },
+ "888670017012": {
+  "FULL_NAME_FOUND": "Wellsley Farms Dairy Pure Whole Milk, 1 Gal",
+  "DESCRIPTION": "Keep a carton of Wellsley Farms 1 Gal. Dairy Pure Whole Milk in your fridge, so you can easily help yourself to a glass of the good stuff. This milk comes from antibiotic-free, quality-tested sources to ensure a rich, creamy taste and high nutritional value. Made from grad A whole milk, Wellsley Farms milk is high in calcium.",
+  "CATEGORY": "Milk",
+  "BRAND": "Wellsley Farms",
+  "SIZE": "",
+  "EAN": "0888670017012",
+  "STATUS": "MATCHED"
+ },
+ "888670044841": {
+  "FULL_NAME_FOUND": "Wellsley Farms Original Seltzer Water",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "Wellsley Farms",
+  "SIZE": "",
+  "EAN": "0888670044841",
+  "STATUS": "MATCHED"
+ },
+ "888670047958": {
+  "FULL_NAME_FOUND": "Sparkling Seltzer Water",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0888670047958",
+  "STATUS": "MATCHED"
+ },
+ "888670047965": {
+  "FULL_NAME_FOUND": "Wellsley Farms Sparkling Seltzer Water",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "Wellsley Farms",
+  "SIZE": "",
+  "EAN": "0888670047965",
+  "STATUS": "MATCHED"
+ },
+ "888670047972": {
+  "FULL_NAME_FOUND": "Wellsley Farms Sparkling Lime Seltzer Water",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "Wellsley Farms",
+  "SIZE": "",
+  "EAN": "0888670047972",
+  "STATUS": "MATCHED"
+ },
+ "888670081808": {
+  "FULL_NAME_FOUND": "Whole Milk",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0888670081808",
+  "STATUS": "MATCHED"
+ },
+ "888670098837": {
+  "FULL_NAME_FOUND": "Wellsley Farms Light Cream 18",
+  "DESCRIPTION": "Made in USAThe Wellsley Farms Light Cream is carefully made with milk and cream from family farms that care about the quality of their milk. With just a drop in your coffee you will feel the smooth texture and the creamy flavor you will love. This light cream is also your best ally for cooking and baking. Its creaminess and soft texture will elevate your dishes, cakes and other delicious goods even with just a few drops. It is the perfect balance between the Wellsley Farms Half and Half and Heavy Whipping Cream. Made without carrageenan, the Light Cream 18% is always made with the best ingredients to serve only the highest quality products. This milk is sourced from local farms, to make sure that you get the very best and freshest quality. Try it, taste it and you will love it. It will certainly become a staple in your household.",
+  "CATEGORY": "Dairy Products",
+  "BRAND": "Wellsley Farms",
+  "SIZE": "",
+  "EAN": "0888670098837",
+  "STATUS": "MATCHED"
+ },
+ "888670162149": {
+  "FULL_NAME_FOUND": "BJ Ultra Strong Paper Towels",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Paper Towels",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0888670162149",
+  "STATUS": "MATCHED"
+ },
+ "888849000432": {
+  "FULL_NAME_FOUND": "Quest Cinnamon Roll Flavor Protein Bar 2.12 Oz. Wrapper",
+  "DESCRIPTION": "Quest Protein Bars are made with complete, dairy-based proteins and feature custom made chocolate flavored chips, cookie chunks and other inclusions. You don't have to wait for the pan to cool to enjoy the sweet and cinnamony taste of a cinnamon roll, because our bar has 20g of protein and only 1g of sugar.",
+  "CATEGORY": "Pastries & Scones",
+  "BRAND": "Quest",
+  "SIZE": "",
+  "EAN": "0888849000432",
+  "STATUS": "MATCHED"
  }
 }

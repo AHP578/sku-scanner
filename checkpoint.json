@@ -107140,5 +107140,59 @@
  },
  "317000550696": {
   "STATUS": "UNMATCHED"
+ },
+ "317000551518": {
+  "STATUS": "UNMATCHED"
+ },
+ "317000551754": {
+  "STATUS": "UNMATCHED"
+ },
+ "317000556186": {
+  "STATUS": "UNMATCHED"
+ },
+ "323900014251": {
+  "FULL_NAME_FOUND": "Vicks NyQuil Cold & Flu Nighttime Relief, Cherry Flavor Liquid, 8 Fl Oz",
+  "DESCRIPTION": "Temporarily relieves common cold and flu symptoms including cough due to minor throat and bronchial irritation, sore throat, headache, minor aches and pains, fever, runny nose and sneezing. Nyquil liquid is available in three flavors original, cherry and vanilla cherry swirl. When using Dayquil or Nyquil products, carefully read each label to insure correct dosing use as directed keep out of reach of children.",
+  "CATEGORY": "Wine",
+  "BRAND": "Vicks",
+  "SIZE": "237 mL",
+  "EAN": "0323900014251",
+  "STATUS": "MATCHED"
+ },
+ "352873651682": {
+  "STATUS": "UNMATCHED"
+ },
+ "409000006874": {
+  "STATUS": "UNMATCHED"
+ },
+ "412710256200": {
+  "STATUS": "UNMATCHED"
+ },
+ "600209838185": {
+  "FULL_NAME_FOUND": "Beemer Hemp Wraps",
+  "DESCRIPTION": "Beamer blunt vegan son hojas de hemp para rolar, hechos de cañamo, 100% libres de tabaco, tamaño 1/4. Paquete con 4 pz.",
+  "CATEGORY": "Tortillas & Wraps",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0600209838185",
+  "STATUS": "MATCHED"
+ },
+ "605369002346": {
+  "FULL_NAME_FOUND": "Handi Flame Refillable Lighter",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Lighters & Matches",
+  "BRAND": "Handi Flame",
+  "SIZE": "",
+  "EAN": "0605369002346",
+  "STATUS": "MATCHED"
+ },
+ "605369401200": {
+  "FULL_NAME_FOUND": "Diamond Vision Slant Torch Lighter (Mini) (Metallic)",
+  "DESCRIPTION": "Metallic, solid-color finishRemovable capAdjustable flameRefillable fuel tankApproximately 3\" H x 0.75\" W x 2.25\" D.",
+  "CATEGORY": "Lighters & Matches",
+  "BRAND": "Diamond Vision",
+  "SIZE": "",
+  "EAN": "0605369401200",
+  "STATUS": "MATCHED"
  }
 }

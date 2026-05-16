@@ -106378,5 +106378,89 @@
   "SIZE": "",
   "EAN": "0090600000166",
   "STATUS": "MATCHED"
+ },
+ "090600000173": {
+  "FULL_NAME_FOUND": "USA Gold Light Pack",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "USA Gold",
+  "SIZE": "",
+  "EAN": "0090600000173",
+  "STATUS": "MATCHED"
+ },
+ "090600000432": {
+  "FULL_NAME_FOUND": "Fortuna Menthol King",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Household Supplies",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0090600000432",
+  "STATUS": "MATCHED"
+ },
+ "090600000494": {
+  "FULL_NAME_FOUND": "Port Authority C908 Watch Cap, Navy - One Size",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Shoe Accessories",
+  "BRAND": "Port Authority",
+  "SIZE": "",
+  "EAN": "0090600000494",
+  "STATUS": "MATCHED"
+ },
+ "090600000760": {
+  "FULL_NAME_FOUND": "Sonoma Cigarettes, Class A",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Sonoma",
+  "SIZE": "",
+  "EAN": "0090600000760",
+  "STATUS": "MATCHED"
+ },
+ "090600000906": {
+  "FULL_NAME_FOUND": "Fortuna Blue 100 Box Pack",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Fortuna",
+  "SIZE": "",
+  "EAN": "0090600000906",
+  "STATUS": "MATCHED"
+ },
+ "090600000913": {
+  "FULL_NAME_FOUND": "Fortuna Menthol 100",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Household Supplies",
+  "BRAND": "Fortuna",
+  "SIZE": "",
+  "EAN": "0090600000913",
+  "STATUS": "MATCHED"
+ },
+ "090600391608": {
+  "FULL_NAME_FOUND": "Crowns Cigarettes Red King",
+  "DESCRIPTION": "Crowns Red BX 100Experience the exquisite taste of Crowns Red BX 100, a special blend of cigarettes that comes in limited-release numbered bottles. Crafted from the last batch of whiskey distilled at the historic Waterloo distillery, each smoke is a testament to quality and craftsmanship.Available at Texas Wholesale, your go-to grocery wholesale store for convenience, grocery, and smoke shop items. Discover the rich flavor and smooth draw of Crowns Red BX 100, perfect for those seeking a premium smoking experience.Embrace the heritage associated with the red phone box, symbolizing the British government, as you indulge in the unparalleled flavor of Crowns Red BX. Whether you're looking for a duty-free purchase or a special treat, this pack of cigarettes is sure to satisfy.Don't miss out on the chance to elevate your smoking experience with Crowns Red BX 100. Order now and enjoy the sophistication and richness of this premium cigarette blend.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Crowns",
+  "SIZE": "",
+  "EAN": "0090600391608",
+  "STATUS": "MATCHED"
+ },
+ "090600391622": {
+  "FULL_NAME_FOUND": "Crown S Gold Box Pk",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Crown",
+  "SIZE": "",
+  "EAN": "0090600391622",
+  "STATUS": "MATCHED"
+ },
+ "090600391707": {
+  "FULL_NAME_FOUND": "Crowns Green Box",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "Crowns",
+  "SIZE": "",
+  "EAN": "0090600391707",
+  "STATUS": "MATCHED"
+ },
+ "091037172129": {
+  "STATUS": "UNMATCHED"
  }
 }

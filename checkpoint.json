@@ -105424,5 +105424,89 @@
   "SIZE": "",
   "EAN": "0888849012176",
   "STATUS": "MATCHED"
+ },
+ "888849012213": {
+  "FULL_NAME_FOUND": "Quest Frosted Cookies Chocolate Cake Flavor 50g",
+  "DESCRIPTION": "The indulgent tastes of Chocolate Cake or Birthday Cake - in a cookie. Quest Frosted Cookies satisfy your hunger with 5g of protein, and your sweet tooth, with less than 1g of sugar and 1g of net carbs.",
+  "CATEGORY": "Cookies",
+  "BRAND": "Quest",
+  "SIZE": "",
+  "EAN": "0888849012213",
+  "STATUS": "MATCHED"
+ },
+ "888849015986": {
+  "FULL_NAME_FOUND": "Quest Chocolate Protein Milkshake 14 Fl Oz",
+  "DESCRIPTION": "Rich chocolate flavor. 45g protein with only 2g sugar. Keto-friendly. Quest Chocolate Protein Milkshake blends clean nutrition with a rich chocolatey flavor. Each ready-to-drink bottle delivers 45g of protein with only 2g of sugar, making it ideal for busy, health-conscious lifestyles. Great for curbing cravings, the shake is gluten-free and low in carbs. And with Quest branding, customers know that they're getting a protein packed beverage that will fuel them throughout the day.",
+  "CATEGORY": "Nutrition Drinks & Shakes",
+  "BRAND": "Quest",
+  "SIZE": "",
+  "EAN": "0888849015986",
+  "STATUS": "MATCHED"
+ },
+ "888849016020": {
+  "FULL_NAME_FOUND": "Quest Protein Milkshake, Vanilla 14 Fl Oz",
+  "DESCRIPTION": "Cheat on milkshakes with milkshakes. Quest Vanilla Flavored Protein Milkshakes deliver rich, smooth indulgence with the macros you’d expect from Quest. Each serving features a whopping 45g of protein. And with 2g of sugar and 3g of net carbs, these protein shakes are the ultimate cheat code. Made with ultra-filtered milk, they’re just right for whenever you need a delicious protein boost. Whether it’s snack time, post-workout, or dessert, enjoy the sweet, satisfying taste you love while crushing your protein goals.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Quest",
+  "SIZE": "414 mL",
+  "EAN": "0888849016020",
+  "STATUS": "MATCHED"
+ },
+ "888849016068": {
+  "FULL_NAME_FOUND": "Quest Protein Milkshake, Strawberry 14 Fl Oz",
+  "DESCRIPTION": "Sweet strawberry flavor. 45g protein with only 2g sugar. Keto-friendly. Bring clean nutrition with a sweet strawberry flavor to your Grab & Go assortment with Quest Strawberry Protein Milkshake. Each ready-to-drink bottle delivers 45g of protein with only 2g of sugar, fitting today's active lifestyles. Great for curbing cravings, the shake is gluten-free and low in carbs. Bright colors and known Questing branding stands out in your assortment.",
+  "CATEGORY": "Fitness & Nutrition",
+  "BRAND": "Quest",
+  "SIZE": "",
+  "EAN": "0888849016068",
+  "STATUS": "MATCHED"
+ },
+ "889368001009": {
+  "STATUS": "UNMATCHED"
+ },
+ "889392000283": {
+  "FULL_NAME_FOUND": "Celsius Sparkling Cola Energy Drink 12 Fl Oz",
+  "DESCRIPTION": "CELSIUS is functional, Essential Energy, a better-for-you, premium alternative to traditional energy drinks. As a global, lifestyle fitness drink, CELSIUS was created to help people LIVE FIT, exceed their goals and elevate their everyday lives. Made with proven, premium ingredients, 7 Essential Vitamins and zero sugar, no artificial colors, no aspartame, no high fructose corn syrup and non-GMO. CELSIUS is vegan, gluten-free and Kosher. Our proprietary MetaPlus blend contains green tea extract with EGCG. It also includes guarana seed extract, ginger root for flavor and digestion, vitamin C to help support your immune system, vitamin B for energy production, and chromium to help control hunger, making it an ideal pre-workout drink. Enjoy the classic, nostalgic, crisp and delicious Cola taste we all know and love, without any of the guilt! Made with clinically proven ingredients, this carbonated flavor of CELSIUS has the perfect balance of flavor and energy that serves as an awesome pick-me-up for active lifestyles. Make CELSIUS your go-to choice for Essential Energy! CELSIUS is available in 12 oz. slim cans and sold in a 12-pack for convenience.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Celsius",
+  "SIZE": "355 mL",
+  "EAN": "0889392000283",
+  "STATUS": "MATCHED"
+ },
+ "889497632129": {
+  "FULL_NAME_FOUND": "Nutrament Energy Nutrition Drink, Chocolate 12 Fl Oz",
+  "DESCRIPTION": "Chocolate is loaded with enough vitamins, minerals and protein to make the most of your morning, afternoon or night. It’s like a chocolate milkshake that shouts, “It’s go time!”.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Nutrament",
+  "SIZE": "355 mL",
+  "EAN": "0889497632129",
+  "STATUS": "MATCHED"
+ },
+ "889497633126": {
+  "FULL_NAME_FOUND": "Nutrament Energy Nutrition Drink, Vanilla 12 Fl Oz",
+  "DESCRIPTION": "Stay energized with Nutrament Vanilla Energy Drink. Packed with protein, vitamins, and minerals, it’s the perfect meal replacement or post-workout boost.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Nutrament",
+  "SIZE": "355 mL",
+  "EAN": "0889497633126",
+  "STATUS": "MATCHED"
+ },
+ "889497634123": {
+  "FULL_NAME_FOUND": "Nutrament Energy Nutrition Drink, Strawberry 12 Fl Oz",
+  "DESCRIPTION": "Nutrament is The Energy Nutrition Drink that keeps you going through your active day. Perfect as a delicious snack, mini meal or post workout beverage. Just chill the can & shake vigorously to release the inner power.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Nutrament",
+  "SIZE": "312 mL",
+  "EAN": "0889497634123",
+  "STATUS": "MATCHED"
+ },
+ "889497635120": {
+  "FULL_NAME_FOUND": "Nutrament Energy Nutrition Drink, Banana 12 Fl Oz",
+  "DESCRIPTION": "Nutrament is The Energy Nutrition Drink that keeps you going through your active day. Perfect as a delicious snack, mini meal or post workout beverage.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Nutrament",
+  "SIZE": "355 mL",
+  "EAN": "0889497635120",
+  "STATUS": "MATCHED"
  }
 }

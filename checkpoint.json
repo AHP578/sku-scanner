@@ -107404,5 +107404,59 @@
  },
  "611968888007": {
   "STATUS": "UNMATCHED"
+ },
+ "611968888014": {
+  "STATUS": "UNMATCHED"
+ },
+ "611968888021": {
+  "STATUS": "UNMATCHED"
+ },
+ "611968888038": {
+  "STATUS": "UNMATCHED"
+ },
+ "611968888045": {
+  "STATUS": "UNMATCHED"
+ },
+ "611968888526": {
+  "STATUS": "UNMATCHED"
+ },
+ "612352962693": {
+  "STATUS": "UNMATCHED"
+ },
+ "613008715625": {
+  "FULL_NAME_FOUND": "AriZona Orangeade, Vitamin C Fortified",
+  "DESCRIPTION": "Keep yourself hydrated on a long summer day with the Arizona Orangeade Juice. Its fruity flavor tantalizes your taste buds. It is a perfect companion while traveling or during picnics.",
+  "CATEGORY": "Beverages",
+  "BRAND": "AriZona",
+  "SIZE": "680 mL",
+  "EAN": "0613008715625",
+  "STATUS": "MATCHED"
+ },
+ "613008719524": {
+  "FULL_NAME_FOUND": "AriZona Ice Tea With Peach Flavor 680 Ml",
+  "DESCRIPTION": "Enjoy a refreshing sip of Arizona Ice Tea with Peach in a 650ml can. The perfect combination of Arizona's classic tea flavor and a delicious hint of peach makes for a superbly balanced beverage. For all iced tea lovers, this is an ideal choice!",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "AriZona",
+  "SIZE": "355 mL",
+  "EAN": "0613008719524",
+  "STATUS": "MATCHED"
+ },
+ "613008722869": {
+  "FULL_NAME_FOUND": "AriZona Iced Tea Black & White With Ginseng & Honey 23 Fl. Oz Can",
+  "DESCRIPTION": "Black tea is known for its smooth flavor. White tea is known for its rich health benefits. So why not put the two of them together? Made sense to us. When you drink Arizona Black & White Tea, you'll experience a perfectly balanced blend of both teas. Lightly sweetened with pure cane sugar, this tasty tea is only 50 calories a serving. Our 23 Oz big can will be more than enough to quench your thirst. Arizona Black and White Tea is the product you want to have in the fridge when you're seeking instant refreshment. Enjoy the favorable mix of Arizona Black and White Tea.",
+  "CATEGORY": "Tea & Infusions",
+  "BRAND": "AriZona",
+  "SIZE": "680 mL",
+  "EAN": "0613008722869",
+  "STATUS": "MATCHED"
+ },
+ "613008735012": {
+  "FULL_NAME_FOUND": "AriZona Cherry Lime Rickey, Sparkling",
+  "DESCRIPTION": "The great taste of Arizona in all their 37 unique flavours. Sure to make your tastebuds freak with flavour.",
+  "CATEGORY": "Beverages",
+  "BRAND": "AriZona",
+  "SIZE": "665 mL",
+  "EAN": "0613008735012",
+  "STATUS": "MATCHED"
  }
 }

@@ -108688,5 +108688,89 @@
   "SIZE": "",
   "EAN": "0810618039817",
   "STATUS": "MATCHED"
+ },
+ "811130032133": {
+  "FULL_NAME_FOUND": "Victor Allen's Iced Coffee, Magnum Double Caramel 13.7 Fl Oz",
+  "DESCRIPTION": "Victor Allen's Coffee craftsmanship teamed up with the iconic brands of Magnum®. Ice Cream for Magnum Iced Coffee Double Caramel. It is a perfect balance of unique caramel flavor, real cream and real sugar blended seamlessly with a fine Arabica coffee. The iced coffee appeals to a wide consumer base. Ones that love iced coffee and those that love the Magnum brand. The bottles are dressed in a label that showcases both brands so consumers know just what flavor awaits.",
+  "CATEGORY": "Coffee",
+  "BRAND": "Victor Allen's",
+  "SIZE": "405 mL",
+  "EAN": "0811130032133",
+  "STATUS": "MATCHED"
+ },
+ "811353000988": {
+  "FULL_NAME_FOUND": "Carolina Country Fat Back Skins Rd Ppr",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Pork Rinds",
+  "BRAND": "Carolina",
+  "SIZE": "",
+  "EAN": "0811353000988",
+  "STATUS": "MATCHED"
+ },
+ "811620020879": {
+  "FULL_NAME_FOUND": "Fairlife 2% Reduced Fat Ultra Filtered Milk 14 Fl Oz",
+  "DESCRIPTION": "Proper nourishment allows us all to grow and thrive. At fairlife, we provide the health and vitality people need by starting with the wholesome simplicity of real cow’s milk. All our milk flows through soft filters to concentrate its goodness like protein and calcium while filtering out some of the natural sugars. Our delicious and satisfying fairlife 2% Ultra-Filtered Milk has 50% less sugar and 50% more protein than regular milk. Plus, there’s no artificial growth hormones used and it’s lactose free. So sip, drink and chug as you enjoy our delicious ultra-filtered milk.",
+  "CATEGORY": "Milk",
+  "BRAND": "Fairlife",
+  "SIZE": "414 mL",
+  "EAN": "0811620020879",
+  "STATUS": "MATCHED"
+ },
+ "811620022248": {
+  "FULL_NAME_FOUND": "Fairlife Core Power - Protein Shake - Strawberry Banana",
+  "DESCRIPTION": "Core Power is a high-protein milk shake designed for athletes and fitness enthusiasts looking for high protein, great taste, and a smart beverage choice. It is made from Fairlife lactose-free Ultrafiltered partly skimmed milk— without any added protein powders. Core Power is a convenient, delicious source of high-protein nutrition that helps replenish and revitalize your body so that you can do more. Natural flavour of strawberry and banana and 26 g of protein per serving.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Fairlife",
+  "SIZE": "414 mL",
+  "EAN": "0811620022248",
+  "STATUS": "MATCHED"
+ },
+ "813805990038": {
+  "FULL_NAME_FOUND": "Herbert's Best Planet Gummi Peg Bag 12×2.6oz",
+  "DESCRIPTION": "This sweet bag comes with 4 gummies shaped and coloured like our planet! It's the only piece of the planet that you can eat. Each gummy comes in a sealed plastic wrapping in order to preserve the earth's sticky and chewy consistency! They are filled with a delicious fruity oozy centre much like the equator. What better way to celebrate living on earth than with a gummy! This super rare gummy is viral on TikTok, try it today to find out all the hype! Join the trend and make your best viral video!",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Herbert's Best",
+  "SIZE": "",
+  "EAN": "0813805990038",
+  "STATUS": "MATCHED"
+ },
+ "814057002302": {
+  "FULL_NAME_FOUND": "Shield Blue Box 100's",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0814057002302",
+  "STATUS": "MATCHED"
+ },
+ "815154020183": {
+  "FULL_NAME_FOUND": "Full Throttle Energy Drink, Original Citrus 16 Fl Oz",
+  "DESCRIPTION": "Experience the refreshing burst of energy with Full Throttle Citrus Energy Drink! Designed for those who lead an active lifestyle, this 16 fluid ounce can of Full Throttle Citrus delivers a powerful energy boost with a zesty citrus flavor that invigorates your senses. Perfect for a pre-workout pick-me-up or an afternoon refreshment, this energy drink is formulated to help you stay alert and focused throughout your day.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Full Throttle",
+  "SIZE": "473 mL",
+  "EAN": "0815154020183",
+  "STATUS": "MATCHED"
+ },
+ "815154026772": {
+  "FULL_NAME_FOUND": "Reign Body Fuel, White Knight 16 Fl Oz",
+  "DESCRIPTION": "The ultimate fitness focused beverage. Blended with BCAA’s, 300mg, of Natural Caffeine, CoQ10 & electrolytes, REIGN® Total Body Fuel is designed for your active lifestyle. Offering zero artificial flavors & colors. Reign® is the ultimate fitness-focused beverage to support your high-performance needs. Reign® White Knight relies on citrus favors including orange, lemon, lime and grapefruitReign® Total Body Fuel provides multiple benefits to help you power through a tough workoutFor those who rule in the gym and beyond REIGN® has the fuel for you.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Reign",
+  "SIZE": "473 mL",
+  "EAN": "0815154026772",
+  "STATUS": "MATCHED"
+ },
+ "817127022897": {
+  "STATUS": "UNMATCHED"
+ },
+ "817739010039": {
+  "FULL_NAME_FOUND": "RhinoGear FloTool 05015 Medium Funnel, 1 Pt Capacity, High-Density Polyethylene, Charcoal, 6-1/2 In H",
+  "DESCRIPTION": "Made of tough, high-density polyethylene for dispensing petroleum-based fluids. May be used with multiple substances such as oil, radiator fluid or fuel additives.",
+  "CATEGORY": "Funnels",
+  "BRAND": "RhinoGear",
+  "SIZE": "",
+  "EAN": "0817739010039",
+  "STATUS": "MATCHED"
  }
 }

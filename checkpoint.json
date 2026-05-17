@@ -108436,5 +108436,77 @@
   "SIZE": "",
   "EAN": "0799745283044",
   "STATUS": "MATCHED"
+ },
+ "810005450126": {
+  "STATUS": "UNMATCHED"
+ },
+ "810005450133": {
+  "STATUS": "UNMATCHED"
+ },
+ "810005450140": {
+  "STATUS": "UNMATCHED"
+ },
+ "810028292581": {
+  "FULL_NAME_FOUND": "Ghost Zero Sugar Citrus Energy Drink 16 Fl Oz Can",
+  "DESCRIPTION": "Introducing GHOST® ENERGY, the fully transparent, fully loaded, feel-good energy drink we've all been waiting for. No sugar. No artificial colors. No BS. GHOST® ENERGY is the first full disclosure energy drink that delivers on efficacy and the info to ensure you know exactly what you're getting in every can. Combining 200mg of natural caffeine with brain-boosting nootropics to deliver the perfect combo of energy and focus.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Ghost",
+  "SIZE": "473 mL",
+  "EAN": "0810028292581",
+  "STATUS": "MATCHED"
+ },
+ "810051806809": {
+  "FULL_NAME_FOUND": "Amo's Peelerz Gummy Lychee Peg Bag 12x6oz",
+  "DESCRIPTION": "Unwrap exotic delight with every chewy bite of this delightful Pink Candy selection. This playful pick customers grab on impulse is a vibrant Exotic Fruit Candy option perfect for lunchboxes, parties, or anytime a sweet treat is needed. Bold and satisfying, this Gummy Candy brings tropical magic to snacking. Impossible to put down from the very first taste, this premium Candy keeps customers coming back.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Amo's",
+  "SIZE": "",
+  "EAN": "0810051806809",
+  "STATUS": "MATCHED"
+ },
+ "810051807974": {
+  "FULL_NAME_FOUND": "Amo's Peelerz Mango Gummy Candy Bag",
+  "DESCRIPTION": "Every chewy bite delivers tropical sweetness with this delightful Gummy Candy selection. Customers grab this playful pick on impulse and keep coming back for more. A vibrant Orange Candy option perfect for lunchboxes, parties, or anytime a sweet treat is needed, this Mango Candy brings bold, satisfying flavor. Impossible to put down from the very first taste, this premium Candy keeps customers smiling.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Amo's",
+  "SIZE": "",
+  "EAN": "0810051807974",
+  "STATUS": "MATCHED"
+ },
+ "810085812203": {
+  "FULL_NAME_FOUND": "Ghost Energy Drink, Zero Sugar, Sour Green Apple, Warheads 16 Fl Oz",
+  "DESCRIPTION": "Ghost Energy is the fully transparent no BS fully loaded energy drink we’ve all been waiting for. Made with authentic flavors zero sugar and no artificial colors. This drink contains 200MG of natural caffeine from coffee beans which has been found anecdotally to deliver a smooth feel-good energy with less jitters and no crash when compared to other forms of caffeine. Combining that legendary energy with our epic focus support from the nootropics of Carnipure L-Carnitine Taurine Alpha-GPC NeuroFactor Coffee and AstraGin. Ghost Energy is low in calories vegan friendly and gluten free. Only intended for persons 18 years or older.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Ghost",
+  "SIZE": "473 mL",
+  "EAN": "0810085812203",
+  "STATUS": "MATCHED"
+ },
+ "810113830261": {
+  "FULL_NAME_FOUND": "BodyArmor Tropical Passionfruit Electrolyte Sports Drink 28 Fl Oz",
+  "DESCRIPTION": "BODYARMOR Sports Drink with Potassium-Packed Electrolytes and Natural Flavors With Vitamins, Tropical Passionfruit, Perfect For Athletes. It’s got potassium-packed electrolytes, antioxidants and no artificial sweeteners, flavors, or dyes.",
+  "CATEGORY": "Beverages",
+  "BRAND": "BodyArmor",
+  "SIZE": "828 mL",
+  "EAN": "0810113830261",
+  "STATUS": "MATCHED"
+ },
+ "810116125487": {
+  "FULL_NAME_FOUND": "Prime Ice Hydration Red Chill Sports Drink - 16.9 Fl Oz Bottle",
+  "DESCRIPTION": "Keep your cool with Prime Ice —the crisp hydration drink that chills out your toughest days. With 700+ mg of electrolytes, 10% coconut water, and zero added sugar, it’s a light, 20-calorie recovery boost for athletes and gamers alike. Smooth flavors like Orange, Blue Chill, and Red Chill offer a refreshing, less-sweet twist, all in a gluten-free, caffeine-free formula. Stay sharp and hydrated, no matter the grind!",
+  "CATEGORY": "Beverages",
+  "BRAND": "Prime",
+  "SIZE": "500 mL",
+  "EAN": "0810116125487",
+  "STATUS": "MATCHED"
+ },
+ "810116127627": {
+  "FULL_NAME_FOUND": "Prime Hydration Collector Series Sports Drink - 16.9 Fl Oz Bottle",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Prime",
+  "SIZE": "500 mL",
+  "EAN": "0810116127627",
+  "STATUS": "MATCHED"
  }
 }

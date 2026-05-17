@@ -109456,5 +109456,89 @@
   "SIZE": "",
   "EAN": "0888109010539",
   "STATUS": "MATCHED"
+ },
+ "888109060015": {
+  "FULL_NAME_FOUND": "Hostess Apple Fruit Pie Single Serve, 4.25 Oz",
+  "DESCRIPTION": "LIVE YOUR MOSTESS with HOSTESS Fruit Pies. They're filled with apple filling, and golden crust is covered in glaze for the perfect full, flakey bite. Boxed just for you and ready to eat morning, noon, or night. Get your snack on anywhere with these yummy pies.",
+  "CATEGORY": "Pies & Tarts",
+  "BRAND": "Hostess",
+  "SIZE": "",
+  "EAN": "0888109060015",
+  "STATUS": "MATCHED"
+ },
+ "888109060022": {
+  "FULL_NAME_FOUND": "Hostess Cherry Fruit Pie Single Serve",
+  "DESCRIPTION": "Delicious crumbly pastry with a sweet cherry filling. Enjoy hot or cold.",
+  "CATEGORY": "Pies & Tarts",
+  "BRAND": "Hostess",
+  "SIZE": "",
+  "EAN": "0888109060022",
+  "STATUS": "MATCHED"
+ },
+ "888109634964": {
+  "FULL_NAME_FOUND": "Hostess Suzy Q’s Chocolate Snack Cake With Creamy Filling",
+  "DESCRIPTION": "Suzy’s her name, snacking’s her game. Hostess® Suzy Q’s® snack cakes are mega-sized and mega-yummy, yet soft and airy. Every bite takes you through two big, fluffy layers of chocolate cake to a generous layer of creamy filling in between. Keep these individually wrapped snacks in your “Q” to share or enjoy solo.",
+  "CATEGORY": "Snack Cakes",
+  "BRAND": "Hostess",
+  "SIZE": "",
+  "EAN": "0888109634964",
+  "STATUS": "MATCHED"
+ },
+ "888109873950": {
+  "FULL_NAME_FOUND": "Hostess Donettes Churro",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Food Items",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0888109873950",
+  "STATUS": "MATCHED"
+ },
+ "888142916522": {
+  "STATUS": "UNMATCHED"
+ },
+ "888670134054": {
+  "FULL_NAME_FOUND": "Berkley Jensen Non Scratch Cellulose Scrub Sponges, 27 Ct",
+  "DESCRIPTION": "These Berkley Jensen Non Scratch Cellulose Scrub Sponges pair perfectly with your favorite dish soap and are an essential cleaning accessory in every kitchen. The dual sided scour sponge scrubs baked-on messes without scratching. Ideal for non-stick pans glassware countertops and more while the soft cellulose sponge washes and wipe away dirt and grime clean. Suitable for use with most household cleaners and perfect for tough jobs all around the house including bathroom sinks tubs showers and more.",
+  "CATEGORY": "Sponges & Scouring Pads",
+  "BRAND": "Berkley Jensen",
+  "SIZE": "",
+  "EAN": "0888670134054",
+  "STATUS": "MATCHED"
+ },
+ "888849011278": {
+  "FULL_NAME_FOUND": "Quest Protein Bar, Lemon Cake Flavor",
+  "DESCRIPTION": "Covered in a sweet drizzle with vanilla cookie chunks throughout, you'll love the sweet and zesty taste of Quest Lemon Cake Protein Bar.",
+  "CATEGORY": "Personal Care",
+  "BRAND": "Quest",
+  "SIZE": "",
+  "EAN": "0888849011278",
+  "STATUS": "MATCHED"
+ },
+ "888849015146": {
+  "FULL_NAME_FOUND": "Quest Hero Protein Bar, Birthday Cake, Crispy 1.83 Oz",
+  "DESCRIPTION": "Discover sweets without all the sugar and enjoy the benefits of feeding your cravings the Quest way. Why do millions of people love Quest Protein Bars? Quest Protein Bars are sweet without all the sugar. Our protein bars use complete, dairy-based proteins and provide 9 essential amino acids to help, support and uplift your nutrition goals without sacrificing taste. Quest Hero Bars look and taste like the candy bars you know and love with a fraction of the sugars and net carbs. Sounds too good to be true? Try one today and find out for yourself. Due to global supply chain issues, Quest recently reformulated some of its products to contain soy lecithin and/or vegetable oil including soybean which is considered an allergen. The small amount contained within the product will not change the quality, flavor or texture of the product. We remain committed to using the high quality dairy-based proteins to help give you the amino acids you need.",
+  "CATEGORY": "Nutrition Bars",
+  "BRAND": "Quest",
+  "SIZE": "",
+  "EAN": "0888849015146",
+  "STATUS": "MATCHED"
+ },
+ "889392000757": {
+  "FULL_NAME_FOUND": "Celsius Energy Drink, Sparkling, Lemon Lime 12 Fl Oz",
+  "DESCRIPTION": "CELSIUS® was created to help people LIVE FIT exceed their goals and elevate their everyday lives. Made with proven premium ingredients 7 Essential Vitamins and zero sugar no artificial colors no aspartame no high fructose corn syrup and non-GMO. CELSIUS® is vegan gluten-free and Kosher.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Celsius",
+  "SIZE": "355 mL",
+  "EAN": "0889392000757",
+  "STATUS": "MATCHED"
+ },
+ "889392001303": {
+  "FULL_NAME_FOUND": "Celsius Sparkling Raspberry Peach Energy Drink 12 Fl Oz",
+  "DESCRIPTION": "The new Sparkling CELSIUS? Raspberry Peach is a refreshing sweet blend of freshly picked raspberries and juicy ripe peach flavors. This uplifting combination of sweet luscious peaches and softly tangy raspberries, will become an instant favorite in every delightfully refreshing sip.",
+  "CATEGORY": "Sports & Energy Drinks",
+  "BRAND": "Celsius",
+  "SIZE": "355 mL",
+  "EAN": "0889392001303",
+  "STATUS": "MATCHED"
  }
 }

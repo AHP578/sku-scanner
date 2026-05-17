@@ -109720,5 +109720,71 @@
   "SIZE": "500 mL",
   "EAN": "0898999012704",
   "STATUS": "MATCHED"
+ },
+ "910371728772": {
+  "FULL_NAME_FOUND": "Ziq All Purpose Gloves",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Tools",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0910371728772",
+  "STATUS": "MATCHED"
+ },
+ "910371728918": {
+  "STATUS": "UNMATCHED"
+ },
+ "910371729076": {
+  "STATUS": "UNMATCHED"
+ },
+ "1110000015009": {
+  "STATUS": "UNMATCHED"
+ },
+ "1692371264458": {
+  "STATUS": "UNMATCHED"
+ },
+ "2138546851324": {
+  "FULL_NAME_FOUND": "Magnum Gold 500 K Xxl",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "2138546851324",
+  "STATUS": "MATCHED"
+ },
+ "3014260786847": {
+  "FULL_NAME_FOUND": "Oral-B Shiny Clean Toothbrush Soft",
+  "DESCRIPTION": "Oral-B Simple Toothbrush comes in neon green, yellow, orange, pink, and red. This shiny clean toothbrush features soft white bristles and a curved handle that makes gripping it comfortable. The extended neck allows you to brush in those hard to reach places, too!",
+  "CATEGORY": "Oral Care",
+  "BRAND": "Oral-B",
+  "SIZE": "",
+  "EAN": "3014260786847",
+  "STATUS": "MATCHED"
+ },
+ "3086120600020": {
+  "FULL_NAME_FOUND": "BIC Maxi Lighter",
+  "DESCRIPTION": "Bic lighters are manufactured to meet the most rigorous standards of safety and durability. The final product is not only well-designed, lightweight and safe, but reliable, too.",
+  "CATEGORY": "Lighters & Matches",
+  "BRAND": "BIC",
+  "SIZE": "",
+  "EAN": "3086120600020",
+  "STATUS": "MATCHED"
+ },
+ "3086120600051": {
+  "FULL_NAME_FOUND": "Bic Mini Lighter",
+  "DESCRIPTION": "Experience convenience and reliability with the Bic Small Lighter, a compact essential for lighting candles, stoves, and more. Known for its quality and safety, this pocket-sized lighter features a child-resistant mechanism and adjustable flame for versatile use. Its ergonomic design ensures a comfortable grip, while the durable construction ensures long-lasting performance. Perfect for outdoor activities, emergencies, or everyday use, the Bic Small Lighter is a trusted companion. Available in various colors to suit your preference, it’s easy to carry and ideal for any situation where a reliable flame is needed. Explore more about Bic’s range of lighters on their official website or through authorized retailers.",
+  "CATEGORY": "Lighters & Matches",
+  "BRAND": "Bic",
+  "SIZE": "",
+  "EAN": "3086120600051",
+  "STATUS": "MATCHED"
+ },
+ "3086125705010": {
+  "FULL_NAME_FOUND": "Bic Men Classic Sensitive Disposable Razors",
+  "DESCRIPTION": "BIC 5 Sensitive Disposable Razor Pack is a mustard yellow-orange razor each with its own plastic cover. The handle features beveled vertical lines that make for a more comfortable grip. The curved razor head ensures it accommodates for your face's contour and offers greater comfort when shaving.",
+  "CATEGORY": "Health & Beauty",
+  "BRAND": "Bic",
+  "SIZE": "",
+  "EAN": "3086125705010",
+  "STATUS": "MATCHED"
  }
 }

@@ -109114,5 +109114,89 @@
   "SIZE": "",
   "EAN": "0850027410784",
   "STATUS": "MATCHED"
+ },
+ "850027410845": {
+  "FULL_NAME_FOUND": "Lucy Breakers Apple Cider",
+  "DESCRIPTION": "Discover a crisp and succulent cider flavor with LUCY Breakers Apple Cider 8 mg. Doused in the essence of freshly pressed apples, these pouches offer a delightful balance of sweetness and tanginess. With a nicotine content of 8 mg per pouch, you'll experience a satisfying kick. And, with a unique, crushable capsule inside, you can release an extra wave of appley flavor whenever you please. Crafted to the highest standards by Lucy Goods, Inc. in Sweden, these pouches are designed to deliver unparalleled taste and quality.",
+  "CATEGORY": "Hard Cider",
+  "BRAND": "Lucy Breakers",
+  "SIZE": "",
+  "EAN": "0850027410845",
+  "STATUS": "MATCHED"
+ },
+ "850027410876": {
+  "FULL_NAME_FOUND": "Lucy Breakers Berry Citrus",
+  "DESCRIPTION": "Unleash a fresh flavor symphony with LUCY Breakers Berry Citrus 8 mg. This blend combines the sweetness of berries with the zesty tang of citrus, resulting in a delicious wave of fruity goodness on your taste buds. With a nicotine content of 8 mg per pouch, you'll experience a balanced effect. The crushable capsules let you release an extra burst of flavor whenever you want to up the intensity. Expertly crafted by Lucy Goods, Inc. in Sweden, these pouches ooze quality and assure an awesome adventure in taste.",
+  "CATEGORY": "Circuit Breaker Panels",
+  "BRAND": "Lucy Breakers",
+  "SIZE": "",
+  "EAN": "0850027410876",
+  "STATUS": "MATCHED"
+ },
+ "850052437916": {
+  "FULL_NAME_FOUND": "Plantain Chips Sweet",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Chips",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0850052437916",
+  "STATUS": "MATCHED"
+ },
+ "850052437930": {
+  "STATUS": "UNMATCHED"
+ },
+ "850057068092": {
+  "FULL_NAME_FOUND": "Snickers Mars Milk",
+  "DESCRIPTION": "Are you a fan of rich, creamy chocolate and the perfect blend of smooth milk? Then you’ll absolutely love SNICKERS CHOCOLATE MLK 14OZ. Indulge in the perfect combination of milk and chocolate with this delectable treat. Whether you need a quick snack on the go or a sweet treat to satisfy your cravings, SNICKERS CHOCOLATE MLK 14OZ is the perfect choice. Upon opening the package, you’ll be greeted by the irresistible aroma of rich chocolate and creamy milk. Each bite of this delicious SNICKERS bar will tantalize your taste buds, leaving you craving for more. The smooth, velvety milk chocolate combined with the satisfying chewy nougat and crunchy peanuts create an unparalleled sensory experience. Perfect for satisfying hunger pangs or simply enjoying a sweet treat, SNICKERS CHOCOLATE MLK 14OZ is a versatile snack that can be enjoyed anytime, anywhere. Whether it’s a midday pick-me-up or a late-night snack, this delightful chocolate bar is sure to hit the spot. Rich milk chocolate. Creamy milk filling. Crunchy peanuts. Satisfying nougat. Discover the pure delight of SNICKERS CHOCOLATE MLK 14OZ today and satisfy your chocolate cravings in the most delicious way possible. Perfect for sharing with friends, giving as a gift, or simply keeping on hand for when you need a quick and satisfying snack. Indulge in the delicious, classic taste of SNICKERS CHOCOLATE MLK 14OZ and experience the perfect combination of milk chocolate, creamy milk, and crunchy peanuts in every bite.",
+  "CATEGORY": "Juice",
+  "BRAND": "Snickers",
+  "SIZE": "414 mL",
+  "EAN": "0850057068092",
+  "STATUS": "MATCHED"
+ },
+ "850070284028": {
+  "FULL_NAME_FOUND": "Opia 7OH 30mg TABS",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Vaporizers & Electronic Cigarettes",
+  "BRAND": "Opia",
+  "SIZE": "",
+  "EAN": "0850070284028",
+  "STATUS": "MATCHED"
+ },
+ "850070284059": {
+  "FULL_NAME_FOUND": "Opia 7-Hydroxymitragynine 4x Chewable Tablets",
+  "DESCRIPTION": "The Opia 7-Hydroxymitragynine Tablets (30mg x 4ct) offer a high-potency, chewable kratom extract designed for experienced users seeking rapid relief and enhanced focus. Each tablet contains 30mg of 7-Hydroxymitragynine (7-OH), a potent alkaloid derived from the kratom plant, known for its strong binding affinity to opi.",
+  "CATEGORY": "Vitamins & Supplements",
+  "BRAND": "Opia",
+  "SIZE": "",
+  "EAN": "0850070284059",
+  "STATUS": "MATCHED"
+ },
+ "850668000818": {
+  "FULL_NAME_FOUND": "Deep River Snacks Original Sea Salt Kettle Cooked Potato Chips",
+  "DESCRIPTION": "The Deep River Snacks Original Sea Salt Kettle Cooked Potato Chips will be enjoyed by kids and adults alike. These chips are cooked in sunflower oil for optimum flavor and crunch. These salted potato chips are packed in an airtight bag to keep the freshness intact. The Deep River bulk fried snack is ideal for concession stands, convenience stores, and vending machines.",
+  "CATEGORY": "Chips",
+  "BRAND": "Deep River Snacks",
+  "SIZE": "",
+  "EAN": "0850668000818",
+  "STATUS": "MATCHED"
+ },
+ "850668000825": {
+  "FULL_NAME_FOUND": "Deep River Snacks Kettle Cooked Potato Chips Krinkle Cut Salt & Cracked Pepper",
+  "DESCRIPTION": "Contains 12 - 5 Ounce Bags of Salt & Cracked Pepper Kettle Cooked Potato Chips. A deliciously crisp, krinkle cut potato chip with the perfect amount of salt and the lingering bite of cracked black pepper. So simple with only 4 ingredients, yet so pleasingly delicious!. No artificial flavors, colors, or preservatives, certified Gluten-Free; Non-GMO.",
+  "CATEGORY": "Chips",
+  "BRAND": "Deep River Snacks",
+  "SIZE": "",
+  "EAN": "0850668000825",
+  "STATUS": "MATCHED"
+ },
+ "850668000832": {
+  "FULL_NAME_FOUND": "Deep River Snacks Kettle Cooked Sea Salt & Vinegar Potato Chips",
+  "DESCRIPTION": "Contains 12 - 5 Ounce Bags of Sea Salt & Vinegar Kettle Cooked Potato Chips. A New England classic potato chip! The tart and tangy taste of vinegar paired with the perfect amount of sea salt is sure to make your mouth pucker. No artificial flavors, colors, or preservatives, certified Gluten-Free; Non-GMO.",
+  "CATEGORY": "Chips",
+  "BRAND": "Deep River Snacks",
+  "SIZE": "",
+  "EAN": "0850668000832",
+  "STATUS": "MATCHED"
  }
 }

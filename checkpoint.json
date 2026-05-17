@@ -108172,5 +108172,95 @@
   "SIZE": "",
   "EAN": "0781138195287",
   "STATUS": "MATCHED"
+ },
+ "784762071064": {
+  "FULL_NAME_FOUND": "Zig Zag Cigar Wraps, Premium, Mango",
+  "DESCRIPTION": "Zig Zag wraps feature a unique process of interleaving papers in a zig-zag manner. Choose your preferred tobacco blend and wrap them in Zig Zag blunts for a smooth, rich flavor.",
+  "CATEGORY": "Cigars",
+  "BRAND": "Zig Zag",
+  "SIZE": "",
+  "EAN": "0784762071064",
+  "STATUS": "MATCHED"
+ },
+ "784762078506": {
+  "FULL_NAME_FOUND": "Zig Zag Wraps Blue",
+  "DESCRIPTION": "4980. Inner Pack. 784762078506. Inner Pack (2). 4980. T LEAF/ WRAPE. ZIG ZAG.",
+  "CATEGORY": "Tortillas & Wraps",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "0784762078506",
+  "STATUS": "MATCHED"
+ },
+ "786162003737": {
+  "FULL_NAME_FOUND": "Vitaminwater Sugar Power C Dragonfruit Nutrient Enhanced Flavored Water Beverage 20 Fl Oz",
+  "DESCRIPTION": "A refreshing, fruit flavored delight featuring loads of vitamin c and the power of many dragons. We can't legally confirm the exact amount of dragons, but just know it's enough to reign terror over the entire northeast kingdom of elasius.",
+  "CATEGORY": "Water",
+  "BRAND": "Vitaminwater",
+  "SIZE": "591 mL",
+  "EAN": "0786162003737",
+  "STATUS": "MATCHED"
+ },
+ "786162411860": {
+  "FULL_NAME_FOUND": "Vitaminwater Nutrient Enhanced Water Beverage, Elevate, Blue Raspberry Limeade 20 Fl Oz",
+  "DESCRIPTION": "vitaminwater zero is a great tasting, nutrient enhanced water beverage with electrolytes, antioxidants and vitamins. It provides an excellent source of C, A and key B vitamins plus zinc. 100 calories.",
+  "CATEGORY": "Water",
+  "BRAND": "Vitaminwater",
+  "SIZE": "591 mL",
+  "EAN": "0786162411860",
+  "STATUS": "MATCHED"
+ },
+ "786162411884": {
+  "FULL_NAME_FOUND": "Vitaminwater Glaceau Vwtr Zero Sugar Re Hydrate Ko Bottle 20 Fl Oz",
+  "DESCRIPTION": "vitaminwater zero is a great tasting, nutrient enhanced water beverage with electrolytes, antioxidants and vitamins. It provides an excellent source of C, A and key B vitamins plus zinc. No added sugar. 5 calories.",
+  "CATEGORY": "Beverages",
+  "BRAND": "Vitaminwater",
+  "SIZE": "591 mL",
+  "EAN": "0786162411884",
+  "STATUS": "MATCHED"
+ },
+ "786560000642": {
+  "FULL_NAME_FOUND": "MET-Rx Big 100 Meal Replacement Bar, Vanilla Caramel Churro",
+  "DESCRIPTION": "Meal Replacement bar that contains enough dietary supplements as food. Contains no artificial flavors or colors. Comprises of milk, egg, wheat, soy, peanut and tree nut. Vanilla Caramel Churro flavored energy bar.",
+  "CATEGORY": "Cereal & Granola Bars",
+  "BRAND": "MET-Rx",
+  "SIZE": "",
+  "EAN": "0786560000642",
+  "STATUS": "MATCHED"
+ },
+ "786560050012": {
+  "FULL_NAME_FOUND": "MET-Rx Big 100 Meal Replacement Bar, Chocolate Chip Cookie Dough",
+  "DESCRIPTION": "MET-Rx MET-Rx Big 100 Chocolate Chip Cookie Dough Bar offers a high quality sports nutrition meal replacement bar that tastes great, supports a balanced diet and helps maintain lean muscle mass. Whether you're seeking to support performance or maintain an.",
+  "CATEGORY": "Health & Beauty",
+  "BRAND": "MET-Rx",
+  "SIZE": "",
+  "EAN": "0786560050012",
+  "STATUS": "MATCHED"
+ },
+ "788434102797": {
+  "FULL_NAME_FOUND": "ONE Brand Protein Bar Coffee Shop Caramel Macchiato 20g Pro 65mg Caffeine",
+  "DESCRIPTION": "Protein Bar with caffeine. Popular caramel macchiato flavor. 20g protein, 1g sugar, 65 mg caffeine. One® Coffee Shop Caramel Macchiato Bar is what those keeping active lifestyles have \"bean\" searching for. Each bar is full of creamy, buttery beloved caramel macchiato flavor while serving up 20g protein, 1g sugar AND 65 mg caffeine per bar. Perfect for today's dietary trends. Health call outs paired with an indulgent imagery of a coffee cup drive impulse purchases from those that want a better-for-you flavorful snack or meal replacement.",
+  "CATEGORY": "Coffee",
+  "BRAND": "ONE Brand",
+  "SIZE": "59 mL",
+  "EAN": "0788434102797",
+  "STATUS": "MATCHED"
+ },
+ "788434106832": {
+  "FULL_NAME_FOUND": "ONE Brands Protein Bar Blueberry Cobbler - 2.12 Ounce",
+  "DESCRIPTION": "Experience the taste of fresh blueberries with the ONE Blueberry Cobbler Protein Bar. Perfect for those looking for a guilt-free snack, this protein-packed bar is low sugar, while delivering tons of protein per serving. The case of 12 bars is perfect for those who are always on-the-go and need a quick, healthy snack that can fuel their body and satisfy their hunger.",
+  "CATEGORY": "Health & Beauty",
+  "BRAND": "ONE",
+  "SIZE": "",
+  "EAN": "0788434106832",
+  "STATUS": "MATCHED"
+ },
+ "788434115681": {
+  "FULL_NAME_FOUND": "One Protein Bar, Reese's Peanut Butter Lovers, 2.12 Ounce",
+  "DESCRIPTION": "Indulge in protein-packed pleasure with ONE1Brands' One Bar. Satisfy your cravings with a delicious and nutritious snack.",
+  "CATEGORY": "Nutrition Bars",
+  "BRAND": "One",
+  "SIZE": "",
+  "EAN": "0788434115681",
+  "STATUS": "MATCHED"
  }
 }

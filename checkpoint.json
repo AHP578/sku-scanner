@@ -110890,5 +110890,95 @@
   "SIZE": "",
   "EAN": "5060902992778",
   "STATUS": "MATCHED"
+ },
+ "5060902992785": {
+  "FULL_NAME_FOUND": "Bali Class 2000 Puffs-fiji Fruit",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Fruits & Vegetables",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "5060902992785",
+  "STATUS": "MATCHED"
+ },
+ "5060902992792": {
+  "FULL_NAME_FOUND": "Bali Class 2000 Puffs-frozen Peach",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Peaches & Nectarines",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "5060902992792",
+  "STATUS": "MATCHED"
+ },
+ "5060902992808": {
+  "FULL_NAME_FOUND": "Bali Class 2000 Puffs-tropical Fruit",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Fruits & Vegetables",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "5060902992808",
+  "STATUS": "MATCHED"
+ },
+ "5060902992815": {
+  "FULL_NAME_FOUND": "Bali Class 2000 Puffs-lush Ice",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Ice Bins",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "5060902992815",
+  "STATUS": "MATCHED"
+ },
+ "5060902992822": {
+  "FULL_NAME_FOUND": "Bali Class 2000 Puffs-melon Berry",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Berries",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "5060902992822",
+  "STATUS": "MATCHED"
+ },
+ "5060902992839": {
+  "FULL_NAME_FOUND": "Bali Class 2000 Puffs-pineapple Ice",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Ice Bins",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "5060902992839",
+  "STATUS": "MATCHED"
+ },
+ "5060902992846": {
+  "FULL_NAME_FOUND": "Bali Class 2000 Puffs-kiwi Berry",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Berries",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "5060902992846",
+  "STATUS": "MATCHED"
+ },
+ "5060902993119": {
+  "FULL_NAME_FOUND": "Bali Maxxx 3000 Puffs – Strawberry Watermelon",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "5060902993119",
+  "STATUS": "MATCHED"
+ },
+ "5060902993270": {
+  "FULL_NAME_FOUND": "Bali Maxxx 3000 Puffs – Watermelon Kiwi",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Kiwis",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "5060902993270",
+  "STATUS": "MATCHED"
+ },
+ "5060902993287": {
+  "FULL_NAME_FOUND": "Bali Maxxx 3000 Puffs – Black Ice",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Ice Bins",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "5060902993287",
+  "STATUS": "MATCHED"
  }
 }

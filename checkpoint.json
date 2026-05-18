@@ -111376,5 +111376,89 @@
   "SIZE": "",
   "EAN": "5908241631159",
   "STATUS": "MATCHED"
+ },
+ "5943449694216": {
+  "STATUS": "UNMATCHED"
+ },
+ "6001067022558": {
+  "FULL_NAME_FOUND": "Colgate Medium Extra Clean Toothbrush",
+  "DESCRIPTION": "Colgate Extra Clean Toothbrush ideal oral hygiene solutions to ensure complete protection against the germ. Helps to thoroughly clean germs. Provides rigorous cleaning action. Gently cleans your teeth and hidden areas by giving a superior brushing experience.",
+  "CATEGORY": "Toothbrushes",
+  "BRAND": "Colgate",
+  "SIZE": "",
+  "EAN": "6001067022558",
+  "STATUS": "MATCHED"
+ },
+ "6001067025931": {
+  "FULL_NAME_FOUND": "Colgate Medium Max White Toothbrush",
+  "DESCRIPTION": "Achieve a dazzling, white smile with the Colgate Max White Toothbrush. Designed with special polishing bristles, this toothbrush helps to remove surface stains and reveal a brighter, whiter smile with every use. Its ergonomic handle ensures a comfortable grip for precise brushing, while the soft bristles are gentle on.",
+  "CATEGORY": "Toothbrushes",
+  "BRAND": "Colgate",
+  "SIZE": "",
+  "EAN": "6001067025931",
+  "STATUS": "MATCHED"
+ },
+ "6001085120946": {
+  "FULL_NAME_FOUND": "Vaseline Blue Seal Pure Petroleum Jelly Original – 100 Ml",
+  "DESCRIPTION": "Vaseline Blue Seal Original 100ml soothes, protects, and softens dry skin. Locks in moisture to help heal and prevent dryness. Great for daily use at home, work, or on the go. Helps maintain smooth, healthy skin all day long. Perfect for lips, hands, and body care.",
+  "CATEGORY": "Health & Beauty",
+  "BRAND": "Vaseline",
+  "SIZE": "",
+  "EAN": "6001085120946",
+  "STATUS": "MATCHED"
+ },
+ "6001085121028": {
+  "FULL_NAME_FOUND": "Vaseline Blue Seal Vitamin E Petroleum Jelly 100ml",
+  "DESCRIPTION": "Vaseline Blue Seal 100ml Petroleum Jelly is a nourishing skin jelly with Vitamin E that gently cares for dry or sensitive skin. It locks in moisture to protect, soothe, and soften rough or irritated areas. Ideal for daily use, travel-friendly, and easy to apply.",
+  "CATEGORY": "Petroleum Jelly",
+  "BRAND": "Vaseline",
+  "SIZE": "",
+  "EAN": "6001085121028",
+  "STATUS": "MATCHED"
+ },
+ "6001087005661": {
+  "FULL_NAME_FOUND": "Vaseline Original Blue Seal Pure Petroleum Jelly",
+  "DESCRIPTION": "Vasline Pure Petroleum Jelly Original (250ml). Classic and multi-functional product of the brand – this jelly helps to retain skin moisture and speed up wound-healing, which is a must-have item for every household.",
+  "CATEGORY": "Petroleum Jelly",
+  "BRAND": "Vaseline",
+  "SIZE": "",
+  "EAN": "6001087005661",
+  "STATUS": "MATCHED"
+ },
+ "6001087363815": {
+  "FULL_NAME_FOUND": "Axe Dark Temptation Deodorant Body Spray 135ml",
+  "DESCRIPTION": "El DESODORANTE AXE DARK TEMPTATION 72 HRS SP/150 ML es un producto antitranspirante en aerosol diseñado especialmente para hombres. Con su fórmula potenciada, este desodorante te mantiene seco y libre de transpiración durante 72 horas.",
+  "CATEGORY": "Axes",
+  "BRAND": "Axe",
+  "SIZE": "",
+  "EAN": "6001087363815",
+  "STATUS": "MATCHED"
+ },
+ "6001087364577": {
+  "FULL_NAME_FOUND": "AXE Apollo Antiperspirant Deodorant Body Spray 150ml",
+  "DESCRIPTION": "Stay fresh. Smell irresistible. Axe Apollo Antiperspirant deodorant body spray boasts a classically masculine and sophisticated scent with an addictively fresh combination of crisp sparkling fruits, sage and a creamy musky background. With upgraded Pro Scent technology from Axe, this antiperspirant deodorant keeps you smelling irresistible all day. The unique anti-marks formulation keeps your clothes as fresh and unstained as your armpits. Simply shake, twist and spray 15cm from your underarms. Axe antiperspirant's improved formulation provides sweat and odour protection, keeping you fresh and smelling great for up to 48 hours. Your clothes will look as great as you smell, with no white marks or stains.",
+  "CATEGORY": "Bath & Body",
+  "BRAND": "AXE",
+  "SIZE": "",
+  "EAN": "6001087364577",
+  "STATUS": "MATCHED"
+ },
+ "6001087364614": {
+  "FULL_NAME_FOUND": "Axe Black Body Spray Deodorant",
+  "DESCRIPTION": "Experience all-day confidence with AXE 48H Non Stop Fresh Deodorant Spray in Black. This 150ml deodorant offers long-lasting freshness and effective odor protection for up to 48 hours, helping you stay comfortable and confident throughout your busy day. Its energizing scent and quick-dry formula make it an ideal choice for active lifestyles.",
+  "CATEGORY": "Deodorant",
+  "BRAND": "Axe",
+  "SIZE": "",
+  "EAN": "6001087364614",
+  "STATUS": "MATCHED"
+ },
+ "6001087364621": {
+  "FULL_NAME_FOUND": "Axe Apollo Aerosol Deodorant Body Spray 150ml",
+  "DESCRIPTION": "Step into confidence with AXE Apollo Sage & Cedarwood Deodorant Body Spray for Men, crafted to deliver a bold yet refined fragrance that lasts. Infused with the energizing freshness of sage and the grounding depth of cedarwood, this body spray keeps you feeling fresh and smelling irresistible for up to 48 hours. Its quick-drying, aluminum-free formula ensures long-lasting odor protection without sticky residue, making it perfect for everyday wear, workouts, or nights out. With its sleek 150ml spray can, it’s a must-have grooming essential for men who want freshness that matches their lifestyle.",
+  "CATEGORY": "Axes",
+  "BRAND": "Axe",
+  "SIZE": "",
+  "EAN": "6001087364621",
+  "STATUS": "MATCHED"
  }
 }

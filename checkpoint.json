@@ -111994,5 +111994,89 @@
   "SIZE": "",
   "EAN": "6939287944575",
   "STATUS": "MATCHED"
+ },
+ "6939287944582": {
+  "FULL_NAME_FOUND": "Elfbar- Sakura Grape",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Electronic Cigarettes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "6939287944582",
+  "STATUS": "MATCHED"
+ },
+ "6939287944599": {
+  "FULL_NAME_FOUND": "Elf Bar Strawberry Kiwi 5000 Puffs 5",
+  "DESCRIPTION": "Dive into the harmonious pairing of juicy strawberries and tangy kiwi. This blend delivers a refreshing and balanced vaping sensation.",
+  "CATEGORY": "Kiwis",
+  "BRAND": "Elf Bar",
+  "SIZE": "",
+  "EAN": "6939287944599",
+  "STATUS": "MATCHED"
+ },
+ "6939287944605": {
+  "FULL_NAME_FOUND": "Elf Bar Strawberry Mango",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Kiwis",
+  "BRAND": "Elf Bar",
+  "SIZE": "",
+  "EAN": "6939287944605",
+  "STATUS": "MATCHED"
+ },
+ "6939287944629": {
+  "FULL_NAME_FOUND": "Elf Bar Lemon Mint",
+  "DESCRIPTION": "Refresh yourself with the zesty and cooling flavor of Lemon Mint. It combines the tangy taste of lemons with a refreshing menthol kick, offering a revitalizing and invigorating vape.",
+  "CATEGORY": "Guavas",
+  "BRAND": "Elf Bar",
+  "SIZE": "",
+  "EAN": "6939287944629",
+  "STATUS": "MATCHED"
+ },
+ "6939287954635": {
+  "FULL_NAME_FOUND": "Elfbar 5000puff Peach Ice 10ct Box",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Peaches & Nectarines",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "6939287954635",
+  "STATUS": "MATCHED"
+ },
+ "6939287954659": {
+  "FULL_NAME_FOUND": "Elf Bar Rechargeable Disposable Vape-5000 Puffs Sweet Menthol",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Mangoes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "6939287954659",
+  "STATUS": "MATCHED"
+ },
+ "6939287954666": {
+  "FULL_NAME_FOUND": "Elfbar Elf Bar Rechargeable Disposable Vape-5000 Puffs Triple Berry Ice",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Tobacco Products",
+  "BRAND": "Elfbar",
+  "SIZE": "",
+  "EAN": "6939287954666",
+  "STATUS": "MATCHED"
+ },
+ "6939287954673": {
+  "FULL_NAME_FOUND": "Elf Bar Tropical Rainbow Blast 5000 10ct",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Nutrition Bars",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "6939287954673",
+  "STATUS": "MATCHED"
+ },
+ "6939287954680": {
+  "STATUS": "UNMATCHED"
+ },
+ "6939287965938": {
+  "FULL_NAME_FOUND": "Elfbar Green Apple 5000 Puffs 5",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Apples",
+  "BRAND": "Elfbar",
+  "SIZE": "",
+  "EAN": "6939287965938",
+  "STATUS": "MATCHED"
  }
 }

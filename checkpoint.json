@@ -111052,5 +111052,83 @@
  },
  "5061070244591": {
   "STATUS": "UNMATCHED"
+ },
+ "5061070244621": {
+  "FULL_NAME_FOUND": "Studio Crown Bar Spearmint",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Nutrition Bars",
+  "BRAND": "Studio",
+  "SIZE": "",
+  "EAN": "5061070244621",
+  "STATUS": "MATCHED"
+ },
+ "5061070244638": {
+  "FULL_NAME_FOUND": "Studio Crown Bar Watermelon Lime",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Tobacco Products",
+  "BRAND": "Studio",
+  "SIZE": "",
+  "EAN": "5061070244638",
+  "STATUS": "MATCHED"
+ },
+ "5061070244683": {
+  "STATUS": "UNMATCHED"
+ },
+ "5061070244737": {
+  "FULL_NAME_FOUND": "Crown Bar Blue Razz Blast",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Tobacco Products",
+  "BRAND": "Crown Bar",
+  "SIZE": "",
+  "EAN": "5061070244737",
+  "STATUS": "MATCHED"
+ },
+ "5285002251413": {
+  "FULL_NAME_FOUND": "Royal Honey Dragon Candy Power For Man 6 Caramelos X Caja",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "Royal Honey",
+  "SIZE": "",
+  "EAN": "5285002251413",
+  "STATUS": "MATCHED"
+ },
+ "5359334188102": {
+  "STATUS": "UNMATCHED"
+ },
+ "5413149462625": {
+  "FULL_NAME_FOUND": "Febreze Air Freshener Aerosol Spray, Blossom And Breeze",
+  "DESCRIPTION": "Remove any stale or stifling odours with ease with the Febreze 300ml Blossom and Breeze Air Freshener. It has been designed to quickly provide a burst of refreshing fragrance in your home when needed, giving a fresh blossom and breeze fragrance.",
+  "CATEGORY": "Air Fresheners",
+  "BRAND": "Febreze",
+  "SIZE": "",
+  "EAN": "5413149462625",
+  "STATUS": "MATCHED"
+ },
+ "5413149462656": {
+  "FULL_NAME_FOUND": "Febreze Air Freshener Spray Cotton Fresh, 300 Ml",
+  "DESCRIPTION": "Febreze Air Freshener with Odourclear technology fights odours, leaving a light fresh scent. Cotton Fresh fragrance is inspired by the freshness of pure white cotton. Febreze Aerosols are non-flammable and contain 100% natural propellant. This makes them a perfect fit for any room in the house. Try the full range of Febreze products with the unique Odourclear technology, such as Febreze Fabric Refresher and Car Freshener. Try also Febreze 3volution Plugs, to continuously fight odours and freshen for up to 90 days.",
+  "CATEGORY": "Air Fresheners",
+  "BRAND": "Febreze",
+  "SIZE": "",
+  "EAN": "5413149462656",
+  "STATUS": "MATCHED"
+ },
+ "5413548040639": {
+  "FULL_NAME_FOUND": "Raffaello Ferrero 4 Pcs",
+  "DESCRIPTION": "Experience the unique taste sensation of Raffaello Pralines, where delicate coconut meets smooth milk cream and a whole white almond in every bite. This exquisite confection offers a light, summery indulgence that delights your senses without any chocolate – not even white. Perfect for treating yourself or sharing with loved ones, these pralines bring a touch of elegance and joy to any occasion.",
+  "CATEGORY": "Candy & Chocolate",
+  "BRAND": "Raffaello",
+  "SIZE": "",
+  "EAN": "5413548040639",
+  "STATUS": "MATCHED"
+ },
+ "5425017732112": {
+  "FULL_NAME_FOUND": "Cuba Fragluxe Gold Eau De Toilette Spray 34 Ml For Men",
+  "DESCRIPTION": "Cuba Gold by Fragluxe is a luxurious blend of orientals with a blend of florals. This masculine aroma is sophisticated with an exotic touch of bergamot, lavender, with a manly blend of woods and jasmine. Cuba Gold is for the romantic night out.",
+  "CATEGORY": "Health & Beauty",
+  "BRAND": "Cuba",
+  "SIZE": "",
+  "EAN": "5425017732112",
+  "STATUS": "MATCHED"
  }
 }

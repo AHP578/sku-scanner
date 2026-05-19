@@ -113572,5 +113572,77 @@
   "SIZE": "",
   "EAN": "6973304115401",
   "STATUS": "MATCHED"
+ },
+ "6973304116996": {
+  "FULL_NAME_FOUND": "Fume Black Ice",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Ice Bins",
+  "BRAND": "Fume",
+  "SIZE": "",
+  "EAN": "6973304116996",
+  "STATUS": "MATCHED"
+ },
+ "6973304118266": {
+  "FULL_NAME_FOUND": "Fume Extra Strawberry Banana",
+  "DESCRIPTION": "Fume EXTRA is a pre-filled disposable vape pod system device that is compact, a pocket-friendly size and easier to carry. The Fume EXTRA Disposable 1500 puffs is powered by 850mAh built-in battery and 6ml pre-filled pod with tasty e-liquid.",
+  "CATEGORY": "Bananas",
+  "BRAND": "Fume Extra",
+  "SIZE": "",
+  "EAN": "6973304118266",
+  "STATUS": "MATCHED"
+ },
+ "6973304118327": {
+  "FULL_NAME_FOUND": "Fume Extra – Mint Ice",
+  "DESCRIPTION": "Fume EXTRA is a pre-filled disposable vape pod system device that is compact, a pocket-friendly size and easier to carry. The Fume EXTRA Disposable 1500 puffs is powered by 850mAh built-in battery and 6ml pre-filled pod with tasty e-liquid.",
+  "CATEGORY": "Ice Bins",
+  "BRAND": "Fume",
+  "SIZE": "",
+  "EAN": "6973304118327",
+  "STATUS": "MATCHED"
+ },
+ "6973304118341": {
+  "FULL_NAME_FOUND": "Fume Extra Blue Razz",
+  "DESCRIPTION": "Fume Extra Blue Razz features a classic iced blue razz flavor that's cool and sweet with blue raspberry. Note that this is a blue razz ice. What's included:. 1 Fume Extra disposable device. 5% salt nicotine. Volume: 6ml (up to 1,500 puffs).",
+  "CATEGORY": "",
+  "BRAND": "Fume",
+  "SIZE": "",
+  "EAN": "6973304118341",
+  "STATUS": "MATCHED"
+ },
+ "6973304118389": {
+  "FULL_NAME_FOUND": "Fume Extra Mango",
+  "DESCRIPTION": "Fume Extra Mango is a tropical iced mango flavor. As with other Fume fruit flavors, there's plenty of ice and it's very sweet. What's included:. 1 Fume Extra disposable device. 5% salt nicotine. Volume: 6ml (up to 1,500 puffs).",
+  "CATEGORY": "Mangoes",
+  "BRAND": "Fume",
+  "SIZE": "",
+  "EAN": "6973304118389",
+  "STATUS": "MATCHED"
+ },
+ "6973616016052": {
+  "FULL_NAME_FOUND": "Tape King Duct Tape",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Office Tape",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "6973616016052",
+  "STATUS": "MATCHED"
+ },
+ "6974129600141": {
+  "FULL_NAME_FOUND": "Whiff OS Candyland 5% 2000 Puff",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "Whiff",
+  "SIZE": "",
+  "EAN": "6974129600141",
+  "STATUS": "MATCHED"
+ },
+ "6974168813359": {
+  "STATUS": "UNMATCHED"
+ },
+ "6974256870394": {
+  "STATUS": "UNMATCHED"
+ },
+ "6974256870424": {
+  "STATUS": "UNMATCHED"
  }
 }

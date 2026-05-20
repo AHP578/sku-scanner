@@ -114088,5 +114088,71 @@
  },
  "6976703241313": {
   "STATUS": "UNMATCHED"
+ },
+ "6976908872565": {
+  "FULL_NAME_FOUND": "Geek Bar - Pulse: Mexico Mango (7500-15000 Puffs)",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Mangoes",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "6976908872565",
+  "STATUS": "MATCHED"
+ },
+ "6976908872626": {
+  "STATUS": "UNMATCHED"
+ },
+ "6976908872763": {
+  "STATUS": "UNMATCHED"
+ },
+ "6976908872848": {
+  "FULL_NAME_FOUND": "Geekbar Pulse Orange Creamsicle",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Pulse Oximeters",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "6976908872848",
+  "STATUS": "MATCHED"
+ },
+ "6977454901297": {
+  "STATUS": "UNMATCHED"
+ },
+ "6977454901358": {
+  "STATUS": "UNMATCHED"
+ },
+ "6977454904007": {
+  "FULL_NAME_FOUND": "Geek Bar Pulse X 25,000 Puff Watermelon Ice",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Bar Ice Picks",
+  "BRAND": "Geek Bar",
+  "SIZE": "",
+  "EAN": "6977454904007",
+  "STATUS": "MATCHED"
+ },
+ "6977454904045": {
+  "FULL_NAME_FOUND": "Geek Bar Pulse X 25,000 Puff Banana Taffy Freeze",
+  "DESCRIPTION": "The Banana Taffy Freeze Geek Bar Pulse X 25000 delivers a nostalgic carnival experience by blending the sweet and creamy essence of a banana-infused saltwater confection with invigorating ice notes.",
+  "CATEGORY": "Bananas",
+  "BRAND": "Geek Bar",
+  "SIZE": "",
+  "EAN": "6977454904045",
+  "STATUS": "MATCHED"
+ },
+ "6977454904083": {
+  "FULL_NAME_FOUND": "Geek Bar Pulse X 25,000 Puff Blue Razz Ice",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "",
+  "BRAND": "Geek Bar",
+  "SIZE": "",
+  "EAN": "6977454904083",
+  "STATUS": "MATCHED"
+ },
+ "6977454904168": {
+  "FULL_NAME_FOUND": "Geek Bar Pulse X Blue Rancher",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Nutrition Bars",
+  "BRAND": "Geek Bar",
+  "SIZE": "",
+  "EAN": "6977454904168",
+  "STATUS": "MATCHED"
  }
 }

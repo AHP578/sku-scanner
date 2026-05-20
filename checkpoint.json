@@ -114154,5 +114154,47 @@
   "SIZE": "",
   "EAN": "6977454904168",
   "STATUS": "MATCHED"
+ },
+ "6977454904243": {
+  "FULL_NAME_FOUND": "Geek Bar Pulse X: Miami Mint (15K - 25K)",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Nutrition Bars",
+  "BRAND": "",
+  "SIZE": "",
+  "EAN": "6977454904243",
+  "STATUS": "MATCHED"
+ },
+ "6977454908999": {
+  "STATUS": "UNMATCHED"
+ },
+ "6977454909293": {
+  "STATUS": "UNMATCHED"
+ },
+ "6977454909330": {
+  "STATUS": "UNMATCHED"
+ },
+ "6977863391283": {
+  "STATUS": "UNMATCHED"
+ },
+ "6977863391368": {
+  "FULL_NAME_FOUND": "Geek Bar Pulse X White Peach Raspberry",
+  "DESCRIPTION": "No description found.",
+  "CATEGORY": "Peaches & Nectarines",
+  "BRAND": "Geek Bar",
+  "SIZE": "",
+  "EAN": "6977863391368",
+  "STATUS": "MATCHED"
+ },
+ "6977863391405": {
+  "STATUS": "UNMATCHED"
+ },
+ "6977863391443": {
+  "STATUS": "UNMATCHED"
+ },
+ "6977863391504": {
+  "STATUS": "UNMATCHED"
+ },
+ "6977863391528": {
+  "STATUS": "UNMATCHED"
  }
 }

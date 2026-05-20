@@ -26,6 +26,20 @@ if not API_KEY:
     sys.exit(1)
 
 
+def _extract_size(specs):
+    """Find size/weight/volume-ish entries from specs (list of [key, value] pairs)."""
+    if not specs:
+        return ""
+    size_keys = ("size", "weight", "volume", "net weight", "net wt", "quantity")
+    for entry in specs:
+        if not isinstance(entry, (list, tuple)) or len(entry) < 2:
+            continue
+        k, v = str(entry[0]).strip().lower(), str(entry[1]).strip()
+        if any(sk in k for sk in size_keys) and v:
+            return v
+    return ""
+
+
 def lookup_api(barcode: str) -> dict:
     url = API_URL.format(barcode=barcode)
     headers = {"Authorization": f"Bearer {API_KEY}"}
@@ -36,6 +50,8 @@ def lookup_api(barcode: str) -> dict:
         if resp.status_code == 401:
             print(f"  AUTH FAILED for {barcode} - check API key")
             return {"STATUS": "ERROR", "ERROR_MSG": "401 auth", "SOURCE": "go-upc-api"}
+        if resp.status_code == 429:
+            return {"STATUS": "ERROR", "ERROR_MSG": "429 quota/rate exceeded", "SOURCE": "go-upc-api"}
         if resp.status_code != 200:
             return {
                 "STATUS": "ERROR",
@@ -47,14 +63,16 @@ def lookup_api(barcode: str) -> dict:
         name = product.get("name") or ""
         if not name:
             return {"STATUS": "UNMATCHED", "SOURCE": "go-upc-api"}
+        category_path = product.get("categoryPath") or []
         return {
             "STATUS": "MATCHED",
             "FULL_NAME_FOUND": name,
             "DESCRIPTION": product.get("description") or "",
-            "CATEGORY": product.get("category") or "",
+            "CATEGORY": product.get("category") or (category_path[-1] if category_path else ""),
             "BRAND": product.get("brand") or "",
-            "SIZE": product.get("size") or "",
-            "EAN": data.get("code") or barcode,
+            "SIZE": _extract_size(product.get("specs")),
+            "EAN": str(data.get("code") or barcode),
+            "IMAGE_URL": product.get("imageUrl") or "",
             "SOURCE": "go-upc-api",
         }
     except Exception as e:
@@ -99,7 +117,7 @@ def main():
         if i % 10 == 0:
             with open(CHECKPOINT_FILE, "w", encoding="utf-8") as f:
                 json.dump(checkpoint, f, indent=2, ensure_ascii=False)
-        time.sleep(0.2)  # gentle pacing
+        time.sleep(0.6)  # stay under Go-UPC's 2 req/sec hard limit
 
     # Final save
     with open(CHECKPOINT_FILE, "w", encoding="utf-8") as f:

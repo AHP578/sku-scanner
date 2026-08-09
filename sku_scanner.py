@@ -38,7 +38,7 @@ MAX_RETRIES = 3            # retry on network errors
 INTERNAL_CODE_PREFIX = "0000000"  # store-internal SKU prefix to skip
 
 RATE_LIMIT_STRIKES = 1     # consecutive 429s before pausing
-RATE_LIMIT_COOLDOWN = 2    # hours to wait after hitting rate limit wall
+RATE_LIMIT_COOLDOWN = 1    # hours to wait after hitting rate limit wall
 
 GOUPC_URL = "https://go-upc.com/search?q={barcode}"
 
